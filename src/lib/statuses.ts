@@ -3,6 +3,19 @@ import { unicodeSplit } from './words'
 
 // export type CharStatus = 'absent' | 'present' | 'correct' | 'invalid'
 
+export const getRevealStatus = (
+  solution: string,
+  given: string
+): CharStatus[] => {
+  const charObj: CharStatus[] = []
+  const splitSolution = unicodeSplit(solution)
+
+  unicodeSplit(given).forEach((letter, i) => charObj[i] = letter === splitSolution[i] ?
+    CharStatus.Correct : CharStatus.Absent
+  )
+
+  return charObj
+}
 
 export const getStatuses = (
   solution: string,
