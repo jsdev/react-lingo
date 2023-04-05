@@ -1,17 +1,30 @@
 #!/bin/bash
 
+# Usage: ./find_files.sh <directory> [<filetype1> <filetype2> ...] <search term>
+
 # Check if directory exists
 if [ ! -d "$1" ]; then
     echo "Directory does not exist"
     exit 1
 fi
 
-# Check if filetypes are provided
-if [ -z "$2" ]; then
-    filetypes="htm*|jsx"
+# Get all file types except for the last argument (which is the search term)
+if [ $# -eq 2 ]; then
+    filetypes="tsx jsx html htm"
 else
-    filetypes="$2"
+    filetypes="${@:2:$#-1}"
 fi
+
+# Get the last argument (which is the search term)
+search_term="${@:$#}"
+
+# Build a regex pattern for find command
+regex=""
+for filetype in $filetypes
+do
+    regex+=" -o -name \"*.$filetype\""
+done
+regex=${regex#" -o"}
 
 # Create HTML file name with timestamp
 timestamp=$(date +%Y%m%d)
@@ -27,7 +40,7 @@ echo "<body>" >> $html_file
 echo "<h1>Alt Text Summary</h1>" >> $html_file
 
 # Iterate through each filename with img element present
-for filename in $(find "$1" -type f -name "*.$filetypes" -exec grep -l '<img' {} \;); do
+for filename in $(find "$1" -type f \( $regex \) -exec grep -l '<img' {} \;); do
     # Get count of img elements in filename
     count=$(grep -c '<img' "$filename")
 
