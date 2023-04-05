@@ -6500,7 +6500,6 @@ const alphabet = {
     'bracer',
     'braces',
     'bracts',
-    'brahma',
     'braids',
     'brains',
     'brainy',
@@ -7977,9 +7976,7 @@ const alphabet = {
     'foehns',
     'foeman',
     'foemen',
-    'foetal',
     'foetid',
-    'foetor',
     'foetus',
     'fogbow',
     'fogdog',
@@ -7987,8 +7984,6 @@ const alphabet = {
     'fogged',
     'fogger',
     'fogies',
-    'fogram',
-    'fogrum',
     'foible',
     'foiled',
     'foined',
@@ -8924,12 +8919,10 @@ const alphabet = {
     'gyrose',
     'gyving',
   ],
+  // HOARSE
   h: [
     'habile',
     'habits',
-    'haboob',
-    'haceks',
-    'hachoo',
     'hacked',
     'hacker',
     'hackie',
@@ -8938,9 +8931,6 @@ const alphabet = {
     'hading',
     'hadith',
     'hadjis',
-    'hadron',
-    'haeing',
-    'haeres',
     'haffet',
     'hafted',
     'hagbut',
@@ -8955,14 +8945,6 @@ const alphabet = {
     'hailer',
     'hairdo',
     'haired',
-    'hajjes',
-    'hajjis',
-    'hakams',
-    'hakeas',
-    'hakeem',
-    'hakham',
-    'hakims',
-    'halala',
     'halals',
     'halers',
     'halest',
@@ -9173,8 +9155,6 @@ const alphabet = {
     'heresy',
     'hereto',
     'heriot',
-    'hermae',
-    'hermai',
     'hermit',
     'hernia',
     'heroes',
@@ -10346,10 +10326,6 @@ const alphabet = {
     'raster',
     'rastle',
     'rasure',
-    'ratals',
-    'ratans',
-    'ratels',
-    'raters',
     'rather',
     'ratify',
     'ratine',
@@ -11112,19 +11088,13 @@ const alphabet = {
     'rutter',
     'ryokan',
   ],
-  // UNREAL
+  // UNRIPE | UNREAL
   u: [
-    'uakari',
     'ubiety',
     'ubique',
     'udders',
     'uglier',
     'uglify',
-    'uglily',
-    'ugsome',
-    'uhlans',
-    'uhurus',
-    'ukases',
     'ulcers',
     'ullage',
     'ulluco',
@@ -11132,20 +11102,8 @@ const alphabet = {
     'ultima',
     'ultimo',
     'ultras',
-    'umamis',
-    'umbels',
-    'umbers',
-    'umbles',
-    'umbrae',
-    'umbral',
-    'umbras',
-    'umiaks',
-    'umlaut',
-    'ummahs',
-    'umphed',
     'umping',
     'umpire',
-    'umrahs',
     'umteen',
     'unable',
     'unaged',
@@ -11165,16 +11123,12 @@ const alphabet = {
     'unbred',
     'unbusy',
     'uncage',
-    'uncake',
     'uncalm',
     'uncaps',
     'uncase',
     'uncask',
     'uncast',
     'unchic',
-    'unchid',
-    'unciae',
-    'uncial',
     'unclad',
     'uncles',
     'unclog',
@@ -12324,6 +12278,28 @@ const alphabet = {
   ],
 }
 
+
+export const WORDS6 = [
+  ...alphabet.a,
+  ...alphabet.b,
+  ...alphabet.c,
+  ...alphabet.d,
+  ...alphabet.e,
+  ...alphabet.f,
+  ...alphabet.g,
+  ...alphabet.h,
+  ...alphabet.i,
+  ...alphabet.o,
+  ...alphabet.q,
+  ...alphabet.r,
+  ...alphabet.u,
+  ...alphabet.v,
+  ...alphabet.x,
+  ...alphabet.y,
+  ...alphabet.z,
+];
+
+
 function countOccurrences(str: string, letter: string) {
   const regex = new RegExp(letter, 'g')
   const matches = str.match(regex)
@@ -12345,9 +12321,8 @@ function getTopLetters(arr: string[]): string[] {
     (a, b) => b[1] - a[1]
   )
   console.log({ sortedLetters })
-  return sortedLetters.slice(0, 6).map((entry) => entry[0])
+  return sortedLetters.slice(0, 8).map((entry) => entry[0])
 }
 
-window.alert(getTopLetters(alphabet.h))
+window.alert(getTopLetters(alphabet.u))
 
-export const WORDS6 = alphabet.h

@@ -2,8 +2,6 @@
 
 This started off as a fork of react-wordle. Made using React, Typescript, and Tailwind. Then using ChatGPT morphed into a LINGO trainer to make CBS auditions.
 
-[**Try out the demo!**](https://reactle.vercel.app/)
-
 ## Build and run
 
 ### To Run Locally:
