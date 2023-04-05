@@ -14,6 +14,7 @@ import { VALID_GUESSES6 } from '../constants/validGuesses'
 import { WORDS6 } from '../constants/wordlist'
 import { getToday } from './dateutils'
 import { getGuessStatuses } from './statuses'
+import { CharStatus } from './enums/status'
 
 // 1 January 2022 Game Epoch
 export const firstGameDate = new Date(2022, 0)
@@ -45,15 +46,15 @@ export const findFirstUnusedReveal = (word: string, guesses: string[]) => {
 
   const lettersLeftArray = new Array<string>()
   const guess = guesses[guesses.length - 1]
-  const statuses = getGuessStatuses(solution, guess)
+  const statuses = getGuessStatuses(solution, guess, VALID_GUESSES6)
   const splitWord = unicodeSplit(word)
   const splitGuess = unicodeSplit(guess)
 
   for (let i = 0; i < splitGuess.length; i++) {
-    if (statuses[i] === 'correct' || statuses[i] === 'present') {
+    if (statuses[i] === CharStatus.Correct || statuses[i] === CharStatus.Present) {
       lettersLeftArray.push(splitGuess[i])
     }
-    if (statuses[i] === 'correct' && splitWord[i] !== splitGuess[i]) {
+    if (statuses[i] === CharStatus.Correct && splitWord[i] !== splitGuess[i]) {
       return WRONG_SPOT_MESSAGE(splitGuess[i], i + 1)
     }
   }
@@ -138,7 +139,7 @@ export const getSolution = (gameDate: Date) => {
   const nextGameDate = getNextGameDate(gameDate)
   const index = getIndex(gameDate)
   const wordOfTheDay = getRandomWord(WORDS6) // getWordOfDay(index, WORDS6)
-  localStorage.given = wordOfTheDay[0]
+  localStorage.given = wordOfTheDay[0] + '*****'
 
   return {
     solution: wordOfTheDay,

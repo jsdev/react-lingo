@@ -3,7 +3,10 @@ import { UAParser } from 'ua-parser-js'
 import { MAX_CHALLENGES } from '../constants/settings'
 import { GAME_TITLE } from '../constants/strings'
 import { getGuessStatuses } from './statuses'
+
 import { solutionIndex, unicodeSplit } from './words'
+import { VALID_GUESSES6 } from '../constants/validGuesses'
+import { CharStatus } from './enums/status'
 
 const webShareApiDeviceTypes: string[] = ['mobile', 'smarttv', 'wearable']
 const parser = new UAParser()
@@ -66,15 +69,15 @@ export const generateEmojiGrid = (
 ) => {
   return guesses
     .map((guess) => {
-      const status = getGuessStatuses(solution, guess)
+      const status = getGuessStatuses(solution, guess, VALID_GUESSES6)
       const splitGuess = unicodeSplit(guess)
 
       return splitGuess
         .map((_, i) => {
           switch (status[i]) {
-            case 'correct':
+            case CharStatus.Correct:
               return tiles[0]
-            case 'present':
+            case CharStatus.Present:
               return tiles[1]
             default:
               return tiles[2]

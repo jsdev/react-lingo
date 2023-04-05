@@ -1,6 +1,6 @@
 import './App.css'
 
-import { ClockIcon } from '@heroicons/react/outline'
+import { ClockIcon } from '@heroicons/react/24/outline'
 import { format } from 'date-fns'
 import { default as GraphemeSplitter } from 'grapheme-splitter'
 import { useEffect, useState } from 'react'
@@ -28,10 +28,10 @@ import {
   DISCOURAGE_INAPP_BROWSER_TEXT,
   GAME_COPIED_MESSAGE,
   HARD_MODE_ALERT_MESSAGE,
+  INVALID_WORD,
   NOT_ENOUGH_LETTERS_MESSAGE,
   SHARE_FAILURE_TEXT,
   WIN_MESSAGES,
-  WORD_NOT_FOUND_MESSAGE,
 } from './constants/strings'
 import { useAlert } from './context/AlertContext'
 import { isInAppBrowser } from './lib/browser'
@@ -88,7 +88,7 @@ function App() {
     if (loaded?.solution !== solution) {
       return []
     }
-    console.log(solution)
+    console.log(loaded, solution)
     const gameWasWon = loaded.guesses.includes(solution)
     if (gameWasWon) {
       setIsGameWon(true)
@@ -212,16 +212,18 @@ function App() {
 
     if (!(unicodeLength(currentGuess) === solution.length)) {
       setCurrentRowClass('jiggle')
+      // setIsGameLost(true);
+
       return showErrorAlert(NOT_ENOUGH_LETTERS_MESSAGE, {
         onClose: clearCurrentRowClass,
       })
     }
 
     if (!isWordInWordList(currentGuess)) {
-      console.log(currentGuess)
       setCurrentRowClass('jiggle')
+      // setIsGameLost(true);
 
-      return showErrorAlert(WORD_NOT_FOUND_MESSAGE, {
+      showErrorAlert(INVALID_WORD, {
         onClose: clearCurrentRowClass,
       })
     }

@@ -1,6 +1,8 @@
+import { CharStatus } from './enums/status'
 import { unicodeSplit } from './words'
 
-export type CharStatus = 'absent' | 'present' | 'correct'
+// export type CharStatus = 'absent' | 'present' | 'correct' | 'invalid'
+
 
 export const getStatuses = (
   solution: string,
@@ -13,17 +15,17 @@ export const getStatuses = (
     unicodeSplit(word).forEach((letter, i) => {
       if (!splitSolution.includes(letter)) {
         // make status absent
-        return (charObj[letter] = 'absent')
+        return (charObj[letter] = CharStatus.Absent)
       }
 
       if (letter === splitSolution[i]) {
         //make status correct
-        return (charObj[letter] = 'correct')
+        return (charObj[letter] = CharStatus.Correct)
       }
 
-      if (charObj[letter] !== 'correct') {
+      if (charObj[letter] !== CharStatus.Correct) {
         //make status present
-        return (charObj[letter] = 'present')
+        return (charObj[letter] = CharStatus.Present)
       }
     })
   })
@@ -33,7 +35,8 @@ export const getStatuses = (
 
 export const getGuessStatuses = (
   solution: string,
-  guess: string
+  guess: string,
+  validWords: string[]
 ): CharStatus[] => {
   const splitSolution = unicodeSplit(solution)
   const splitGuess = unicodeSplit(guess)
@@ -41,22 +44,34 @@ export const getGuessStatuses = (
   const solutionCharsTaken = splitSolution.map((_) => false)
 
   const statuses: CharStatus[] = Array.from(Array(guess.length))
+  const given = localStorage.given.split('');
+
+  if (!validWords.includes(guess.toLocaleLowerCase())) {
+    splitSolution.forEach((_letter, i) => {
+      statuses[i] = CharStatus.Invalid
+    })
+
+    return statuses
+  }
 
   // handle all correct cases first
   splitGuess.forEach((letter, i) => {
     if (letter === splitSolution[i]) {
-      statuses[i] = 'correct'
+      statuses[i] = CharStatus.Correct
       solutionCharsTaken[i] = true
+      given[i] = letter
       return
     }
   })
+
+  localStorage.given = given.join('');
 
   splitGuess.forEach((letter, i) => {
     if (statuses[i]) return
 
     if (!splitSolution.includes(letter)) {
       // handles the absent case
-      statuses[i] = 'absent'
+      statuses[i] = CharStatus.Absent
       return
     }
 
@@ -66,11 +81,11 @@ export const getGuessStatuses = (
     )
 
     if (indexOfPresentChar > -1) {
-      statuses[i] = 'present'
+      statuses[i] = CharStatus.Present
       solutionCharsTaken[indexOfPresentChar] = true
       return
     } else {
-      statuses[i] = 'absent'
+      statuses[i] = CharStatus.Absent
       return
     }
   })

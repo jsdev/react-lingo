@@ -1,3 +1,4 @@
+import { CharStatus } from '../../lib/enums/status'
 import { Cell } from '../grid/Cell'
 import { BaseModal } from './BaseModal'
 
@@ -19,7 +20,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           isRevealing={true}
           isCompleted={true}
           value="T"
-          status="correct"
+          status={CharStatus.Correct}
         />
         <Cell value="U" isCompleted={true} />
         <Cell value="R" isCompleted={true} />
@@ -27,7 +28,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           isRevealing={true}
           isCompleted={true}
           value="T"
-          status="correct"
+          status={CharStatus.Correct}
         />
         <Cell value="L" isCompleted={true} />
         <Cell value="E" isCompleted={true} />
@@ -43,7 +44,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           isRevealing={true}
           isCompleted={true}
           value="C"
-          status="present"
+          status={CharStatus.Present}
         />
         <Cell value="O" isCompleted={true} />
         <Cell value="O" isCompleted={true} />
@@ -54,12 +55,12 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <div className="mb-1 mt-4 flex justify-center">
-        <Cell value="O" isRevealing={true} isCompleted={true} status="absent" />
-        <Cell value="R" isRevealing={true} isCompleted={true} status="absent" />
-        <Cell value="A" isRevealing={true} isCompleted={true} status="absent" />
-        <Cell value="N" isRevealing={true} isCompleted={true} status="absent" />
-        <Cell isRevealing={true} isCompleted={true} value="G" status="absent" />
-        <Cell value="E" isRevealing={true} isCompleted={true} status="absent" />
+        <Cell value="O" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
+        <Cell value="R" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
+        <Cell value="A" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
+        <Cell value="N" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
+        <Cell isRevealing={true} isCompleted={true} value="G" status={CharStatus.Absent} />
+        <Cell value="E" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         None of these letters appear in the word.

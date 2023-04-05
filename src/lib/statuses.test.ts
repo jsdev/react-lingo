@@ -1,3 +1,4 @@
+import { CharStatus } from './enums/status'
 import { getGuessStatuses } from './statuses'
 
 const mockSolutionGetter = jest.fn()
@@ -13,35 +14,35 @@ beforeEach(() => {
 
 describe('getGuessStatuses', () => {
   test('guess statuses', () => {
-    expect(getGuessStatuses('ABCDE', 'EDCBA')).toEqual([
-      'present',
-      'present',
-      'correct',
-      'present',
-      'present',
+    expect(getGuessStatuses('ABCDE', 'EDCBA', ['ABCDE', 'EDCBA'])).toEqual([
+      CharStatus.Present,
+      CharStatus.Present,
+      CharStatus.Correct,
+      CharStatus.Present,
+      CharStatus.Present,
     ])
-    expect(getGuessStatuses('ABCDE', 'VWXYZ')).toEqual([
-      'absent',
-      'absent',
-      'absent',
-      'absent',
-      'absent',
+    expect(getGuessStatuses('ABCDE', 'VWXYZ', ['ABCDE', 'VWXYZ'])).toEqual([
+      CharStatus.Absent,
+      CharStatus.Absent,
+      CharStatus.Absent,
+      CharStatus.Absent,
+      CharStatus.Absent,
     ])
-    expect(getGuessStatuses('ABCDE', 'ABCDE')).toEqual([
-      'correct',
-      'correct',
-      'correct',
-      'correct',
-      'correct',
+    expect(getGuessStatuses('ABCDE', 'ABCDE', ['ABCDE', 'ABCDE'])).toEqual([
+      CharStatus.Correct,
+      CharStatus.Correct,
+      CharStatus.Correct,
+      CharStatus.Correct,
+      CharStatus.Correct,
     ])
 
     // https://github.com/cwackerfuss/react-wordle/issues/456
-    expect(getGuessStatuses('BOSSY', 'SASSY')).toEqual([
-      'absent',
-      'absent',
-      'correct',
-      'correct',
-      'correct',
+    expect(getGuessStatuses('BOSSY', 'SASSY', ['BOSSY', 'SASSY'])).toEqual([
+      CharStatus.Absent,
+      CharStatus.Absent,
+      CharStatus.Correct,
+      CharStatus.Correct,
+      CharStatus.Correct,
     ])
   })
 })

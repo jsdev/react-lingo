@@ -1,3 +1,4 @@
+import { VALID_GUESSES6 } from '../../constants/validGuesses'
 import { getGuessStatuses } from '../../lib/statuses'
 import { unicodeSplit } from '../../lib/words'
 import { Cell } from './Cell'
@@ -9,7 +10,7 @@ type Props = {
 }
 
 export const CompletedRow = ({ solution, guess, isRevealing }: Props) => {
-  const statuses = getGuessStatuses(solution, guess)
+  const statuses = getGuessStatuses(solution, guess, VALID_GUESSES6)
   const splitGuess = unicodeSplit(guess)
 
   console.log(solution, splitGuess)
