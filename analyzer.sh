@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./find_files.sh <directory> [<filetype1> <filetype2> ...] <search term>
+# Usage: ./find_files.sh <directory> [<filetype1> <filetype2> ...]
 
 # Check if directory exists
 if [ ! -d "$1" ]; then
@@ -8,11 +8,11 @@ if [ ! -d "$1" ]; then
     exit 1
 fi
 
-# Get all file types except for the last argument (which is the search term)
-if [ $# -eq 2 ]; then
+# Get all file types that follow
+if [ $# -eq 1 ]; then
     filetypes="tsx jsx html htm"
 else
-    filetypes="${@:2:$#-1}"
+    filetypes="${@:2}"
 fi
 
 # Get the last argument (which is the search term)
