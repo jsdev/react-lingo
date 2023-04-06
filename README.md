@@ -1,5 +1,6 @@
 # LINGO TRAINER
 
+trimmed=$(echo "$string" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
 alt=$(echo $line | sed 's/.alt="([^"]).*/\1/')
 if [[ -z "$alt" ]]; then
   echo "The alt attribute is empty."
