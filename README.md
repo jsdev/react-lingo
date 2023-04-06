@@ -1,5 +1,7 @@
 # LINGO TRAINER
 
+alt=$(echo $line | sed 's/.*alt="\([^"]*\).*/\1/')
+
 This started off as a fork of react-wordle. Made using React, Typescript, and Tailwind. Then using ChatGPT morphed into a LINGO trainer to make CBS auditions.
 
 ## Build and run
