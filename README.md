@@ -1,14 +1,10 @@
 # LINGO TRAINER
 
-trimmed=$(echo "$string" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
-alt=$(echo $line | sed 's/.alt="([^"]).*/\1/')
-if [[ -z "$alt" ]]; then
-  echo "The alt attribute is empty."
-elif [[ "$alt" == " " ]]; then
-  echo "The alt attribute is present but contains only a space."
-else
-  echo "The alt attribute contains actual characters."
-fi
+# Iterate over img_tags using null character as delimiter
+while IFS= read -r -d '' img_tag; do
+    # Do something with each img_tag
+    echo "$img_tag"
+done <<< "$img_tags"
 
 This started off as a fork of react-wordle. Made using React, Typescript, and Tailwind. Then using ChatGPT morphed into a LINGO trainer to make CBS auditions.
 
