@@ -1,15 +1,5 @@
 # LINGO TRAINER
 
-  # Extract alt attribute value
-  alt=$(echo "$img_tag" | awk -F'"' '/alt/ {print $2}')
-
-  # Assign "not present" if alt attribute doesn't exist
-  if [[ -z "$alt" ]]; then
-    alt="not present"
-  fi
-
-  echo "$alt"
-
 This started off as a fork of react-wordle. Made using React, Typescript, and Tailwind. Then using ChatGPT morphed into a LINGO trainer to make CBS auditions.
 
 ## Build and run
