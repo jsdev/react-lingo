@@ -1,9 +1,10 @@
 # LINGO TRAINER
+# Extract all image tags
+img_tags=$(echo "$file_contents" | awk -F'<img ' '{for(i=2;i<=NF;i++) print "<img " $i}')
 
-# Iterate over img_tags using null character as delimiter
-while IFS= read -r -d '' img_tag; do
-    # Do something with each img_tag
-    echo "$img_tag"
+# Iterate over each image tag
+while read -r img_tag; do
+  echo "$img_tag"
 done <<< "$img_tags"
 
 This started off as a fork of react-wordle. Made using React, Typescript, and Tailwind. Then using ChatGPT morphed into a LINGO trainer to make CBS auditions.
