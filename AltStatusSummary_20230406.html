@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<title>Alt Attribute Analysis</title>
+<style type="text/css">
+  dl {
+    display: flex;
+    flex-flow: row wrap;
+    border: solid #333;
+    border-width: 1px 1px 0 0;
+  }
+  dt {
+    flex-basis: 20%;
+    padding: 2px 4px;
+    background: #333;
+    text-align: right;
+    color: #fff;
+  }
+  dd {
+    flex-basis: 70%;
+    flex-grow: 1;
+    margin: 0;
+    padding: 2px 4px;
+    border-bottom: 1px solid #333;
+  }
+ @media print {
+  dl { border: 0 none }
+  dd { border-bottom: 0 none }
+    background: none;
+    color: #111;
+  }
+ }
+</style>
+</head>
+<body>
+<h1>Alt Text Summary</h1>
+<h2>src/App.tsx</h2>
+<article><img src="./unknown.webpp" /></article>
+<article><img alt=" " src="./svg-1.svg" width="300" height="300"/></article>
+<article><img src="./logo.svg" alt="hello" width="300" height="300" /></article>
+<article><img alt="" src="./svg-1.svg" width="300"/></article>
+<article><img src="./unknown.webp" /></article>
+<article><img src="./logo.svgg" alt="hello" /></article>
+<article><img src="./unknown.web" height="600" /></article>
+<h2>src/components/navbar/Navbar.tsx</h2>
+<article><img src="./unknown.webp" /></article>
+<article><img alt=" " src="./svg-1.svg" width="300" height="300" /></article>
+<article><img src="./logo.svg" alt="hello" width="300" height="300" /></article>
+<article><img alt="" src="./svg-1.svg" width="300"/></article>
+<article><img src="./unknown.webp" /></article>
+<article><img src="./logo.svg" alt="hello" /></article>
+<article><img src="./unknown.webp" height="600" /></article>
+<script src="img-checklist.js"></script>
+</body>
+</html>

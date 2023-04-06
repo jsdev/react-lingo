@@ -58,7 +58,7 @@ echo '  dl { border: 0 none }' >> $html_file
 echo '  dd { border-bottom: 0 none }' >> $html_file
 echo '  dt {' >> $html_file]
 echo '    background: none;' >> $html_file
-echo '    color: #333;' >> $html_file
+echo '    color: #111;' >> $html_file
 echo '  }' >> $html_file
 echo ' }' >> $html_file
 echo '</style>' >> $html_file
@@ -66,42 +66,52 @@ echo "</head>" >> $html_file
 echo "<body>" >> $html_file
 echo "<h1>Alt Text Summary</h1>" >> $html_file
 
-# Iterate through each filename with img element present
-for filename in $(find "$1" -type f \( $regex \) -exec grep -l '<img' {} \;); do
-    # Get count of img elements in filename
-    count=$(grep -c '<img' "$filename")
+echo find "$1" -type f \( $regex \);
+# # Iterate through each filename with img element present
+    # for filename in $(find "$1" -type f \( $regex \)); do
+    for filename in $(grep -rl "<img" "$1"); do
+        
+        if [[ $filename != *.sh ]]; then            
+            # Add H2 of filename with count of img elements to HTML file
+            echo "<h2>$filename</h2>" >> $html_file
 
-    # Add H2 of filename with count of img elements to HTML file
-    echo "<h2>$filename ($count)</h2>" >> $html_file
+            file_contents=$(cat "$filename")
 
-    # Iterate through each image element in filename with line number
-    while read -r line; do
-        # Get values for alt attribute, width attribute, height attribute, and img src file extension
-        alt=$(echo "$line" | grep -o 'alt="[^"]*"' | sed 's/alt="//' | sed 's/"//')
-        width=$(echo "$line" | grep -o 'width="[^"]*"' | sed 's/width="//' | sed 's/"//')
-        height=$(echo "$line" | grep -o 'height="[^"]*"' | sed 's/height="//' | sed 's/"//')
-        extension=$(echo "$filename" | grep -o '\.[^\.]*$')
-        line_number=$(grep -n "$line" "$filename" | cut -d ":" -f 1)
+            # Remove newline characters
+            file_contents=$(echo "$file_contents" | tr -d '\n\t')
 
-        # Add figure element with img tag and figcaption element with data definition list to HTML file
-        echo "<figure>" >> $html_file
-        echo "<img src=\"$line\">" >> $html_file
-        echo "<figcaption>" >> $html_file
-        echo "<dl>" >> $html_file
-        echo "<dt>alt:</dt><dd>$alt</dd>" >> $html_file
-        echo "<dt>width:</dt><dd>$width</dd>" >> $html_file
-        echo "<dt>height:</dt><dd>$height</dd>" >> $html_file
-        echo "<dt>extension:</dt><dd>$extension</dd>" >> $html_file
-        echo "<dt>line number:</dt><dd>$line_number</dd>" >> $html_file
-        echo "</dl>" >> $html_file
-        echo "</figcaption>" >> $html_file
-        echo "</figure>" >> $html_file
+            # Extract all of the <img> tags
+            img_tags=$(echo "$file_contents" | grep -o '<img[^>]*>') 
 
-    done < <(grep '<img' "$filename")
-done
+            # Iterate over img_tags using null character as delimiter
+            while IFS= read -r -d '' img_tag; do
+                # Do something with each img_tag
+                echo "$img_tag"
+            done <<< "$img_tags"
 
-# Close HTML file with body and html tags
+            img_tags2=""
+            for img in $img_tags; do
+                img_tags2+="$img "
+            done
+
+            # Extract all of the <img> tags
+            img_tags=$(echo "$img_tags2" | awk -F'<img ' '{for(i=2;i<=NF;i++) print "<img " $i}')
+
+            #Iterate over each image tag
+            while read -r img_tag; do
+                img_tag=$(echo "$img_tag" | tr -s ' ')
+                echo "<article>$img_tag</article>" >> $html_file
+            done <<< "$img_tags"
+
+        fi
+    done
+
+# Will parse and create data-list
+echo '<script src="img-checklist.js"></script>' >> $html_file
+
+# Close HTML file body and html tags
 echo "</body>" >> $html_file
 echo "</html>" >> $html_file
 
+# Notify Script runner file created and where they can find it
 echo "HTML file created: ${html_file}"
