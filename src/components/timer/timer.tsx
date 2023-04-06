@@ -1,19 +1,37 @@
 import React, { useState, useEffect } from 'react';
 
-function Timer({ onStop }) {
-  const [seconds, setSeconds] = useState(10);
+type Props = {
+  onStop: () => void;
+  onExpiration: () => void;
+};
+
+const Timer = ({ onStop, onExpiration }: Props) => {
+  const [timeLeft, setTimeLeft] = useState(10);
 
   useEffect(() => {
-    if (seconds > 0) {
-      const intervalId = setInterval(() => {
-        setSeconds(seconds - 1);
-      }, 1000);
-
-      return () => clearInterval(intervalId);
-    } else {
-      onStop();
+    if (timeLeft === 0) {
+      onExpiration();
+      return;
     }
-  }, [seconds]);
 
-  return <div>{seconds}</div>;
-}
+    const intervalId = setInterval(() => {
+      setTimeLeft(timeLeft - 1);
+    }, 1000);
+
+    return () => clearInterval(intervalId);
+  }, [timeLeft]);
+
+  const handleStop = () => {
+    onStop();
+  };
+
+  return (
+    <div>
+      <h1>Countdown Timer</h1>
+      <p>{timeLeft}</p>
+      <button onClick={handleStop}>Stop</button>
+    </div>
+  );
+};
+
+export default Timer;
