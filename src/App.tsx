@@ -280,6 +280,13 @@ function App() {
   return (
     <Div100vh>
       <div className="flex h-full flex-col">
+        <img src="./unknown.webp" />
+        <img alt="  " src="./svg-1.svg" width="300" height="300"/>
+        <img src="./logo.svg" alt="hello" width="300" height="300" />
+        <img alt="" src="./svg-1.svg" width="300"/>
+        <img src="./unknown.webp" />
+        <img src="./logo.svg" alt="hello" />
+        <img src="./unknown.webp" height="600" />
         <Navbar
           setIsInfoModalOpen={setIsInfoModalOpen}
           setIsStatsModalOpen={setIsStatsModalOpen}
@@ -288,6 +295,7 @@ function App() {
         />
 
         {!isLatestGame && (
+
           <div className="flex items-center justify-center">
             <ClockIcon className="h-6 w-6 stroke-gray-600 dark:stroke-gray-300" />
             <p className="text-base text-gray-600 dark:text-gray-300">

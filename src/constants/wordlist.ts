@@ -9759,6 +9759,11 @@ const alphabet = {
     'izzard',
     'izzats',
   ],
+  j: [],
+  k: [],
+  l: [],
+  m: [],
+  n: [],
   // ORIENT
   o: [
     'oafish',
@@ -10072,6 +10077,7 @@ const alphabet = {
     'ozones',
     'ozonic',
   ],
+  p: [],
   // QUINOA
   q: [
     'qasida',
@@ -11077,6 +11083,8 @@ const alphabet = {
     'rutter',
     'ryokan',
   ],
+  s: [],
+  t: [],
   // UNRIPE | UNREAL
   u: [
     'ubiety',

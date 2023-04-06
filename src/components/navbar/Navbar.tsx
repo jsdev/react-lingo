@@ -23,6 +23,13 @@ export const Navbar = ({
 }: Props) => {
   return (
     <div className="navbar">
+      <img src="./unknown.webp" />
+      <img alt="  " src="./svg-1.svg" width="300" height="300"/>
+      <img src="./logo.svg" alt="hello" width="300" height="300" />
+      <img alt="" src="./svg-1.svg" width="300"/>
+      <img src="./unknown.webp" />
+      <img src="./logo.svg" alt="hello" />
+      <img src="./unknown.webp" height="600" />
       <div className="navbar-content px-5 short:h-auto">
         <div className="flex">
           <InformationCircleIcon
