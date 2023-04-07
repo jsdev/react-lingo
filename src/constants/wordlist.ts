@@ -8371,7 +8371,6 @@ const alphabet = {
     'gavage',
     'gavels',
     'gavial',
-    'gavots',
     'gawked',
     'gawped',
     'gawsie',

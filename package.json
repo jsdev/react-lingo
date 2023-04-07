@@ -1,6 +1,6 @@
 {
-  "name": "game",
-  "version": "0.1.0",
+  "name": "react-lingo",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "build": "react-scripts build",
@@ -10,8 +10,8 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "prepare": "husky install",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.13",
