@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-lingo/static/css/main.c062322b.css",
-    "main.js": "/react-lingo/static/js/main.65fee4f9.js",
+    "main.js": "/react-lingo/static/js/main.22127c37.js",
     "static/js/496.22daff35.chunk.js": "/react-lingo/static/js/496.22daff35.chunk.js",
     "index.html": "/react-lingo/index.html",
     "main.c062322b.css.map": "/react-lingo/static/css/main.c062322b.css.map",
-    "main.65fee4f9.js.map": "/react-lingo/static/js/main.65fee4f9.js.map",
+    "main.22127c37.js.map": "/react-lingo/static/js/main.22127c37.js.map",
     "496.22daff35.chunk.js.map": "/react-lingo/static/js/496.22daff35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c062322b.css",
-    "static/js/main.65fee4f9.js"
+    "static/js/main.22127c37.js"
   ]
 }
