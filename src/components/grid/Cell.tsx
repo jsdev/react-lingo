@@ -32,17 +32,17 @@ export const Cell = ({
       'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-600':
         !status,
       'border-black dark:border-slate-100': value && !status,
-      'absent shadowed bg-slate-400 dark:bg-slate-700 dark:text-white border-slate-400 dark:border-slate-700':
+      'shadowed bg-slate-400 dark:bg-slate-700 dark:text-white border-slate-400 dark:border-slate-700':
         status === CharStatus.Absent,
-      'correct shadowed bg-red-500 text-white border-red-700':
+      'shadowed bg-red-500 text-white border-red-700':
         status === CharStatus.Invalid,
-      'correct shadowed bg-orange-500 text-white border-orange-500':
+      'shadowed bg-orange-500 text-white border-orange-500':
         status === CharStatus.Correct && isHighContrast,
-      'present shadowed bg-cyan-500 text-white border-cyan-500':
+      'shadowed bg-cyan-500 text-white border-cyan-500':
         status === CharStatus.Present && isHighContrast,
-      'correct shadowed bg-green-500 text-white border-green-500':
+      'shadowed bg-green-500 text-white border-green-500':
         status === CharStatus.Correct && !isHighContrast,
-      'present shadowed bg-yellow-500 text-white border-yellow-500':
+      'shadowed bg-yellow-500 text-white border-yellow-500':
         status === CharStatus.Present && !isHighContrast,
       'cell-fill-animation': isFilled,
       'cell-reveal': shouldReveal,
