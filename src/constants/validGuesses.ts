@@ -27808,15 +27808,17 @@ export const VALID_GUESSES6 = [
   ...alphabet.z
 ]
 
-const filterWords = (wordLetters: string[], mustIncludeLetters: string[]): boolean =>
+const include = (wordLetters: string[], mustIncludeLetters: string[]): boolean =>
     mustIncludeLetters.every(letter => wordLetters.includes(letter));
+const exclude = (wordLetters: string[], mustExcludeLetters: string[]): boolean =>
+    mustExcludeLetters.every(letter => wordLetters.includes(letter));
 
 export const possibilities = (possible: string[], absent: string, out: Out, given: string[], mustInclude: string[]) : string[] => {
   return possible
-    .filter((word: string) => filterWords(word.split(''), mustInclude))
+    .filter((word: string) => exclude(word.split(''), absent.split('')) && include(word.split(''), mustInclude))
     .filter((word: string) => !absent.concat(out[1]).toLowerCase().includes(word[1]) && given[1] === '*' || word.split('')[1] === given[1])
-    .filter((word: string) => !absent.concat(out[2]).toLowerCase().includes(word[1]) && given[2] === '*' || word.split('')[2] === given[2])
-    .filter((word: string) => !absent.concat(out[3]).toLowerCase().includes(word[1]) && given[3] === '*' || word.split('')[3] === given[3])
-    .filter((word: string) => !absent.concat(out[4]).toLowerCase().includes(word[1]) && given[4] === '*' || word.split('')[4] === given[4])
-    .filter((word: string) => !absent.concat(out[5]).toLowerCase().includes(word[1]) && given[5] === '*' || word.split('')[5] === given[5])
+    .filter((word: string) => !absent.concat(out[2]).toLowerCase().includes(word[2]) && given[2] === '*' || word.split('')[2] === given[2])
+    .filter((word: string) => !absent.concat(out[3]).toLowerCase().includes(word[3]) && given[3] === '*' || word.split('')[3] === given[3])
+    .filter((word: string) => !absent.concat(out[4]).toLowerCase().includes(word[4]) && given[4] === '*' || word.split('')[4] === given[4])
+    .filter((word: string) => !absent.concat(out[5]).toLowerCase().includes(word[5]) && given[5] === '*' || word.split('')[5] === given[5])
 }
