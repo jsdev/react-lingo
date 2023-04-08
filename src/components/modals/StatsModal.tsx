@@ -138,8 +138,11 @@ export const StatsModal = ({
       )}
       {ENABLE_MIGRATE_STATS && (
         <div>
-          <hr className="mt-4 -mb-4 border-gray-500" />
-          <MigrationIntro handleMigrateStatsButton={handleMigrateStatsButton} />
+          {/* <hr className="mt-4 -mb-4 border-gray-500" /> */}
+          <a
+            className="mt-2 inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-center text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:text-base"
+            href={'https://www.dictionary.com/browse/' + solution} target="_blank">{solution} definition</a>
+          {/* <MigrationIntro handleMigrateStatsButton={handleMigrateStatsButton} /> */}
         </div>
       )}
     </BaseModal>

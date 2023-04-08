@@ -32,7 +32,7 @@ export const Cell = ({
       'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-600':
         !status,
       'border-black dark:border-slate-100': value && !status,
-      'absent shadowed bg-slate-400 dark:bg-slate-700 text-white border-slate-400 dark:border-slate-700':
+      'absent shadowed bg-slate-400 dark:bg-slate-700 dark:text-white border-slate-400 dark:border-slate-700':
         status === CharStatus.Absent,
       'correct shadowed bg-red-500 text-white border-red-700':
         status === CharStatus.Invalid,

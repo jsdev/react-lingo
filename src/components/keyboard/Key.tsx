@@ -33,7 +33,7 @@ export const Key = ({
       'transition ease-in-out': isRevealing,
       'bg-slate-200 dark:bg-slate-600 hover:bg-slate-300 active:bg-slate-400':
         !status,
-      'bg-slate-400 dark:bg-slate-800 text-white':
+      'bg-slate-400 dark:bg-slate-800 text-white absent':
         status === CharStatus.Absent,
       'bg-orange-500 hover:bg-orange-600 active:bg-orange-700 text-white':
         status === CharStatus.Correct && isHighContrast,

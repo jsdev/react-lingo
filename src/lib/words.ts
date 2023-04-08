@@ -140,6 +140,14 @@ export const getSolution = (gameDate: Date) => {
   const index = getIndex(gameDate)
   const wordOfTheDay = getRandomWord(WORDS6) // getWordOfDay(index, WORDS6)
   localStorage.given = wordOfTheDay[0] + '*****'
+  localStorage.out = JSON.stringify({
+    0: '',
+    1: '',
+    2: '',
+    3: '',
+    4: '',
+    5: ''
+  })
 
   return {
     solution: wordOfTheDay,

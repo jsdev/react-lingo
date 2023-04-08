@@ -16,7 +16,7 @@ export const CurrentRow = ({ guess, className }: Props) => {
   const splitGuess = unicodeSplit(guess)
   const emptyCells = Array.from(Array(solution.length - splitGuess.length))
   const classes = `flex justify-center mb-1 ${className}`
-  console.log(solution, guess, given);
+
   return (
     <div className={classes}>
       <div className={classes}>

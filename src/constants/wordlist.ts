@@ -6666,7 +6666,7 @@ const alphabet = {
     'byways',
     'byword',
   ],
-  // CRANES
+  // CRANES | MISSING A LOT OF VALID WORDS
   c: [
     'cabals',
     'cabana',
@@ -8120,8 +8120,6 @@ const alphabet = {
     'frieze',
     'fright',
     'frigid',
-    'frijol',
-    'frikeh',
     'frills',
     'frilly',
     'fringe',
@@ -8173,12 +8171,6 @@ const alphabet = {
     'fugues',
     'fulcra',
     'fulfil',
-    'fulham',
-    'fullam',
-    'fulled',
-    'fuller',
-    'fullom',
-    'fulmar',
     'fumage',
     'fumble',
     'fumers',
@@ -8190,12 +8182,8 @@ const alphabet = {
     'fundus',
     'funest',
     'fungal',
-    'fungic',
     'fungus',
     'funked',
-    'funker',
-    'funkia',
-    'funned',
     'funnel',
     'funner',
     'fuqaha',
@@ -8527,9 +8515,6 @@ const alphabet = {
     'gleamy',
     'gleans',
     'glebae',
-    'glebal',
-    'glebes',
-    'gleeds',
     'gleeks',
     'gleets',
     'gleety',
@@ -8540,10 +8525,8 @@ const alphabet = {
     'glinns',
     'glints',
     'glinty',
-    'glioma',
     'glitch',
     'glitzy',
-    'gloams',
     'gloats',
     'global',
     'globed',
@@ -8900,8 +8883,7 @@ const alphabet = {
     'gymels',
     'gyozas',
     'gypper',
-    'gypsum',
-    'gyrase',
+
     'gyrate',
     'gyrene',
     'gyrons',
@@ -8975,14 +8957,12 @@ const alphabet = {
     'hanged',
     'hanger',
     'hangry',
-    'haniwa',
     'hanked',
     'hanker',
     'hankie',
     'hansel',
     'hansom',
     'hanted',
-    'haoles',
     'haomas',
     'haoris',
     'hapais',
@@ -8998,7 +8978,6 @@ const alphabet = {
     'harden',
     'harder',
     'hardly',
-    'hareem',
     'harems',
     'harims',
     'haring',
@@ -9752,11 +9731,6 @@ const alphabet = {
     'itches',
     'itemed',
     'itself',
-    'ixoras',
-    'ixtles',
-    'izards',
-    'izzard',
-    'izzats',
   ],
   j: [
     'jabbed',
@@ -11512,7 +11486,6 @@ const alphabet = {
     'olingo',
     'olives',
     'olivet',
-    'omasum',
     'ombers',
     'ombres',
     'omegas',
@@ -11691,7 +11664,6 @@ const alphabet = {
     'outset',
     'outsit',
     'outspy',
-    'outsum',
     'outvie',
     'outwit',
     'ouzels',
@@ -11709,8 +11681,6 @@ const alphabet = {
     'owlish',
     'owners',
     'owning',
-    'oxalic',
-    'oxalis',
     'oxbows',
     'oxcart',
     'oxeyes',
@@ -11732,7 +11702,6 @@ const alphabet = {
     'ozonic',
   ],
   p: [
-
     'packed',
     'packet',
     'paired',
@@ -11938,20 +11907,11 @@ const alphabet = {
   ],
   // ROSIER
   r: [
-    'rabals',
-    'rabato',
-    'rabats',
-    'rabban',
-    'rabbet',
-    'rabbin',
     'rabbis',
     'rabbit',
     'rabble',
     'rabies',
-    'rabots',
-    'raceme',
     'racers',
-    'rachis',
     'racial',
     'racier',
     'racily',
@@ -11968,24 +11928,15 @@ const alphabet = {
     'radeau',
     'radial',
     'radian',
-    'radios',
     'radish',
     'radium',
     'radius',
-    'radome',
-    'radons',
-    'radula',
-    'raffee',
-    'raffes',
-    'raffia',
-    'raffie',
     'raffle',
     'rafted',
     'rafter',
     'ragbag',
     'raggas',
     'ragged',
-    'raggee',
     'raggle',
     'raging',
     'raglan',
@@ -12003,15 +11954,8 @@ const alphabet = {
     'raiser',
     'raises',
     'raisin',
-    'raitas',
-    'rajahs',
-    'rakahs',
-    'rakees',
-    'rakers',
     'raking',
     'rakish',
-    'rallye',
-    'ralphs',
     'ramada',
     'ramage',
     'ramark',
@@ -12695,17 +12639,9 @@ const alphabet = {
     'rolfed',
     'rolled',
     'roller',
-    'romaji',
-    'romano',
-    'romans',
-    'romcom',
     'romped',
-    'romper',
-    'roncos',
+    'romper',   
     'rondel',
-    'rondes',
-    'rondos',
-    'ronins',
     'ronion',
     'ronyon',
     'roofed',
@@ -12733,7 +12669,6 @@ const alphabet = {
     'rosary',
     'roscoe',
     'rosets',
-    'roshis',
     'rosier',
     'rosily',
     'rosing',
@@ -12848,8 +12783,6 @@ const alphabet = {
     'rutile',
     'rutins',
     'rutted',
-    'rutter',
-    'ryokan',
   ],
   s: [
     'sacred',
@@ -13528,27 +13461,15 @@ const alphabet = {
   ],
   // VAGUER
   v: [
-    'vaadim',
     'vacant',
     'vacate',
-    'vacays',
     'vacuum',
     'vadose',
-    'vagary',
-    'vagile',
-    'vagrom',
     'vaguer',
-    'vahine',
     'vailed',
     'vainer',
     'vainly',
-    'vajras',
-    'vakeel',
-    'vakils',
     'valets',
-    'valgus',
-    'valine',
-    'valise',
     'valley',
     'valors',
     'valour',
@@ -13556,16 +13477,12 @@ const alphabet = {
     'valued',
     'valuer',
     'values',
-    'valuta',
-    'valval',
-    'valvar',
     'valved',
     'valves',
     'vamose',
     'vamped',
     'vamper',
     'vandal',
-    'vandas',
     'vanish',
     'vanity',
     'vanman',
@@ -13782,7 +13699,6 @@ const alphabet = {
     'volant',
     'volary',
     'volley',
-    'volost',
     'volume',
     'volute',
     'volvas',
@@ -13805,7 +13721,6 @@ const alphabet = {
     'voyage',
     'voyeur',
     'vrooms',
-    'vrouws',
     'vulgar',
     'vulgus',
     'vulned',
@@ -14378,56 +14293,27 @@ export const WORDS6 = [
   ...alphabet.z,
 ]
 
-function countOccurrences(str: string, letter: string) {
-  const regex = new RegExp(letter, 'g')
-  const matches = str.match(regex)
-  return matches?.length || 0
-}
+// function countOccurrences(str: string, letter: string) {
+//   const regex = new RegExp(letter, 'g')
+//   const matches = str.match(regex)
+//   return matches?.length || 0
+// }
 
-function getTopLetters(arr: string[]): string[] {
-  const letterCounts = new Map<string, number>()
-  for (const str of arr) {
-    for (const char of str) {
-      if (!letterCounts.has(char)) {
-        letterCounts.set(char, 1)
-      } else {
-        letterCounts.set(char, letterCounts.get(char)! + 1)
-      }
-    }
-  }
-  const sortedLetters = Array.from(letterCounts.entries()).sort(
-    (a, b) => b[1] - a[1]
-  )
-  console.log({ sortedLetters })
+// function getTopLetters(arr: string[]): string[] {
+//   const letterCounts = new Map<string, number>()
+//   for (const str of arr) {
+//     for (const char of str) {
+//       if (!letterCounts.has(char)) {
+//         letterCounts.set(char, 1)
+//       } else {
+//         letterCounts.set(char, letterCounts.get(char)! + 1)
+//       }
+//     }
+//   }
+//   const sortedLetters = Array.from(letterCounts.entries()).sort(
+//     (a, b) => b[1] - a[1]
+//   )
+//   console.log({ sortedLetters })
 
-  return sortedLetters.slice(0, 8).map((entry) => entry[0])
-}
-
-console.log(
-  getTopLetters(alphabet.a),
-  getTopLetters(alphabet.b),
-  getTopLetters(alphabet.c),
-  getTopLetters(alphabet.d),
-  getTopLetters(alphabet.e),
-  getTopLetters(alphabet.f),
-  getTopLetters(alphabet.g),
-  getTopLetters(alphabet.h),
-  getTopLetters(alphabet.i),
-  getTopLetters(alphabet.j),
-  getTopLetters(alphabet.k),
-  getTopLetters(alphabet.l),
-  getTopLetters(alphabet.m),
-  getTopLetters(alphabet.n),
-  getTopLetters(alphabet.o),
-  getTopLetters(alphabet.p),
-  getTopLetters(alphabet.q),
-  getTopLetters(alphabet.r),
-  getTopLetters(alphabet.s),
-  getTopLetters(alphabet.t),
-  getTopLetters(alphabet.u),
-  getTopLetters(alphabet.v),
-  getTopLetters(alphabet.w),
-  getTopLetters(alphabet.x),
-  getTopLetters(alphabet.y),
-  getTopLetters(alphabet.z)
-  );
+//   return sortedLetters.slice(0, 8).map((entry) => entry[0])
+// }

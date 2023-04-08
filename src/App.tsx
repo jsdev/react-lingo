@@ -88,7 +88,6 @@ function App() {
     if (loaded?.solution !== solution) {
       return []
     }
-    console.log(loaded, solution)
     const gameWasWon = loaded.guesses.includes(solution)
     if (gameWasWon) {
       setIsGameWon(true)
@@ -254,7 +253,6 @@ function App() {
       !isGameWon
     ) {
       setGuesses([...guesses, currentGuess])
-      console.log(setGuesses)
       setCurrentGuess('')
 
       if (winningWord) {

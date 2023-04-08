@@ -57,7 +57,8 @@ export const getGuessStatuses = (
   const solutionCharsTaken = splitSolution.map((_) => false)
 
   const statuses: CharStatus[] = Array.from(Array(guess.length))
-  const given = localStorage.given.split('');
+  let given = localStorage.given.split('')
+  const out = JSON.parse(localStorage.out)
 
   if (!validWords.includes(guess.toLocaleLowerCase())) {
     splitSolution.forEach((_letter, i) => {
@@ -95,6 +96,9 @@ export const getGuessStatuses = (
 
     if (indexOfPresentChar > -1) {
       statuses[i] = CharStatus.Present
+      if (!out[i].includes(letter)) {
+        out[i]+=letter
+      }
       solutionCharsTaken[indexOfPresentChar] = true
       return
     } else {
@@ -102,6 +106,8 @@ export const getGuessStatuses = (
       return
     }
   })
+
+  localStorage.out = JSON.stringify(out)
 
   return statuses
 }
