@@ -1,5 +1,5 @@
+import { BackspaceIcon, EyeIcon } from '@heroicons/react/24/outline'
 import { useEffect } from 'react'
-
 import { DELETE_TEXT, ENTER_TEXT } from '../../constants/strings'
 import { getStatuses } from '../../lib/statuses'
 import { localeAwareUpperCase } from '../../lib/words'
@@ -77,11 +77,11 @@ export const Keyboard = ({
             isRevealing={isRevealing}
           />
         ))}
+        <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
+          <BackspaceIcon viewBox="-12 -12 48 48" />
+        </Key>
       </div>
       <div className="flex justify-center">
-        <Key width={65.4} value="ENTER" onClick={onClick}>
-          {ENTER_TEXT}
-        </Key>
         {['Z', 'X', 'C', 'V', 'B', 'N', 'M'].map((key) => (
           <Key
             value={key}
@@ -91,8 +91,8 @@ export const Keyboard = ({
             isRevealing={isRevealing}
           />
         ))}
-        <Key width={65.4} value="DELETE" onClick={onClick}>
-          {DELETE_TEXT}
+        <Key width={129} value="ENTER" onClick={onClick}>
+          {ENTER_TEXT}
         </Key>
       </div>
     </div>
