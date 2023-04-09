@@ -138,7 +138,7 @@ export const getRandomWord = (words: string[]) =>
 export const getSolution = (gameDate: Date) => {
   const nextGameDate = getNextGameDate(gameDate)
   const index = getIndex(gameDate)
-  const wordOfTheDay = getRandomWord(WORDS6) // getWordOfDay(index, WORDS6)
+  const wordOfTheDay = getRandomWord(WORDS6)
   localStorage.given = wordOfTheDay[0] + '*****'
   localStorage.out = JSON.stringify({
     0: '',
@@ -170,7 +170,7 @@ export const getGameDate = () => {
     }
     return d
   } catch (e) {
-    console.log(e)
+    console.error(e)
     return getToday()
   }
 }
@@ -182,7 +182,7 @@ export const setGameDate = (d: Date) => {
       return
     }
   } catch (e) {
-    console.log(e)
+    console.error(e)
   }
   window.location.href = '/'
 }

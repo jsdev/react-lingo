@@ -1,22 +1,15 @@
-import { ClockIcon, ShareIcon } from '@heroicons/react/24/outline'
-import { format } from 'date-fns'
-import Countdown from 'react-countdown'
+import { BookOpenIcon, PlayCircleIcon, ShareIcon } from '@heroicons/react/24/outline'
 
 import {
-  DATE_LOCALE,
-  ENABLE_ARCHIVED_GAMES,
   ENABLE_MIGRATE_STATS,
 } from '../../constants/settings'
 import {
-  ARCHIVE_GAMEDATE_TEXT,
   GUESS_DISTRIBUTION_TEXT,
-  NEW_WORD_TEXT,
   SHARE_TEXT,
   STATISTICS_TITLE,
 } from '../../constants/strings'
 import { GameStats } from '../../lib/localStorage'
 import { shareStatus } from '../../lib/share'
-import { solutionGameDate, tomorrow } from '../../lib/words'
 import { Histogram } from '../stats/Histogram'
 import { MigrationIntro } from '../stats/MigrationIntro'
 import { StatBar } from '../stats/StatBar'
@@ -57,7 +50,11 @@ export const StatsModal = ({
   isHighContrastMode,
   numberOfGuessesMade,
 }: Props) => {
-  const location = window.location;
+  const newGame = () => {
+    delete localStorage.solution
+    window.location.reload()
+  }
+
   if (gameStats.totalGames <= 0) {
     return (
       <BaseModal
@@ -112,14 +109,17 @@ export const StatsModal = ({
           </button>
           <button
               type="button"
-              onClick={location.reload}
+              onClick={newGame}
               className="mt-2 inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-center text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:text-base">
-              Play Again
+              <PlayCircleIcon className="mr-2 h-6 w-6 cursor-pointer dark:stroke-white" />
+              New Word
           </button>
         </div>
           <a
             className="mt-2 inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-center text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:text-base"
-            href={'https://www.dictionary.com/browse/' + solution} target="_blank">{solution} definition
+            href={'https://www.dictionary.com/browse/' + solution} target="_blank">
+              <BookOpenIcon className="mr-2 h-6 w-6 cursor-pointer dark:stroke-white" />
+              {solution} Definition
           </a>
         </>
       )}
