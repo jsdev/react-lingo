@@ -2,13 +2,13 @@ export const words [{
  "word": "abacus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "abased",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "abated",
@@ -26,37 +26,37 @@ export const words [{
  "word": "abayas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "abbess",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "abbeys",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "abbots",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "abduct",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "abhors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "abided",
@@ -68,175 +68,175 @@ export const words [{
  "word": "abides",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "abject",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "abjure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ablate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ablaze",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "aboard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "abound",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "abrade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "abroad",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "abrupt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "absent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "absorb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "absurd",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "abused",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "abuser",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "abuses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "acacia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "accede",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "accent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "accept",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "access",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "accord",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "accost",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "accrue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "accuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "acetic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "acetyl",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "aching",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "acidic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "acinar",
@@ -248,43 +248,43 @@ export const words [{
  "word": "across",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "acting",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "action",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "active",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "actual",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "acuity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "acumen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "adages",
@@ -296,25 +296,25 @@ export const words [{
  "word": "adagio",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "adapts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "addend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "addict",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "adding",
@@ -332,55 +332,55 @@ export const words [{
  "word": "adduce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "adduct",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "adepts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "adhere",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "adjoin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "adjust",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "admire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "adobes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "adopts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "adored",
@@ -398,109 +398,109 @@ export const words [{
  "word": "adrift",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "adroit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "adsorb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "adults",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "advent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "adverb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "advert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "advice",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "advise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "aerate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "aerial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "affair",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "affect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "affine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "affirm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "afflux",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "afford",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "affray",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "afghan",
@@ -512,49 +512,49 @@ export const words [{
  "word": "aflame",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "afloat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "afraid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "agency",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "agenda",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "aghast",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "agouti",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "agreed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "aiding",
@@ -566,55 +566,55 @@ export const words [{
  "word": "aikido",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ailing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "aiming",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "airbag",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "airily",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "airing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "airman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "airmen",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "airway",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "aisles",
@@ -626,43 +626,43 @@ export const words [{
  "word": "albedo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "albeit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "albino",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "albite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "albums",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "alcove",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "alibis",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "aliens",
@@ -674,61 +674,61 @@ export const words [{
  ""word": "alight",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "aligns",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "aliyah",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "alkali",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "alkane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "allays",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "allege",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "allele",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "alleys",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "allied",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "allies",
@@ -740,73 +740,73 @@ export const words [{
  "word": "allows",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "allude",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "allure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "almond",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "almost",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "alpaca",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "alphas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "alpine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "alumna",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "alumni",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "always",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "amazed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "amazon",
@@ -818,7 +818,7 @@ export const words [{
  "word": "ambers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ambled",
@@ -830,79 +830,79 @@ export const words [{
  "word": "ambles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ambush",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "amends",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "amicus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "amidst",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "amnion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "amoeba",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "amoral",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "amount",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "amours",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ampere",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ampler",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ampule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "amtrak",
@@ -914,13 +914,13 @@ export const words [{
  "word": "amulet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "amused",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "anally",
@@ -932,25 +932,25 @@ export const words [{
  "word": "analog",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "anchor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "anemia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "anemic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "angels",
@@ -968,25 +968,25 @@ export const words [{
  "word": "angina",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "angled",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "angler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "angles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "angora",
@@ -1004,67 +1004,67 @@ export const words [{
  "word": "animus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "anklet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "annals",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "annoys",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "annual",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "anoles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "anomie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "anorak",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "answer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "anthem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "anther",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "antics",
@@ -1076,7 +1076,7 @@ export const words [{
  "word": "antler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "antral",
@@ -1088,37 +1088,37 @@ export const words [{
  "word": "antrum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "anvils",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "anyhow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "anyone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "anyway",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "aorist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "aortic",
@@ -1130,43 +1130,43 @@ export const words [{
  "word": "apache",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "apathy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "apiary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "apical",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "apices",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "apiece",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "aplomb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "apneic",
@@ -1184,43 +1184,43 @@ export const words [{
  "word": "apogee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "appall",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "appeal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "appear",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "append",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "apples",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "applet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "arabic",
@@ -1232,25 +1232,25 @@ export const words [{
  "word": "arable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "arbors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "arbour",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "arcade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "arcana",
@@ -1262,13 +1262,13 @@ export const words [{
  "word": "arcane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "archer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "arches",
@@ -1280,19 +1280,19 @@ export const words [{
  "word": "archly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "arctic",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ardent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ardour",
@@ -1304,25 +1304,25 @@ export const words [{
  "word": "areola",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "argent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "argued",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "arguer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "argues",
@@ -1334,13 +1334,13 @@ export const words [{
  "word": "argyle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "aright",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "arisen",
@@ -1364,7 +1364,7 @@ export const words [{
  "word": "armful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "arming",
@@ -1376,37 +1376,37 @@ export const words [{
  "word": "armlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "armory",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "armour",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "armpit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "arnica",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "around",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "arrear",
@@ -1418,13 +1418,13 @@ export const words [{
  "word": "arrest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "arrive",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "arrows",
@@ -1436,103 +1436,103 @@ export const words [{
  "word": "arroyo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "arsine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "artery",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "artful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "artist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ascend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ascent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ashore",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ashram",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "asking",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "asleep",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "aspect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "aspire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "assail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "assent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "assert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "assess",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "assets",
@@ -1544,61 +1544,61 @@ export const words [{
  "word": "assign",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "assist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "assize",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "assume",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "assure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "astral",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "astray",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "astute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "atomic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "atonal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "atrial",
@@ -1610,91 +1610,91 @@ export const words [{
  "word": "attach",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "attack",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "attain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "attend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "attest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "attire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "attune",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "audios",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "audits",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "augers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "augurs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "augury",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "august",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "auntie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "aureus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "aurora",
@@ -1706,25 +1706,25 @@ export const words [{
  "word": "auteur",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "author",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "autism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "autumn",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "avails",
@@ -1736,37 +1736,37 @@ export const words [{
  "word": "avatar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "avenge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "avenue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "averse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "averts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "aviary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "avidly",
@@ -1778,13 +1778,13 @@ export const words [{
  "word": "avowal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "avowed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "awaked",
@@ -1796,37 +1796,37 @@ export const words [{
  "word": "awaken",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "awakes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "awards",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "awhile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "awning",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "awoken",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "axeman",
@@ -1838,13 +1838,13 @@ export const words [{
  "word": "axilla",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "axioms",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "axonal",
@@ -1856,13 +1856,13 @@ export const words [{
  "word": "azalea",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "babble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "babied",
@@ -1880,43 +1880,43 @@ export const words [{
  "word": "baboon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "backed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "backer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "backup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "badass",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "badder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "baddie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "badged",
@@ -1928,25 +1928,25 @@ export const words [{
  "word": "badger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "badges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "badman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "baffle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bagged",
@@ -1958,7 +1958,7 @@ export const words [{
  "word": "bagger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "baggie",
@@ -1970,13 +1970,13 @@ export const words [{
  "word": "bagman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bagmen",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bailed",
@@ -1994,7 +1994,7 @@ export const words [{
  "word": "bairns",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "baited",
@@ -2006,13 +2006,13 @@ export const words [{
  "word": "baiter",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bakery",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "baking",
@@ -2036,13 +2036,13 @@ export const words [{
  "word": "baleen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "balers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "baling",
@@ -2060,7 +2060,7 @@ export const words [{
  "word": "ballad",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "balled",
@@ -2072,49 +2072,49 @@ export const words [{
  "word": "baller",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ballet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ballot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ballsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "balsam",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bamboo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "banana",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "banded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bander",
@@ -2126,7 +2126,7 @@ export const words [{
  "word": "bandit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "banged",
@@ -2138,19 +2138,19 @@ export const words [{
  "word": "banger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bangle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "banish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "banked",
@@ -2162,7 +2162,7 @@ export const words [{
  "word": "banker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "banned",
@@ -2174,55 +2174,55 @@ export const words [{
  "word": "banner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bantam",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "banter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "banyan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "banzai",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "baobab",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "barbed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barbel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "barber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barbie",
@@ -2240,7 +2240,7 @@ export const words [{
  "word": "barely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barest",
@@ -2252,13 +2252,13 @@ export const words [{
  "word": "barged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "baring",
@@ -2270,13 +2270,13 @@ export const words [{
  "word": "barite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "barium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "barked",
@@ -2288,19 +2288,19 @@ export const words [{
  "word": "barker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "barley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "barons",
@@ -2312,55 +2312,55 @@ export const words [{
  "word": "barony",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "barque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "barred",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barrel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "barren",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "barter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "baryon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "basalt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "basely",
@@ -2414,7 +2414,7 @@ export const words [{
  "word": "basket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "basque",
@@ -2426,7 +2426,7 @@ export const words [{
  "word": "basset",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "basted",
@@ -2438,13 +2438,13 @@ export const words [{
  "word": "baster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bateau",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bathed",
@@ -2456,31 +2456,31 @@ export const words [{
  "word": "bather",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bathes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bathos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "batman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "batons",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "batted",
@@ -2492,25 +2492,25 @@ export const words [{
  "word": "batten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "batter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "battle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bauble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "baying",
@@ -2522,37 +2522,37 @@ export const words [{
  "word": "bazaar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "beachy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "beacon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beaded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beagle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "beaker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "beamed",
@@ -2564,103 +2564,103 @@ export const words [{
  "word": "beanie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bearer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beasts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "beaten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "beater",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beauty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "beaver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "beckon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "become",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bedbug",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bedded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bedlam",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bedpan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "beeped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beeper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beetle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "befall",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "befell",
@@ -2672,7 +2672,7 @@ export const words [{
  "word": "before",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "begets",
@@ -2684,7 +2684,7 @@ export const words [{
  "word": "beggar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "begged",
@@ -2702,55 +2702,55 @@ export const words [{
  "word": "behalf",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "behave",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beheld",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "behest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "behind",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "behold",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beings",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "belfry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "belief",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "belies",
@@ -2762,19 +2762,19 @@ export const words [{
  "word": "bellow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "belong",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "belted",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "belter",
@@ -2786,73 +2786,73 @@ export const words [{
  "word": "beluga",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bemoan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bemuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bended",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bender",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "benign",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "berate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bereft",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "berlin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "berths",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "besets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "beside",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bested",
@@ -2864,61 +2864,61 @@ export const words [{
  "word": "bestir",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bestow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "betide",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "betray",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "better",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bettor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bewail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "beware",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bhakti",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "biased",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "biases",
@@ -2936,7 +2936,7 @@ export const words [{
  "word": "bicker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bidder",
@@ -2960,19 +2960,19 @@ export const words [{
  "word": "bifold",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bigamy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bigeye",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bigger",
@@ -2984,7 +2984,7 @@ export const words [{
  "word": "bigwig",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "biking",
@@ -3008,109 +3008,109 @@ export const words [{
  "word": "billet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "billow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "binary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "binder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "binged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "biogas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bionic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "biopsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "biotic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "biotin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "birder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "birdie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "births",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bisect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bishop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bisque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bistro",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bitchy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "biters",
@@ -3122,37 +3122,37 @@ export const words [{
  "word": "biting",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bitmap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bitten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bitter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "blacks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bladed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blader",
@@ -3164,19 +3164,19 @@ export const words [{
  "word": "blamed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blanch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "blanks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "blared",
@@ -3188,7 +3188,7 @@ export const words [{
  "word": "blazer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "blazes",
@@ -3200,43 +3200,43 @@ export const words [{
  "word": "blazon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bleach",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bleary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bleats",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "blenny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "blight",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blimey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "blinds",
@@ -3254,7 +3254,7 @@ export const words [{
  "word": "blithe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "blocks",
@@ -3266,55 +3266,55 @@ export const words [{
  "word": "blocky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "blonde",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bloody",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blotch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "blouse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blousy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "blowed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blower",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blowup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bluesy",
@@ -3332,49 +3332,49 @@ export const words [{
  "word": "bluing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bluish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "blunts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blurbs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blurry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "blurts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "boards",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "boater",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bobbed",
@@ -3386,43 +3386,43 @@ export const words [{
  "word": "bobber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bobbin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bobble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bobcat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bodega",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bodice",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bodied",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bodies",
@@ -3434,31 +3434,31 @@ export const words [{
  "word": "bodily",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "boding",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bodkin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "boffin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "boggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bolder",
@@ -3476,85 +3476,85 @@ export const words [{
  "word": "bolero",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bomber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bonito",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bonked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bonnet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "boogie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "booked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "boomer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "borate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "border",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "boreal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "borrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bosoms",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bossed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bosses",
@@ -3566,31 +3566,31 @@ export const words [{
  "word": "botany",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bother",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "botnet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bottle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bottom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "boucle",
@@ -3602,7 +3602,7 @@ export const words [{
  "word": "boudin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "boughs",
@@ -3614,13 +3614,13 @@ export const words [{
  "word": "bought",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bougie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "boules",
@@ -3632,13 +3632,13 @@ export const words [{
  "word": "bounce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bouncy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bounds",
@@ -3650,7 +3650,7 @@ export const words [{
  "word": "bounty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bourne",
@@ -3662,13 +3662,13 @@ export const words [{
  "word": "bourse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bovine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bowels",
@@ -3686,61 +3686,61 @@ export const words [{
  "word": "bowery",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bowing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bowled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bowler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bowman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bowmen",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "boxcar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "boxing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "braced",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bracer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "braces",
@@ -3770,13 +3770,13 @@ export const words [{
  "word": "brainy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "braked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "brakes",
@@ -3788,31 +3788,31 @@ export const words [{
  "word": "branch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "brandy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "brassy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bratty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "braved",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "braver",
@@ -3830,91 +3830,91 @@ export const words [{
  "word": "bravos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "brawny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "brayed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "brayer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "brazen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "brazil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "breach",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "breads",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "breaks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "breast",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "breech",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "breeds",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "breeze",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "breezy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "brevet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "brewed",
@@ -3932,25 +3932,25 @@ export const words [{
  "word": "briars",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bridge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bridle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "broach",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "broads",
@@ -3962,73 +3962,73 @@ export const words [{
  "word": "broken",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "broker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bronze",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "browns",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "browse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "brushy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "brutal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bubble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bubbly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bucked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "budget",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "budgie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "buffed",
@@ -4040,13 +4040,13 @@ export const words [{
  "word": "buffer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "buffet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bugged",
@@ -4058,7 +4058,7 @@ export const words [{
  "word": "bugger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bugler",
@@ -4070,7 +4070,7 @@ export const words [{
  "word": "builds",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bulged",
@@ -4082,25 +4082,25 @@ export const words [{
  "word": "bulgur",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bulked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bullet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bumble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bummed",
@@ -4112,61 +4112,61 @@ export const words [{
  "word": "bummer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bumper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bundle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bungee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bungle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bunion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bunked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bunker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bunkum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bunted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "buoyed",
@@ -4178,37 +4178,37 @@ export const words [{
  "word": "burble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "burden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "bureau",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "burger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "burgle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "burial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "buried",
@@ -4226,13 +4226,13 @@ export const words [{
  "word": "burlap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "burley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "burned",
@@ -4244,49 +4244,49 @@ export const words [{
  "word": "burner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "burnet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "burrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bursar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "burton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "busboy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bushed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bushel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "busied",
@@ -4304,19 +4304,19 @@ export const words [{
  "word": "busily",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "busing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "busker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "bussed",
@@ -4328,55 +4328,55 @@ export const words [{
  "word": "busses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "busted",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "buster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "bustle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "butane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "butler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "butted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "butter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "button",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "buying",
@@ -4388,7 +4388,7 @@ export const words [{
  "word": "buyout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "buzzed",
@@ -4400,91 +4400,91 @@ export const words [{
  "word": "buzzer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "bygone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "byline",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "bypass",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "byword",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cabana",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cabane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cabble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cablet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cabman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cached",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "caches",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cachou",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "caddie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "caddis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cadger",
@@ -4496,61 +4496,61 @@ export const words [{
  "word": "cafone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cafoni",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "caftan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cagier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cagily",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cahier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cahill",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cahoot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cahows",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "caiman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "caique",
@@ -4568,79 +4568,79 @@ export const words [{
  "word": "cajole",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "caking",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "calaba",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "calash",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "calcar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "calced",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "calces",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "calcic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "calesa",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "calico",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "caliph",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "calker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "calkin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "callan",
@@ -4664,25 +4664,25 @@ export const words [{
  "word": "caller",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "callop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "callow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "callus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "calmer",
@@ -4700,121 +4700,121 @@ export const words [{
  "word": "calpac",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "calque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "calves",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "calvus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "camaca",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camaka",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camass",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cambio",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cameos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "camera",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "camion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cammie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camoca",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "camped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "camper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "campos",
@@ -4826,7 +4826,7 @@ export const words [{
  "word": "campus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "canada",
@@ -4838,7 +4838,7 @@ export const words [{
  "word": "canals",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "canape",
@@ -4850,115 +4850,115 @@ export const words [{
  "word": "canard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "canary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cancan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cancel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cancer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cancha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "candid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "candle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "candor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "canful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "canine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "caning",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cannon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cannot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "canoed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cantic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cantus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "canvas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "canyon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "capers",
@@ -4970,49 +4970,49 @@ export const words [{
  "word": "capful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "caping",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "capita",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "capote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "capsid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "captan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "captor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "carbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "carbos",
@@ -5024,7 +5024,7 @@ export const words [{
  "word": "carboy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cardio",
@@ -5042,61 +5042,61 @@ export const words [{
  "word": "careen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "career",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "carers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "caress",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "carhop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "caribe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "caries",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carina",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "caring",
@@ -5114,7 +5114,7 @@ export const words [{
  "word": "carman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carmen",
@@ -5126,49 +5126,49 @@ export const words [{
  "word": "carnal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carnet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "carney",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "caroli",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "carols",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "caroms",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "carpal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "carpel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "carper",
@@ -5180,259 +5180,259 @@ export const words [{
  "word": "carpet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carpus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "carrel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "carrom",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cartel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "carven",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "casaba",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "casefy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "casern",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cashew",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cashoo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "casing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "casita",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "casked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "casket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cassia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cassis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "caster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "castes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "castle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "castor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "casual",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "catchy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "catena",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "caters",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "catgut",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cation",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "catkin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "catnap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "catnip",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "catsup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "catted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cattle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "caucus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "caught",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "causal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "caveat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cavern",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "caviar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "caving",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cavity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cavort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cawing",
@@ -5444,13 +5444,13 @@ export const words [{
  "word": "cayman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cayuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ceased",
@@ -5468,19 +5468,19 @@ export const words [{
  "word": "cecity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cedarn",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cedars",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ceding",
@@ -5498,157 +5498,157 @@ export const words [{
  "word": "celery",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "celiac",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cellar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "celled",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "celure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cement",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cendal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cenizo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cenote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "censer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "censor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "census",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "center",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "centre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "centum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cereal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cereus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cerise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cerium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cermet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cerous",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "certes",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ceruse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cervid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cervix",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cesium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cessed",
@@ -5660,19 +5660,19 @@ export const words [{
  "word": "cestus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cesura",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cetane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chadar",
@@ -5684,7 +5684,7 @@ export const words [{
  "word": "chaeta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chafed",
@@ -5708,61 +5708,61 @@ export const words [{
  "word": "chalet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chalky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chammy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chance",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "chancy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "change",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "chants",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chanty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chapel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chappe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chappy",
@@ -5774,19 +5774,19 @@ export const words [{
  "word": "charas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "charco",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "charge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "charka",
@@ -5798,43 +5798,43 @@ export const words [{
  "word": "charro",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "charrs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "charry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "charta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chaser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chasms",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chasmy",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chasse",
@@ -5846,25 +5846,25 @@ export const words [{
  "word": "chaste",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chatty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cheeky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chelae",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cherie",
@@ -5876,127 +5876,127 @@ export const words [{
  "word": "cherub",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chesty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "chevee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chevet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chevon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chiaus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "chicha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chichi",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chicks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chicle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chicly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chided",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chider",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chides",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chield",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chiels",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chigoe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "childe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chilli",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chills",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chilly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chimed",
@@ -6014,43 +6014,43 @@ export const words [{
  "word": "chinas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "chinch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chined",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chines",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chintz",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chippy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chiral",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chiros",
@@ -6062,103 +6062,103 @@ export const words [{
  "word": "chirps",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "chirpy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "chisel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chital",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chitin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chiton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "choice",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "choirs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "choker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chokes",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cholla",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "choora",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "choose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "choosy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chopin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "choral",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chorea",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "chores",
@@ -6170,13 +6170,13 @@ export const words [{
  "word": "choric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chorus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "choses",
@@ -6188,145 +6188,145 @@ export const words [{
  "word": "chrism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chroma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chrome",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chromy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "chubby",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chuman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "chungs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "church",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "churro",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "chused",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chuses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "chymes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "chyron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cicada",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cicala",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cicale",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cicely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cicero",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ciders",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ciggie",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cilice",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cilium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cinder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cinema",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cineol",
@@ -6338,43 +6338,43 @@ export const words [{
  "word": "cinque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cipher",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cippus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "circle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "circus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cirque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cirrus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cisele",
@@ -6386,19 +6386,19 @@ export const words [{
  "word": "cissus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cities",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "citify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "citing",
@@ -6410,139 +6410,139 @@ export const words [{
  "word": "citron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "civics",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "civies",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "civism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "clades",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "claims",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "clammy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "clamor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clanks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "claque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "claret",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clasps",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "claspt",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "classy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "clause",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "clavus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "clawed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cleans",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cleave",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clench",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cleome",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cleped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "clever",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cliche",
@@ -6554,19 +6554,19 @@ export const words [{
  "word": "client",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "climax",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "climes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "clinal",
@@ -6578,7 +6578,7 @@ export const words [{
  "word": "clinch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clines",
@@ -6590,67 +6590,67 @@ export const words [{
  "word": "clingy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "clinic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "clinid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "clique",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cliquy",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clises",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clisis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clitic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clivia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cloaca",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cloche",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cloddy",
@@ -6674,25 +6674,25 @@ export const words [{
  "word": "cloned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "clones",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "clonic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "clonus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cloots",
@@ -6704,31 +6704,31 @@ export const words [{
  "word": "cloque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "closed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "closer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "closet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "clothe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cloths",
@@ -6746,37 +6746,37 @@ export const words [{
  "word": "cloudy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "clouts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cloven",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "clover",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cloves",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cloyed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cluing",
@@ -6788,7 +6788,7 @@ export const words [{
  "word": "clumps",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clumpy",
@@ -6800,43 +6800,43 @@ export const words [{
  "word": "clumsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "clunky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "clutch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "clydes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "coaler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coarse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coated",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coaxed",
@@ -6848,7 +6848,7 @@ export const words [{
  "word": "coaxer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coaxes",
@@ -6860,37 +6860,37 @@ export const words [{
  "word": "cobalt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cobber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cobble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cobnut",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coburg",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cobweb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coccal",
@@ -6902,31 +6902,31 @@ export const words [{
  "word": "coccic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coccid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "coccus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coccyx",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cochin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cocked",
@@ -6938,127 +6938,127 @@ export const words [{
  "word": "cocker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cockle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cockup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cocoon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "codger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "codify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "coding",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coedit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "coelom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coerce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coeval",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coffee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coffer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coffin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coffle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cogent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cognac",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coheir",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cohere",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cohoba",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cohoes",
@@ -7070,13 +7070,13 @@ export const words [{
  "word": "cohort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cohosh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "coifed",
@@ -7088,13 +7088,13 @@ export const words [{
  "word": "coiffe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coigne",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coiled",
@@ -7118,13 +7118,13 @@ export const words [{
  "word": "coitus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cokers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coldly",
@@ -7142,103 +7142,103 @@ export const words [{
  "word": "coleus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "collab",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "collet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "colors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "colugo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "combed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "comber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coming",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "commit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "common",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "compel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "concur",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "confab",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "confer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "confit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "congee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "conger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "conges",
@@ -7250,13 +7250,13 @@ export const words [{
  "word": "congou",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "conics",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "conies",
@@ -7274,7 +7274,7 @@ export const words [{
  "word": "conium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "conked",
@@ -7286,7 +7286,7 @@ export const words [{
  "word": "conker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "conned",
@@ -7298,61 +7298,61 @@ export const words [{
  "word": "connex",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "conoid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "consol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "consul",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "contra",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "conure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "convex",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "convey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "convoy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cooboo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cooing",
@@ -7370,43 +7370,43 @@ export const words [{
  "word": "cooker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cookie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cooled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cooler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coolly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coolth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cooner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cooped",
@@ -7418,31 +7418,31 @@ export const words [{
  "word": "cooper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coopts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cooter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cootie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "copals",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "copied",
@@ -7454,13 +7454,13 @@ export const words [{
  "word": "copies",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coping",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "copped",
@@ -7472,175 +7472,175 @@ export const words [{
  "word": "copper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "copses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "copter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "copula",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coquet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coraji",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "corals",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "corbel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "corbie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "corded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cordon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coring",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "corita",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "corium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "corked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "corker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cormel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cornea",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cornel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "corner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cornet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "corody",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "corona",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "corpse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "corpus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "corral",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "corrie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "corset",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cortex",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "corvee",
@@ -7652,19 +7652,19 @@ export const words [{
  "word": "corves",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "corymb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coryza",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cosecs",
@@ -7676,85 +7676,85 @@ export const words [{
  "word": "cosher",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cosied",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cosier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cosies",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cosign",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cosmic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cosmos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "costal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "costly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cotans",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "coting",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cotter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cotton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coucal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "couche",
@@ -7766,61 +7766,61 @@ export const words [{
  "word": "cougar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coulee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "couple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "coupon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "course",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "courts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cousin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "couter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coutil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "covens",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "covers",
@@ -7832,25 +7832,25 @@ export const words [{
  "word": "covert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "covets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coveys",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "covids",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "coving",
@@ -7862,67 +7862,67 @@ export const words [{
  "word": "cowage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coward",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cowash",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cowboy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cowing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cowled",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cowman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cowmen",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cowpea",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cowpox",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cowrie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coxing",
@@ -7934,13 +7934,13 @@ export const words [{
  "word": "coydog",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "coyest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "coying",
@@ -7958,13 +7958,13 @@ export const words [{
  "word": "coyote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cozens",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cozier",
@@ -7982,7 +7982,7 @@ export const words [{
  "word": "crabby",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cracks",
@@ -7994,49 +7994,49 @@ export const words [{
  "word": "cracky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cradle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crafty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "craggy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "craics",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crakow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "crambo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cranch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "craned",
@@ -8054,13 +8054,13 @@ export const words [{
  "word": "cranky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cranny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "crapes",
@@ -8072,49 +8072,49 @@ export const words [{
  "word": "crappy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crases",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "crasis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cratch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crated",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crater",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "craton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cravat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "craves",
@@ -8126,13 +8126,13 @@ export const words [{
  "word": "crayer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crazed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "creaks",
@@ -8144,31 +8144,31 @@ export const words [{
  "word": "creaky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "creamy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crease",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "creasy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "create",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "creche",
@@ -8180,25 +8180,25 @@ export const words [{
  "word": "credal",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "creeds",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "creeps",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "creepy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "creese",
@@ -8210,7 +8210,7 @@ export const words [{
  "word": "crenel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "creole",
@@ -8222,13 +8222,13 @@ export const words [{
  "word": "crepey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "crepon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cressy",
@@ -8246,7 +8246,7 @@ export const words [{
  "word": "cresyl",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cretic",
@@ -8258,73 +8258,73 @@ export const words [{
  "word": "cretin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "crewed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "crewel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cricks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "crikey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "crimes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "crimpy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "crinal",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "crines",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cringe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crinum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cripes",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "crises",
@@ -8336,55 +8336,55 @@ export const words [{
  "word": "crisic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "crisis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "crispy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "crista",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "critic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "croaky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "crosse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "crouch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "croupy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "crower",
@@ -8396,7 +8396,7 @@ export const words [{
  "word": "cruddy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "crumbs",
@@ -8408,85 +8408,85 @@ export const words [{
  "word": "crunch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cruors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "crural",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "crutch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "crypto",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cuatro",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cubage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cubbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cubism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cuckoo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cuddly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cudgel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cueist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cuesta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cuffed",
@@ -8498,13 +8498,13 @@ export const words [{
  "word": "cuirie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cuisse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "culled",
@@ -8516,49 +8516,49 @@ export const words [{
  "word": "cullet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cultus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cummer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cuneus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cupric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cuprum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cupule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "curacy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "curagh",
@@ -8570,19 +8570,19 @@ export const words [{
  "word": "curare",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "curari",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "curate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "curbed",
@@ -8594,19 +8594,19 @@ export const words [{
  "word": "curdle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "curers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "curfew",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "curial",
@@ -8630,25 +8630,25 @@ export const words [{
  "word": "curite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "curium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "curler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "curlew",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "curred",
@@ -8660,13 +8660,13 @@ export const words [{
  "word": "currie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cursed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "curser",
@@ -8684,37 +8684,37 @@ export const words [{
  "word": "cursor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "curtal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "curter",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "curtly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "curtsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "curule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "curved",
@@ -8726,19 +8726,19 @@ export const words [{
  "word": "curvet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cushat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cushaw",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cuspal",
@@ -8750,43 +8750,43 @@ export const words [{
  "word": "cusped",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cuspid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cussed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cusses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "custom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "custos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "cutcha",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cutely",
@@ -8810,91 +8810,91 @@ export const words [{
  "word": "cutler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cutlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cutoff",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cutout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cuttle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cyanic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cybers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cyborg",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cyclas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cycled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cycles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "cygnet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cymene",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cymoid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cymose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "cypher",
@@ -8918,19 +8918,19 @@ export const words [{
  "word": "cystic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "cytost",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "cywydd",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dabbed",
@@ -8942,193 +8942,193 @@ export const words [{
  "word": "dabber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dabble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dacker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dacoit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dactyl",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dadoed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dadoes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "daedal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "daemon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "daffed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dafter",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "daftly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "daggas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dagger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "daggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dagoba",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dahlia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "damage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dammar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dammer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dammit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "damper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "damsel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "damson",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "danced",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dancer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dances",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dander",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dandle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "danged",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "danger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dangle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "danish",
@@ -9140,13 +9140,13 @@ export const words [{
  "word": "danker",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dankly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "daphne",
@@ -9158,37 +9158,37 @@ export const words [{
  "word": "dapped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dapper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dapple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "daring",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "darked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "darken",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "darker",
@@ -9200,31 +9200,31 @@ export const words [{
  "word": "darkle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "darkly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "darned",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "darnel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "darner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "darted",
@@ -9236,55 +9236,55 @@ export const words [{
  "word": "darter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dartle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "daruma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dashed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dasher",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dashes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dassie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dastur",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "datary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "datcha",
@@ -9302,13 +9302,13 @@ export const words [{
  "word": "dative",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "datura",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "daubed",
@@ -9320,19 +9320,19 @@ export const words [{
  "word": "daubes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dauted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dawdle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dawned",
@@ -9344,19 +9344,19 @@ export const words [{
  "word": "daybed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dayfly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dayhop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dazing",
@@ -9368,19 +9368,19 @@ export const words [{
  "word": "dazzle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "deacon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deaden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deader",
@@ -9392,13 +9392,13 @@ export const words [{
  "word": "deadly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deafen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deafer",
@@ -9410,13 +9410,13 @@ export const words [{
  "word": "deafly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dealer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dearer",
@@ -9440,133 +9440,133 @@ export const words [{
  "word": "dearth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deasil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "deaths",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "deathy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "debark",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "debase",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "debate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "debeak",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "debone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "debris",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "debtor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "debunk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deburr",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "decade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "decamp",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "decane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "decani",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "deceit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "decent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "decern",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "decide",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "decile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "decked",
@@ -9578,67 +9578,67 @@ export const words [{
  "word": "deckle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "declot",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "decoct",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "decoys",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "decree",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "decury",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dedans",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "deduce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deduct",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deeded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deejay",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deemed",
@@ -9650,55 +9650,55 @@ export const words [{
  "word": "deepen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deeper",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "deeply",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "deface",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "defame",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "defeat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "defect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "defend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "defers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "defied",
@@ -9710,7 +9710,7 @@ export const words [{
  "word": "defier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "defies",
@@ -9722,67 +9722,67 @@ export const words [{
  "word": "defile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "define",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "defoam",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deform",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "defrag",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "defray",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "deftly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "defuel",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "defund",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "defuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "defuze",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "degage",
@@ -9794,133 +9794,133 @@ export const words [{
  "word": "degame",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "degels",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "degerm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "degree",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "degust",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dehire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dehorn",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dehort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dehull",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deject",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "delate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "delete",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "delict",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "delink",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "delist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deltas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "delude",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "deluge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "deluxe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "delved",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "delves",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "demark",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "demist",
@@ -9938,43 +9938,43 @@ export const words [{
  "word": "demote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "demure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "demurs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "denary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dendra",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dengue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "denial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "denied",
@@ -9986,13 +9986,13 @@ export const words [{
  "word": "denier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "denies",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "denims",
@@ -10004,13 +10004,13 @@ export const words [{
  "word": "denned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "denote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "denser",
@@ -10022,7 +10022,7 @@ export const words [{
  "word": "dental",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dented",
@@ -10034,193 +10034,193 @@ export const words [{
  "word": "dentes",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dentil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dentin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "denude",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deodar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "depart",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "depend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "deperm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "depict",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "depill",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deploy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "depone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deport",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "depose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "depths",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "depulp",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "depute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deputy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "derail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deride",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "derive",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dermal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dermic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "desalt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "descry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "desert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "design",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "desire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "desist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "detail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "detect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "detent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "deters",
@@ -10232,181 +10232,181 @@ export const words [{
  "word": "detest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "detour",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "deuced",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "deuces",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "deuton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "device",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "devine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "devise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "devoid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "devote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "devour",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "devout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dewily",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dewing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dewlap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "deworm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dexter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dextro",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dharma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dharna",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dhooly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dhooti",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dhurna",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "diable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "diablo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "diacid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "diadem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "diadic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dialed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dialer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dialog",
@@ -10418,67 +10418,67 @@ export const words [{
  "word": "diaper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "diapir",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "diatom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dibbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dibber",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dibble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dibbuk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dicast",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dicing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dicker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dickey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dickie",
@@ -10490,55 +10490,55 @@ export const words [{
  "word": "dictum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "didact",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "diddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "diddly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "didoes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "differ",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "digest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "digged",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "digger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "digits",
@@ -10550,37 +10550,37 @@ export const words [{
  "word": "diglot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "digram",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "diking",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "diktat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dilate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dilute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dimmed",
@@ -10592,25 +10592,25 @@ export const words [{
  "word": "dimmer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dimple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dimply",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dimwit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dinged",
@@ -10622,19 +10622,19 @@ export const words [{
  "word": "dinghy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dingle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dingus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dining",
@@ -10646,37 +10646,37 @@ export const words [{
  "word": "dinkum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dinned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "diodes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "diotic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dioxin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "direct",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "direst",
@@ -10688,73 +10688,73 @@ export const words [{
  "word": "dirges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dirham",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dirhem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dirigo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dirled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dirndl",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "disarm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "disbar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "disbud",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "discus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "diseur",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dished",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dishes",
@@ -10766,25 +10766,25 @@ export const words [{
  "word": "dismal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dismay",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "disown",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dispel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dissed",
@@ -10802,157 +10802,157 @@ export const words [{
  "word": "distad",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "distal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "distil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "disuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dither",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dittos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "divert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "divest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "divide",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "divine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "diving",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "divisi",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dixits",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "doable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dobbin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dobson",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "docent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "docket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "doctor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "doddie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dodger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dodoes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doffer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dogeys",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dogged",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doggie",
@@ -10964,25 +10964,25 @@ export const words [{
  "word": "dogleg",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dogmas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dognap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doiled",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doings",
@@ -10994,7 +10994,7 @@ export const words [{
  "word": "doited",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "doling",
@@ -11006,31 +11006,31 @@ export const words [{
  "word": "dolium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dollar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dollop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dolman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dolmen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dolour",
@@ -11042,67 +11042,67 @@ export const words [{
  "word": "domain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "domine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "domino",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dommes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "donate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dongas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dongle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "donjon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "donors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "doodle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doolie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doomed",
@@ -11114,79 +11114,79 @@ export const words [{
  "word": "dopier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dorado",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dorjes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dormie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dormin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dorper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dorsad",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dorsal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dorser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dorses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dorsum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dorter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dosage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dosing",
@@ -11198,85 +11198,85 @@ export const words [{
  "word": "dossal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dossel",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dosser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dossil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dotage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dotard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "doters",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "doting",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "douane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "double",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "doubly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "douche",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "doughy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "doulas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dourly",
@@ -11288,43 +11288,43 @@ export const words [{
  "word": "doused",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "douser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "douses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "douter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dovish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dowers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dowery",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dowing",
@@ -11336,7 +11336,7 @@ export const words [{
  "word": "dowlas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "downed",
@@ -11348,31 +11348,31 @@ export const words [{
  "word": "downer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dowser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dowses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "doxing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "doyley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dozens",
@@ -11384,25 +11384,25 @@ export const words [{
  "word": "dozing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drachm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drafts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "drafty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dragee",
@@ -11414,19 +11414,19 @@ export const words [{
  "word": "draggy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dragon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dramas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dreads",
@@ -11438,109 +11438,109 @@ export const words [{
  "word": "dreamt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dreary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dredge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "drench",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "driers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "drifts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "drippy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drivel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "driver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "droits",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dromos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "drones",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "drools",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "drooly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "droopy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dropsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drosky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drossy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "drouth",
@@ -11552,13 +11552,13 @@ export const words [{
  "word": "droved",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "drover",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "droves",
@@ -11570,61 +11570,61 @@ export const words [{
  "word": "drowns",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "drowse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "drowsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "drudge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "druggy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drumly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drunks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "drupes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "drying",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dryout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dually",
@@ -11642,7 +11642,7 @@ export const words [{
  "word": "dubbin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ducked",
@@ -11654,13 +11654,13 @@ export const words [{
  "word": "ducker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "duckie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "duffle",
@@ -11672,67 +11672,67 @@ export const words [{
  "word": "dugout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "duking",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dulcet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dumdum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dunder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dunlin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dunned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "duomos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dupery",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dupion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "duplex",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dupped",
@@ -11744,43 +11744,43 @@ export const words [{
  "word": "durain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "durbar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "duress",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "durian",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "during",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "durion",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "durned",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "durrie",
@@ -11798,13 +11798,13 @@ export const words [{
  "word": "duster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dustup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "duties",
@@ -11816,127 +11816,127 @@ export const words [{
  "word": "dvaita",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dwarfs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dweebs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dwells",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dwighs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dyadic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "dybbuk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dyeing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "dyings",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "dynamo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "dynast",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "dynode",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eagled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "eagles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "eaglet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "earbob",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "earbud",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "earful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "earing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "earlap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "earned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "earner",
@@ -11948,37 +11948,37 @@ export const words [{
  "word": "earthy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "earwax",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "earwig",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "easier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "easies",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "eaters",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ebbing",
@@ -11990,7 +11990,7 @@ export const words [{
  "word": "echard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "edgier",
@@ -12002,7 +12002,7 @@ export const words [{
  "word": "edgily",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "edited",
@@ -12014,19 +12014,19 @@ export const words [{
  "word": "editor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "educes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "eerier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "eerily",
@@ -12038,61 +12038,61 @@ export const words [{
  "word": "efface",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "effect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "effete",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "effigy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "effing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "efflux",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "effort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "effuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "egesta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "eggcup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "egging",
@@ -12104,37 +12104,37 @@ export const words [{
  "word": "egoist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eiders",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eighty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "either",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ejecta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ekuele",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "elance",
@@ -12146,139 +12146,139 @@ export const words [{
  "word": "elapid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "elapse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "elated",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "elater",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "elders",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "eldest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "elects",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "elegit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "eleven",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "elevon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "elicit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "elixir",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "eloper",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eluate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "embark",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "embeds",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "embers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "emblem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "embody",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "embosk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "emboss",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "embrue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "embryo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "emceed",
@@ -12290,25 +12290,25 @@ export const words [{
  "word": "emcees",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "emerge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "emesis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "emetic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "emigre",
@@ -12326,103 +12326,103 @@ export const words [{
  "word": "emmets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "empale",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "empire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "employ",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "emptor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "enable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "enamel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "enamor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "encage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "encamp",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "encase",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "encina",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "encode",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "encore",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "encyst",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "endcap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "endear",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "enders",
@@ -12434,25 +12434,25 @@ export const words [{
  "word": "ending",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "endive",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "endpin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "endrin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "endued",
@@ -12464,97 +12464,97 @@ export const words [{
  "word": "endure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "enduro",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "enemas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "energy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "enface",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "enfold",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "engage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "engild",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "engine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "engird",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "englut",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "engram",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "engulf",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "enhalo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "enigma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "enisle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "enjoys",
@@ -12566,97 +12566,97 @@ export const words [{
  "word": "enlist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "enmity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ennuis",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "enosis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "enough",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "enrage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "enrich",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "enrobe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ensign",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ensure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "entail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "entire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "entity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "entoil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "entomb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "entrap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "entree",
@@ -12674,55 +12674,55 @@ export const words [{
  "word": "envois",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "envoys",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "enwomb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "enwrap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "enzyme",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "eolith",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eonism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ephebe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ephods",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "epical",
@@ -12734,127 +12734,127 @@ export const words [{
  "word": "epimer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "epochs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "eponym",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "epopee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "equate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "equine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "equity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "erects",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "erotic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "errand",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "errant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "errata",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "erring",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "escape",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "escarp",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eschew",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "escrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "esnecy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "esprit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "essays",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "esteem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "esters",
@@ -12866,25 +12866,25 @@ export const words [{
  "word": "estrin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "estrum",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "estrus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "etalon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "etched",
@@ -12902,55 +12902,55 @@ export const words [{
  "word": "etchis",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ethane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ethics",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ethion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ethnic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ethnos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ethoxy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ethrog",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ethyne",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "etoile",
@@ -12974,187 +12974,187 @@ export const words [{
  "word": "etymon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "euchre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "eulogy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eureka",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "eutaxy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "evaded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "evades",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "evener",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "evince",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "evited",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "evolve",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "evzone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "exacta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "exacts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "examen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "exarch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "exceed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "except",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "excess",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "excide",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "excise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "excite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "excuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "excuss",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "exedra",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "exempt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "exhale",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "exhort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "exiled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "exiles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "exilic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "exists",
@@ -13166,61 +13166,61 @@ export const words [{
  "word": "exodoi",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "exodos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "expand",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "expect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "expert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "expire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "expose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "exsert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "extant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "extent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "extoll",
@@ -13232,49 +13232,49 @@ export const words [{
  "word": "extort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "exuded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "eyeing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "eyelet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "eyries",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fabada",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fabric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "facade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "facets",
@@ -13286,115 +13286,115 @@ export const words [{
  "word": "faceup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "facies",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "facile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "facing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "factor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "factum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "faeces",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "faerie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fairly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fajita",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fallow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "falter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "family",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "famine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "famish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "famous",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "famuli",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fanega",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fanfic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fantom",
@@ -13406,67 +13406,67 @@ export const words [{
  "word": "faquir",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "farmer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fascia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "father",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "faucal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fauces",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "faucet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "faulty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "favela",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "favism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "favour",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fawned",
@@ -13478,31 +13478,31 @@ export const words [{
  "word": "feater",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fecund",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "feddan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fedora",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "feeble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "feebly",
@@ -13514,25 +13514,25 @@ export const words [{
  "word": "feeder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "feeler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "feened",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "feijoa",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "feints",
@@ -13544,79 +13544,79 @@ export const words [{
  "word": "feirie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "feisty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "felony",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "female",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fender",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ferine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fervid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fervor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "festal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fetish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fetter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "feudal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "feuded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fewest",
@@ -13628,13 +13628,13 @@ export const words [{
  "word": "fezzes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fiacre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fiance",
@@ -13646,7 +13646,7 @@ export const words [{
  "word": "fiasco",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fibber",
@@ -13658,19 +13658,19 @@ export const words [{
  "word": "fibrin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fickle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fidget",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fields",
@@ -13682,37 +13682,37 @@ export const words [{
  "word": "figger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fights",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "figure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "filate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "filers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "filial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "filled",
@@ -13724,61 +13724,61 @@ export const words [{
  "word": "filler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fillet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "filose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "filter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "finale",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "finely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "finger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "finish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "finite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "finito",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "firmer",
@@ -13796,13 +13796,13 @@ export const words [{
  "word": "fiscal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fished",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fishes",
@@ -13814,79 +13814,79 @@ export const words [{
  "word": "fistic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fitten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fixing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flabby",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flacks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "flange",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flashy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flaunt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "flauta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flavin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "flavor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flawed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flaxen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "flayed",
@@ -13910,109 +13910,109 @@ export const words [{
  "word": "fledge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fledgy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fleece",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fleecy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fleets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "flench",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flense",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fleshy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fletch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fleury",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "flexed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flexor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flimsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "flinch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "flinty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "flirts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flirty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flitch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "floats",
@@ -14024,97 +14024,97 @@ export const words [{
  "word": "floaty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "flocky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flongs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "floozy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "flower",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fluent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fluids",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "flukey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "flumed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flunky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "flurry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "flutey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "flyest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "foaled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fobbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fodder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "foetal",
@@ -14138,13 +14138,13 @@ export const words [{
  "word": "foetus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fogbow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fogged",
@@ -14156,61 +14156,61 @@ export const words [{
  "word": "fogger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fogram",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fogrum",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "foible",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "foiled",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "foison",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "foists",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "folder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "follow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "foment",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fomite",
@@ -14222,67 +14222,67 @@ export const words [{
  "word": "fondly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "foodie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fooled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "footed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "footer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "footie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "footsy",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "forage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "forays",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "forbid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "forced",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "forces",
@@ -14294,19 +14294,19 @@ export const words [{
  "word": "foredo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "forego",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "forest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "forged",
@@ -14318,13 +14318,13 @@ export const words [{
  "word": "format",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "former",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fossae",
@@ -14336,19 +14336,19 @@ export const words [{
  "word": "fossil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "foster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "foudre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fouled",
@@ -14360,7 +14360,7 @@ export const words [{
  "word": "foully",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "founts",
@@ -14372,61 +14372,61 @@ export const words [{
  "word": "fourth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "foveae",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fowled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fowler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "foxing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "foyers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fozier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fracas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "frails",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fraise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "framer",
@@ -14438,49 +14438,49 @@ export const words [{
  "word": "frappe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fratch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "frater",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "frazil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "freaky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "freely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "freest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "freeze",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "french",
@@ -14492,7 +14492,7 @@ export const words [{
  "word": "frenzy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "freres",
@@ -14504,121 +14504,121 @@ export const words [{
  "word": "fresco",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "friary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fridge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "friend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "friers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "frieze",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fright",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "frigid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "frijol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "frilly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fringe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "frites",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "friths",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "frivol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "frolic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fronts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "frothy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "frowns",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "frowzy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "frugal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fruits",
@@ -14630,73 +14630,73 @@ export const words [{
  "word": "frumpy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fucoid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fuddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "fueled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fueler",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fugato",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "fulfil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fulham",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fullam",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fulled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fuller",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fumble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "fuming",
@@ -14708,31 +14708,31 @@ export const words [{
  "word": "funest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fungus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "funked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "funned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "funnel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "funner",
@@ -14750,37 +14750,37 @@ export const words [{
  "word": "furrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "fusion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fustic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "futile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "future",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "fuzzed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gabies",
@@ -14792,61 +14792,61 @@ export const words [{
  "word": "gabion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gadfly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gadget",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gaffer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gaijin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gainly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "galago",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "galena",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "galets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "galiot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "galled",
@@ -14858,67 +14858,67 @@ export const words [{
  "word": "gallet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "galley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gallic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gallop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "galoot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "galosh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "galyak",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gambit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gamble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gambol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gamely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gamest",
@@ -14930,37 +14930,37 @@ export const words [{
  "word": "gamete",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gamify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gamine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gaming",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "gander",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "garble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "garcon",
@@ -14972,25 +14972,25 @@ export const words [{
  "word": "garden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "garner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "garred",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "garvey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gascon",
@@ -15002,67 +15002,67 @@ export const words [{
  "word": "gasify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gasket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gaskin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gaslit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gasman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gasser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gasted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gaster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gather",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "gating",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gauche",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gauged",
@@ -15074,19 +15074,19 @@ export const words [{
  "word": "gauger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gauped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gavage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gavial",
@@ -15098,7 +15098,7 @@ export const words [{
  "word": "gavots",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gawked",
@@ -15110,31 +15110,31 @@ export const words [{
  "word": "gawped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gaydar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gayety",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gazabo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gazebo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gazers",
@@ -15152,7 +15152,7 @@ export const words [{
  "word": "gazump",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "geared",
@@ -15164,55 +15164,55 @@ export const words [{
  "word": "geeing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "geeked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "geezer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "geisha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gender",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "genera",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "genial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "genius",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "gentle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "gently",
@@ -15224,7 +15224,7 @@ export const words [{
  "word": "gentry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "genual",
@@ -15236,55 +15236,55 @@ export const words [{
  "word": "gerbil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gerund",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gestic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "geyser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gharri",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gharry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ghetto",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ghibli",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ghirsh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ghosts",
@@ -15296,49 +15296,49 @@ export const words [{
  "word": "ghouls",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "giaour",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gibbed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gibber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gibbet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gibbon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gigged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "giggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "giggly",
@@ -15350,61 +15350,61 @@ export const words [{
  "word": "giglet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "giglot",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gigolo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gilded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gilgai",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gilgie",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gilgul",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gilguy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gilled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gillie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gimbal",
@@ -15416,19 +15416,19 @@ export const words [{
  "word": "gimlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gimmal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gimmes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gimmie",
@@ -15458,13 +15458,13 @@ export const words [{
  "word": "girlie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gisant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "giving",
@@ -15476,7 +15476,7 @@ export const words [{
  "word": "glacis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gladly",
@@ -15488,19 +15488,19 @@ export const words [{
  "word": "glaire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "glance",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "glazed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "glibly",
@@ -15518,37 +15518,37 @@ export const words [{
  "word": "glints",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "glitch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "global",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "glocal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gloomy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gloppy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gloria",
@@ -15560,49 +15560,49 @@ export const words [{
  "word": "glossy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "glover",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "glower",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gneiss",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gnomes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "goatee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "godded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "golden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "golfer",
@@ -15614,37 +15614,37 @@ export const words [{
  "word": "gommie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gonged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gonion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "goober",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "goodby",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "goodie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "goofed",
@@ -15656,31 +15656,31 @@ export const words [{
  "word": "goofus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "googly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "googol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "goonda",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gooney",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "goosed",
@@ -15692,7 +15692,7 @@ export const words [{
  "word": "gorged",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gorgon",
@@ -15704,19 +15704,19 @@ export const words [{
  "word": "gormed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gospel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gossip",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gouged",
@@ -15728,37 +15728,37 @@ export const words [{
  "word": "goujon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "govern",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "graded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "grafts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "graham",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "granny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "grants",
@@ -15770,37 +15770,37 @@ export const words [{
  "word": "grappa",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "grassy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gratin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gravel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "graven",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "graver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "graves",
@@ -15812,13 +15812,13 @@ export const words [{
  "word": "gravid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "grayed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "grayer",
@@ -15830,7 +15830,7 @@ export const words [{
  "word": "grayly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "grazer",
@@ -15842,7 +15842,7 @@ export const words [{
  "word": "greasy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "greats",
@@ -15854,139 +15854,139 @@ export const words [{
  "word": "greave",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "greeds",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "greedy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gremmy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "grided",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "griefs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "grieve",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "griper",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gripes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gritty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "groats",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "groggy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "groove",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "groszy",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "grotto",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ground",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "grouty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "groved",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "growan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "growed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "grower",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "growly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "growth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "groyne",
@@ -15998,79 +15998,79 @@ export const words [{
  "word": "grubby",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "grudge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gruffy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "grugru",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gruing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "grumpy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "grunge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "guemal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "guenon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "guffaw",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "guggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "guglet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "guided",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "guider",
@@ -16082,19 +16082,19 @@ export const words [{
  "word": "guides",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "guidon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "guiges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "guilds",
@@ -16106,43 +16106,43 @@ export const words [{
  "word": "guiles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "guilts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "guilty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "guimpe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "guitar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "gulags",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gulfed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "gulled",
@@ -16154,175 +16154,175 @@ export const words [{
  "word": "gullet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "gulley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gulped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gunman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gurgle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gusted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "guttae",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "guttle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "guying",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "guyver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "guzzle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gybing",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gyrate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gyrene",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "gyrons",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "gyrose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "habile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hadron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hagbut",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hagdon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "haggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "halest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "halloo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hallow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "halter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "halves",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "hametz",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hamlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hamper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hankie",
@@ -16334,67 +16334,67 @@ export const words [{
  "word": "happed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "happen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "harass",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "harbor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "harden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "harder",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "harken",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "harlot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "harrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hassle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hasten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hating",
@@ -16406,25 +16406,25 @@ export const words [{
  "word": "hatpin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hatred",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hatted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "hatter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hauled",
@@ -16436,13 +16436,13 @@ export const words [{
  "word": "hauler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "haunch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "haunts",
@@ -16454,13 +16454,13 @@ export const words [{
  "word": "hausen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "havens",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "having",
@@ -16472,7 +16472,7 @@ export const words [{
  "word": "hawged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hawing",
@@ -16484,19 +16484,19 @@ export const words [{
  "word": "hazard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hazier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hazing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hazmat",
@@ -16508,49 +16508,49 @@ export const words [{
  "word": "hazzan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "headed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "health",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "heaper",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hearse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hearth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "heaven",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "hectic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hector",
@@ -16562,43 +16562,43 @@ export const words [{
  "word": "heeder",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "heeled",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hefted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "heifer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "height",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "heired",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "heller",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hemmed",
@@ -16616,85 +16616,85 @@ export const words [{
  "word": "herald",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "herbed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "herdic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "heresy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hereto",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "heriot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hermit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hernia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "heroic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "herpes",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hetero",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hetman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hiatus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hijack",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hiking",
@@ -16706,7 +16706,7 @@ export const words [{
  "word": "hincty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hineys",
@@ -16742,19 +16742,19 @@ export const words [{
  "word": "hoaxer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hobbit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hobble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hocker",
@@ -16766,7 +16766,7 @@ export const words [{
  "word": "hockle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hogged",
@@ -16778,79 +16778,79 @@ export const words [{
  "word": "hogger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "holder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "holier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "holler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hollow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "holpen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "homage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "homely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "homier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "homily",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "honcho",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "honest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "honied",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "honing",
@@ -16862,43 +16862,43 @@ export const words [{
  "word": "honker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "honors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "hoodie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hoodoo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hoofer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hoopla",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hoopoe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hooray",
@@ -16916,13 +16916,13 @@ export const words [{
  "word": "hoover",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hooves",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hoping",
@@ -16934,31 +16934,31 @@ export const words [{
  "word": "horded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hormic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "horror",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "horsey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hosier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hotdog",
@@ -16970,7 +16970,7 @@ export const words [{
  "word": "hotkey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hotted",
@@ -16988,67 +16988,67 @@ export const words [{
  "word": "housel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "howler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "howlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hoyden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hubbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hubbub",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hubcap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hubris",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "huckle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "huddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "huemul",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hugely",
@@ -17060,61 +17060,61 @@ export const words [{
  "word": "hugger",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "huipil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "huldre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "huller",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hulloa",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "humane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "humble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "humped",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hunger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hunter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "hurled",
@@ -17126,85 +17126,85 @@ export const words [{
  "word": "hurrah",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hurtle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "huzzah",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hybrid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "hyenas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hyetal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "hymned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "hyssop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "hyzone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "iatric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ibidem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "iceman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "icicle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "iconic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ideals",
@@ -17216,13 +17216,13 @@ export const words [{
  "word": "ideata",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "idiocy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "idioms",
@@ -17234,7 +17234,7 @@ export const words [{
  "word": "idiots",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "idling",
@@ -17246,31 +17246,31 @@ export const words [{
  "word": "ignite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ignore",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "iguana",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ikigai",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "illude",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "imaged",
@@ -17294,13 +17294,13 @@ export const words [{
  "word": "imbibe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "imbrue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "imbued",
@@ -17312,439 +17312,439 @@ export const words [{
  "word": "impact",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "impair",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "impale",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "impart",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "impede",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "impend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "imping",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "impish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "import",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "impost",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "improv",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "impute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "inarch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "incase",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "incher",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "incise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "incite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inclip",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "income",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "indeed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "indent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "indict",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "indign",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "indite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "indium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "indole",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "indoor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "induce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "infamy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "infect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "infers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "infest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "infirm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "influx",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "infold",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inform",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "infula",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "infuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ingate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ingest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ingulf",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "inhale",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inhume",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "inject",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "injury",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "inland",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inlier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "innate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inning",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inroad",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "insane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "insect",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inside",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "insist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inspan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "instal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "insula",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "insult",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "insure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "intact",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "intend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "intern",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "intime",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "intone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "inturn",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "invade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "invent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "invert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "invest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "invite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "invoke",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "inwrap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "iodine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "iritic",
@@ -17756,43 +17756,43 @@ export const words [{
  "word": "iritis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ironer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ironic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "irrupt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "island",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "isogon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "isopod",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "issued",
@@ -17816,73 +17816,73 @@ export const words [{
  "word": "isthmi",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "italic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "itemed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "itself",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ixodid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jabber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jacked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jacket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "jailer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jambed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jambes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jambos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jammed",
@@ -17894,55 +17894,55 @@ export const words [{
  "word": "jangle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jansky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jargon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "jaunts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "jaunty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "jeeing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jeered",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jelled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jennet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jennie",
@@ -17954,19 +17954,19 @@ export const words [{
  "word": "jerboa",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jereed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "jerids",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "jerked",
@@ -17978,37 +17978,37 @@ export const words [{
  "word": "jersey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "jested",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "jetton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jibing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jigged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jigsaw",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "jilted",
@@ -18020,121 +18020,121 @@ export const words [{
  "word": "jimply",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jitney",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jitter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "jivier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "jobbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "jockey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "joints",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "josser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jostle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jounce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jovial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "joyful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "joying",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "joyous",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "joypad",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "joypop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jubate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jubbah",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "jubili",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "judder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "judged",
@@ -18146,73 +18146,73 @@ export const words [{
  "word": "judger",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "jugful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "juggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "juicer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "jumper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "jungly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "junior",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "junker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "junket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "junkie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "juried",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "justed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "juster",
@@ -18224,37 +18224,37 @@ export const words [{
  "word": "justle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kabaka",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kabuki",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kaftan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kahuna",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kaiser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kaishu",
@@ -18266,109 +18266,109 @@ export const words [{
  "word": "kaizen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kakapo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kalian",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kalmia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kalong",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kalpak",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kalpis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kamala",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kambal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kamiks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kanaka",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kanban",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kanone",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kantar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kaross",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "kashim",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "keeper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "kegler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kelson",
@@ -18380,31 +18380,31 @@ export const words [{
  "word": "kenned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "kerbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kernel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "kettle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "kibitz",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kiddos",
@@ -18416,7 +18416,7 @@ export const words [{
  "word": "kidvid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kikuyu",
@@ -18428,19 +18428,19 @@ export const words [{
  "word": "kilijs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kimchi",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kimono",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kinder",
@@ -18452,121 +18452,121 @@ export const words [{
  "word": "kindle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kindly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "kinema",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "kinged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "kinked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kinkle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kinkly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kipuka",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kirpan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kirsch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kirtle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kismet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kiting",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kitsch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kitted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "klaxon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kludge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "knight",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "knocks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "knolly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "knower",
@@ -18578,7 +18578,7 @@ export const words [{
  "word": "kobold",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kookie",
@@ -18590,151 +18590,151 @@ export const words [{
  "word": "kopeck",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kopeks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "korona",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "koruna",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "koruny",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kosher",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "kowhai",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "kumiss",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "kutcha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "kvetch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "laager",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "labara",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "labels",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "labial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "labile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "labium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lablab",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "labneh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "labour",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "labret",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "labrid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "labrum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lacing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lackey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lacuna",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ladies",
@@ -18746,79 +18746,79 @@ export const words [{
  "word": "ladled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "laguna",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lakers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lambda",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lamboy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lament",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lamiae",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lamina",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lampas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lancet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "landau",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lapdog",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lapels",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lapped",
@@ -18830,25 +18830,25 @@ export const words [{
  "word": "lapsed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "larges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lariat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "larine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "larvae",
@@ -18860,25 +18860,25 @@ export const words [{
  "word": "larynx",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lascar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lashes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lashup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lasses",
@@ -18890,61 +18890,61 @@ export const words [{
  "word": "lassie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lassos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "laster",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lastly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "latahs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lateen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "latent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "latest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "latish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "latter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lauded",
@@ -18956,157 +18956,157 @@ export const words [{
  "word": "laurel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lavish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lawful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "laxity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "layman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "layout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lazied",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lazies",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "leaden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "leader",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "league",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "leanly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "learnt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "leaves",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lebbek",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lector",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lefses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "legacy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "legals",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "legend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "legged",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "legion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "legist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "leglen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "legong",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "legume",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lemony",
@@ -19118,97 +19118,97 @@ export const words [{
  "word": "lender",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "length",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lenite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lenity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lensed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lesion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lessee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lessen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lesser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lesses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lesson",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lethal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "leucon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "levant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "leveed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "levels",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "levied",
@@ -19220,307 +19220,307 @@ export const words [{
  "word": "levity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "liable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "liaise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lianes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lichen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lieges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ligase",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ligate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lights",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ligule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "likens",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "likers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "likest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "liking",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "likker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "likuta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lilied",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "limbed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "limber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "limbic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "limbos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "limbus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "limits",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "linear",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lineup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "linger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lining",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "linkup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "linnet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lippen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lipper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "liquid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "listen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lithia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "litmus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "little",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lively",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "livery",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "livest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "living",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lizard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lizzie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "llamas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "loaded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "loader",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "loafed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "loafer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "loaner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "loathe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "loaves",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lobbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lobola",
@@ -19532,43 +19532,43 @@ export const words [{
  "word": "lochus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "locker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "locket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "locule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "locums",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "locust",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lodges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lofted",
@@ -19580,25 +19580,25 @@ export const words [{
  "word": "logger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "loggia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "loggie",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "loiter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lolcat",
@@ -19610,13 +19610,13 @@ export const words [{
  "word": "lollop",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "longan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "longer",
@@ -19640,37 +19640,37 @@ export const words [{
  "word": "lopped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lordly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "louted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "louvre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lovage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lovely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lowing",
@@ -19682,19 +19682,19 @@ export const words [{
  "word": "lubber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lucent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "luffas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lugers",
@@ -19718,13 +19718,13 @@ export const words [{
  "word": "lumbar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lupine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "luring",
@@ -19736,79 +19736,79 @@ export const words [{
  "word": "lurked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "lushed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "luster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "luting",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "lutose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "luxury",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "lyceum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "lyings",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "lyrate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "maches",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "macron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "macula",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "madame",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "madams",
@@ -19820,55 +19820,55 @@ export const words [{
  "word": "madcap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "madras",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "madtom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "magged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "maggid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "maggot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "magpie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "maiden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "maigre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "maimed",
@@ -19880,151 +19880,151 @@ export const words [{
  "word": "mained",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mainly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "majlis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "majors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "makeup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "making",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mallet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mallow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mammal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "manage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "manger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "maniac",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "manies",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "manini",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "manner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mantis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mantle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mantra",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "manual",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "manure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "margin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "marked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "market",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "marmot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "marque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "marred",
@@ -20036,73 +20036,73 @@ export const words [{
  "word": "marron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "marrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "marshy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "martel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "marten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "martyr",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mascle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mascon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mascot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mashed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "masjid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "masque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "massed",
@@ -20114,37 +20114,37 @@ export const words [{
  "word": "massif",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mastax",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "masted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "master",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mastic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "matcha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "maters",
@@ -20168,91 +20168,91 @@ export const words [{
  "word": "matres",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "matrix",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "matron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "matter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mature",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "matzah",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "matzoh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "matzot",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "maundy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "mavins",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "maxima",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mayhem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mazuma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "meacon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "meager",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "meagre",
@@ -20264,7 +20264,7 @@ export const words [{
  "word": "mealie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "meaner",
@@ -20276,25 +20276,25 @@ export const words [{
  "word": "meanie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "meanly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "measle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "measly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "meatal",
@@ -20306,55 +20306,55 @@ export const words [{
  "word": "meatus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mecism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "medaka",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "meddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mediae",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "medial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "median",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "medium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "medlar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "meeker",
@@ -20372,13 +20372,13 @@ export const words [{
  "word": "meeter",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "meetup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "megara",
@@ -20390,49 +20390,49 @@ export const words [{
  "word": "megass",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "megilp",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "melena",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mellow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "member",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "memoir",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "memory",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "menace",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mended",
@@ -20444,7 +20444,7 @@ export const words [{
  "word": "menial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "meninx",
@@ -20456,43 +20456,43 @@ export const words [{
  "word": "mensch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mental",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mentee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mentor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "merest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "merger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "merida",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "merits",
@@ -20504,13 +20504,13 @@ export const words [{
  "word": "mesail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "method",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "metier",
@@ -20522,13 +20522,13 @@ export const words [{
  "word": "metric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "metros",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mewled",
@@ -20540,25 +20540,25 @@ export const words [{
  "word": "miaous",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "miaows",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "miasma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "miauls",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mickey",
@@ -20570,85 +20570,85 @@ export const words [{
  "word": "mickle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "micron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "midday",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "midden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "middle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "midget",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "midrib",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "midway",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mielie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "miffed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mighty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mignon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mihrab",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "mikado",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "miking",
@@ -20660,49 +20660,49 @@ export const words [{
  "word": "miller",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "millet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mimosa",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "minder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mingle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "minion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "minnow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "minors",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "minted",
@@ -20714,49 +20714,49 @@ export const words [{
  "word": "mirage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mirror",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "misact",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "misaim",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "miscue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "misfit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mishap",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mishit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "misled",
@@ -20768,7 +20768,7 @@ export const words [{
  "word": "missal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "missed",
@@ -20786,67 +20786,67 @@ export const words [{
  "word": "misuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mitten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mobber",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mobile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "modern",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "modest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "modify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "module",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "moiety",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "moksha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "molest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "moloch",
@@ -20858,19 +20858,19 @@ export const words [{
  "word": "molten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "moment",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "momism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "mommie",
@@ -20882,13 +20882,13 @@ export const words [{
  "word": "monads",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mondes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "moneys",
@@ -20900,13 +20900,13 @@ export const words [{
  "word": "monger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mongoe",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mongol",
@@ -20918,31 +20918,31 @@ export const words [{
  "word": "monial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "monied",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "monies",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "monish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "monism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "monist",
@@ -20954,121 +20954,121 @@ export const words [{
  "word": "monkey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "monoid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mopier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "morale",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "morass",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "morbid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "morose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mortal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mosaic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mosque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mother",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "moting",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "motion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "motley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "motser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mottle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mottos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "motzas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "motzer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mought",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "moujik",
@@ -21080,115 +21080,115 @@ export const words [{
  "word": "mouldy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "moulin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mouser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mousey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "mousse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mouthy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "moving",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mowing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "muches",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "muckle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "mudcat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "muddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "muggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "mulier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mulley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "murder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "murmur",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "muscle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "musing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mussed",
@@ -21200,43 +21200,43 @@ export const words [{
  "word": "mussel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "musted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mustee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "muster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "musths",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "mutant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mutate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mutely",
@@ -21254,103 +21254,103 @@ export const words [{
  "word": "mutiny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mutter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "mutual",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "mutule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "muumuu",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "muzhik",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "muzzle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "myases",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "myasis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "myelin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "myopia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "myopic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "myriad",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "myrica",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "myself",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mystic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "mythoi",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nabbed",
@@ -21362,19 +21362,19 @@ export const words [{
  "word": "namely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "napalm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "napier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "nappie",
@@ -21386,79 +21386,79 @@ export const words [{
  "word": "narrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "nasion",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "nastic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "natant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nation",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "native",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "natter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "nature",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "naught",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nausea",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nautch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "naysay",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "neared",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "nearer",
@@ -21470,7 +21470,7 @@ export const words [{
  "word": "nearly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "neater",
@@ -21488,19 +21488,19 @@ export const words [{
  "word": "nebris",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nebula",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "necked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "necker",
@@ -21512,85 +21512,85 @@ export const words [{
  "word": "nectar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "needed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "needle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "negate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nekton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "nelson",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nephew",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nesses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nested",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "nestle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "netman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "neural",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "neuron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "neuter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nevoid",
@@ -21602,25 +21602,25 @@ export const words [{
  "word": "niches",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nikkud",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "nilled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nimble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nimbly",
@@ -21632,7 +21632,7 @@ export const words [{
  "word": "nimbus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "nimrod",
@@ -21644,49 +21644,49 @@ export const words [{
  "word": "niobic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nipper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "nipple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nitfly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "nitric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nocent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "noctis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nodose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nodous",
@@ -21698,25 +21698,25 @@ export const words [{
  "word": "nodule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nonego",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "nonuse",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "noodle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nordic",
@@ -21734,7 +21734,7 @@ export const words [{
  "word": "nudges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nudist",
@@ -21746,7 +21746,7 @@ export const words [{
  "word": "nudity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nulled",
@@ -21758,91 +21758,91 @@ export const words [{
  "word": "number",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "numina",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "nuncio",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "nuncle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "nurled",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "nutjob",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "nutria",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "oaktag",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "obeyer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "object",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "oblige",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "obsess",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "obtain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "obtund",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "obtuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "occurs",
@@ -21854,91 +21854,91 @@ export const words [{
  "word": "oceans",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ochrea",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "octane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "oculus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "oddity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "odious",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "oedema",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "oeuvre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "offals",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "offend",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "office",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "offset",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ohmage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "oidium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "oilcan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "oiling",
@@ -21956,13 +21956,13 @@ export const words [{
  "word": "okoume",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "oldest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "oldies",
@@ -21974,7 +21974,7 @@ export const words [{
  "word": "oleate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "olives",
@@ -21986,37 +21986,37 @@ export const words [{
  "word": "omelet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "onding",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "online",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "onload",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "opaque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "opiate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "opined",
@@ -22028,19 +22028,19 @@ export const words [{
  "word": "opioid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "oppose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "optics",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "optima",
@@ -22052,7 +22052,7 @@ export const words [{
  "word": "option",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "orache",
@@ -22064,55 +22064,55 @@ export const words [{
  "word": "oracle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "orants",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "orator",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "orbier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "orbing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "orcein",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ordeal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ordure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "orenda",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "orfray",
@@ -22130,61 +22130,61 @@ export const words [{
  "word": "orient",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "origin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "orison",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ornate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ornery",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "oroide",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "orphan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "osprey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ossify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ouched",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "oughts",
@@ -22196,175 +22196,175 @@ export const words [{
  "word": "ounces",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ourari",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "outate",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "outcry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "outcut",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "outeat",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "outfed",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "outfit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "outfly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "outing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "outlaw",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "outlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "outman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "output",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "outran",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "outrun",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "outsat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "outset",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "outsit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "outspy",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "outvie",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "outwit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "oxtail",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "oxygen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "oyeses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ozonic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pacify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "packer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "packet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "padded",
@@ -22376,67 +22376,67 @@ export const words [{
  "word": "padeye",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "padouk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "paella",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "paging",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "paired",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pairle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pajama",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "palace",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "palate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "palely",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "palila",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "palled",
@@ -22448,139 +22448,139 @@ export const words [{
  "word": "pallet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "palpal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "palpus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "paltry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pampas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pamper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "panada",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pandal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "panful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "panini",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "papacy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "papain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "papist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "parade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "paramo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "paraph",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "parcel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pardon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "parens",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "parent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pariah",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "parish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "parity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "parked",
@@ -22592,79 +22592,79 @@ export const words [{
  "word": "parody",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "parrot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "partis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "parure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "parvis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pascal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pashas",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "paskha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "passed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "passel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "passer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "passim",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "passus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pasted",
@@ -22676,175 +22676,175 @@ export const words [{
  "word": "pastel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "paster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pastis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pastor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pastry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "patent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pathos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "patine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "patios",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "patois",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "patrol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "patron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "patten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pawing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "payday",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "paying",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "peaked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "peasen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pebble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pecked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pecten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pectin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pedant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "peddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pedlar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pedler",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pedway",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "peeled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "peeler",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "peened",
@@ -22856,19 +22856,19 @@ export const words [{
  "word": "peeped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "peewit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pegbox",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pegged",
@@ -22880,25 +22880,25 @@ export const words [{
  "word": "pelage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pellet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pelota",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pencil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "penile",
@@ -22910,13 +22910,13 @@ export const words [{
  "word": "penman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "penner",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pensee",
@@ -22928,67 +22928,67 @@ export const words [{
  "word": "penury",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "people",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "peplum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pereia",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "permed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "person",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "peseta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pester",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "petite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pettle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "phalli",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "phasic",
@@ -23000,49 +23000,49 @@ export const words [{
  "word": "phasis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "phasor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "phenol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "phenom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "phlegm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "phloem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "phobia",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "phobic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "phonal",
@@ -23054,145 +23054,145 @@ export const words [{
  "word": "phoned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "phoney",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "phonon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "phooey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "phrase",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "phreak",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "phylae",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "phyllo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "phylum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "physes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "physis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pianic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "picker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "picket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pickle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pickup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "picnic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pidgin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pierce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "piffle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "piggin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pignut",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pigsty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pikake",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "piking",
@@ -23204,67 +23204,67 @@ export const words [{
  "word": "pileup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "piling",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pillar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pilons",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pilose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pilots",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pilule",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pimple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pimply",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pinang",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pinard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pinata",
@@ -23276,19 +23276,19 @@ export const words [{
  "word": "pindan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pineal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pinene",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pining",
@@ -23300,13 +23300,13 @@ export const words [{
  "word": "pinked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pinker",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pipped",
@@ -23318,25 +23318,25 @@ export const words [{
  "word": "pippin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pirate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pistil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pistol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pitaya",
@@ -23348,91 +23348,91 @@ export const words [{
  "word": "pitier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pivots",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "placas",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "placid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "plagal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "plaice",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "plaint",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "planar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "planch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "planer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "planes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "planet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "plaque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "plater",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "please",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pleiad",
@@ -23444,67 +23444,67 @@ export const words [{
  "word": "plenty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "plenum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "plexus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pliant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "plight",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "plinth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "plombs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ployed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "plumed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "plunge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "plural",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pluses",
@@ -23516,7 +23516,7 @@ export const words [{
  "word": "plushy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "plying",
@@ -23528,13 +23528,13 @@ export const words [{
  "word": "podite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "podium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "podzol",
@@ -23546,85 +23546,85 @@ export const words [{
  "word": "poetic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "poetry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "poises",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "poison",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "polity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pollen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "polyol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ponder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pooing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "poplin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "popple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "portal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "portly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "posada",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "posies",
@@ -23642,139 +23642,139 @@ export const words [{
  "word": "posset",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "potage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "potash",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "potato",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "poteen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "potent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pother",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pothos",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pouffy",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "pouter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "praise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "prance",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pranky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "praxis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "prayer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "preach",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "preage",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "prefab",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "prefer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "preset",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pretty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "preyer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pricky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "prided",
@@ -23786,7 +23786,7 @@ export const words [{
  "word": "primal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "primly",
@@ -23798,85 +23798,85 @@ export const words [{
  "word": "prince",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "prints",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "priory",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "prison",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "prissy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "privet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "probie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "profit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "projet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "prompt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "propel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "proper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "prosed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "prosit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "proven",
@@ -23888,13 +23888,13 @@ export const words [{
  "word": "pseudo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "psycho",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ptotic",
@@ -23906,13 +23906,13 @@ export const words [{
  "word": "public",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "puddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "puller",
@@ -23924,55 +23924,55 @@ export const words [{
  "word": "pulpit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "pulsar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "pummel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "punchy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pundit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "punkin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "puppet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "purfle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "purify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "purist",
@@ -23984,73 +23984,73 @@ export const words [{
  "word": "purity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "purple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "purree",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "purser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "pursue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "purvey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "putter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "python",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "pyuria",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "quagga",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "quails",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "quaint",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "qualms",
@@ -24062,31 +24062,31 @@ export const words [{
  "word": "quanta",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "quarte",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "quarto",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "quarts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "quatre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "quatro",
@@ -24098,19 +24098,19 @@ export const words [{
  "word": "quaver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "queasy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "quench",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "queued",
@@ -24122,25 +24122,25 @@ export const words [{
  "word": "queuer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "quinoa",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "quitch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "quiver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "quoits",
@@ -24152,7 +24152,7 @@ export const words [{
  "word": "quorum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "quoter",
@@ -24164,85 +24164,85 @@ export const words [{
  "word": "quotes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "quotha",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "rabbit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "racier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "racily",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "racism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "racket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "radars",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "radial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "radish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "radium",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "raffee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "raffle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ragman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "raided",
@@ -24254,7 +24254,7 @@ export const words [{
  "word": "raider",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "railed",
@@ -24266,19 +24266,19 @@ export const words [{
  "word": "rained",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "raised",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "raisin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "raking",
@@ -24290,79 +24290,79 @@ export const words [{
  "word": "rakish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ramble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ramify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ramjet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ramson",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "rancid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rancor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "random",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ranger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rankly",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ransom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rapier",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "rapini",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rapist",
@@ -24374,31 +24374,31 @@ export const words [{
  "word": "rappee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "rapper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rarefy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "rarely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rarity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rashly",
@@ -24410,265 +24410,265 @@ export const words [{
  "word": "rasped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rassle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "raster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ratify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ration",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ratios",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rattan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ravine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "raving",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ravish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "reachs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "really",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "realms",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "realty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reaper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reason",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "reated",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "rebait",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rebate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rebuke",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "recall",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "recede",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "recent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "recess",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "recite",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reckon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reclad",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "recoin",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "recopy",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "record",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "recoup",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rector",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "recuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "redact",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "reddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "redeem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reduce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "reduct",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "reefed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reefer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "reemit",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reeved",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "refeed",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "refelt",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "refers",
@@ -24680,535 +24680,535 @@ export const words [{
  "word": "refill",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reform",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "refuge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "refuse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "refute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "regale",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "regard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "regent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reggae",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "regina",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "region",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "regive",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "regret",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rehash",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "reject",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "relace",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "relate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "relend",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "relent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "relevy",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "relict",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "relish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "remain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "remand",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "remark",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "remedy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "remend",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "remind",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "remise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "remiss",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "remits",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "remote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "render",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "renege",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "renown",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "renter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reopen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "repair",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "repast",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "repeal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "repeat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "repent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "replan",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "replay",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "repled",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "replot",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "replow",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "report",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "repose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "repute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "rerise",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "reseau",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "resent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reshod",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "resign",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "resile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "resist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "resole",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "resorb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "resort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "respot",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "resuit",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "result",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "resume",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "retain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "retcon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "retell",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "retire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "retold",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "retool",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "retort",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "retype",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "reused",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "reveal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "reverb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "revere",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "revert",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "revery",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "revest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "review",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "revise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "revive",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "revoke",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "revolt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "revote",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rewind",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rewrap",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rhythm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "ribald",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "richer",
@@ -25220,13 +25220,13 @@ export const words [{
  "word": "ricing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ridded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ridged",
@@ -25238,19 +25238,19 @@ export const words [{
  "word": "riding",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "riffle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rifted",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rigged",
@@ -25262,7 +25262,7 @@ export const words [{
  "word": "righto",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rioter",
@@ -25274,19 +25274,19 @@ export const words [{
  "word": "ripper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rising",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "risker",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "risque",
@@ -25298,13 +25298,13 @@ export const words [{
  "word": "ritual",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rivage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rivets",
@@ -25316,115 +25316,115 @@ export const words [{
  "word": "roadie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "roarer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "robalo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "robber",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "robots",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "robust",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rocket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rococo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "rodded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "rodeos",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "roofie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rosets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "roster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rotate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rotten",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rotter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rottes",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rotund",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rounds",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "rouser",
@@ -25436,13 +25436,13 @@ export const words [{
  "word": "rubied",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "rubric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "rudest",
@@ -25454,7 +25454,7 @@ export const words [{
  "word": "rueful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ruined",
@@ -25472,25 +25472,25 @@ export const words [{
  "word": "runout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rutile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "rutter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sabalo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sabbat",
@@ -25502,73 +25502,73 @@ export const words [{
  "word": "sabora",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sachem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sachet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sacker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sacral",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sacred",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sacrum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sadden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "saddle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sadism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sadist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "safari",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "safely",
@@ -25580,7 +25580,7 @@ export const words [{
  "word": "safety",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sagged",
@@ -25592,109 +25592,109 @@ export const words [{
  "word": "salaam",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "salary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "salute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "salver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "samekh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sample",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sanity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sanjak",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "santir",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sateen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "satiny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "satire",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "saucer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "savage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "savory",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sawyer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sayest",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "saying",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "scared",
@@ -25706,151 +25706,151 @@ export const words [{
  "word": "scarer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "scathe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "schema",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "scheme",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "schism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "schist",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "schnoz",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "school",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "schuln",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "schwag",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "scivvy",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sconce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "scores",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "scotch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "scouth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "scream",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "screed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "screen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "scrimp",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "scrota",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "scurry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "scutch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "scuzzy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "seabed",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "seaman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "seamer",
@@ -25868,79 +25868,79 @@ export const words [{
  "word": "search",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "season",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "second",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "secret",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sector",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "secure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sedans",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sedate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "seduce",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "seeing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "seethe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "segway",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "seisin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "seized",
@@ -25952,43 +25952,43 @@ export const words [{
  "word": "seizes",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "seldom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "senary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sendee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sender",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "senile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "senior",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "senora",
@@ -26000,73 +26000,73 @@ export const words [{
  "word": "sensei",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sensor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sequel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sequin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "seraph",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "serdab",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "serene",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "serged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "serial",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "series",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "serine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sermon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "served",
@@ -26078,67 +26078,67 @@ export const words [{
  "word": "setose",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "setout",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "settle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sexism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sextan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sextet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sextic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "shaley",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shalom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shaman",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "shanny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sharer",
@@ -26150,109 +26150,109 @@ export const words [{
  "word": "shaver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "shaykh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sheath",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sheave",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shelty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sherry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "shivoo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "shower",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "shrewd",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "shrill",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shrimp",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shrink",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shrive",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "shroud",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "shrove",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "shrunk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shtetl",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "shying",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sialic",
@@ -26264,31 +26264,31 @@ export const words [{
  "word": "siddhi",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "signee",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "silent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "silica",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "silken",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "siloed",
@@ -26300,109 +26300,109 @@ export const words [{
  "word": "simile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "simper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "simple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sinewy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "single",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "singly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "siphon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sipper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sister",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sizing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sizzle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "skeeve",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sketch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "skiing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "skinny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "skivvy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sklent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "skyway",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "slated",
@@ -26414,49 +26414,49 @@ export const words [{
  "word": "sledge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sleigh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sliver",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "slobby",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "slough",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sluice",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "slurve",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "slyest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "smacks",
@@ -26468,49 +26468,49 @@ export const words [{
  "word": "smegma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "smirch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "smokey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "smooth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "snarky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "snatch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "snazzy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sneaky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "snider",
@@ -26528,43 +26528,43 @@ export const words [{
  "word": "social",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "socked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "socket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sodded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sodden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "softer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "softly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "soigne",
@@ -26576,157 +26576,157 @@ export const words [{
  "word": "solace",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "solder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "solely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "solemn",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "solute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "solved",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sopher",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sopped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sorbed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sorbic",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sordid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sorrow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sotted",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "source",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sovran",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "spaces",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sparky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sparse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spavin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "specie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "speech",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "spents",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "spider",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spigot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "spiral",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spired",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spires",
@@ -26738,31 +26738,31 @@ export const words [{
  "word": "spirit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "spited",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "splake",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "splash",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spoilt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spokes",
@@ -26774,19 +26774,19 @@ export const words [{
  "word": "spooky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spoony",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "sporal",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spores",
@@ -26798,97 +26798,97 @@ export const words [{
  "word": "sporty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spouse",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sprang",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sprawl",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spread",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "spring",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sprint",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "spunky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "squads",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "squall",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "square",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "squawk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "squeal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "squint",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "squirm",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "stable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stairs",
@@ -26900,31 +26900,31 @@ export const words [{
  "word": "stalky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "stanch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "staned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stanza",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "starch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stared",
@@ -26936,13 +26936,13 @@ export const words [{
  "word": "starts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "starve",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "states",
@@ -26954,73 +26954,73 @@ export const words [{
  "word": "static",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "statin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "statue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "status",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "steaks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "steams",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "steely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "stelai",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "steppe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "steric",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stigma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stingy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stints",
@@ -27032,19 +27032,19 @@ export const words [{
  "word": "stirps",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stithy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "stocky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "stoles",
@@ -27056,7 +27056,7 @@ export const words [{
  "word": "stolid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "stones",
@@ -27074,55 +27074,55 @@ export const words [{
  "word": "stotin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "strain",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "strait",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "strand",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "strata",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "streak",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stream",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "street",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stress",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "strewn",
@@ -27134,343 +27134,343 @@ export const words [{
  "word": "strict",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stride",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "strife",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "strike",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stripe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stript",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "strive",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stroke",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stroll",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "strong",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "studio",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stupid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "styled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "stylus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "stymie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sublot",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "submit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "subtle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "suburb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "subway",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "succor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "sucker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sudden",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "sudoku",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sueded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "suffer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "suffix",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sugary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "suited",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "suitor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "sullen",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sultry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "summit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "summon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sundry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "sunset",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "superb",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "supine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "supple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "supply",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "surety",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "surrey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "suslik",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "susses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "suture",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "swabby",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "swanky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "swaraj",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "swivel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "symbol",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "system",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "tabour",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tactic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tagged",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "taille",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tailor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "taking",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "talcum",
@@ -27482,7 +27482,7 @@ export const words [{
  "word": "talent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "talker",
@@ -27500,31 +27500,31 @@ export const words [{
  "word": "tamest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tamper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tandem",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tangle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tapers",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tartly",
@@ -27536,103 +27536,103 @@ export const words [{
  "word": "tassel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tattle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tattoo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "taunts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tauter",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tawdry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tearer",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "teaser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "techno",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "teensy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "temper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tenant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "tenets",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tenter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tenure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "terror",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "tetchy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "texted",
@@ -27662,181 +27662,181 @@ export const words [{
  "word": "themed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "theory",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "thesis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "thirty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "thorax",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "thoria",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "thoron",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "thoued",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "though",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "thrash",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "thread",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "threat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "thrive",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "throne",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "throng",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "thrown",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "thrust",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "thusly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tibiae",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tibias",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ticket",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "tidbit",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tiddly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "tiepin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tiffed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tiling",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "timbre",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "timely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "timing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "tinder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tinged",
@@ -27848,37 +27848,37 @@ export const words [{
  "word": "tinkle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "tinned",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tinner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tipper",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tiptoe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tirade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tiring",
@@ -27890,67 +27890,67 @@ export const words [{
  "word": "tisane",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tissue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "tither",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tittle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "toches",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tokens",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "toling",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tombed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tomboy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tomcat",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tonger",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tooter",
@@ -27962,79 +27962,79 @@ export const words [{
  "word": "topics",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "topped",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "topple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "torero",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "torpid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "torpor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "torque",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "torrid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "totals",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "totems",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "toting",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "totter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "toucan",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "touche",
@@ -28046,31 +28046,31 @@ export const words [{
  "word": "toughs",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "touter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "toward",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "towels",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "towing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "toxins",
@@ -28082,25 +28082,25 @@ export const words [{
  "word": "tracts",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "traits",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "trance",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "transe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "trapan",
@@ -28112,115 +28112,115 @@ export const words [{
  "word": "trashy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "travel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "treads",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tremor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "triage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "trifle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "trinal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "triple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "triply",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tripod",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "troika",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "troked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "trophi",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "trophy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tropic",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "trotty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "trough",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "troupe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "trudge",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "truest",
@@ -28232,43 +28232,43 @@ export const words [{
  "word": "truism",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "trying",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "tsades",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tsuris",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tulles",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tumble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tumult",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tuning",
@@ -28280,37 +28280,37 @@ export const words [{
  "word": "tunnel",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "turbid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "turgid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "turkey",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "turned",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "turnon",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "tuyere",
@@ -28328,85 +28328,85 @@ export const words [{
  "word": "twenty",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "twiner",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "twines",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "twirls",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "twitch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "typhus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "tyrant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "tzuris",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "uakari",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ubiety",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ubique",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "uglify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "ullage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ulluco",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "ulster",
@@ -28418,49 +28418,49 @@ export const words [{
  "word": "ultima",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "ultimo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "unable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unbold",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "uncalm",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "uncast",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "undeep",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "undine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "undoes",
@@ -28472,289 +28472,289 @@ export const words [{
  "word": "undraw",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "unduly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "uneven",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unfair",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unfree",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ungirt",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unguis",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "unhewn",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "unhung",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unions",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unique",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unison",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "united",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unkept",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unlade",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "unlike",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unmoor",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "unpick",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "unseam",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "unsexy",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unsort",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unspun",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unstep",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "unsued",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unsure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "untame",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "untold",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "untrue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unvain",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unveil",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unwary",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "unwild",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "unwind",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "unwish",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "update",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "uphill",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "uphold",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "uplift",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "upmost",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "uppity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "uprise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "uproot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "upshot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "uptake",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "upvote",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "uraeus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "urchin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "useful",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "ushers",
@@ -28766,13 +28766,13 @@ export const words [{
  "word": "usward",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "utmost",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "utopia",
@@ -28784,61 +28784,61 @@ export const words [{
  "word": "uvular",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "vacant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "vacate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "vacuum",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "vahine",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "valise",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "valley",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "valued",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "vandal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "vanity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "vanned",
@@ -28850,7 +28850,7 @@ export const words [{
  "word": "varied",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "varies",
@@ -28862,43 +28862,43 @@ export const words [{
  "word": "varlet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "vassal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "vector",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "veinal",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "velure",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "velvet",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "venine",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "venues",
@@ -28910,55 +28910,55 @@ export const words [{
  "word": "verbal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "verger",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "verier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "verily",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "verity",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "vermin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "versus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "vested",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "vestry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "vetted",
@@ -28970,79 +28970,79 @@ export const words [{
  "word": "viable",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "vialed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "viator",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "vicing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "victim",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "vimana",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "vinous",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "virgin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "virile",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "viroid",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "virtue",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "visaed",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "visage",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "vising",
@@ -29054,55 +29054,55 @@ export const words [{
  "word": "visual",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "vitals",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "vivify",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "vizsla",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "volant",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "volute",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "vortex",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "voyeur",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "vulgar",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wagged",
@@ -29120,103 +29120,103 @@ export const words [{
  "word": "walker",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wampus",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "wanton",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "warble",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "warier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wasted",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "waster",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wavies",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "waxing",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "waylay",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "wealth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "weblog",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "wedded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wedeln",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "wedged",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wedges",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "weight",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "welder",
@@ -29228,43 +29228,43 @@ export const words [{
  "word": "welkin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "welter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "wether",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "whaled",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wheeze",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "whiles",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "whimsy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "whiney",
@@ -29276,73 +29276,73 @@ export const words [{
  "word": "whinny",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "whisky",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "whizzo",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "whoops",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "whoosh",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "wiccan",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wicked",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "widest",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "wieldy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wifing",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "wiggle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wilder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wilier",
@@ -29354,13 +29354,13 @@ export const words [{
  "word": "wilily",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "willow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wilted",
@@ -29372,79 +29372,79 @@ export const words [{
  "word": "wimple",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "windle",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "window",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "winged",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "winner",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "winnow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "winter",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "wintry",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wisdom",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "wisely",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wisent",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "withal",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wither",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wivern",
@@ -29456,247 +29456,247 @@ export const words [{
  "word": "wizard",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wolves",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wonder",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "wonted",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "wooded",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "woofer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "woolly",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "worded",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "worser",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "worses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "worthy",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wreaks",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "wreath",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wrench",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "wretch",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "writer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "writhe",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "yearns",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "yellow",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "yelper",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "yerked",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "yesses",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🍎 Elementary Level"
+ "complexity": "Elementary"
 },
 {
  "word": "zaddik",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zaffer",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "zaftig",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zaikai",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zanana",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zander",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "zanier",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "zanily",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "zareba",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "zealot",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "🎓 College Level"
+ "complexity": "College"
 },
 {
  "word": "zeatin",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zechin",
  "isCapitalized": true,
  "isRoot": false,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "zedonk",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "zenana",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zenith",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "zephyr",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "zeroth",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zeugma",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zigzag",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zipped",
@@ -29708,37 +29708,37 @@ export const words [{
  "word": "zither",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zodiac",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "zombie",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "zonate",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📓 High School Level"
+ "complexity": "High School"
 },
 {
  "word": "zoning",
  "isCapitalized": false,
  "isRoot": true,
- "complexity": "📙 Middle School Level"
+ "complexity": "Middle School"
 },
 {
  "word": "zoonal",
  "isCapitalized": false,
  "isRoot": false,
- "complexity": "💼 Post-College Level"
+ "complexity": "Post-College"
 },
 {
  "word": "zouave",
@@ -29806,7 +29806,7 @@ const capitalized = [
         "word": "arctic",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "armada",
@@ -29944,13 +29944,13 @@ const capitalized = [
         "word": "coigne",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "💼 Post-College Level"
+        "complexity": "Post-College"
     },
     {
         "word": "covids",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "creole",
@@ -29974,7 +29974,7 @@ const capitalized = [
         "word": "cutcha",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🎓 College Level"
+        "complexity": "College"
     },
     {
         "word": "cyprus",
@@ -29998,31 +29998,31 @@ const capitalized = [
         "word": "declot",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "defoam",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "defuel",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "degels",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "depulp",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "elance",
@@ -30160,7 +30160,7 @@ const capitalized = [
         "word": "gybing",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "💼 Post-College Level"
+        "complexity": "Post-College"
     },
     {
         "word": "hazmat",
@@ -30202,7 +30202,7 @@ const capitalized = [
         "word": "kinema",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "lolcat",
@@ -30250,13 +30250,13 @@ const capitalized = [
         "word": "misact",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "misaim",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "moloch",
@@ -30298,7 +30298,7 @@ const capitalized = [
         "word": "nonuse",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "nordic",
@@ -30310,7 +30310,7 @@ const capitalized = [
         "word": "nurled",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "olives",
@@ -30322,37 +30322,37 @@ const capitalized = [
         "word": "outate",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "outcut",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "outeat",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "outfed",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "outspy",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "outvie",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "phonal",
@@ -30370,7 +30370,7 @@ const capitalized = [
         "word": "preage",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "ptotic",
@@ -30388,139 +30388,139 @@ const capitalized = [
         "word": "reated",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📓 High School Level"
+        "complexity": "High School"
     },
     {
         "word": "rebait",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "reclad",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "recoin",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "recopy",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "reemit",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "refeed",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "refelt",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "regive",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "relace",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "relend",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "relevy",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "remend",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "replan",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "repled",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "replot",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "replow",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "reshod",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "respot",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "resuit",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "retype",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "revote",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "rewrap",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "rigged",
@@ -30532,7 +30532,7 @@ const capitalized = [
         "word": "rottes",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "sabbat",
@@ -30568,7 +30568,7 @@ const capitalized = [
         "word": "sublot",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "talcum",
@@ -30598,7 +30598,7 @@ const capitalized = [
         "word": "tsades",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🎓 College Level"
+        "complexity": "College"
     },
     {
         "word": "ulster",
@@ -30610,91 +30610,91 @@ const capitalized = [
         "word": "unbold",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "uncalm",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "uncast",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "undeep",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "unfree",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "unhewn",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📓 High School Level"
+        "complexity": "High School"
     },
     {
         "word": "unhung",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "unkept",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "unsexy",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "unsort",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "unspun",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "unsued",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "untame",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "unvain",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📙 Middle School Level"
+        "complexity": "Middle School"
     },
     {
         "word": "unwild",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "🍎 Elementary Level"
+        "complexity": "Elementary"
     },
     {
         "word": "utopia",
@@ -30706,13 +30706,13 @@ const capitalized = [
         "word": "wiccan",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📓 High School Level"
+        "complexity": "High School"
     },
     {
         "word": "zechin",
         "isCapitalized": true,
         "isRoot": false,
-        "complexity": "📓 High School Level"
+        "complexity": "High School"
     },
     {
         "word": "zouave",
