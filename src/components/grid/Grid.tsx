@@ -23,7 +23,6 @@ export const Grid = ({
   const absent: Element[] = Array.from(document.querySelectorAll('button[absent]'))
   const present: Element[] = Array.from(document.querySelectorAll('button[present]'))
   const correct: Element[] = Array.from(document.querySelectorAll('button[correct]'))
-  console.log(absent, present, present.map(getText).join(''))
   const given = localStorage.given.toLowerCase().split('');
   const possibleWords : string[] = alphabet[given[0] as keyof typeof alphabet];
   const possibleGuesses = possibilities(
@@ -37,7 +36,6 @@ export const Grid = ({
       ? Array.from(Array(MAX_CHALLENGES - 1 - guesses.length))
       : []
 
-  console.log(possibleGuesses)
   return (
     <>
       {guesses.map((guess, i) => (
@@ -54,7 +52,9 @@ export const Grid = ({
       {empties.map((_, i) => (
         <EmptyRow key={i} />
       ))}
-      <center className="dark:text-white">Possibilities: {possibleGuesses.length}/{possibleWords.length} </center>
+      <center className="dark:text-white">
+        Possibilities: {possibleGuesses.length}/{possibleWords.length}
+        </center>
     </>
   )
 }
