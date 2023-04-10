@@ -78,7 +78,9 @@ export const Keyboard = ({
           />
         ))}
         <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
-          <BackspaceIcon />
+          <BackspaceIcon 
+            className="mr-3 h-6 w-6 cursor-pointer dark:stroke-white"
+          />
         </Key>
       </div>
       <div className="flex justify-center">

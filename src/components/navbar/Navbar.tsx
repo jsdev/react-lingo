@@ -1,6 +1,7 @@
 import {
   CalendarIcon,
   ChartBarIcon,
+  BackspaceIcon,
   CogIcon,
   InformationCircleIcon,
 } from '@heroicons/react/24/outline'
@@ -25,27 +26,36 @@ export const Navbar = ({
     <div className="navbar">
       <div className="navbar-content px-5 short:h-auto">
         <div className="flex">
-          <InformationCircleIcon
-            className="h-6 w-6 cursor-pointer dark:stroke-white"
-            onClick={() => setIsInfoModalOpen(true)}
-          />
-          {ENABLE_ARCHIVED_GAMES && (
-            <CalendarIcon
-              className="ml-3 h-6 w-6 cursor-pointer dark:stroke-white"
-              onClick={() => setIsDatePickerModalOpen(true)}
+          <button
+            onClick={() => setIsInfoModalOpen(true)}>
+            <InformationCircleIcon
+              className="h-6 w-6 cursor-pointer dark:stroke-white"
             />
+          </button>
+          {ENABLE_ARCHIVED_GAMES && (
+            <button
+              onClick={() => setIsDatePickerModalOpen(true)}>
+              <CalendarIcon
+                className="ml-3 h-6 w-6 cursor-pointer dark:stroke-white"
+              />
+            </button>
           )}
         </div>
         <p className="text-xl font-bold dark:text-white">{GAME_TITLE}</p>
         <div className="right-icons">
-          <ChartBarIcon
-            className="mr-3 h-6 w-6 cursor-pointer dark:stroke-white"
-            onClick={() => setIsStatsModalOpen(true)}
-          />
-          <CogIcon
-            className="h-6 w-6 cursor-pointer dark:stroke-white"
-            onClick={() => setIsSettingsModalOpen(true)}
-          />
+          <button
+            className="mr-3"
+            onClick={() => setIsStatsModalOpen(true)}>
+            <ChartBarIcon
+              className="h-6 w-6 cursor-pointer dark:stroke-white"
+            />
+          </button>
+          <button
+            onClick={() => setIsSettingsModalOpen(true)}>
+            <BackspaceIcon
+              className="h-6 w-6 cursor-pointer dark:stroke-white"
+            />
+          </button>
         </div>
       </div>
       <hr></hr>

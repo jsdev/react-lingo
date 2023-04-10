@@ -1,4 +1,4 @@
-export const GAME_TITLE = 'LINGO 6 Letter Trainer';
+export const GAME_TITLE = 'Guess THAT Word!';
 
 export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
