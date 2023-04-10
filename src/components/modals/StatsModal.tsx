@@ -104,21 +104,21 @@ export const StatsModal = ({
               )
             }}
           >
-            <ShareIcon aria-hidden="true" className="mr-2 h-6 w-6 cursor-pointer dark:stroke-white" />
+            <ShareIcon aria-hidden="true" className="mr-2 h-6 w-6 dark:stroke-white" />
             {SHARE_TEXT}
           </button>
           <button
               type="button"
               onClick={newGame}
               className="mt-2 inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-center text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:text-base">
-              <PlayCircleIcon aria-label="Play" className="mr-2 h-6 w-6 cursor-pointer dark:stroke-white" />
+              <PlayCircleIcon aria-label="Play" className="mr-2 h-6 w-6 dark:stroke-white" />
               New Word
           </button>
         </div>
           <a
             className="mt-2 inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-center text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:text-base"
             href={'https://www.dictionary.com/browse/' + solution} target="_blank">
-              <BookOpenIcon aria-label="definition" className="mr-2 h-6 w-6 cursor-pointer dark:stroke-white" />
+              <BookOpenIcon aria-label="definition" className="mr-2 h-6 w-6 dark:stroke-white" />
               {solution}
           </a>
         </>

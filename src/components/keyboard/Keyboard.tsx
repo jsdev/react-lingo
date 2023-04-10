@@ -79,7 +79,7 @@ export const Keyboard = ({
         ))}
         <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
           <BackspaceIcon 
-            className="mr-3 h-6 w-6 cursor-pointer dark:stroke-white"
+            className="h-6 w-6 dark:stroke-white"
           />
         </Key>
       </div>

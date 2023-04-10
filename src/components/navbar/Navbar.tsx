@@ -1,7 +1,6 @@
 import {
   CalendarIcon,
   ChartBarIcon,
-  BackspaceIcon,
   CogIcon,
   InformationCircleIcon,
 } from '@heroicons/react/24/outline'
@@ -29,14 +28,14 @@ export const Navbar = ({
           <button
             onClick={() => setIsInfoModalOpen(true)}>
             <InformationCircleIcon
-              className="h-6 w-6 cursor-pointer dark:stroke-white"
+              className="h-6 w-6 dark:stroke-white"
             />
           </button>
           {ENABLE_ARCHIVED_GAMES && (
             <button
               onClick={() => setIsDatePickerModalOpen(true)}>
               <CalendarIcon
-                className="ml-3 h-6 w-6 cursor-pointer dark:stroke-white"
+                className="ml-3 h-6 w-6 dark:stroke-white"
               />
             </button>
           )}
@@ -47,13 +46,13 @@ export const Navbar = ({
             className="mr-3"
             onClick={() => setIsStatsModalOpen(true)}>
             <ChartBarIcon
-              className="h-6 w-6 cursor-pointer dark:stroke-white"
+              className="h-6 w-6 dark:stroke-white"
             />
           </button>
           <button
             onClick={() => setIsSettingsModalOpen(true)}>
-            <BackspaceIcon
-              className="h-6 w-6 cursor-pointer dark:stroke-white"
+            <CogIcon
+              className="h-6 w-6 dark:stroke-white"
             />
           </button>
         </div>
