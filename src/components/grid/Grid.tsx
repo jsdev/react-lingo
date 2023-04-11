@@ -1,4 +1,3 @@
-import { possibilities, alphabet } from '../../constants/validGuesses'
 import { MAX_CHALLENGES } from '../../constants/settings'
 import { CompletedRow } from './CompletedRow'
 import { CurrentRow } from './CurrentRow'
@@ -19,18 +18,6 @@ export const Grid = ({
   isRevealing,
   currentRowClassName,
 }: Props) => {
-  const getText = (o: Element) => o.textContent!.toLowerCase()
-  const absent: Element[] = Array.from(document.querySelectorAll('button[absent]'))
-  const present: Element[] = Array.from(document.querySelectorAll('button[present]'))
-  const correct: Element[] = Array.from(document.querySelectorAll('button[correct]'))
-  const given = localStorage.given.toLowerCase().split('');
-  const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet];
-  const possibleGuesses = possibilities(
-    possibleWords,
-    absent.map(getText).join(''),
-    JSON.parse(localStorage.out),
-    given,
-    present.concat(correct).map(getText))
   const empties =
     guesses.length < MAX_CHALLENGES - 1
       ? Array.from(Array(MAX_CHALLENGES - 1 - guesses.length))
@@ -52,9 +39,6 @@ export const Grid = ({
       {empties.map((_, i) => (
         <EmptyRow key={i} />
       ))}
-      <center className="mt-2 dark:text-white">
-        Probability: {Math.floor(101 - (possibleGuesses.length / possibleWords.length))}%
-      </center>
     </>
   )
 }

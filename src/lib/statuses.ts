@@ -19,12 +19,16 @@ export const getRevealStatus = (
 
 export const getStatuses = (
   solution: string,
-  guesses: string[]
+  guesses: string[],
+  isWordInWordList: (word: string) => boolean,
 ): { [key: string]: CharStatus } => {
   const charObj: { [key: string]: CharStatus } = {}
   const splitSolution = unicodeSplit(solution)
 
   guesses.forEach((word) => {
+    if (!isWordInWordList(word)) {
+      return
+    }
     unicodeSplit(word).forEach((letter, i) => {
       if (!splitSolution.includes(letter)) {
         // make status absent
@@ -97,7 +101,7 @@ export const getGuessStatuses = (
     if (indexOfPresentChar > -1) {
       statuses[i] = CharStatus.Present
       if (!out[i].includes(letter)) {
-        out[i]+=letter
+        out[i] += letter
       }
       solutionCharsTaken[indexOfPresentChar] = true
       return

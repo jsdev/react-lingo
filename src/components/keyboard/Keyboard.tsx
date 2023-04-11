@@ -12,6 +12,7 @@ type Props = {
   solution: string
   guesses: string[]
   isRevealing?: boolean
+  isWordInWordList: (word: string) => boolean
 }
 
 export const Keyboard = ({
@@ -21,8 +22,9 @@ export const Keyboard = ({
   solution,
   guesses,
   isRevealing,
+  isWordInWordList,
 }: Props) => {
-  const charStatuses = getStatuses(solution, guesses)
+  const charStatuses = getStatuses(solution, guesses, isWordInWordList)
 
   const onClick = (value: string) => {
     if (value === 'ENTER') {
@@ -78,7 +80,7 @@ export const Keyboard = ({
           />
         ))}
         <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
-          <BackspaceIcon 
+          <BackspaceIcon
             className="h-6 w-6 dark:stroke-white"
           />
         </Key>

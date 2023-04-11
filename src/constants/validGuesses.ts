@@ -16316,7 +16316,7 @@ export const alphabet: Alphabet = {
     'dynamo',
     'dynams',
     'dynast',
-    'dynode',                                                                        
+    'dynode',
   ],
   'e': [
     'eagers',
@@ -19269,7 +19269,7 @@ export const alphabet: Alphabet = {
     'justle',
     'justly',
     'jutted',
-    'juvies',                   
+    'juvies',
   ],
   'k': [
     'kababs',
@@ -21395,7 +21395,7 @@ export const alphabet: Alphabet = {
     'nylons',
     'nympha',
     'nymphs',
-    'nytril',                    
+    'nytril',
   ],
   'o': [
     'oafish',
@@ -22788,7 +22788,7 @@ export const alphabet: Alphabet = {
     'pyrope',
     'python',
     'pyuria',
-    'pyxies',                                                                                            
+    'pyxies',
   ],
   'q': [
     'qasida',
@@ -25590,7 +25590,7 @@ export const alphabet: Alphabet = {
     'syrupy',
     'sysops',
     'system',
-    'syzygy',                                                                                                                                                                
+    'syzygy',
   ],
   't': [
     'tabard',
@@ -26491,7 +26491,7 @@ export const alphabet: Alphabet = {
     'tythed',
     'tythes',
     'tzetze',
-    'tzuris',                                                                            
+    'tzuris',
   ],
   'u': [
     'uakari',
@@ -27811,22 +27811,22 @@ export const VALID_GUESSES6 = [
 ]
 
 const include = (wordLetters: string[], mustIncludeLetters: string[]): boolean =>
-    mustIncludeLetters.every(letter => wordLetters.includes(letter));
+  mustIncludeLetters.every(letter => wordLetters.includes(letter));
 const exclude = (wordLetters: string[], mustExcludeLetters: string[]): boolean =>
-    mustExcludeLetters.every(letter => wordLetters.includes(letter));
+  !mustExcludeLetters.some(letter => wordLetters.includes(letter));
 
 export const possibilities = (
-    possible: string[],
-    absent: string,
-    out: Out,
-    given: string[],
-    mustInclude: string[]
-  ) : string[] => possible
-    .filter((word: string) => exclude(word.split(''), absent.split('')) && include(word.split(''), mustInclude))
-    .filter((word: string) => 
-      !absent.concat(out[1]).toLowerCase().includes(word[1]) &&
-      !absent.concat(out[2]).toLowerCase().includes(word[2]) &&
-      !absent.concat(out[3]).toLowerCase().includes(word[3]) &&
-      !absent.concat(out[4]).toLowerCase().includes(word[4]) &&
-      !absent.concat(out[5]).toLowerCase().includes(word[5]))
-    .filter((word: string) => word.split('').every((letter, i) => ['*', letter].includes(given[i])))
+  possible: string[],
+  absent: string,
+  out: Out,
+  given: string[],
+  mustInclude: string[]
+): string[] => possible
+  .filter((word: string) => exclude(word.split(''), absent.split('')) && include(word.split(''), mustInclude))
+  .filter((word: string) =>
+    !out[1].toLowerCase().includes(word[1]) &&
+    !out[2].toLowerCase().includes(word[2]) &&
+    !out[3].toLowerCase().includes(word[3]) &&
+    !out[4].toLowerCase().includes(word[4]) &&
+    !out[5].toLowerCase().includes(word[5]))
+  .filter((word: string) => word.split('').every((letter, i) => ['*', letter].includes(given[i])))

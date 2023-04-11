@@ -30,7 +30,7 @@ const buildWordList =
   }
 
 
-export const isWordInWordList = buildWordList(getWords(localStorage.complexity || 'Elementary'), VALID_GUESSES6)
+export const isWordInWordList = buildWordList(getWords(localStorage.complexity), VALID_GUESSES6)
 
 export const isWinningWord = (word: string) => {
   return solution === word
@@ -132,13 +132,18 @@ export const getWordOfDay = (index: number, words: string[]) => {
   return localeAwareUpperCase(words[index % words.length])
 }
 
-export const getRandomWord = (words: string[]) =>
-  localeAwareUpperCase(words[Math.floor(Math.random() * words.length)])
+export const getRandomWord = (words: string[]) => {
+  const randomWord = words[Math.floor(Math.random() * words.length)]
+  return localeAwareUpperCase(randomWord)
+}
 
 export const getSolution = (gameDate: Date) => {
   const nextGameDate = getNextGameDate(gameDate)
   const index = getIndex(gameDate)
-  const wordOfTheDay = getRandomWord(getWords(localStorage.complexity || 'Elementary'))
+  if (!localStorage.complexity) {
+    localStorage.complexity = 'Elementary'
+  }
+  const wordOfTheDay = getRandomWord(getWords(localStorage.complexity))
   if (!localStorage.complexity) {
     localStorage.complexity = 'Elementary'
   }
