@@ -1,5 +1,3 @@
-import { Complexity } from "../constants/wordlist"
-
 const gameStateKey = 'gameState'
 const archiveGameStateKey = 'archiveGameState'
 const highContrastKey = 'highContrast'

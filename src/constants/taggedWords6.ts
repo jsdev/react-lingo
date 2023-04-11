@@ -29828,983 +29828,977 @@ export const taggedWords6 = [
     ...alphabet6.z,
 ]
 
-
-
-
-
-
-
-const capitalized = [
-    {
-        word: "acinar",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "afghan",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "allies",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "amazon",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "amtrak",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "angers",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "angora",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "arabic",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "arches",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "arctic",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "armada",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "atrial",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "aurora",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "baggie",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "balder",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "barbie",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "baring",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basque",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bibles",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bourne",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bowers",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "brahma",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "broads",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "cairns",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "callas",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "campos",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "canada",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "carmen",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "cherie",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "cloots",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "coccal",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "cohoes",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "coigne",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Post-College"
-    },
-    {
-        word: "covids",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "creole",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "cressy",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "cuspal",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "cutcha",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "College"
-    },
-    {
-        word: "cyprus",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "danish",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "daphne",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "declot",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "defoam",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "defuel",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "degels",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "depulp",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "elance",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "emigre",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "emince",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "enders",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "etoile",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "etudes",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "fields",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "fishes",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "flayer",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "fomite",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "forces",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "french",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "fuming",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "gascon",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "genual",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "ghosts",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "gloria",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "gorgon",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "grants",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "graves",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "greats",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "guider",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "gybing",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Post-College"
-    },
-    {
-        word: "hazmat",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "hector",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "henley",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "iritic",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "jennie",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "kikuyu",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "kinema",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "lolcat",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "lugers",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "mating",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "meatal",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "megara",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "meninx",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "mickey",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "misact",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "misaim",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "moloch",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "mongol",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "necker",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "nevoid",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "nimrod",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "nodous",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "nonuse",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "nordic",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "nurled",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "olives",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "outate",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "outcut",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "outeat",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "outfed",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "outspy",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "outvie",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "phonal",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "pleiad",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "preage",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "ptotic",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "quatro",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "reated",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "rebait",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "reclad",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "recoin",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "recopy",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "reemit",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "refeed",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "refelt",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "regive",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "relace",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "relend",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "relevy",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "remend",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "replan",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "repled",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "replot",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "replow",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "reshod",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "respot",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "resuit",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "retype",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "revote",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "rewrap",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "rigged",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "rottes",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "sabbat",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "sialic",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "spires",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "states",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "stones",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "sublot",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "talcum",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "thebes",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "thecal",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "tiring",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "tsades",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "College"
-    },
-    {
-        word: "ulster",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "unbold",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "uncalm",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "uncast",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "undeep",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "unfree",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "unhewn",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "unhung",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "unkept",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "unsexy",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "unsort",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "unspun",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "unsued",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "untame",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "unvain",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "unwild",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "utopia",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "wiccan",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "zechin",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "zouave",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    }
-]
+// const capitalized = [
+//     {
+//         word: "acinar",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "afghan",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "allies",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "amazon",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "amtrak",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "angers",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "angora",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "arabic",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "arches",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "arctic",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "armada",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "atrial",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "aurora",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "baggie",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "balder",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "barbie",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "baring",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "basque",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "bibles",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "bourne",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "bowers",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "brahma",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "broads",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "cairns",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "callas",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "campos",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "canada",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "carmen",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "cherie",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "cloots",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "coccal",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "cohoes",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "coigne",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Post-College"
+//     },
+//     {
+//         word: "covids",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "creole",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "cressy",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "cuspal",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "cutcha",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "College"
+//     },
+//     {
+//         word: "cyprus",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "danish",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "daphne",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "declot",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "defoam",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "defuel",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "degels",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "depulp",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "elance",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "emigre",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "emince",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "enders",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "etoile",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "etudes",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "fields",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "fishes",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "flayer",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "fomite",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "forces",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "french",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "fuming",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "gascon",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "genual",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "ghosts",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "gloria",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "gorgon",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "grants",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "graves",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "greats",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "guider",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "gybing",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Post-College"
+//     },
+//     {
+//         word: "hazmat",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "hector",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "henley",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "iritic",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "jennie",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "kikuyu",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "kinema",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "lolcat",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "lugers",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "mating",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "meatal",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "megara",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "meninx",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "mickey",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "misact",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "misaim",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "moloch",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "mongol",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "necker",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "nevoid",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "nimrod",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "nodous",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "nonuse",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "nordic",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "nurled",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "olives",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "outate",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "outcut",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "outeat",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "outfed",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "outspy",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "outvie",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "phonal",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "pleiad",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "preage",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "ptotic",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "quatro",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "reated",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "High School"
+//     },
+//     {
+//         word: "rebait",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "reclad",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "recoin",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "recopy",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "reemit",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "refeed",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "refelt",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "regive",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "relace",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "relend",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "relevy",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "remend",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "replan",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "repled",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "replot",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "replow",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "reshod",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "respot",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "resuit",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "retype",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "revote",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "rewrap",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "rigged",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "rottes",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "sabbat",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "sialic",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "spires",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "states",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "stones",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "sublot",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "talcum",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "thebes",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "thecal",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "tiring",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "tsades",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "College"
+//     },
+//     {
+//         word: "ulster",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "unbold",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "uncalm",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "uncast",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "undeep",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "unfree",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "unhewn",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "High School"
+//     },
+//     {
+//         word: "unhung",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "unkept",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "unsexy",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "unsort",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "unspun",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "unsued",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "untame",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "unvain",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Middle School"
+//     },
+//     {
+//         word: "unwild",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "Elementary"
+//     },
+//     {
+//         word: "utopia",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     },
+//     {
+//         word: "wiccan",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "High School"
+//     },
+//     {
+//         word: "zechin",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "High School"
+//     },
+//     {
+//         word: "zouave",
+//         isCapitalized: true,
+//         isRoot: false,
+//         complexity: "unknown"
+//     }
+// ]

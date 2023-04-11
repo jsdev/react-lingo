@@ -1,4 +1,3 @@
-import { SelectValue } from 'react-tailwindcss-select/dist/components/type';
 import {
   HARD_MODE_DESCRIPTION,
   HIGH_CONTRAST_MODE_DESCRIPTION,
@@ -6,19 +5,12 @@ import {
 import { BaseModal } from './BaseModal'
 import { SettingsToggle } from './SettingsToggle'
 import React, { ChangeEvent } from "react";
-import Select from "react-tailwindcss-select";
 
 export const complexityOptions = [
   { value: "Elementary", label: "🐝 HONEYBEE" },
   { value: "Middle School", label: "🦋 BUTTERFLY" },
   { value: "High School", label: "🦊 FOX" }
 ];
-
-const getComplexity = (): SelectValue =>
-  localStorage.complexity
-
-const setComplexity = (complexity: SelectValue): void => { localStorage.complexity = complexity }
-
 
 type Props = {
   isOpen: boolean
