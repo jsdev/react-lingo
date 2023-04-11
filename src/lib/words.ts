@@ -11,12 +11,11 @@ import queryString from 'query-string'
 import { ENABLE_ARCHIVED_GAMES } from '../constants/settings'
 import { NOT_CONTAINED_MESSAGE, WRONG_SPOT_MESSAGE } from '../constants/strings'
 import { VALID_GUESSES6 } from '../constants/validGuesses'
-import { WORDS6 } from '../constants/wordlist'
+import { getWords } from '../constants/wordlist'
 import { getToday } from './dateutils'
 import { getGuessStatuses } from './statuses'
 import { CharStatus } from './enums/status'
 
-// 1 January 2022 Game Epoch
 export const firstGameDate = new Date(2022, 0)
 export const periodInDays = 1
 
@@ -30,7 +29,8 @@ const buildWordList =
     )
   }
 
-export const isWordInWordList = buildWordList(WORDS6, VALID_GUESSES6)
+
+export const isWordInWordList = buildWordList(getWords(localStorage.complexity || 'Elementary'), VALID_GUESSES6)
 
 export const isWinningWord = (word: string) => {
   return solution === word
@@ -138,7 +138,10 @@ export const getRandomWord = (words: string[]) =>
 export const getSolution = (gameDate: Date) => {
   const nextGameDate = getNextGameDate(gameDate)
   const index = getIndex(gameDate)
-  const wordOfTheDay = getRandomWord(WORDS6)
+  const wordOfTheDay = getRandomWord(getWords(localStorage.complexity || 'Elementary'))
+  if (!localStorage.complexity) {
+    localStorage.complexity = 'Elementary'
+  }
   localStorage.given = wordOfTheDay[0] + '*****'
   localStorage.out = JSON.stringify({
     0: '',

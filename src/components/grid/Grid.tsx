@@ -24,7 +24,7 @@ export const Grid = ({
   const present: Element[] = Array.from(document.querySelectorAll('button[present]'))
   const correct: Element[] = Array.from(document.querySelectorAll('button[correct]'))
   const given = localStorage.given.toLowerCase().split('');
-  const possibleWords : string[] = alphabet[given[0] as keyof typeof alphabet];
+  const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet];
   const possibleGuesses = possibilities(
     possibleWords,
     absent.map(getText).join(''),
@@ -52,9 +52,9 @@ export const Grid = ({
       {empties.map((_, i) => (
         <EmptyRow key={i} />
       ))}
-      <center className="dark:text-white">
-        Possibilities: {possibleGuesses.length}/{possibleWords.length}
-        </center>
+      <center className="mt-2 dark:text-white">
+        Probability: {Math.floor(101 - (possibleGuesses.length / possibleWords.length))}%
+      </center>
     </>
   )
 }

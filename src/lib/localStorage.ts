@@ -1,6 +1,9 @@
+import { Complexity } from "../constants/wordlist"
+
 const gameStateKey = 'gameState'
 const archiveGameStateKey = 'archiveGameState'
 const highContrastKey = 'highContrast'
+const complexityKey = 'complexity'
 
 export type StoredGameState = {
   guesses: string[]
@@ -52,4 +55,16 @@ export const setStoredIsHighContrastMode = (isHighContrast: boolean) => {
 export const getStoredIsHighContrastMode = () => {
   const highContrast = localStorage.getItem(highContrastKey)
   return highContrast === '1'
+}
+
+export const setStoredComplexityMode = (complexity: string) => {
+  if (complexity) {
+    localStorage.setItem(complexityKey, complexity)
+  } else {
+    localStorage.removeItem(complexityKey)
+  }
+}
+
+export const getStoredComplexityMode = () => {
+  return localStorage.getItem(complexityKey)
 }

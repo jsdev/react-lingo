@@ -12,7 +12,7 @@ import { Keyboard } from './components/keyboard/Keyboard'
 import { DatePickerModal } from './components/modals/DatePickerModal'
 import { InfoModal } from './components/modals/InfoModal'
 import { MigrateStatsModal } from './components/modals/MigrateStatsModal'
-import { SettingsModal } from './components/modals/SettingsModal'
+import { SettingsModal, complexityOptions } from './components/modals/SettingsModal'
 import { StatsModal } from './components/modals/StatsModal'
 import { Navbar } from './components/navbar/Navbar'
 import {
@@ -40,6 +40,8 @@ import {
   loadGameStateFromLocalStorage,
   saveGameStateToLocalStorage,
   setStoredIsHighContrastMode,
+  setStoredComplexityMode,
+  getStoredComplexityMode
 } from './lib/localStorage'
 import { addStatsForCompletedGame, loadStats } from './lib/stats'
 import {
@@ -76,8 +78,11 @@ function App() {
     localStorage.getItem('theme')
       ? localStorage.getItem('theme') === 'dark'
       : prefersDarkMode
-      ? true
-      : false
+        ? true
+        : false
+  )
+  const [complexityMode, setComplexitytMode] = useState(
+    getStoredComplexityMode() || 'Elementary'
   )
   const [isHighContrastMode, setIsHighContrastMode] = useState(
     getStoredIsHighContrastMode()
@@ -159,6 +164,11 @@ function App() {
   const handleHighContrastMode = (isHighContrast: boolean) => {
     setIsHighContrastMode(isHighContrast)
     setStoredIsHighContrastMode(isHighContrast)
+  }
+
+  const handleComplexityMode = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    setComplexitytMode(event.target.value)
+    setStoredComplexityMode(event.target.value)
   }
 
   const clearCurrentRowClass = () => {
@@ -275,6 +285,10 @@ function App() {
     }
   }
 
+  const complexity = complexityOptions
+    .filter(o => o.value === localStorage.complexity)
+    .map(o => o.label)
+
   return (
     <Div100vh>
       <div className="flex h-full flex-col">
@@ -297,6 +311,9 @@ function App() {
 
         <div className="mx-auto flex w-full grow flex-col px-1 pt-2 pb-8 sm:px-6 md:max-w-7xl lg:px-8 short:pb-2 short:pt-2">
           <div className="flex grow flex-col justify-center pb-6 short:pb-2">
+            <center className='mb-3 dark:text-gray-300'>
+              LEVEL: {complexity}
+            </center>
             <Grid
               solution={solution}
               guesses={guesses}
@@ -363,6 +380,8 @@ function App() {
             handleDarkMode={handleDarkMode}
             isHighContrastMode={isHighContrastMode}
             handleHighContrastMode={handleHighContrastMode}
+            complexityMode={complexityMode}
+            handleComplexityMode={handleComplexityMode}
           />
           <AlertContainer />
         </div>

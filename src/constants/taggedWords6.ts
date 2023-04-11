@@ -29799,7 +29799,7 @@ export const alphabet6 = {
     ]
 }
 
-export const words6 = [
+export const taggedWords6 = [
     ...alphabet6.a,
     ...alphabet6.b,
     ...alphabet6.c,

@@ -1,3 +1,5 @@
+import { taggedWords6 } from "./taggedWords6"
+
 export const WORDS = [
   'which',
   'there',
@@ -9893,7 +9895,7 @@ const alphabet = {
     'juster',
     'justle',
     'justly',
-    'jutted',                   
+    'jutted',
   ],
   k: [
     'kababs',
@@ -11392,7 +11394,7 @@ const alphabet = {
     'nylons',
     'nympha',
     'nymphs',
-    'nytril',                    
+    'nytril',
   ],
   // ORIENT
   o: [
@@ -12642,7 +12644,7 @@ const alphabet = {
     'rolled',
     'roller',
     'romped',
-    'romper',   
+    'romper',
     'rondel',
     'ronion',
     'ronyon',
@@ -14294,6 +14296,11 @@ export const WORDS6 = [
   ...alphabet.y,
   ...alphabet.z,
 ]
+
+export type Complexity = 'Elementary' | 'Middle Schoole' | 'High School' | 'College' | 'Post-College'
+
+export const getWords = (complexity: Complexity = 'Elementary'): string[] =>
+  taggedWords6.filter(o => o.complexity === complexity).map(o => o.word)
 
 // function countOccurrences(str: string, letter: string) {
 //   const regex = new RegExp(letter, 'g')
