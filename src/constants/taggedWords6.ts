@@ -14020,12 +14020,12 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "College"
         },
-        {
-            word: "flitch",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Post-College"
-        },
+        // {
+        //     word: "flitch",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Post-College"
+        // },
         {
             word: "floats",
             isCapitalized: false,
@@ -14044,12 +14044,12 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "College"
         },
-        {
-            word: "flongs",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "flongs",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "Elementary"
+        // },
         {
             word: "floozy",
             isCapitalized: false,
