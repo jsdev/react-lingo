@@ -4,16 +4,7 @@ import { DELETE_TEXT, ENTER_TEXT } from '../../constants/strings'
 import { getStatuses } from '../../lib/statuses'
 import { localeAwareUpperCase } from '../../lib/words'
 import { Key } from './Key'
-
-type Props = {
-  onChar: (value: string) => void
-  onDelete: () => void
-  onEnter: () => void
-  solution: string
-  guesses: string[]
-  isRevealing?: boolean
-  isWordInWordList: (word: string) => boolean
-}
+import { KeyboardProps } from './KeyboardProps'
 
 export const Keyboard = ({
   onChar,
@@ -23,7 +14,7 @@ export const Keyboard = ({
   guesses,
   isRevealing,
   isWordInWordList,
-}: Props) => {
+}: KeyboardProps) => {
   const charStatuses = getStatuses(solution, guesses, isWordInWordList)
 
   const onClick = (value: string) => {

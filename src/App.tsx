@@ -7,7 +7,6 @@ import Div100vh from 'react-div-100vh'
 
 import { AlertContainer } from './components/alerts/AlertContainer'
 import { Grid } from './components/grid/Grid'
-import { Keyboard } from './components/keyboard/Keyboard'
 import { DatePickerModal } from './components/modals/DatePickerModal'
 import { InfoModal } from './components/modals/InfoModal'
 import { MigrateStatsModal } from './components/modals/MigrateStatsModal'
@@ -55,6 +54,7 @@ import {
   unicodeLength,
 } from './lib/words'
 import { possibilities, alphabet } from './constants/validGuesses'
+import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet'
 
 function App() {
   const isLatestGame = getIsLatestGame()
@@ -340,7 +340,7 @@ function App() {
               Probability: {probability}%
             </center>
           </div>
-          <Keyboard
+          <KeyboardAlphabet
             onChar={onChar}
             onDelete={onDelete}
             onEnter={onEnter}
