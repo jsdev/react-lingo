@@ -327,7 +327,7 @@ function App() {
         <div className="mx-auto flex w-full grow flex-col px-1 pt-2 pb-8 sm:px-6 md:max-w-7xl lg:px-8 short:pb-2 short:pt-2">
           <div className="flex grow flex-col justify-center pb-6 short:pb-2">
             <center className='mb-3 dark:text-gray-300'>
-              LEVEL: {complexity}
+              LEVEL: {complexity} | ODDS: {probability}%
             </center>
             <Grid
               solution={solution}
@@ -336,9 +336,6 @@ function App() {
               isRevealing={isRevealing}
               currentRowClassName={currentRowClass}
             />
-            <center className="mt-2 dark:text-white">
-              Probability: {probability}%
-            </center>
           </div>
           <KeyboardAlphabet
             onChar={onChar}

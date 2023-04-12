@@ -48,7 +48,7 @@ export const KeyboardAlphabet = ({
     }, [onEnter, onDelete, onChar])
 
     return (
-        <div>
+        <>
             <div className="mb-1 flex justify-center">
                 {['B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M'].map((key) => (
                     <Key
@@ -90,6 +90,6 @@ export const KeyboardAlphabet = ({
                     {ENTER_TEXT}
                 </Key>
             </div>
-        </div>
+        </>
     )
 }
