@@ -54,7 +54,7 @@ import {
   solutionGameDate,
   unicodeLength,
 } from './lib/words'
-// import { possibilities, alphabet } from './constants/validGuesses'
+import { possibilities, alphabet } from './constants/validGuesses'
 
 function App() {
   const isLatestGame = getIsLatestGame()
@@ -289,21 +289,20 @@ function App() {
     .filter(o => o.value === localStorage.complexity)
     .map(o => o.label)
 
-  // const getText = (o: Element) => o.textContent!.toLowerCase()
-  // const absent: Element[] = Array.from(document.querySelectorAll('button[absent]'))
-  // const present: Element[] = Array.from(document.querySelectorAll('button[present]'))
-  // const correct: Element[] = Array.from(document.querySelectorAll('button[correct]'))
-  // const given = localStorage.given.toLowerCase().split('');
-  // const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet];
-  // console.log(present.concat(correct).map(getText));
-  // const possibleGuesses = possibilities(
-  //   possibleWords,
-  //   absent.map(getText).join(''),
-  //   JSON.parse(localStorage.out),
-  //   given,
-  //   present.concat(correct).map(getText))
+  const getText = (o: Element) => o.textContent!.toLowerCase()
+  const absent: Element[] = Array.from(document.querySelectorAll('button.absent'))
+  const present: Element[] = Array.from(document.querySelectorAll('button.present'))
+  const correct: Element[] = Array.from(document.querySelectorAll('button.correct'))
+  const given = localStorage.given.toLowerCase().split('');
+  const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet];
+  const possibleGuesses = possibilities(
+    possibleWords,
+    absent.map(getText).join(''),
+    JSON.parse(localStorage.out),
+    given,
+    present.concat(correct).map(getText))
 
-  // const probability = (1 / (possibleGuesses.length) * 100).toFixed(2);
+  const probability = (1 / (possibleGuesses.length) * 100).toFixed(2);
 
   return (
     <Div100vh>
@@ -337,9 +336,9 @@ function App() {
               isRevealing={isRevealing}
               currentRowClassName={currentRowClass}
             />
-            {/* <center className="mt-2 dark:text-white" title={possibleGuesses.join(',')}>
+            <center className="mt-2 dark:text-white">
               Probability: {probability}%
-            </center> */}
+            </center>
           </div>
           <Keyboard
             onChar={onChar}

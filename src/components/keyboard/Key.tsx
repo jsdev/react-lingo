@@ -35,13 +35,13 @@ export const Key = ({
         !status,
       'bg-slate-400 dark:bg-slate-800 text-white absent':
         status === CharStatus.Absent,
-      'bg-orange-500 hover:bg-orange-600 active:bg-orange-700 text-white':
+      'bg-orange-500 hover:bg-orange-600 active:bg-orange-700 text-white correct':
         status === CharStatus.Correct && isHighContrast,
-      'bg-cyan-500 hover:bg-cyan-600 active:bg-cyan-700 text-white':
+      'bg-cyan-500 hover:bg-cyan-600 active:bg-cyan-700 text-white present':
         status === CharStatus.Present && isHighContrast,
-      'bg-green-500 hover:bg-green-600 active:bg-green-700 text-white':
+      'bg-green-500 hover:bg-green-600 active:bg-green-700 text-white correct':
         status === CharStatus.Correct && !isHighContrast,
-      'bg-yellow-500 hover:bg-yellow-600 active:bg-yellow-700 text-white':
+      'bg-yellow-500 hover:bg-yellow-600 active:bg-yellow-700 text-white present':
         status === CharStatus.Present && !isHighContrast,
     }
   )
