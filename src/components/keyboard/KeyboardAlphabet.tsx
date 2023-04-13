@@ -1,6 +1,6 @@
 import { BackspaceIcon } from '@heroicons/react/24/outline'
 import { useEffect } from 'react'
-import { DELETE_TEXT, ENTER_TEXT } from '../../constants/strings'
+import { DELETE_TEXT } from '../../constants/strings'
 import { getStatuses } from '../../lib/statuses'
 import { localeAwareUpperCase } from '../../lib/words'
 import { Key } from './Key'
@@ -50,7 +50,12 @@ export const KeyboardAlphabet = ({
     return (
         <>
             <div className="mb-1 flex justify-center">
-                {['B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M'].map((key) => (
+                <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
+                    <BackspaceIcon
+                        className="h-6 w-6 dark:stroke-white"
+                    />
+                </Key>
+                {['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'].map((key) => (
                     <Key
                         value={key}
                         key={key}
@@ -61,7 +66,7 @@ export const KeyboardAlphabet = ({
                 ))}
             </div>
             <div className="mb-1 flex justify-center">
-                {['N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Z'].map((key) => (
+                {['I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q'].map((key) => (
                     <Key
                         value={key}
                         key={key}
@@ -72,12 +77,7 @@ export const KeyboardAlphabet = ({
                 ))}
             </div>
             <div className="flex justify-center">
-                <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
-                    <BackspaceIcon
-                        className="h-6 w-6 dark:stroke-white"
-                    />
-                </Key>
-                {['A', 'E', 'I', 'O', 'U', 'Y'].map((key) => (
+                {['R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'].map((key) => (
                     <Key
                         value={key}
                         key={key}
@@ -86,9 +86,6 @@ export const KeyboardAlphabet = ({
                         isRevealing={isRevealing}
                     />
                 ))}
-                <Key width={129} value="ENTER" onClick={onClick}>
-                    {ENTER_TEXT}
-                </Key>
             </div>
         </>
     )

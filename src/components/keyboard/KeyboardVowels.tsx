@@ -1,4 +1,6 @@
+import { BackspaceIcon } from '@heroicons/react/24/outline'
 import { useEffect } from 'react'
+import { DELETE_TEXT } from '../../constants/strings'
 import { getStatuses } from '../../lib/statuses'
 import { localeAwareUpperCase } from '../../lib/words'
 import { Key } from './Key'
@@ -70,7 +72,21 @@ export const KeyboardVowels = ({
                 ))}
             </div>
             <div className="flex justify-center">
-                {['X', 'Y', 'Z', '', 'A', 'E', 'I', 'O', 'U'].map((key) => (
+                {['X', 'Y', 'Z'].map((key) => (
+                    <Key
+                        value={key}
+                        key={key}
+                        onClick={onClick}
+                        status={charStatuses[key]}
+                        isRevealing={isRevealing}
+                    />
+                ))}
+                <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
+                    <BackspaceIcon
+                        className="h-6 w-6 dark:stroke-white"
+                    />
+                </Key>
+                {['A', 'E', 'I', 'O', 'U'].map((key) => (
                     <Key
                         value={key}
                         key={key}

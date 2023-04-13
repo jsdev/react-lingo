@@ -229,7 +229,6 @@ function App() {
       setCurrentGuess(`${currentGuess}${value}`)
     }
     if (unicodeLength(`${currentGuess}${value}`) === solution.length) {
-      console.log('onEnter')
       setTimeout(onEnter, 200)
     }
   }
