@@ -27,6 +27,7 @@ type Props = {
   handleShareToClipboard: () => void
   handleShareFailure: () => void
   handleMigrateStatsButton: () => void
+  handleNewGame: () => void
   isHardMode: boolean
   isDarkMode: boolean
   isHighContrastMode: boolean
@@ -45,16 +46,12 @@ export const StatsModal = ({
   handleShareToClipboard,
   handleShareFailure,
   handleMigrateStatsButton,
+  handleNewGame,
   isHardMode,
   isDarkMode,
   isHighContrastMode,
   numberOfGuessesMade,
 }: Props) => {
-  const newGame = () => {
-    delete localStorage.solution
-    window.location.reload()
-  }
-
   if (gameStats.totalGames <= 0) {
     return (
       <BaseModal
@@ -109,7 +106,7 @@ export const StatsModal = ({
             </button>
             <button
               type="button"
-              onClick={newGame}
+              onClick={handleNewGame}
               className="mt-2 inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-center text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:text-base">
               <PlayCircleIcon aria-label="Play" className="mr-2 h-6 w-6 dark:stroke-white" />
               New Word

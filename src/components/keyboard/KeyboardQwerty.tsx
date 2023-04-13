@@ -6,7 +6,7 @@ import { localeAwareUpperCase } from '../../lib/words'
 import { Key } from './Key'
 import { KeyboardProps } from './KeyboardProps'
 
-export const Keyboard = ({
+export const KeyboardQWERTY = ({
   onChar,
   onDelete,
   onEnter,

@@ -5318,7 +5318,7 @@ export const alphabet6 = {
             word: "casual",
             isCapitalized: false,
             isRoot: true,
-            complexity: "Elementary"
+            complexity: "Middle School"
         },
         {
             word: "catchy",
@@ -7544,7 +7544,7 @@ export const alphabet6 = {
             word: "coring",
             isCapitalized: false,
             isRoot: true,
-            complexity: "Elementary"
+            complexity: "College"
         },
         {
             word: "corita",
@@ -21746,17 +21746,17 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "College"
         },
-        {
-            word: "nonuse",
-            isCapitalized: true,
-            isRoot: false,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "nonuse",
+        //     isCapitalized: true,
+        //     isRoot: false,
+        //     complexity: "Elementary"
+        // },
         {
             word: "noodle",
             isCapitalized: false,
             isRoot: true,
-            complexity: "Middle School"
+            complexity: "Elementary"
         },
         {
             word: "nordic",
@@ -28498,17 +28498,23 @@ export const alphabet6 = {
         complexity: "Middle School"
     },
     {
-        word: "uncast",
+        word: "unread",
         isCapitalized: true,
         isRoot: false,
         complexity: "Elementary"
     },
-    {
-        word: "undeep",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Elementary"
-    },
+    // {
+    //     word: "uncast",
+    //     isCapitalized: true,
+    //     isRoot: false,
+    //     complexity: "Elementary"
+    // },
+    // {
+    //     word: "undeep",
+    //     isCapitalized: true,
+    //     isRoot: false,
+    //     complexity: "Elementary"
+    // },
     {
         word: "undine",
         isCapitalized: false,

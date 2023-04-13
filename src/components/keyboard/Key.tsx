@@ -19,7 +19,7 @@ type Props = {
 export const Key = ({
   children,
   status,
-  width = 40,
+  width = 45,
   value,
   onClick,
   isRevealing,
@@ -28,10 +28,10 @@ export const Key = ({
   const isHighContrast = getStoredIsHighContrastMode()
 
   const classes = classnames(
-    'xxshort:h-8 xxshort:w-8 xxshort:text-xxs xshort:w-10 xshort:h-10 flex short:h-12 h-14 items-center justify-center rounded mx-0.5 text-xs font-bold cursor-pointer select-none dark:text-white',
+    'xxshort:h-8 xxshort:w-8 xxshort:text-xxs xshort:w-10 xshort:h-10 flex short:h-12 h-12 items-center justify-center rounded mx-0.5 text-xs font-bold select-none dark:text-white',
     {
       'transition ease-in-out': isRevealing,
-      'bg-slate-200 dark:bg-slate-600 hover:bg-slate-300 active:bg-slate-400':
+      'bg-slate-200 dark:bg-slate-600 hover:bg-slate-300 active:bg-slate-400 disabled:bg-transparent disabled:hover:bg-transparent':
         !status,
       'bg-slate-400 dark:bg-slate-800 text-white absent':
         status === CharStatus.Absent,
@@ -62,6 +62,7 @@ export const Key = ({
       aria-label={`${value}${status ? ' ' + status : ''}`}
       className={classes}
       onClick={handleClick}
+      disabled={value === ''}
     >
       {children || value}
     </button>

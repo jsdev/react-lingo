@@ -11,14 +11,14 @@ export const CurrentRow = ({ guess, className }: Props) => {
   const given = localStorage.given
   const slice = guess.length - given.length;
   const chars = given.slice(slice).split('')
-  const statuses =  getRevealStatus(given, guess)
+  const statuses = getRevealStatus(given, guess)
   const emptyStatuses = getRevealStatus(solution.slice(slice), given.slice(slice))
   const splitGuess = unicodeSplit(guess)
   const emptyCells = Array.from(Array(solution.length - splitGuess.length))
   const classes = `flex justify-center mb-1 ${className}`
 
   return (
-    <div className={classes}>
+    <div className={classes} data-current>
       <div className={classes}>
         {splitGuess.map((letter, i) => (
           <Cell

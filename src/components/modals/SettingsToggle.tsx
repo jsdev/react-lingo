@@ -28,16 +28,16 @@ export const SettingsToggle = ({
 
   return (
     <>
-      <div className="flex justify-between gap-4 py-3">
-        <div className="mt-2 text-left text-gray-500 dark:text-gray-300">
-          <p className="leading-none">{settingName}</p>
+      <div className="flex justify-between gap-4 py-3 items-center">
+        <div className="text-left text-gray-500 dark:text-gray-300">
+          <p id={settingName} className="leading-none">{settingName}</p>
           {description && (
             <p className="mt-1 text-xs text-gray-500 dark:text-gray-300">
               {description}
             </p>
           )}
         </div>
-        <button className={toggleHolder} onClick={() => handleFlag(!flag)}>
+        <button aria-labelledby={settingName} className={toggleHolder} onClick={() => handleFlag(!flag)}>
           <div className={toggleButton} />
         </button>
       </div>

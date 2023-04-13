@@ -2,6 +2,7 @@ const gameStateKey = 'gameState'
 const archiveGameStateKey = 'archiveGameState'
 const highContrastKey = 'highContrast'
 const complexityKey = 'complexity'
+const keyboardKey = 'keyboard'
 
 export type StoredGameState = {
   guesses: string[]
@@ -63,6 +64,18 @@ export const setStoredComplexityMode = (complexity: string) => {
   }
 }
 
+export const setStoredKeyboardMode = (keyboard: string) => {
+  if (keyboard) {
+    localStorage.setItem(keyboardKey, keyboard)
+  } else {
+    localStorage.removeItem(keyboardKey)
+  }
+}
+
 export const getStoredComplexityMode = () => {
   return localStorage.getItem(complexityKey)
+}
+
+export const getStoredKeyboardMode = () => {
+  return localStorage.getItem(keyboardKey)
 }

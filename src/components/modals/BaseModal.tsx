@@ -40,12 +40,12 @@ export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
           >
             <div className="inline-block transform overflow-hidden rounded-lg bg-white px-4 pt-5 pb-4 text-left align-bottom shadow-xl transition-all dark:bg-gray-800 sm:my-8 sm:w-full sm:max-w-sm sm:p-6 sm:align-middle">
               <button
-                onClick={() => handleClose()}
+                onClick={handleClose}
                 tabIndex={0}
                 aria-pressed="false"
                 className="absolute right-4 top-4"
               >
-                <XCircleIcon className="h-6 w-6 cursor-pointer dark:stroke-white" />
+                <XCircleIcon className="h-6 w-6 dark:stroke-white" />
               </button>
               <div>
                 <div className="text-center">
