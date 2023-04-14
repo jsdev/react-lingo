@@ -4,7 +4,15 @@ import { DELETE_TEXT, ENTER_TEXT } from '../../constants/strings'
 import { getStatuses } from '../../lib/statuses'
 import { localeAwareUpperCase } from '../../lib/words'
 import { Key } from './Key'
-import { KeyboardProps } from './KeyboardProps'
+import { KeyboardProps, keyboardRowStyles } from './KeyboardProps'
+
+const enterKeyRowStyles = Object.assign(
+  {
+    display: 'grid',
+    gridTemplateColumns: '1f 1fr 1fr 1fr 1fr 1fr 1fr 3fr'
+  },
+  keyboardRowStyles,
+)
 
 export const KeyboardQWERTY = ({
   onChar,
@@ -48,8 +56,8 @@ export const KeyboardQWERTY = ({
   }, [onEnter, onDelete, onChar])
 
   return (
-    <div>
-      <div className="mb-1 flex justify-center">
+    <>
+      <div className="mb-1 flex justify-center grid grid-cols-10" style={keyboardRowStyles}>
         {['Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P'].map((key) => (
           <Key
             value={key}
@@ -60,7 +68,7 @@ export const KeyboardQWERTY = ({
           />
         ))}
       </div>
-      <div className="mb-1 flex justify-center">
+      <div className="mb-1 flex justify-center grid grid-cols-10" style={keyboardRowStyles}>
         {['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'].map((key) => (
           <Key
             value={key}
@@ -76,7 +84,7 @@ export const KeyboardQWERTY = ({
           />
         </Key>
       </div>
-      <div className="flex justify-center">
+      <div className="flex justify-center grid enter-key-row" style={enterKeyRowStyles}>
         {['Z', 'X', 'C', 'V', 'B', 'N', 'M'].map((key) => (
           <Key
             value={key}
@@ -90,6 +98,6 @@ export const KeyboardQWERTY = ({
           {ENTER_TEXT}
         </Key>
       </div>
-    </div>
+    </>
   )
 }

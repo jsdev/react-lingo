@@ -388,39 +388,41 @@ function App() {
               currentRowClassName={currentRowClass}
             />
           </div>
-          {keyboardMode === 'ALPHABET' &&
-            <KeyboardAlphabet
-              onChar={onChar}
-              onDelete={onDelete}
-              onEnter={onEnter}
-              solution={solution}
-              guesses={guesses}
-              isWordInWordList={isWordInWordList}
-              isRevealing={isRevealing}
-            />
-          }
-          {keyboardMode === 'VOWELS' &&
-            <KeyboardVowels
-              onChar={onChar}
-              onDelete={onDelete}
-              onEnter={onEnter}
-              solution={solution}
-              guesses={guesses}
-              isWordInWordList={isWordInWordList}
-              isRevealing={isRevealing}
-            />
-          }
-          {keyboardMode === 'QWERTY' &&
-            <KeyboardQWERTY
-              onChar={onChar}
-              onDelete={onDelete}
-              onEnter={onEnter}
-              solution={solution}
-              guesses={guesses}
-              isWordInWordList={isWordInWordList}
-              isRevealing={isRevealing}
-            />
-          }
+          <center>
+            {keyboardMode === 'ALPHABET' &&
+              <KeyboardAlphabet
+                onChar={onChar}
+                onDelete={onDelete}
+                onEnter={onEnter}
+                solution={solution}
+                guesses={guesses}
+                isWordInWordList={isWordInWordList}
+                isRevealing={isRevealing}
+              />
+            }
+            {keyboardMode === 'VOWELS' &&
+              <KeyboardVowels
+                onChar={onChar}
+                onDelete={onDelete}
+                onEnter={onEnter}
+                solution={solution}
+                guesses={guesses}
+                isWordInWordList={isWordInWordList}
+                isRevealing={isRevealing}
+              />
+            }
+            {keyboardMode === 'QWERTY' &&
+              <KeyboardQWERTY
+                onChar={onChar}
+                onDelete={onDelete}
+                onEnter={onEnter}
+                solution={solution}
+                guesses={guesses}
+                isWordInWordList={isWordInWordList}
+                isRevealing={isRevealing}
+              />
+            }
+          </center>
           <InfoModal
             isOpen={isInfoModalOpen}
             handleClose={() => setIsInfoModalOpen(false)}

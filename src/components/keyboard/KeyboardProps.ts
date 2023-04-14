@@ -10,5 +10,5 @@ export type KeyboardProps = {
 
 export const keyboardRowStyles = {
     minWidth: 350,
-    maxWidth: '100'
+    maxWidth: 600
 }
