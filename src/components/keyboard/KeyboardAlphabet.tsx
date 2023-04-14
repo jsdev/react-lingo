@@ -4,7 +4,7 @@ import { DELETE_TEXT } from '../../constants/strings'
 import { getStatuses } from '../../lib/statuses'
 import { localeAwareUpperCase } from '../../lib/words'
 import { Key } from './Key'
-import { KeyboardProps } from './KeyboardProps'
+import { KeyboardProps, keyboardRowStyles } from './KeyboardProps'
 
 export const KeyboardAlphabet = ({
     onChar,
@@ -49,7 +49,7 @@ export const KeyboardAlphabet = ({
 
     return (
         <>
-            <div className="mb-1 flex justify-center">
+            <div className="mb-1 flex justify-center grid grid-cols-9" style={keyboardRowStyles}>
                 <Key aria-label={DELETE_TEXT} value="DELETE" onClick={onClick}>
                     <BackspaceIcon
                         className="h-6 w-6 dark:stroke-white"
@@ -65,7 +65,7 @@ export const KeyboardAlphabet = ({
                     />
                 ))}
             </div>
-            <div className="mb-1 flex justify-center">
+            <div className="mb-1 flex justify-center grid grid-cols-9" style={keyboardRowStyles}>
                 {['I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q'].map((key) => (
                     <Key
                         value={key}
@@ -76,7 +76,7 @@ export const KeyboardAlphabet = ({
                     />
                 ))}
             </div>
-            <div className="flex justify-center">
+            <div className="mb-1 flex justify-center grid grid-cols-9" style={keyboardRowStyles}>
                 {['R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'].map((key) => (
                     <Key
                         value={key}

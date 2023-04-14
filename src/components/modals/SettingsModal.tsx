@@ -79,11 +79,11 @@ export const SettingsModal = ({
           </select>
         </div>
         {/* <SettingsToggle
-            settingName="Hard Mode"
-            flag={isHardMode}
-            handleFlag={handleHardMode}
-            description={HARD_MODE_DESCRIPTION}
-          /> */}
+          settingName="Hard Mode"
+          flag={isHardMode}
+          handleFlag={handleHardMode}
+          description={HARD_MODE_DESCRIPTION}
+        /> */}
         <SettingsToggle
           settingName="Dark Mode"
           flag={isDarkMode}

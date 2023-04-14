@@ -19,7 +19,6 @@ type Props = {
 export const Key = ({
   children,
   status,
-  width = 45,
   value,
   onClick,
   isRevealing,
@@ -48,7 +47,6 @@ export const Key = ({
 
   const styles = {
     transitionDelay: isRevealing ? `${keyDelayMs}ms` : 'unset',
-    width: `${width}px`,
     fontSize: '1em'
   }
 

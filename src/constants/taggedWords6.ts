@@ -8296,59 +8296,59 @@ export const alphabet6 = {
             isRoot: false,
             complexity: "Elementary"
         },
-        {
-            word: "crimpy",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "High School"
-        },
-        {
-            word: "crinal",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "Elementary"
-        },
-        {
-            word: "crines",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "crimpy",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "High School"
+        // },
+        // {
+        //     word: "crinal",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "Elementary"
+        // },
+        // {
+        //     word: "crines",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "Elementary"
+        // },
         {
             word: "cringe",
             isCapitalized: false,
             isRoot: true,
             complexity: "Middle School"
         },
-        {
-            word: "crinum",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "College"
-        },
-        {
-            word: "cripes",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Elementary"
-        },
-        {
-            word: "crises",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "unknown"
-        },
-        {
-            word: "crisic",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "crinum",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "College"
+        // },
+        // {
+        //     word: "cripes",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Elementary"
+        // },
+        // {
+        //     word: "crises",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "unknown"
+        // },
+        // {
+        //     word: "crisic",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "Elementary"
+        // },
         {
             word: "crisis",
             isCapitalized: false,
             isRoot: true,
-            complexity: "Elementary"
+            complexity: "Middle School"
         },
         {
             word: "crispy",
@@ -8416,24 +8416,24 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "Middle School"
         },
-        {
-            word: "cruors",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "High School"
-        },
+        // {
+        //     word: "cruors",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "High School"
+        // },
         {
             word: "crural",
             isCapitalized: false,
             isRoot: true,
             complexity: "College"
         },
-        {
-            word: "crutch",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "High School"
-        },
+        // {
+        //     word: "crutch",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "High School"
+        // },
         {
             word: "crypto",
             isCapitalized: false,
@@ -8482,24 +8482,24 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "Post-College"
         },
-        {
-            word: "cueist",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Middle School"
-        },
-        {
-            word: "cuesta",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "High School"
-        },
-        {
-            word: "cuffed",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "unknown"
-        },
+        // {
+        //     word: "cueist",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Middle School"
+        // },
+        // {
+        //     word: "cuesta",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "High School"
+        // },
+        // {
+        //     word: "cuffed",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "unknown"
+        // },
         {
             word: "cuirie",
             isCapitalized: false,
@@ -8606,7 +8606,7 @@ export const alphabet6 = {
             word: "curers",
             isCapitalized: false,
             isRoot: false,
-            complexity: "Elementary"
+            complexity: "High School"
         },
         {
             word: "curfew",
@@ -8614,54 +8614,54 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "Middle School"
         },
-        {
-            word: "curial",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "unknown"
-        },
+        // {
+        //     word: "curial",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "unknown"
+        // },
         {
             word: "curing",
             isCapitalized: false,
             isRoot: false,
-            complexity: "unknown"
-        },
-        {
-            word: "curios",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "unknown"
-        },
-        {
-            word: "curite",
-            isCapitalized: false,
-            isRoot: true,
             complexity: "Middle School"
         },
-        {
-            word: "curium",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Post-College"
-        },
+        // {
+        //     word: "curios",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "unknown"
+        // },
+        // {
+        //     word: "curite",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Middle School"
+        // },
+        // {
+        //     word: "curium",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Post-College"
+        // },
         {
             word: "curler",
             isCapitalized: false,
             isRoot: true,
             complexity: "College"
         },
-        {
-            word: "curlew",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Post-College"
-        },
-        {
-            word: "curred",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "unknown"
-        },
+        // {
+        //     word: "curlew",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Post-College"
+        // },
+        // {
+        //     word: "curred",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "unknown"
+        // },
         {
             word: "currie",
             isCapitalized: false,
@@ -8690,7 +8690,7 @@ export const alphabet6 = {
             word: "cursor",
             isCapitalized: false,
             isRoot: true,
-            complexity: "Elementary"
+            complexity: "High School"
         },
         {
             word: "curtal",
@@ -8908,36 +8908,36 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "unknown"
         },
-        {
-            word: "cypres",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "unknown"
-        },
-        {
-            word: "cyprus",
-            isCapitalized: true,
-            isRoot: false,
-            complexity: "unknown"
-        },
-        {
-            word: "cystic",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Middle School"
-        },
-        {
-            word: "cytost",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "College"
-        },
-        {
-            word: "cywydd",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Post-College"
-        },
+        // {
+        //     word: "cypres",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "unknown"
+        // },
+        // {
+        //     word: "cyprus",
+        //     isCapitalized: true,
+        //     isRoot: false,
+        //     complexity: "unknown"
+        // },
+        // {
+        //     word: "cystic",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Middle School"
+        // },
+        // {
+        //     word: "cytost",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "College"
+        // },
+        // {
+        //     word: "cywydd",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Post-College"
+        // },
     ],
     d: [
         {

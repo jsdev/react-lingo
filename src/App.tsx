@@ -66,10 +66,16 @@ function App() {
   const prefersDarkMode = window.matchMedia(
     '(prefers-color-scheme: dark)'
   ).matches
+  const [isHardMode, setIsHardMode] = useState(
+    localStorage.getItem('gameMode')
+      ? localStorage.getItem('gameMode') === 'hard'
+      : false
+  )
 
   const { showError: showErrorAlert, showSuccess: showSuccessAlert } =
     useAlert()
-  const [currentGuess, setCurrentGuess] = useState('')
+  const defaultHardGuess = localStorage.given.replaceAll('*', ' ')
+  const [currentGuess, setCurrentGuess] = useState(isHardMode ? defaultHardGuess : '')
   const [isGameWon, setIsGameWon] = useState(false)
   const [isInfoModalOpen, setIsInfoModalOpen] = useState(false)
   const [isStatsModalOpen, setIsStatsModalOpen] = useState(false)
@@ -119,12 +125,6 @@ function App() {
   })
 
   const [stats, setStats] = useState(() => loadStats())
-
-  const [isHardMode, setIsHardMode] = useState(
-    localStorage.getItem('gameMode')
-      ? localStorage.getItem('gameMode') === 'hard'
-      : false
-  )
 
   useEffect(() => {
     // if no game state on load,
@@ -221,22 +221,37 @@ function App() {
   }, [isGameWon, isGameLost, showSuccessAlert])
 
   const onChar = (value: string) => {
+    const guess = isHardMode ? currentGuess.replace(' ', value) : currentGuess + value;
+
     if (
-      unicodeLength(`${currentGuess}${value}`) <= solution.length &&
+      unicodeLength(guess) <= solution.length &&
       guesses.length < MAX_CHALLENGES &&
       !isGameWon
     ) {
-      setCurrentGuess(`${currentGuess}${value}`)
+      setCurrentGuess(guess)
     }
-    if (unicodeLength(`${currentGuess}${value}`) === solution.length) {
-      setTimeout(onEnter, 200)
+    if (unicodeLength(guess) === solution.length) {
+      setTimeout(onEnter, 5000)
     }
   }
 
   const onDelete = () => {
-    setCurrentGuess(
-      new GraphemeSplitter().splitGraphemes(currentGuess).slice(0, -1).join('')
-    )
+    if (isHardMode) {
+      const given = localStorage.given
+      const guess = currentGuess.split('');
+      for (let i = solution.length - 1; i >= 0; i--) {
+        if (currentGuess[i] !== ' ' && given[i] !== currentGuess[i]) {
+          guess[i] = ' '
+          setCurrentGuess(guess.join(''))
+
+          return
+        }
+      }
+    } else {
+      setCurrentGuess(
+        new GraphemeSplitter().splitGraphemes(currentGuess).slice(0, -1).join('')
+      )
+    }
   }
 
   const onEnter = () => {
@@ -244,18 +259,13 @@ function App() {
       return
     }
 
-    const guess = document?.querySelector('[data-current]')?.textContent || ''
+    const guess = document!.querySelector('[data-current]')?.textContent!
 
     console.log('guess', guess)
 
-    // if (!(unicodeLength(currentGuess) === solution.length)) {
-    //   setCurrentRowClass('jiggle')
-    //   // setIsGameLost(true);
-
-    //   return showErrorAlert(NOT_ENOUGH_LETTERS_MESSAGE, {
-    //     onClose: clearCurrentRowClass,
-    //   })
-    // }
+    if (!(unicodeLength(currentGuess) === solution.length)) {
+      return
+    }
 
     // if (!isWordInWordList(guess)) {
     //   console.log(currentGuess)
@@ -278,6 +288,13 @@ function App() {
     //   }
     // }
 
+    // if (isHardMode) {
+    //   if (guess.length === solution.length) {
+    //     setIsRevealing(true)
+    //   }
+    // } else {
+    //   setIsRevealing(true)
+    // }
     setIsRevealing(true)
     // turn this back off after all
     // chars have been revealed
@@ -293,7 +310,7 @@ function App() {
       !isGameWon
     ) {
       setGuesses([...guesses, guess])
-      setCurrentGuess('')
+      setCurrentGuess(isHardMode ? localStorage.given.replaceAll('*', ' ') : '')
 
       if (winningWord) {
         if (isLatestGame) {
@@ -365,6 +382,7 @@ function App() {
             <Grid
               solution={solution}
               guesses={guesses}
+              isHardMode={isHardMode}
               currentGuess={currentGuess}
               isRevealing={isRevealing}
               currentRowClassName={currentRowClass}

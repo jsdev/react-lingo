@@ -7,3 +7,8 @@ export type KeyboardProps = {
     isRevealing?: boolean
     isWordInWordList: (word: string) => boolean
 }
+
+export const keyboardRowStyles = {
+    minWidth: 350,
+    maxWidth: '100'
+}
