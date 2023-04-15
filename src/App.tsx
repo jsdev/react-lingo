@@ -60,6 +60,13 @@ import { possibilities, alphabet } from './constants/validGuesses'
 import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet'
 import { KeyboardQWERTY } from './components/keyboard/KeyboardQwerty'
 import { KeyboardVowels } from './components/keyboard/KeyboardVowels'
+import { KeyboardProps } from './components/keyboard/KeyboardProps'
+
+const Keyboards: any = {
+  'ALPHABET': KeyboardAlphabet,
+  'VOWELS': KeyboardVowels,
+  'QWERTY': KeyboardQWERTY,
+}
 
 function App() {
   const isLatestGame = getIsLatestGame()
@@ -233,6 +240,24 @@ function App() {
     }
   }, [isGameWon, isGameLost, showSuccessAlert])
 
+  const onCharLetter = (value: string) => {
+    const given = localStorage.given
+    const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
+    const splitGiven = given.split('');
+    if (
+      unicodeLength(guess) <= solution.length &&
+      guesses.length < MAX_CHALLENGES &&
+      !isGameWon
+    ) {
+      setCurrentGuess(guess)
+      for (let i = 0; i < solution.length; i++) {
+        if (guess[i] === solution[i]) splitGiven[i] = solution[i]
+      }
+      localStorage.given = splitGiven.join('')
+    }
+    if (solution === localStorage.given) setIsGameWon(true)
+  }
+
   const onChar = (value: string) => {
     const given = localStorage.given
     const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
@@ -247,6 +272,9 @@ function App() {
     if (keyboardMode !== 'QWERTY' && guess.length === solution.length) {
       setTimeout(onEnter, 2000)
     }
+  }
+
+  const doNothing = (): void => {
   }
 
   const onDelete = () => {
@@ -269,7 +297,7 @@ function App() {
   }
 
   const onEnter = () => {
-    if (isGameWon || isGameLost) {
+    if (isGameWon || isGameLost || isFeedbackMode) {
       return
     }
 
@@ -371,6 +399,11 @@ function App() {
     width: 350
   }
 
+  const onCharType = isFeedbackMode ? onCharLetter : onChar
+  const onEnterType = isFeedbackMode ? doNothing : onEnter
+
+  const Keyboard: any = Keyboards[keyboardMode]
+
   return (
     <Div100vh>
       <div className="flex h-full flex-col">
@@ -407,39 +440,15 @@ function App() {
             />
           </div>
           <center>
-            {keyboardMode === 'ALPHABET' &&
-              <KeyboardAlphabet
-                onChar={onChar}
-                onDelete={onDelete}
-                onEnter={onEnter}
-                solution={solution}
-                guesses={guesses}
-                isWordInWordList={isWordInWordList}
-                isRevealing={isRevealing}
-              />
-            }
-            {keyboardMode === 'VOWELS' &&
-              <KeyboardVowels
-                onChar={onChar}
-                onDelete={onDelete}
-                onEnter={onEnter}
-                solution={solution}
-                guesses={guesses}
-                isWordInWordList={isWordInWordList}
-                isRevealing={isRevealing}
-              />
-            }
-            {keyboardMode === 'QWERTY' &&
-              <KeyboardQWERTY
-                onChar={onChar}
-                onDelete={onDelete}
-                onEnter={onEnter}
-                solution={solution}
-                guesses={guesses}
-                isWordInWordList={isWordInWordList}
-                isRevealing={isRevealing}
-              />
-            }
+            <Keyboard
+              onChar={onCharType}
+              onDelete={onDelete}
+              onEnter={onEnterType}
+              solution={solution}
+              guesses={guesses}
+              isWordInWordList={isWordInWordList}
+              isRevealing={isRevealing}
+            />
           </center>
           <InfoModal
             isOpen={isInfoModalOpen}
@@ -449,7 +458,7 @@ function App() {
             isOpen={isStatsModalOpen}
             handleClose={() => {
               setIsStatsModalOpen(false)
-              if (isGameLost) {
+              if (isGameLost || (isGameWon && isFeedbackMode)) {
                 handleNewGame()
               }
             }}

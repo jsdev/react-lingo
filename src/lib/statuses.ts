@@ -17,6 +17,26 @@ export const getRevealStatus = (
   return charObj
 }
 
+export const getLetterRevealStatus = (
+  solution: string,
+  given: string
+): CharStatus[] => {
+  const charObj: CharStatus[] = []
+  const splitSolution = unicodeSplit(solution)
+
+  unicodeSplit(given).forEach((letter, i) => {
+    charObj[i] = letter as unknown as CharStatus
+    if (letter === splitSolution[i]) {
+      return CharStatus.Correct
+    } else {
+      return CharStatus.Absent
+    }
+  }
+  )
+
+  return charObj
+}
+
 export const getStatuses = (
   solution: string,
   guesses: string[],

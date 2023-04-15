@@ -1,4 +1,4 @@
-import { getRevealStatus } from '../../lib/statuses'
+import { getLetterRevealStatus, getRevealStatus } from '../../lib/statuses'
 import { merge, solution, unicodeSplit } from '../../lib/words'
 import { HardenedCell } from './HardenedCell'
 
@@ -10,7 +10,7 @@ type Props = {
 export const FeedbackRow = ({ guess, className }: Props) => {
     const given = localStorage.given
     const mergeGuess = merge(given, guess)
-    const statuses = getRevealStatus(solution, mergeGuess) // change to merge for instant feedback
+    const statuses = getLetterRevealStatus(solution, mergeGuess) // change to merge for instant feedback
     const splitGuess = unicodeSplit(mergeGuess)
     const classes = `flex justify-center mb-1 ${className}`
 
