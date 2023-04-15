@@ -1,4 +1,4 @@
-import { getLetterRevealStatus, getRevealStatus } from '../../lib/statuses'
+import { getLetterRevealStatus } from '../../lib/statuses'
 import { merge, solution, unicodeSplit } from '../../lib/words'
 import { HardenedCell } from './HardenedCell'
 

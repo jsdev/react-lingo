@@ -60,7 +60,6 @@ import { possibilities, alphabet } from './constants/validGuesses'
 import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet'
 import { KeyboardQWERTY } from './components/keyboard/KeyboardQwerty'
 import { KeyboardVowels } from './components/keyboard/KeyboardVowels'
-import { KeyboardProps } from './components/keyboard/KeyboardProps'
 
 const Keyboards: any = {
   'ALPHABET': KeyboardAlphabet,
