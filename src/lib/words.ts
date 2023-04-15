@@ -137,12 +137,10 @@ export const getRandomWord = (words: string[]) => {
   return localeAwareUpperCase(randomWord)
 }
 
-function createArray(n: number): Array<number> {
-  // Create a new array with the given length
-  let arr = new Array<number>(n);
-  // Return the array
-  return arr;
-}
+// function createArray(n: number): Array<number> {
+//   let arr = new Array<number>(n);
+//   return arr;
+// }
 
 export const spaces = (n: number): string => {
   let result = "";
@@ -165,7 +163,6 @@ export const merge = (given: string, guess: string): string => {
 }
 
 export const getSolution = (gameDate: Date) => {
-  const nextGameDate = getNextGameDate(gameDate)
   const index = getIndex(gameDate)
   if (!localStorage.complexity) {
     localStorage.complexity = 'Elementary'
