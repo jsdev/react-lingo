@@ -27829,4 +27829,4 @@ export const possibilities = (
     !out[3].toLowerCase().includes(word[3]) &&
     !out[4].toLowerCase().includes(word[4]) &&
     !out[5].toLowerCase().includes(word[5]))
-  .filter((word: string) => word.split('').every((letter, i) => ['*', letter].includes(given[i])))
+  .filter((word: string) => word.split('').every((letter, i) => [' ', letter].includes(given[i])))

@@ -24,9 +24,8 @@ export const shareStatus = (
   handleShareFailure: () => void
 ) => {
   const textToShare =
-    `${GAME_TITLE} ${solutionIndex} ${
-      lost ? 'X' : guesses.length
-    }/${MAX_CHALLENGES}${isHardMode ? '*' : ''}\n\n` +
+    `${GAME_TITLE} ${solutionIndex} ${lost ? 'X' : guesses.length
+    }/${MAX_CHALLENGES}${isHardMode ? ' ' : ''}\n\n` +
     generateEmojiGrid(
       solution,
       guesses,

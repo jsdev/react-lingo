@@ -7,10 +7,10 @@ type Props = {
     className: string
 }
 
-export const HardenedCurrentRow = ({ guess, className }: Props) => {
+export const FeedbackRow = ({ guess, className }: Props) => {
     const given = localStorage.given
     const mergeGuess = merge(given, guess)
-    const statuses = getRevealStatus(solution, given) // change to merge for instant feedback
+    const statuses = getRevealStatus(solution, mergeGuess) // change to merge for instant feedback
     const splitGuess = unicodeSplit(mergeGuess)
     const classes = `flex justify-center mb-1 ${className}`
 

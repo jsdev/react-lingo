@@ -50,6 +50,7 @@ import {
   getIsLatestGame,
   isWinningWord,
   isWordInWordList,
+  merge,
   setGameDate,
   solution,
   solutionGameDate,
@@ -66,6 +67,9 @@ function App() {
   const prefersDarkMode = window.matchMedia(
     '(prefers-color-scheme: dark)'
   ).matches
+  const [isFeedbackMode, setIsFeedbackMode] = useState(
+    !!localStorage.getItem('feedbackMode')
+  )
   const [isHardMode, setIsHardMode] = useState(
     localStorage.getItem('gameMode')
       ? localStorage.getItem('gameMode') === 'hard'
@@ -74,7 +78,7 @@ function App() {
 
   const { showError: showErrorAlert, showSuccess: showSuccessAlert } =
     useAlert()
-  const defaultHardGuess = localStorage.given.replaceAll('*', ' ')
+  const defaultHardGuess = localStorage.given
   const [currentGuess, setCurrentGuess] = useState(isHardMode ? defaultHardGuess : '')
   const [isGameWon, setIsGameWon] = useState(false)
   const [isInfoModalOpen, setIsInfoModalOpen] = useState(false)
@@ -173,6 +177,15 @@ function App() {
     }
   }
 
+  const handleFeedbackMode = (isFeedbackMode: boolean) => {
+    if (localStorage.getItem('feedbackMode')) {
+      delete localStorage.feedbackMode
+    } else {
+      setIsFeedbackMode(isFeedbackMode)
+      localStorage.setItem('feedbackMode', 'true')
+    }
+  }
+
   const handleHighContrastMode = (isHighContrast: boolean) => {
     setIsHighContrastMode(isHighContrast)
     setStoredIsHighContrastMode(isHighContrast)
@@ -221,8 +234,8 @@ function App() {
   }, [isGameWon, isGameLost, showSuccessAlert])
 
   const onChar = (value: string) => {
-    const guess = isHardMode ? currentGuess.replace(' ', value) : currentGuess + value;
-
+    const given = localStorage.given
+    const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
     if (
       unicodeLength(guess) <= solution.length &&
       guesses.length < MAX_CHALLENGES &&
@@ -230,8 +243,9 @@ function App() {
     ) {
       setCurrentGuess(guess)
     }
-    if (unicodeLength(guess) === solution.length) {
-      setTimeout(onEnter, 5000)
+
+    if (keyboardMode !== 'QWERTY' && guess.length === solution.length) {
+      setTimeout(onEnter, 2000)
     }
   }
 
@@ -261,9 +275,11 @@ function App() {
 
     const guess = document!.querySelector('[data-current]')?.textContent!
 
-    console.log('guess', guess)
+    if (!(unicodeLength(guess) === solution.length)) {
+      return
+    }
 
-    if (!(unicodeLength(currentGuess) === solution.length)) {
+    if (guess.indexOf(' ') >= 0) {
       return
     }
 
@@ -295,12 +311,6 @@ function App() {
     // } else {
     //   setIsRevealing(true)
     // }
-    setIsRevealing(true)
-    // turn this back off after all
-    // chars have been revealed
-    setTimeout(() => {
-      setIsRevealing(false)
-    }, REVEAL_TIME_MS * solution.length)
 
     const winningWord = isWinningWord(guess)
 
@@ -310,7 +320,7 @@ function App() {
       !isGameWon
     ) {
       setGuesses([...guesses, guess])
-      setCurrentGuess(isHardMode ? localStorage.given.replaceAll('*', ' ') : '')
+      setCurrentGuess(isHardMode ? localStorage.given : '')
 
       if (winningWord) {
         if (isLatestGame) {
@@ -329,6 +339,13 @@ function App() {
           delayMs: REVEAL_TIME_MS * solution.length + 1,
         })
       }
+      setIsRevealing(true)
+      // turn this back off after all
+      // chars have been revealed
+      setTimeout(() => {
+        setIsRevealing(false)
+      }, REVEAL_TIME_MS * solution.length)
+
     }
   }
 
@@ -382,6 +399,7 @@ function App() {
             <Grid
               solution={solution}
               guesses={guesses}
+              isFeedbackMode={isFeedbackMode}
               isHardMode={isHardMode}
               currentGuess={currentGuess}
               isRevealing={isRevealing}
@@ -431,7 +449,7 @@ function App() {
             isOpen={isStatsModalOpen}
             handleClose={() => {
               setIsStatsModalOpen(false)
-              if (isGameWon || isGameLost) {
+              if (isGameLost) {
                 handleNewGame()
               }
             }}
@@ -473,6 +491,8 @@ function App() {
           <SettingsModal
             isOpen={isSettingsModalOpen}
             handleClose={() => setIsSettingsModalOpen(false)}
+            isFeedbackMode={isFeedbackMode}
+            handleFeedbackMode={handleFeedbackMode}
             isHardMode={isHardMode}
             handleHardMode={handleHardMode}
             isDarkMode={isDarkMode}

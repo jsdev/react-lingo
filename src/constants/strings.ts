@@ -7,8 +7,10 @@ export const WORD_NOT_FOUND_MESSAGE = 'Word not found'
 export const INVALID_WORD = 'Invalid Word'
 export const HARD_MODE_ALERT_MESSAGE =
   'Hard Mode can be enabled only at the start!'
+export const FEEDBACK_MODE_DESCRIPTION =
+  'Letter guesses instead of words guesses'
 export const HARD_MODE_DESCRIPTION =
-  'Any revealed hints must be used in subsequent guesses'
+  'Locked into using green matches'
 export const HIGH_CONTRAST_MODE_DESCRIPTION = 'For improved color vision'
 export const DARK_MODE_DESCRIPTION = 'Because every app should offer it'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>

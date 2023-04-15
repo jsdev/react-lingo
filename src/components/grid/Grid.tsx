@@ -2,6 +2,7 @@ import { MAX_CHALLENGES } from '../../constants/settings'
 import { CompletedRow } from './CompletedRow'
 import { CurrentRow } from './CurrentRow'
 import { EmptyRow } from './EmptyRow'
+import { FeedbackRow } from './FeedbackRow'
 import { HardenedCurrentRow } from './HardenedCurrentRow'
 
 type Props = {
@@ -11,6 +12,7 @@ type Props = {
   isRevealing?: boolean
   currentRowClassName: string
   isHardMode?: boolean
+  isFeedbackMode?: boolean
 }
 
 export const Grid = ({
@@ -19,7 +21,8 @@ export const Grid = ({
   currentGuess,
   isRevealing,
   currentRowClassName,
-  isHardMode
+  isHardMode,
+  isFeedbackMode,
 }: Props) => {
   const empties =
     guesses.length < MAX_CHALLENGES - 1
@@ -28,20 +31,31 @@ export const Grid = ({
 
   return (
     <>
-      {guesses.map((guess, i) => (
-        <CompletedRow
-          key={i}
-          solution={solution}
-          guess={guess}
-          isRevealing={isRevealing && guesses.length - 1 === i}
-        />
-      ))}
-      {guesses.length < MAX_CHALLENGES && (
+      {isFeedbackMode ?
+        <FeedbackRow
+          guess={currentGuess}
+          className={currentRowClassName}
+        /> :
+        guesses.map((guess, i) => (
+          <CompletedRow
+            key={i}
+            solution={solution}
+            guess={guess}
+            isRevealing={isRevealing && guesses.length - 1 === i}
+          />
+        ))}
+      {isFeedbackMode ? '' : guesses.length < MAX_CHALLENGES && (
         isHardMode ?
-          <HardenedCurrentRow guess={currentGuess} className={currentRowClassName} /> :
-          <CurrentRow guess={currentGuess} className={currentRowClassName} />
+          <HardenedCurrentRow
+            guess={currentGuess}
+            className={currentRowClassName}
+          /> :
+          <CurrentRow
+            guess={currentGuess}
+            className={currentRowClassName}
+          />
       )}
-      {empties.map((_, i) => (
+      {isFeedbackMode ? '' : empties.map((_, i) => (
         <EmptyRow key={i} />
       ))}
     </>

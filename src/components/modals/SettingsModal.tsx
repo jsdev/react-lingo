@@ -1,7 +1,8 @@
 import {
-  // HARD_MODE_DESCRIPTION,
+  HARD_MODE_DESCRIPTION,
   DARK_MODE_DESCRIPTION,
   HIGH_CONTRAST_MODE_DESCRIPTION,
+  FEEDBACK_MODE_DESCRIPTION,
 } from '../../constants/strings'
 import { BaseModal } from './BaseModal'
 import { SettingsToggle } from './SettingsToggle'
@@ -16,6 +17,8 @@ export const complexityOptions = [
 type Props = {
   isOpen: boolean
   handleClose: () => void
+  isFeedbackMode: boolean
+  handleFeedbackMode: Function
   isHardMode: boolean
   handleHardMode: Function
   isDarkMode: boolean
@@ -38,8 +41,10 @@ const selectStyles = {
 export const SettingsModal = ({
   isOpen,
   handleClose,
-  // isHardMode,
-  // handleHardMode,
+  isFeedbackMode,
+  handleFeedbackMode,
+  isHardMode,
+  handleHardMode,
   isDarkMode,
   handleDarkMode,
   isHighContrastMode,
@@ -78,12 +83,18 @@ export const SettingsModal = ({
             <option value="QWERTY">QWERTY</option>
           </select>
         </div>
-        {/* <SettingsToggle
+        <SettingsToggle
+          settingName="Letter Mode"
+          flag={isFeedbackMode}
+          handleFlag={handleFeedbackMode}
+          description={FEEDBACK_MODE_DESCRIPTION}
+        />
+        <SettingsToggle
           settingName="Hard Mode"
           flag={isHardMode}
           handleFlag={handleHardMode}
           description={HARD_MODE_DESCRIPTION}
-        /> */}
+        />
         <SettingsToggle
           settingName="Dark Mode"
           flag={isDarkMode}

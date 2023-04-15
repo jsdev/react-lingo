@@ -137,6 +137,33 @@ export const getRandomWord = (words: string[]) => {
   return localeAwareUpperCase(randomWord)
 }
 
+function createArray(n: number): Array<number> {
+  // Create a new array with the given length
+  let arr = new Array<number>(n);
+  // Return the array
+  return arr;
+}
+
+export const spaces = (n: number): string => {
+  let result = "";
+  for (let i = 0; i < n; i++) {
+    result += " "
+  }
+
+  return result
+}
+
+export const merge = (given: string, guess: string): string => {
+  let result = "";
+
+  for (let i = 0; i < given.length; i++) {
+    result += given[i] === " " && guess[i] >= "A" && guess[i] <= "Z" ?
+      guess[i] :
+      given[i]
+  }
+  return result;
+}
+
 export const getSolution = (gameDate: Date) => {
   const nextGameDate = getNextGameDate(gameDate)
   const index = getIndex(gameDate)
@@ -147,7 +174,7 @@ export const getSolution = (gameDate: Date) => {
   if (!localStorage.complexity) {
     localStorage.complexity = 'Elementary'
   }
-  localStorage.given = wordOfTheDay[0] + '*****'
+  localStorage.given = wordOfTheDay[0] + spaces(wordOfTheDay.length - 1)
   localStorage.out = JSON.stringify({
     0: '',
     1: '',
@@ -161,7 +188,8 @@ export const getSolution = (gameDate: Date) => {
     solution: wordOfTheDay,
     solutionGameDate: gameDate,
     solutionIndex: index,
-    tomorrow: nextGameDate.valueOf(),
+    given: localStorage.given
+    // tomorrow: nextGameDate.valueOf(),
   }
 }
 
@@ -203,5 +231,5 @@ export const getIsLatestGame = () => {
   return parsed === null || !('d' in parsed)
 }
 
-export const { solution, solutionGameDate, solutionIndex, tomorrow } =
+export const { solution, solutionGameDate, solutionIndex, given } =
   getSolution(getGameDate())
