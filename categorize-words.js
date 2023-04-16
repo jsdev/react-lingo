@@ -4,120 +4,6 @@ const cheerio = require('cheerio');
 
 let missed = [
   {
-    word: "abacus",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "abased",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "abated",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "unknown"
-  },
-  {
-    word: "abates",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "unknown"
-  },
-  {
-    word: "abayas",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "Post-College"
-  },
-  {
-    word: "abbess",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Post-College"
-  },
-  {
-    word: "abbeys",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "Middle School"
-  },
-  {
-    word: "abbots",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "High School"
-  },
-  {
-    word: "abduct",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
-    word: "abhors",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "College"
-  },
-  {
-    word: "abided",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "unknown"
-  },
-  {
-    word: "abides",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "Middle School"
-  },
-  {
-    word: "abject",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "abjure",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Post-College"
-  },
-  {
-    word: "ablate",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
-    word: "ablaze",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "aboard",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "abound",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "abrade",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
     word: "abroad",
     isCapitalized: false,
     isRoot: true,
@@ -134,18 +20,6 @@ let missed = [
     isCapitalized: false,
     isRoot: true,
     complexity: "Elementary"
-  },
-  {
-    word: "absorb",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "absurd",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
   },
   {
     word: "abused",
@@ -166,24 +40,6 @@ let missed = [
     complexity: "Elementary"
   },
   {
-    word: "acacia",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "accede",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "accent",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
     word: "accept",
     isCapitalized: false,
     isRoot: true,
@@ -194,60 +50,6 @@ let missed = [
     isCapitalized: false,
     isRoot: true,
     complexity: "Elementary"
-  },
-  {
-    word: "accord",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "accost",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
-    word: "accrue",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "accuse",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "acetic",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "acetyl",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "aching",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "acidic",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "acinar",
-    isCapitalized: true,
-    isRoot: false,
-    complexity: "unknown"
   },
   {
     word: "across",
@@ -280,88 +82,10 @@ let missed = [
     complexity: "Elementary"
   },
   {
-    word: "acuity",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "acumen",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "adages",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "unknown"
-  },
-  {
-    word: "adagio",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "adapts",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "Middle School"
-  },
-  {
     word: "addend",
     isCapitalized: false,
     isRoot: true,
     complexity: "College"
-  },
-  {
-    word: "addict",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "adding",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "unknown"
-  },
-  {
-    word: "addled",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "unknown"
-  },
-  {
-    word: "adduce",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "adduct",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "adepts",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "Middle School"
-  },
-  {
-    word: "adhere",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "adjoin",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Post-College"
   },
   {
     word: "adjust",
@@ -370,76 +94,16 @@ let missed = [
     complexity: "Elementary"
   },
   {
-    word: "admire",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "adobes",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "Middle School"
-  },
-  {
     word: "adopts",
     isCapitalized: false,
     isRoot: false,
     complexity: "Elementary"
   },
   {
-    word: "adored",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "unknown"
-  },
-  {
-    word: "adores",
-    isCapitalized: false,
-    isRoot: false,
-    complexity: "unknown"
-  },
-  {
-    word: "adrift",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "adroit",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
-    word: "adsorb",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
     word: "adults",
     isCapitalized: false,
     isRoot: false,
     complexity: "Elementary"
-  },
-  {
-    word: "advent",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "adverb",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "advert",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
   },
   {
     word: "advice",
@@ -454,22 +118,10 @@ let missed = [
     complexity: "Elementary"
   },
   {
-    word: "aerate",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
     word: "aerial",
     isCapitalized: false,
     isRoot: true,
     complexity: "Elementary"
-  },
-  {
-    word: "affair",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
   },
   {
     word: "affect",
@@ -478,52 +130,10 @@ let missed = [
     complexity: "Elementary"
   },
   {
-    word: "affine",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "affirm",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
-    word: "afflux",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
-  },
-  {
     word: "afford",
     isCapitalized: false,
     isRoot: true,
     complexity: "Elementary"
-  },
-  {
-    word: "affray",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Post-College"
-  },
-  {
-    word: "afghan",
-    isCapitalized: true,
-    isRoot: false,
-    complexity: "unknown"
-  },
-  {
-    word: "aflame",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "afloat",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Middle School"
   },
   {
     word: "afraid",
@@ -544,22 +154,10 @@ let missed = [
     complexity: "Elementary"
   },
   {
-    word: "aghast",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "High School"
-  },
-  {
-    word: "agouti",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "College"
-  },
-  {
     word: "agreed",
-    isCapitalized: false,
-    isRoot: true,
-    complexity: "Elementary"
+    wordType: ["ADJECTIVE", "VERB"],
+    definition: ["discussed or negotiated and then accepted by all parties", "concur"],
+    hint: "We are ______ that is what is needed"
   },
   {
     word: "aiding",

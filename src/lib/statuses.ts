@@ -19,20 +19,22 @@ export const getRevealStatus = (
 
 export const getLetterRevealStatus = (
   solution: string,
-  given: string
+  guess: string
 ): CharStatus[] => {
-  const charObj: CharStatus[] = []
+  const given = localStorage.given
   const splitSolution = unicodeSplit(solution)
+  const splitGiven = given.split('');
 
-  unicodeSplit(given).forEach((letter, i) => {
-    charObj[i] = letter as unknown as CharStatus
+  const charObj: CharStatus[] = unicodeSplit(guess).map((letter, i) => {
     if (letter === splitSolution[i]) {
+      splitGiven[i] = letter
       return CharStatus.Correct
     } else {
       return CharStatus.Absent
     }
-  }
-  )
+  })
+
+  localStorage.given = splitGiven.join('')
 
   return charObj
 }
