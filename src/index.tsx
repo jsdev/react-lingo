@@ -11,6 +11,10 @@ const container = document.getElementById('root')
 
 // Create a root.
 const root = ReactDOMClient.createRoot(container as HTMLElement)
+if (process.env.NODE_ENV !== 'production') {
+  const axe = require('@axe-core/react');
+  axe(React, ReactDOMClient, 1000);
+}
 
 root.render(
   <React.StrictMode>

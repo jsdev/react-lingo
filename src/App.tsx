@@ -423,7 +423,7 @@ function App() {
           </div>
         )}
 
-        <div className="mx-auto flex w-full grow flex-col px-1 pt-2 pb-8 sm:px-6 md:max-w-7xl lg:px-8 short:pb-2 short:pt-2">
+        <main className="mx-auto flex w-full grow flex-col px-1 pt-2 pb-8 sm:px-6 md:max-w-7xl lg:px-8 short:pb-2 short:pt-2">
           <div className="flex grow flex-col justify-center pb-6 short:pb-2">
             <div style={statStyles} className='flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300'>
               <span>LEVEL: {complexity}</span><span>ODDS: {probability}%</span>
@@ -513,7 +513,7 @@ function App() {
             handleKeyboardMode={handleKeyboardMode}
           />
           <AlertContainer />
-        </div>
+        </main>
       </div>
     </Div100vh>
   )

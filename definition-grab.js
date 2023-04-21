@@ -1,6 +1,7 @@
-const request = require('request');
-const cheerio = require('cheerio');
-
+// const request = require('request');
+// const cheerio = require('cheerio');
+// const puppeteer = require('puppeteer');
+import { Selector } from 'testcafe';
 
 let missed = [
     {
@@ -1863,21 +1864,99 @@ let missed = [
         isRoot: true,
         complexity: "College"
     }
-].map(o => o.word);
+].filter(o => o.complexity === 'Elementary').map(o => o.word);
 
 missed.forEach((word) => {
     const url = `https://www.bing.com/search?q=define+${word}`;
 
-    request(url, (error, response, html) => {
-        if (!error && response.statusCode === 200) {
-            const $ = cheerio.load(html);
-            console.log($('.b_demoteText.b_sectxt').first().text())
-            const hasDefitiion = $('.b_demoteText.b_sectxt').first().text();
-            const synonyms = []
-            $('.b_nymsItem').each(function (index, element) {
-                synonyms.push($(this).text())
-            })
-            console.log('{ word:', "'" + word + "'", ',\tdefinition: ', hasDefitiion, ',\tsynonyms: ', synonyms.join(',') + "},");
+    fixture`Test happy elements`
+        .page`https://www.bing.com/search?q=define+${word}`;
+
+    test('Log innerText of happy elements', async t => {
+        // Get all elements with class name 'happy'
+        const definitions = Selector('.b_demoteText.b_sectxt');
+
+        // Get the number of happy elements
+        const definitionsCount = await definitions.count;
+        console.log(word);
+        // Loop through the happy elements and log their innerText
+        console.log('definitions: [');
+        for (let i = 0; i < definitionsCount; i++) {
+            const definition = definitions.nth(i);
+            const definitionText = await definition.innerText;
+            console.log("'" + definitionText + "'");
         }
+
+        console.log(']');
+
+        //             const synonyms = []
+        //             $('.b_nymsItem').each(function (index, element) {
+        //                 console.log($(element).text())
+        //                 console.log($(this).text())
+        //                 // synonyms.push($(this).text())
+        //             })
+        const synonyms = Selector('.b_nymsItem');
+
+        console.log('synnonums: [');
+        const synonymCount = await synonyms.count;
+        for (let i = 0; i < synonymCount; i++) {
+            const synonym = synonyms.nth(i);
+            const synonymText = await synonym.innerText;
+            console.log("'" + synonymText + "'");
+        }
+        console.log(']');
     });
+
+    // // Define a function to scrape the page
+    // async function scrapePage(url) {
+    //     // Launch a browser instance
+    //     const browser = await puppeteer.launch();
+    //     // Create a new page
+    //     const page = await browser.newPage();
+    //     // Navigate to the url
+    //     await page.goto(url);
+    //     // Wait for the page to load
+    //     await page.waitForSelector('title');
+    //     // Get the title of the page
+    //     const title = await page.$eval('title', element => element.textContent);
+    //     // Get the description of the page
+    //     const description = await page.$eval('p', element => element.textContent);
+    //     // Get the link of the page
+    //     const link = await page.$eval('a', element => element.getAttribute('href'));
+    //     // Close the browser
+    //     await browser.close();
+    //     // Return an object with the scraped data
+    //     return { title, description, link };
+    // }
+
+    // // Call the function and log the result
+    // scrapePage(url).then(result => {
+    //     console.log(result);
+    // });
 });
+
+// missed.forEach((word) => {
+//     const url = `https://www.bing.com/search?q=define+${word}`;
+
+//     request(url, (error, response, html) => {
+//         if (!error && response.statusCode === 200) {
+//             const $ = cheerio.load(html)
+//             const definitions = []
+//             $('.b_demoteText.b_sectxt').each(function (index, element) {
+//                 console.log($(element).text())
+//                 console.log($(this).text())
+//                 // synonyms.push($(this).text())
+//             })
+
+//             // console.log($.text())
+
+//             const synonyms = []
+//             $('.b_nymsItem').each(function (index, element) {
+//                 console.log($(element).text())
+//                 console.log($(this).text())
+//                 // synonyms.push($(this).text())
+//             })
+//             //            console.log('{ word:', "'" + word + "'", ",\tdefinition: ['", definitions.join("','"), "'],\tsynonyms: ['", synonyms.join("','") + "']},");
+//         }
+//     });
+// });
