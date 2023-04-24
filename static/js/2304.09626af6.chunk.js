@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2304],{2304:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"an extensive beachy area on the east side of town"','"a beachy dress and handbag"','"she\'s gone blonde, with tousled, beachy waves"'],t=[]}}]);
+//# sourceMappingURL=2304.09626af6.chunk.js.map
