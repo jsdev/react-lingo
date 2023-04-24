@@ -4,2573 +4,2958 @@
 import { Selector } from 'testcafe';
 
 let missed = [
+
     {
-        word: "babble",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "babied",
+        word: "dabbed",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "babies",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "baboon",
+        word: "dabber",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "backed",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "backer",
+        word: "dabble",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "backup",
+        word: "dacker",
         isCapitalized: false,
         isRoot: true,
-        complexity: "Elementary"
+        complexity: "College"
     },
     {
-        word: "badass",
+        word: "dacoit",
         isCapitalized: false,
         isRoot: true,
-        complexity: "High School"
+        complexity: "College"
     },
     {
-        word: "badder",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "baddie",
+        word: "dactyl",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "badged",
+        word: "dadoed",
         isCapitalized: false,
         isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "badger",
-        isCapitalized: false,
-        isRoot: true,
         complexity: "High School"
     },
     {
-        word: "badges",
+        word: "dadoes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "daedal",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "daemon",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "daffed",
         isCapitalized: false,
         isRoot: false,
         complexity: "Middle School"
     },
     {
-        word: "badman",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "baffle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bagged",
+        word: "dafter",
         isCapitalized: false,
         isRoot: false,
-        complexity: "unknown"
+        complexity: "Middle School"
     },
     {
-        word: "bagger",
+        word: "daftly",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "daggas",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "dagger",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "daggle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dagoba",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "baggie",
+        word: "dahlia",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "damage",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dammar",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dammer",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "dammit",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "damper",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "damsel",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "damson",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "danced",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "dancer",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dances",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "dander",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dandle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "danged",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "danger",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dangle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "danish",
         isCapitalized: true,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "bagman",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bagmen",
+        word: "danker",
         isCapitalized: false,
         isRoot: false,
-        complexity: "Post-College"
+        complexity: "High School"
     },
     {
-        word: "bailed",
+        word: "dankly",
         isCapitalized: false,
         isRoot: false,
-        complexity: "unknown"
+        complexity: "High School"
     },
     {
-        word: "bailer",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bairns",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "College"
-    },
-    {
-        word: "baited",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "baiter",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "bakery",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "baking",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "balder",
+        word: "daphne",
         isCapitalized: true,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "baldly",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "baleen",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "balers",
+        word: "dapped",
         isCapitalized: false,
         isRoot: false,
         complexity: "Middle School"
     },
     {
-        word: "baling",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "balked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "ballad",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "balled",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "baller",
+        word: "dapper",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "ballet",
+        word: "dapple",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "daring",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "ballot",
+        word: "darked",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "darken",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "darker",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "darkle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "darkly",
         isCapitalized: false,
         isRoot: true,
         complexity: "Elementary"
     },
     {
-        word: "ballsy",
+        word: "darned",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "darnel",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "balsam",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bamboo",
+        word: "darner",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "banana",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "banded",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bander",
+        word: "darted",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "bandit",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "banged",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "banger",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bangle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "banish",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "banked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "banker",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "banned",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "banner",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bantam",
+        word: "darter",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "banter",
+        word: "dartle",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "banyan",
+        word: "daruma",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dashed",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dasher",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dashes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "dassie",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dastur",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "datary",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "datcha",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dating",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dative",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "datura",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "daubed",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "daubes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dauted",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dawdle",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "banzai",
+        word: "dawned",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "daybed",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dayfly",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "baobab",
+        word: "dayhop",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "barbed",
+        word: "dazing",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dazzle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "deacon",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "barbel",
+        word: "deaden",
         isCapitalized: false,
         isRoot: true,
-        complexity: "Post-College"
+        complexity: "College"
     },
     {
-        word: "barber",
+        word: "deader",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "deadly",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "barbie",
+        word: "deafen",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "deafer",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "deafly",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dealer",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dearer",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dearie",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dearly",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dearth",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "deasil",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "deaths",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "deathy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "debark",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "debase",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "debate",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "debeak",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "debone",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "debris",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "debtor",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "debunk",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "deburr",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "decade",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "decamp",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "decane",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "decani",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "deceit",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "decent",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "decern",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "decide",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "decile",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "decked",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "deckle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "declot",
         isCapitalized: true,
         isRoot: false,
-        complexity: "unknown"
+        complexity: "Middle School"
     },
     {
-        word: "bardic",
+        word: "decoct",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "decoys",
         isCapitalized: false,
         isRoot: false,
-        complexity: "unknown"
+        complexity: "High School"
     },
     {
-        word: "barely",
+        word: "decree",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "barest",
+        word: "decury",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dedans",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "deduce",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "deduct",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "deeded",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "deejay",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "deemed",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "deepen",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "deeper",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "deeply",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "deface",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "defame",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "defeat",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "defect",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "defend",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "defers",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "defied",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "defier",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "defies",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "barged",
+        word: "defile",
         isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
+        isRoot: true,
+        complexity: "High School"
     },
     {
-        word: "barges",
+        word: "define",
         isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
+        isRoot: true,
+        complexity: "Elementary"
     },
     {
-        word: "baring",
+        word: "defoam",
         isCapitalized: true,
         isRoot: false,
-        complexity: "unknown"
+        complexity: "Middle School"
     },
     {
-        word: "barite",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "barium",
+        word: "deform",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "barked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "barker",
+        word: "defrag",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "barley",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "barman",
+        word: "defray",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "barons",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "barony",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "barque",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "barred",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "barrel",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "barren",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "barrow",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "barter",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "baryon",
+        word: "deftly",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "basalt",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "basely",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basest",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bashed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basher",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bashes",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basics",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basing",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basket",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "basque",
+        word: "defuel",
         isCapitalized: true,
         isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "basset",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "basted",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "baster",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bateau",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bathed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bather",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bathes",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "bathos",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "batman",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "batons",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "batted",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "batten",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "batter",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "battle",
-        isCapitalized: false,
-        isRoot: true,
         complexity: "Elementary"
     },
     {
-        word: "bauble",
+        word: "defund",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "defuse",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "defuze",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "baying",
+        word: "degage",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "bazaar",
+        word: "degame",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "beachy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "beacon",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "beaded",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "beagle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "beaker",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "beamed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "beanie",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bearer",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "beasts",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "beaten",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "beater",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "beauty",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "beaver",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "beckon",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "become",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bedbug",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bedded",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bedlam",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bedpan",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "beeped",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "beeper",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "beetle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "befall",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "befell",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "before",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "begets",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "beggar",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "begged",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "begins",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "behalf",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "behave",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "beheld",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "behest",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "behind",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "behold",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "beings",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "belfry",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "belief",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "belies",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "bellow",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "belong",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "belted",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "belter",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "beluga",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bemoan",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bemuse",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bended",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bender",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "benign",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "berate",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bereft",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "berlin",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "berths",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "besets",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "beside",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bested",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bestir",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bestow",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "betide",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "betray",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "better",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bettor",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bewail",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "beware",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bhakti",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "biased",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "biases",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bibles",
+        word: "degels",
         isCapitalized: true,
         isRoot: false,
-        complexity: "unknown"
+        complexity: "Elementary"
     },
     {
-        word: "bicker",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bidder",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "biding",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "biffed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bifold",
+        word: "degerm",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "bigamy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bigeye",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bigger",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "bigwig",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "biking",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bilked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "biller",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "billet",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "billow",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "binary",
+        word: "degree",
         isCapitalized: false,
         isRoot: true,
         complexity: "Elementary"
     },
     {
-        word: "binder",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "binged",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "biogas",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bionic",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "biopsy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "biotic",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "biotin",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "birder",
+        word: "degust",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "birdie",
+        word: "dehire",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "births",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "bisect",
+        word: "dehorn",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "bishop",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bisque",
+        word: "dehort",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "bistro",
+        word: "dehull",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "bitchy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "biters",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "biting",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bitmap",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bitten",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bitter",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "blacks",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "bladed",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "blader",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "blamed",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "blanch",
+        word: "deject",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "blanks",
+        word: "delate",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "delete",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "delict",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "delink",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "delist",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "deltas",
         isCapitalized: false,
         isRoot: false,
         complexity: "Elementary"
     },
     {
-        word: "blared",
+        word: "delude",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "deluge",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "deluxe",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "delved",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "delves",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "demark",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "demist",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "demode",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "blazer",
+        word: "demote",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "demure",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "blazes",
+        word: "demurs",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "denary",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dendra",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dengue",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "denial",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "denied",
         isCapitalized: false,
         isRoot: true,
         complexity: "unknown"
     },
     {
-        word: "blazon",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bleach",
+        word: "denier",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "bleary",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bleats",
+        word: "denies",
         isCapitalized: false,
         isRoot: false,
-        complexity: "College"
+        complexity: "Elementary"
     },
     {
-        word: "blenny",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "blight",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "blimey",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "blinds",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "blinks",
+        word: "denims",
         isCapitalized: false,
         isRoot: true,
         complexity: "unknown"
     },
     {
-        word: "blithe",
+        word: "denned",
         isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
+        isRoot: false,
+        complexity: "Elementary"
     },
     {
-        word: "blocks",
+        word: "denote",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "denser",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "blocky",
+        word: "dental",
         isCapitalized: false,
         isRoot: true,
         complexity: "Elementary"
     },
     {
-        word: "blonde",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bloody",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "blotch",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "blouse",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "blousy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "blowed",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "blower",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "blowup",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bluesy",
+        word: "dented",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "bluffs",
+        word: "dentes",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dentil",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dentin",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "denude",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "deodar",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "depart",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "depend",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "deperm",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "depict",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "depill",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "deploy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "depone",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "deport",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "depose",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "depths",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "depulp",
+        isCapitalized: true,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "depute",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "deputy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "derail",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "deride",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "derive",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dermal",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dermic",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "desalt",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "descry",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "desert",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "design",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "desire",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "desist",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "detail",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "detect",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "detent",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "deters",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "bluing",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bluish",
+        word: "detest",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "blunts",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "blurbs",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "blurry",
+        word: "detour",
         isCapitalized: false,
         isRoot: true,
         complexity: "Middle School"
     },
     {
-        word: "blurts",
+        word: "deuced",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "deuces",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "deuton",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "device",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "devine",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "devise",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "devoid",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "devote",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "devour",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "devout",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dewily",
         isCapitalized: false,
         isRoot: false,
         complexity: "College"
     },
     {
-        word: "boards",
+        word: "dewing",
         isCapitalized: false,
         isRoot: false,
-        complexity: "Elementary"
+        complexity: "Middle School"
     },
     {
-        word: "boater",
+        word: "dewlap",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "deworm",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "bobbed",
+        word: "dexter",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dextro",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dharma",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dharna",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dhooly",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dhooti",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "dhurna",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "diable",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "diablo",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "diacid",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "diadem",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "diadic",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "dialed",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "dialer",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dialog",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "bobber",
+        word: "diaper",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "diapir",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "bobbin",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bobble",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bobcat",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bodega",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bodice",
+        word: "diatom",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "bodied",
+        word: "dibbed",
         isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
+        isRoot: false,
+        complexity: "High School"
     },
     {
-        word: "bodies",
+        word: "dibber",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "dibble",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dibbuk",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dicast",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dicing",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dicker",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dickey",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dickie",
         isCapitalized: false,
         isRoot: false,
         complexity: "unknown"
     },
     {
-        word: "bodily",
+        word: "dictum",
         isCapitalized: false,
         isRoot: true,
-        complexity: "Middle School"
+        complexity: "High School"
     },
     {
-        word: "boding",
+        word: "didact",
         isCapitalized: false,
         isRoot: true,
-        complexity: "College"
+        complexity: "High School"
     },
     {
-        word: "bodkin",
+        word: "diddle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "diddly",
         isCapitalized: false,
         isRoot: true,
         complexity: "Post-College"
     },
     {
-        word: "boffin",
+        word: "didoes",
         isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
+        isRoot: false,
+        complexity: "High School"
     },
     {
-        word: "boggle",
+        word: "differ",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "digest",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "digged",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "digger",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "digits",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "diglot",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "bolder",
+        word: "digram",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "diking",
         isCapitalized: false,
         isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "boldly",
-        isCapitalized: false,
-        isRoot: true,
         complexity: "High School"
     },
     {
-        word: "bolero",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bomber",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bonito",
+        word: "diktat",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
     },
     {
-        word: "bonked",
+        word: "dilate",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dilute",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dimmed",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dimmer",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dimple",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dimply",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "dimwit",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dinged",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dinghy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dingle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dingus",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dining",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dinkum",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dinned",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "diodes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "diotic",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dioxin",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "direct",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "direst",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dirges",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "dirham",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dirhem",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dirigo",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dirled",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dirndl",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "disarm",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "disbar",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "disbud",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "discus",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "diseur",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dished",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dishes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dismal",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dismay",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "disown",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dispel",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dissed",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "disses",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "distad",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "distal",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "distil",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "disuse",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dither",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dittos",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "divert",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "divest",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "divide",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "divine",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "diving",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "divisi",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dixits",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "doable",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dobbin",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dobson",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "docent",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "docket",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "doctor",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "doddie",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "doddle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dodger",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dodoes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "doffer",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dogeys",
         isCapitalized: false,
         isRoot: false,
         complexity: "Post-College"
     },
     {
-        word: "bonnet",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "boogie",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "booked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "boomer",
+        word: "dogged",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "borate",
+        word: "doggie",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dogleg",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dogmas",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dognap",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "border",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "boreal",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "borrow",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bosoms",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "bossed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "bosses",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "botany",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bother",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "botnet",
+        word: "doiled",
         isCapitalized: false,
         isRoot: true,
         complexity: "High School"
     },
     {
-        word: "bottle",
+        word: "doings",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "doited",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "doling",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dolium",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dollar",
         isCapitalized: false,
         isRoot: true,
         complexity: "Elementary"
     },
     {
-        word: "bottom",
+        word: "dollop",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dolman",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dolmen",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dolour",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "domain",
         isCapitalized: false,
         isRoot: true,
         complexity: "Elementary"
+    },
+    {
+        word: "domine",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "domino",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dommes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "donate",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dongas",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "dongle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "donjon",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "donors",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "doodle",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "doolie",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "doomed",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dopier",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "dorado",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dorjes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "dormie",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dormin",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dorper",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dorsad",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dorsal",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dorser",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dorses",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "dorsum",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dorter",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dosage",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dosing",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dossal",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dossel",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "dosser",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dossil",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dotage",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dotard",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "doters",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "doting",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "douane",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "double",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "doubly",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "douche",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "doughy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "doulas",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "dourly",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "doused",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "douser",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "douses",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "douter",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dovish",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dowers",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "dowery",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "dowing",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dowlas",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "downed",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "downer",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dowser",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dowses",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "doxing",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "doyley",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dozens",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dozing",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "drachm",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "drafts",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "drafty",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dragee",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "draggy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dragon",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dramas",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "dreads",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dreamt",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dreary",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dredge",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "drench",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "driers",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "drifts",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "drippy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "drivel",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "driver",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "droits",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dromos",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "drones",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "drools",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "drooly",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "droopy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dropsy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "drosky",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "drossy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "drouth",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "droved",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "drover",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "droves",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "drowns",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "drowse",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "drowsy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "drudge",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "druggy",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "drumly",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "drunks",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Elementary"
+    },
+    {
+        word: "drupes",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "drying",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "dryout",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dually",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dubbed",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dubbin",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "ducked",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "ducker",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "duckie",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "duffle",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dugout",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "duking",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dulcet",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dumdum",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dunder",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dunlin",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dunned",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "duomos",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "dupery",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dupion",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "duplex",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "dupped",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "durain",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "durbar",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "duress",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
+    },
+    {
+        word: "durian",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "during",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Elementary"
+    },
+    {
+        word: "durion",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "College"
+    },
+    {
+        word: "durned",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "durrie",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "unknown"
+    },
+    {
+        word: "dusted",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "duster",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dustup",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "duties",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "unknown"
+    },
+    {
+        word: "dvaita",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dwarfs",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dweebs",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Post-College"
+    },
+    {
+        word: "dwells",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "Middle School"
+    },
+    {
+        word: "dwighs",
+        isCapitalized: false,
+        isRoot: false,
+        complexity: "High School"
+    },
+    {
+        word: "dyadic",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "College"
+    },
+    {
+        word: "dybbuk",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dyeing",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Middle School"
     },
     // {
-    //     word: "boucle",
+    //     word: "dyings",
     //     isCapitalized: false,
     //     isRoot: false,
-    //     complexity: "unknown"
-    // },
-    // {
-    //     word: "boudin",
-    //     isCapitalized: false,
-    //     isRoot: true,
-    //     complexity: "High School"
-    // },
-    // {
-    //     word: "boughs",
-    //     isCapitalized: false,
-    //     isRoot: false,
-    //     complexity: "unknown"
-    // },
-    {
-        word: "bought",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bougie",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    // {
-    //     word: "boules",
-    //     isCapitalized: false,
-    //     isRoot: true,
-    //     complexity: "unknown"
-    // },
-    {
-        word: "bounce",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bouncy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bounds",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "bounty",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bourne",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    // {
-    //     word: "bourse",
-    //     isCapitalized: false,
-    //     isRoot: true,
-    //     complexity: "Middle School"
-    // },
-    {
-        word: "bovine",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bowels",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "bowers",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bowery",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bowing",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bowled",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "bowler",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bowman",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bowmen",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Post-College"
-    },
-    {
-        word: "boxcar",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "boxing",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "braced",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "bracer",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "braces",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    // {
-    //     word: "brahma",
-    //     isCapitalized: true,
-    //     isRoot: false,
-    //     complexity: "unknown"
-    // },
-    {
-        word: "braids",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "brains",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "brainy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "braked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "brakes",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "branch",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "brandy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "brassy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bratty",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "braved",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "braver",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "braves",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bravos",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "brawny",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "brayed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Post-College"
-    },
-    {
-        word: "brayer",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "brazen",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    // {
-    //     word: "brazil",
-    //     isCapitalized: false,
-    //     isRoot: true,
-    //     complexity: "Middle School"
-    // },
-    {
-        word: "breach",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "breads",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "breaks",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "breast",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "breech",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "breeds",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "breeze",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "breezy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    // {
-    //     word: "brevet",
-    //     isCapitalized: false,
-    //     isRoot: true,
-    //     complexity: "High School"
-    // },
-    {
-        word: "brewed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "brewer",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "College"
-    },
-    {
-        word: "briars",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "College"
-    },
-    {
-        word: "bridge",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bridle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "broach",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "broads",
-        isCapitalized: true,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "broken",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "broker",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bronze",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "browns",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "browse",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "brushy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "brutal",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bubble",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bubbly",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bucked",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "budget",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "budgie",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "buffed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "buffer",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "buffet",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bugged",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "bugger",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bugler",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "builds",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "bulged",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bulgur",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bulked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "bullet",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bumble",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bummed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "bummer",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bumper",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bundle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bungee",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bungle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bunion",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bunked",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "bunker",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bunkum",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bunted",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Middle School"
-    },
-    {
-        word: "buoyed",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "burble",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "burden",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "bureau",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "burger",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "burgle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "burial",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "buried",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "buries",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "burlap",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "burley",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "burned",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "unknown"
-    },
-    {
-        word: "burner",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "burnet",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "burrow",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bursar",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "burton",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "busboy",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bushed",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "College"
-    },
-    {
-        word: "bushel",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "busied",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "busier",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "busily",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    // {
-    //     word: "busing",
-    //     isCapitalized: false,
-    //     isRoot: true,
     //     complexity: "Elementary"
     // },
     {
-        word: "busker",
+        word: "dynamo",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "High School"
+    },
+    {
+        word: "dynast",
+        isCapitalized: false,
+        isRoot: true,
+        complexity: "Post-College"
+    },
+    {
+        word: "dynode",
         isCapitalized: false,
         isRoot: true,
         complexity: "College"
-    },
-    {
-        word: "bussed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "busses",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "High School"
-    },
-    {
-        word: "busted",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "buster",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "bustle",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "butane",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "butler",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "butted",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "Elementary"
-    },
-    {
-        word: "butter",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "button",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Elementary"
-    },
-    {
-        word: "buying",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "buyout",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "buzzed",
-        isCapitalized: false,
-        isRoot: false,
-        complexity: "unknown"
-    },
-    {
-        word: "buzzer",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
-    },
-    {
-        word: "bygone",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "byline",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "High School"
-    },
-    {
-        word: "bypass",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Middle School"
-    },
-    {
-        word: "byword",
-        isCapitalized: false,
-        isRoot: true,
-        complexity: "Post-College"
     },
 ].filter(o => o.complexity === 'Elementary').map(o => o.word);
 

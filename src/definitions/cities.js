@@ -1,0 +1,26 @@
+definitions: [
+    '"one of Italy\'s most beautiful cities"',
+    '"the city council"',
+    '"panic city"',
+    '"a City analyst"',
+]
+synonyms: [
+    'town',
+    'municipality',
+    'metropolis',
+    'megalopolis',
+    'conurbation',
+    'burgh',
+    'wen',
+    'urban area',
+    'metropolitan area',
+    'town',
+    'municipality',
+    'metropolis',
+    'megalopolis',
+    'conurbation',
+    'burgh',
+    'wen',
+    'urban area',
+    'metropolitan area',
+]

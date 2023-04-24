@@ -5578,12 +5578,12 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "Elementary"
         },
-        {
-            word: "centre",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "centre",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Elementary"
+        // },
         {
             word: "centum",
             isCapitalized: false,
@@ -5908,12 +5908,12 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "High School"
         },
-        {
-            word: "chiaus",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "chiaus",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Elementary"
+        // },
         {
             word: "chicha",
             isCapitalized: false,
@@ -6016,12 +6016,12 @@ export const alphabet6 = {
             isRoot: false,
             complexity: "unknown"
         },
-        {
-            word: "chinas",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "chinas",
+        //     isCapitalized: false,
+        //     isRoot: false,
+        //     complexity: "Elementary"
+        // },
         {
             word: "chinch",
             isCapitalized: false,
@@ -8266,12 +8266,12 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "College"
         },
-        {
-            word: "crewed",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "crewed",
+        //     isCapitalized: false,
+        //     isRoot: true,
+        //     complexity: "Elementary"
+        // },
         {
             word: "crewel",
             isCapitalized: false,

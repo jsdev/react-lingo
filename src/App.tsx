@@ -317,11 +317,11 @@ function App() {
 
     const guess = document!.querySelector('[data-current]')?.textContent!
 
-    if (!(unicodeLength(guess) === solution.length)) {
+    if (guess && !(unicodeLength(guess) === solution.length)) {
       return
     }
 
-    if (guess.indexOf(' ') >= 0) {
+    if (guess && guess.indexOf(' ') >= 0) {
       return
     }
 
@@ -357,6 +357,7 @@ function App() {
     const winningWord = isWinningWord(guess)
 
     if (
+      guess &&
       unicodeLength(guess) === solution.length &&
       guesses.length < MAX_CHALLENGES &&
       !isGameWon

@@ -1,0 +1,27 @@
+definitions: [
+    '"he breathed deeply"',
+    '"fragments of rock were deeply embedded within the wood"',
+    '"she was deeply hurt"',
+]
+synonyms: [
+    'greatly',
+    'enormously',
+    'extremely',
+    'strongly',
+    'powerfully',
+    'profoundly',
+    'intensely',
+    'keenly',
+    'sharply',
+    'acutely',
+    'thoroughly',
+    'completely',
+    'entirely',
+    'severely',
+    'awfully',
+    'terribly',
+    'painfully',
+    'desperately',
+    'very much',
+    'to a great extent/degree',
+]
