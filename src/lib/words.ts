@@ -168,9 +168,6 @@ export const getSolution = (gameDate: Date) => {
     localStorage.complexity = 'Elementary'
   }
   const wordOfTheDay = getRandomWord(getWords(localStorage.complexity))
-  if (!localStorage.complexity) {
-    localStorage.complexity = 'Elementary'
-  }
   localStorage.given = wordOfTheDay[0] + spaces(wordOfTheDay.length - 1)
   localStorage.out = JSON.stringify({
     0: '',

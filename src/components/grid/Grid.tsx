@@ -7,6 +7,7 @@ import { HardenedCurrentRow } from './HardenedCurrentRow'
 
 type Props = {
   solution: string
+  hint: string
   guesses: string[]
   currentGuess: string
   isRevealing?: boolean
@@ -17,6 +18,7 @@ type Props = {
 
 export const Grid = ({
   solution,
+  hint,
   guesses,
   currentGuess,
   isRevealing,
@@ -38,7 +40,7 @@ export const Grid = ({
             className={currentRowClassName}
           />
           <div className="flex mt-2 ml-auto mr-auto justify-between mb-3 dark:text-gray-300">only exact matches will show</div>
-          <div className="flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300">hint(s) and timer coming soon</div>
+          <div className="flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300">{hint}</div>
         </> :
         guesses.map((guess, i) => (
           <CompletedRow

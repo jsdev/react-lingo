@@ -1,0 +1,37 @@
+export const definitions = [
+    '"Tony ______d me that there was a supermarket in the village"',
+    '"“I quite understand,” Mrs. Lewis ______d her"',
+    '"they ______d him of their full confidence"',
+    '"she ______d herself that he was asleep"',
+    '"you would be ______d of a fine welcome"',
+    '"victory was now ______d"',
+    '"their influence ______d that the report would be tough"',
+    '"we guarantee to ______ your life"',
+    '"the sum ______d can be paid as a lump sum"',
+]
+
+export const synonyms = [
+    'convince',
+    'satisfy',
+    'persuade',
+    'guarantee',
+    'promise',
+    'tell',
+    'swear to',
+    'prove to',
+    'certify to',
+    'attest to',
+    'confirm to',
+    'affirm to',
+    'pledge to',
+    'give one\'s word to',
+    'give one\'s assurance to',
+    'vow to',
+    'declare to',
+    'insure',
+    'cover',
+    'indemnify',
+    'guarantee',
+    'warrant',
+    'provide insurance for'
+]

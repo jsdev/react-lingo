@@ -60,6 +60,7 @@ import { possibilities, alphabet } from './constants/validGuesses'
 import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet'
 import { KeyboardQWERTY } from './components/keyboard/KeyboardQwerty'
 import { KeyboardVowels } from './components/keyboard/KeyboardVowels'
+import getRandomString from './lib/getRanomString'
 
 const Keyboards: any = {
   'ALPHABET': KeyboardAlphabet,
@@ -121,21 +122,35 @@ function App() {
     if (loaded?.solution !== solution) {
       return []
     }
-    const gameWasWon = loaded.guesses.includes(solution)
+    const gameWasWon = loaded!.guesses.includes(solution)
     if (gameWasWon) {
       setIsGameWon(true)
     }
-    if (loaded.guesses.length === MAX_CHALLENGES && !gameWasWon) {
+    if (loaded!.guesses?.length === MAX_CHALLENGES && !gameWasWon) {
       setIsGameLost(true)
       showErrorAlert(CORRECT_WORD_MESSAGE(solution), {
         persist: true,
       })
     }
-    return loaded.guesses
+    return loaded!.guesses
   })
 
   const [stats, setStats] = useState(() => loadStats())
 
+  // const [soltuon, setSolution] = useState(null);
+
+  const [hint, setHint] = useState('');
+
+  useEffect(() => {
+    import(`./definitions/${solution.toLowerCase()}`).then((module) => {
+      // const definition = getRandomString(module?.definitions)
+      const synonym = getRandomString(module?.synonyms)
+      const hint = getRandomString([synonym])
+
+      setHint(hint)
+      // TODO pass solution as a dependency
+    });
+  }, []);
   useEffect(() => {
     // if no game state on load,
     // show the user the how-to info modal
@@ -175,7 +190,7 @@ function App() {
   }
 
   const handleHardMode = (isHard: boolean) => {
-    if (guesses.length === 0 || localStorage.getItem('gameMode') === 'hard') {
+    if (guesses?.length === 0 || localStorage.getItem('gameMode') === 'hard') {
       setIsHardMode(isHard)
       localStorage.setItem('gameMode', isHard ? 'hard' : 'normal')
     } else {
@@ -252,7 +267,7 @@ function App() {
       for (let i = 0; i < solution.length; i++) {
         if (guess[i] === solution[i]) splitGiven[i] = solution[i]
       }
-      localStorage.given = splitGiven.join('')
+      localStorage.given = splitGiven?.join('')
     }
     if (solution === localStorage.given) setIsGameWon(true)
   }
@@ -283,14 +298,14 @@ function App() {
       for (let i = solution.length - 1; i >= 0; i--) {
         if (currentGuess[i] !== ' ' && given[i] !== currentGuess[i]) {
           guess[i] = ' '
-          setCurrentGuess(guess.join(''))
+          setCurrentGuess(guess?.join(''))
 
           return
         }
       }
     } else {
       setCurrentGuess(
-        new GraphemeSplitter().splitGraphemes(currentGuess).slice(0, -1).join('')
+        new GraphemeSplitter().splitGraphemes(currentGuess).slice(0, -1)?.join('')
       )
     }
   }
@@ -388,12 +403,12 @@ function App() {
   const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet]
   const possibleGuesses = possibilities(
     possibleWords,
-    absent.map(getText).join(''),
+    absent.map(getText)?.join(''),
     JSON.parse(localStorage.out),
     given,
     present.concat(correct).map(getText))
 
-  const probability = (1 / (possibleGuesses.length) * 100).toFixed(2)
+  const probability = (1 / (possibleGuesses?.length) * 100).toFixed(2)
   const statStyles = {
     width: 350
   }
@@ -426,9 +441,11 @@ function App() {
         <main className="mx-auto flex w-full grow flex-col px-1 pt-2 pb-8 sm:px-6 md:max-w-7xl lg:px-8 short:pb-2 short:pt-2">
           <div className="flex grow flex-col justify-center pb-6 short:pb-2">
             <div style={statStyles} className='flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300'>
-              <span>LEVEL: {complexity}</span><span>ODDS: {probability}%</span>
+              <span>LEVEL: {complexity}</span>
+              <span>ODDS: {probability}%</span>
             </div>
             <Grid
+              hint={hint}
               solution={solution}
               guesses={guesses}
               isFeedbackMode={isFeedbackMode}
@@ -481,7 +498,7 @@ function App() {
             isHardMode={isHardMode}
             isDarkMode={isDarkMode}
             isHighContrastMode={isHighContrastMode}
-            numberOfGuessesMade={guesses.length}
+            numberOfGuessesMade={guesses?.length}
           />
           <DatePickerModal
             isOpen={isDatePickerModalOpen}
