@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-lingo/static/css/main.bdb21dd3.css",
-    "main.js": "/react-lingo/static/js/main.dc07d920.js",
+    "main.js": "/react-lingo/static/js/main.48398479.js",
     "static/js/18015.8baad2f6.chunk.js": "/react-lingo/static/js/18015.8baad2f6.chunk.js",
     "static/js/38120.b9cacb00.chunk.js": "/react-lingo/static/js/38120.b9cacb00.chunk.js",
     "static/js/98639.ad5eba59.chunk.js": "/react-lingo/static/js/98639.ad5eba59.chunk.js",
@@ -429,7 +429,7 @@
     "static/js/5057.7fbd6503.chunk.js": "/react-lingo/static/js/5057.7fbd6503.chunk.js",
     "static/js/92553.55a00205.chunk.js": "/react-lingo/static/js/92553.55a00205.chunk.js",
     "static/js/82926.62eb951c.chunk.js": "/react-lingo/static/js/82926.62eb951c.chunk.js",
-    "static/js/93737.cbd3b58f.chunk.js": "/react-lingo/static/js/93737.cbd3b58f.chunk.js",
+    "static/js/93737.ae9d5e99.chunk.js": "/react-lingo/static/js/93737.ae9d5e99.chunk.js",
     "static/js/35942.a558c8c0.chunk.js": "/react-lingo/static/js/35942.a558c8c0.chunk.js",
     "static/js/98558.e94c2810.chunk.js": "/react-lingo/static/js/98558.e94c2810.chunk.js",
     "static/js/46182.ffe4e3cb.chunk.js": "/react-lingo/static/js/46182.ffe4e3cb.chunk.js",
@@ -4894,7 +4894,7 @@
     "index.html": "/react-lingo/index.html",
     "static/media/coding": "/react-lingo/static/media/coding.9ff6c34de68bb4707f98",
     "main.bdb21dd3.css.map": "/react-lingo/static/css/main.bdb21dd3.css.map",
-    "main.dc07d920.js.map": "/react-lingo/static/js/main.dc07d920.js.map",
+    "main.48398479.js.map": "/react-lingo/static/js/main.48398479.js.map",
     "38120.b9cacb00.chunk.js.map": "/react-lingo/static/js/38120.b9cacb00.chunk.js.map",
     "98639.ad5eba59.chunk.js.map": "/react-lingo/static/js/98639.ad5eba59.chunk.js.map",
     "66876.14aead5e.chunk.js.map": "/react-lingo/static/js/66876.14aead5e.chunk.js.map",
@@ -5321,7 +5321,7 @@
     "5057.7fbd6503.chunk.js.map": "/react-lingo/static/js/5057.7fbd6503.chunk.js.map",
     "92553.55a00205.chunk.js.map": "/react-lingo/static/js/92553.55a00205.chunk.js.map",
     "82926.62eb951c.chunk.js.map": "/react-lingo/static/js/82926.62eb951c.chunk.js.map",
-    "93737.cbd3b58f.chunk.js.map": "/react-lingo/static/js/93737.cbd3b58f.chunk.js.map",
+    "93737.ae9d5e99.chunk.js.map": "/react-lingo/static/js/93737.ae9d5e99.chunk.js.map",
     "35942.a558c8c0.chunk.js.map": "/react-lingo/static/js/35942.a558c8c0.chunk.js.map",
     "98558.e94c2810.chunk.js.map": "/react-lingo/static/js/98558.e94c2810.chunk.js.map",
     "46182.ffe4e3cb.chunk.js.map": "/react-lingo/static/js/46182.ffe4e3cb.chunk.js.map",
@@ -9783,6 +9783,6 @@
   },
   "entrypoints": [
     "static/css/main.bdb21dd3.css",
-    "static/js/main.dc07d920.js"
+    "static/js/main.48398479.js"
   ]
 }
