@@ -1,0 +1,28 @@
+export const definitions = [
+    '"he was gone before we could reply to his last remark"',
+    '"she replied that she had been sound asleep"',
+    '"\"I\'m OK—just leave me alone,\" he replied"',
+    '"she replied with a long letter the next day"',
+    '"they replied to the shelling with a heavy mortar attack on the area"',
+]
+export const synonyms = [
+    'respond',
+    'answer',
+    'rejoin',
+    'return',
+    'retort',
+    'counter',
+    'retaliate',
+    'come back',
+    'riposte',
+    'say in response',
+    'fling back',
+    'hurl back',
+    'answer',
+    'respond',
+    'acknowledge',
+    'write back',
+    'rise to the bait',
+    'come back',
+    'take the bait',
+]

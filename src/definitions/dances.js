@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"their cheeks were pressed together as they danced"',
     '"all the men wanted her to dance with them"',
     '"they danced a tango"',
@@ -15,7 +15,7 @@ definitions: [
     '"he gesticulated comically and did a little dance"',
     '"the last dance had been played"',
 ]
-synonyms: [
+export const synonyms = [
     'trip',
     'sway',
     'spin',

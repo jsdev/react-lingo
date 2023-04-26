@@ -1,0 +1,27 @@
+export const definitions = [
+    '"casting the attorney general as the oracle for and guardian of the public interest is simply impossible"',
+]
+export const synonyms = [
+    'prophet',
+    'prophetess',
+    'sibyl',
+    'seer',
+    'augur',
+    'prognosticator',
+    'diviner',
+    'soothsayer',
+    'wise man',
+    'wise woman',
+    'sage',
+    'fortune teller',
+    'oracler',
+    'authority',
+    'expert',
+    'specialist',
+    'pundit',
+    'guru',
+    'mentor',
+    'adviser',
+    'mastermind',
+    'connoisseur',
+]

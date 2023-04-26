@@ -1,0 +1,27 @@
+export const definitions = [
+    '"they dehorted him from going to Babylon"',
+]
+export const synonyms = [
+    'discourage',
+    'deter',
+    'prevent',
+    'divert',
+    'sidetrack',
+    'talk out of',
+    'put off',
+    'stop',
+    'scare off',
+    'warn off',
+    'disincline',
+    'turn aside',
+    'persuade against',
+    'persuade not to',
+    'argue out of',
+    'advise against',
+    'urge against',
+    'advise/urge not to',
+    'caution against',
+    'expostulate against',
+    'persuade',
+    'encourage',
+]

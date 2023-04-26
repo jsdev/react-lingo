@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the road adopts a tortuous course along the coast"',
     '"the new fleet changed course to join the other ships"',
     '"the course of history"',
@@ -15,7 +15,7 @@ definitions: [
     '"many of the hares coursed escaped unharmed"',
     '"she would course for hares with her greyhounds"',
 ]
-synonyms: [
+export const synonyms = [
     'route',
     'way',
     'track',

@@ -1,11 +1,11 @@
-definitions: [
+export const definitions = [
     '"a desire to work in the dirt with your bare hands"',
     '"they were clinging together in fierce mutual desire"',
     '"he never achieved the status he so desired"',
     '"there had been a time, years ago, when he had desired her"',
     '"John spake unto him, and desired him in like manner and contestation as before"',
 ]
-synonyms: [
+export const synonyms = [
     'wish',
     'want',
     'fancy',

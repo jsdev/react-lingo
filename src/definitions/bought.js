@@ -51,8 +51,8 @@ export const synonyms = [
     'concur in',
     'accede to',
     'give one\'s blessing to',
-    'give one\'s seal/stamp of approval to',
+    'give one\'s seal / stamp of approval to',
     'say yes to',
-    'give one\'s permission/leave',
+    'give one\'s permission / leave',
     'refuse',
 ]

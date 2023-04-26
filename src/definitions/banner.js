@@ -1,6 +1,6 @@
 export const definitions = [
     '"students waved a ______ and chanted slogans"',
-    '"a ______ in the front window announced “Grand Reopening”"',
+    '"a ______ in the front window announced \"Grand Reopening\""',
     '"the standard bearers followed, ______s of bright red and yellow depicting dragons and stags"',
     '"the administration is flying the free trade ______"',
     '"a ______ ad"',

@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"overloaded timber floors are likely to sag, producing a dished or sloping floor surface"',
     '"groups gather to brag about babies and dish about romances"',
     '"I don\'t think I dished the wheel correctly—there\'s a rubbing sound"',
     '"this tool accurately checks for proper dishing of a wheel"',
 ]
-synonyms: [
+export const synonyms = [
     'destroy',
     'put an end to',
     'end',

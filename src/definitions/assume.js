@@ -1,5 +1,6 @@
 export const definitions = [
-    '"it is reasonable to ______ that such changes have significant social effects" · "they were ______d to be foreign"',
+    '"it is reasonable to ______ that such changes have significant social effects"',
+    '"they were ______d to be foreign"',
     '"you\'re afraid of what people are going to ______ about me"',
     '"he ______d full responsibility for all organizational work"',
     '"the rebels ______d control of the capital"',

@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"he breathed deeply"',
     '"fragments of rock were deeply embedded within the wood"',
     '"she was deeply hurt"',
 ]
-synonyms: [
+export const synonyms = [
     'greatly',
     'enormously',
     'extremely',

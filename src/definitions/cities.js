@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"one of Italy\'s most beautiful cities"',
     '"the city council"',
     '"panic city"',
     '"a City analyst"',
 ]
-synonyms: [
+export const synonyms = [
     'town',
     'municipality',
     'metropolis',

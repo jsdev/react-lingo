@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"he has just unveiled his design for the new museum"',
     '"good design can help the reader understand complicated information"',
     '"the cloister is of late-twelfth-century design"',
@@ -7,7 +7,7 @@ definitions: [
     '"a number of architectural students were designing a factory"',
     '"the tax changes were designed to stimulate economic growth"',
 ]
-synonyms: [
+export const synonyms = [
     'plan',
     'blueprint',
     'drawing',

@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"an increase in deaths from skin cancer"',
     '"I don\'t believe in life after death"',
     '"a death sentence"',
@@ -6,7 +6,7 @@ definitions: [
     '"the death of her hopes"',
     '"to be driven to a dance by one\'s father would be social death"',
 ]
-synonyms: [
+export const synonyms = [
     'demise',
     'dying',
     'end',

@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the lights flickered and changed color"',
     '"a rich brown color"',
     '"a range of bright colors"',
@@ -28,7 +28,7 @@ definitions: [
     '"the experiences had colored her whole existence"',
     '"witnesses might color evidence to make a story saleable"',
 ]
-synonyms: [
+export const synonyms = [
     'hue',
     'shade',
     'tint',

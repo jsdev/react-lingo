@@ -9,12 +9,12 @@ type Props = {
 
 export const CurrentRow = ({ guess, className }: Props) => {
   const given = localStorage.given
-  // const slice = guess.length - given.length;
-  // const chars = given.slice(slice).split('')
+  const slice = guess.length - given.length;
+  const chars = given.slice(slice).split('')
   const statuses = getRevealStatus(solution, given)
-  // const emptyStatuses = getRevealStatus(solution.slice(slice), given.slice(slice))
+  const emptyStatuses = getRevealStatus(solution.slice(slice), given.slice(slice))
   const splitGuess = unicodeSplit(guess)
-  // const emptyCells = Array.from(Array(solution.length - splitGuess.length))
+  const emptyCells = Array.from(Array(solution.length - splitGuess.length))
   const classes = `flex justify-center mb-1 ${className}`
 
   return (
@@ -27,7 +27,7 @@ export const CurrentRow = ({ guess, className }: Props) => {
             status={statuses[i]}
           />
         ))}
-        {/* {emptyCells.map((_, i) => (
+        {emptyCells.map((_, i) => (
           <Cell
             key={i}
             value={
@@ -36,7 +36,7 @@ export const CurrentRow = ({ guess, className }: Props) => {
             opacity={0.6}
             status={emptyStatuses[i]}
           />
-        ))} */}
+        ))}
       </div>
     </div>
   )

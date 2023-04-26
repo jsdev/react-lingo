@@ -1,0 +1,25 @@
+export const definitions = [
+    '"legal jargon"',
+    '"rings set with jargons and pearls"',
+]
+export const synonyms = [
+    'slang',
+    'cant',
+    'idiom',
+    'argot',
+    'patter',
+    'patois',
+    'vernacular',
+    'computerese',
+    'legalese',
+    'bureaucratese',
+    'journalese',
+    'psychobabble',
+    'gobbledygook',
+    'gibberish',
+    'double Dutch',
+    'specialized language',
+    'technical language',
+    'unintelligible language',
+    'obscure language',
+]

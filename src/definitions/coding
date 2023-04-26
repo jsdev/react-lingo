@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the forms are checked and returned to the census officer for coding"',
     '"a coding system"',
     '"PAYE codings"',
@@ -11,7 +11,7 @@ definitions: [
     '"genes that code for human growth hormone"',
     '"one pair of homologous chromosomes codes for eye color"',
 ]
-synonyms: [
+export const synonyms = [
     'programming',
     'encrypting',
     'scripting'

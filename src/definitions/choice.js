@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the choice between good and evil"',
     '"I had to do it, I had no choice"',
     '"you can have a sofa made to order in a choice of over forty fabrics"',
@@ -6,7 +6,7 @@ definitions: [
     '"he picked some choice early plums"',
     '"he had a few choice words at his command"',
 ]
-synonyms: [
+export const synonyms = [
     'option',
     'alternative',
     'possibility',

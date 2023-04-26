@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"a measuring device"',
     '"an incendiary device"',
     '"a service that attempts to make all of your files available on all your devices whenever you want them"',
@@ -9,7 +9,7 @@ definitions: [
     '"their shields bear the device of the Blazing Sun"',
     '"works of strange device"',
 ]
-synonyms: [
+export const synonyms = [
     'implement',
     'gadget',
     'utensil',

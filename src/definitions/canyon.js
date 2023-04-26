@@ -1,0 +1,26 @@
+export const definitions = [
+    '"the Grand Canyon"',
+]
+export const synonyms = [
+    'ravine',
+    'gorge',
+    'gully',
+    'pass',
+    'defile',
+    'couloir',
+    'chasm',
+    'abyss',
+    'gulf',
+    'gulch',
+    'coulee',
+    'flume',
+    'arroyo',
+    'barranca',
+    'nullah',
+    'kloof',
+    'quebrada',
+    'khud',
+    'sloot',
+    'donga',
+    'khor',
+]

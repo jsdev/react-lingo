@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"a degree of caution is probably wise"',
     '"a question of degree"',
     '"set at an angle of 45 degrees"',
@@ -11,7 +11,7 @@ definitions: [
     '"a degree in zoology"',
     '"persons of unequal degree"',
 ]
-synonyms: [
+export const synonyms = [
     'level',
     'stage',
     'point',

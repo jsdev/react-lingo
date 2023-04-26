@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"a cargo of cotton and wheat"',
     '"an Indian hammock woven in colored cottons"',
     '"a white cotton blouse"',
     '"a cotton reel"',
 ]
-synonyms: [
+export const synonyms = [
     'thread',
     'wool',
     'fiber',

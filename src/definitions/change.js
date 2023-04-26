@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"both parties voted against proposals to change the law"',
     '"technology and the internet have dramatically changed the way we communicate"',
     '"fame hasn\'t changed her one bit"',
@@ -33,7 +33,7 @@ definitions: [
     '"I\'d go to the bank and get change"',
     '"I watched him pocket the change"',
 ]
-synonyms: [
+export const synonyms = [
     'convert',
     'transform',
     'make',

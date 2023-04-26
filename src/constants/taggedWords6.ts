@@ -9769,12 +9769,6 @@ export const alphabet6 = {
             complexity: "High School"
         },
         {
-            word: "defuel",
-            isCapitalized: true,
-            isRoot: false,
-            complexity: "Elementary"
-        },
-        {
             word: "defund",
             isCapitalized: false,
             isRoot: true,
@@ -9787,12 +9781,6 @@ export const alphabet6 = {
             complexity: "High School"
         },
         {
-            word: "defuze",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Post-College"
-        },
-        {
             word: "degage",
             isCapitalized: false,
             isRoot: false,
@@ -9803,12 +9791,6 @@ export const alphabet6 = {
             isCapitalized: false,
             isRoot: true,
             complexity: "High School"
-        },
-        {
-            word: "degels",
-            isCapitalized: true,
-            isRoot: false,
-            complexity: "Elementary"
         },
         {
             word: "degerm",
@@ -11173,12 +11155,6 @@ export const alphabet6 = {
             complexity: "High School"
         },
         {
-            word: "dorses",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "Elementary"
-        },
-        {
             word: "dorsum",
             isCapitalized: false,
             isRoot: true,
@@ -11249,12 +11225,6 @@ export const alphabet6 = {
             isCapitalized: false,
             isRoot: true,
             complexity: "High School"
-        },
-        {
-            word: "douane",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Elementary"
         },
         {
             word: "double",
@@ -30104,18 +30074,6 @@ export const taggedWords6 = [
 //         isCapitalized: true,
 //         isRoot: false,
 //         complexity: "Middle School"
-//     },
-//     {
-//         word: "defuel",
-//         isCapitalized: true,
-//         isRoot: false,
-//         complexity: "Elementary"
-//     },
-//     {
-//         word: "degels",
-//         isCapitalized: true,
-//         isRoot: false,
-//         complexity: "Elementary"
 //     },
 //     {
 //         word: "depulp",

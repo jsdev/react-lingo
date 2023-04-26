@@ -7,7 +7,8 @@ export const definitions = [
     '"the referee was _____d by players from both teams"',
     '"alcohol _____"',
     '"an _____ of public funds"',
-    '"protection against fraud and _____" · "human rights ______"',
+    '"protection against fraud and _____"',
+    '"human rights ______"',
     '"a black eye and other signs of physical _____"',
     '"young people who have suffered sexual _____"',
     '"waving his fists and hurling _____ at the driver"'

@@ -72,7 +72,7 @@ export const definitions = [
     '"I should damn well hope so"',
     '"being short of breath may well be the first sign of asthma"',
     '"she could well afford to pay for the reception herself"',
-    '"“What are we doing here?” “You may well ask.”"',
+    '"\"What are we doing here?\" \"You may well ask.\""',
     '"I don\'t feel very well"',
     '"it would be some time before Sarah was completely well"',
     '"he was not a well man"',

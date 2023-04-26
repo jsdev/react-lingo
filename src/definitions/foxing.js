@@ -1,0 +1,28 @@
+export const definitions = [
+    '"a few tiny blotches of foxing mainly confined to outer-edge of frontispiece"',
+    '"the bad light and dark shadows foxed him"',
+]
+export const synonyms = [
+    'baffle',
+    'bewilder',
+    'mystify',
+    'bemuse',
+    'perplex',
+    'puzzle',
+    'confuse',
+    'confound',
+    'nonplus',
+    'disconcert',
+    'throw',
+    'disorientate',
+    'wilder',
+    'gravel',
+    'maze',
+    'distract',
+    'pose',
+    'obfuscate',
+    'throw off balance',
+    'take aback',
+    'set thinking',
+    'cause to be at a stand',
+]

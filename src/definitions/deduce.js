@@ -1,0 +1,27 @@
+export const definitions = [
+    '"little can be safely deduced from these figures"',
+    '"they deduced that the fish died because of water pollution"',
+    '"he cannot deduce his descent wholly by heirs male"',
+]
+export const synonyms = [
+    'conclude',
+    'reason',
+    'work out',
+    'gather',
+    'infer',
+    'extrapolate',
+    'glean',
+    'divine',
+    'intuit',
+    'understand',
+    'assume',
+    'presume',
+    'conjecture',
+    'surmise',
+    'reckon',
+    'figure',
+    'come to the conclusion',
+    'draw the inference',
+    'come to understand',
+    'dare say',
+]

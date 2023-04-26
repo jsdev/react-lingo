@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"a deep gorge"',
     '"the lake was deep and cold"',
     '"a deep alcove"',
@@ -19,7 +19,7 @@ definitions: [
     '"a deep, resonant voice"',
     '"a deep pink"',
 ]
-synonyms: [
+export const synonyms = [
     'cavernous',
     'yawning',
     'gaping',

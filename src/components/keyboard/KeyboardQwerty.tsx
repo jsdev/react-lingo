@@ -7,11 +7,11 @@ import { Key } from './Key'
 import { KeyboardProps, keyboardRowStyles } from './KeyboardProps'
 
 const enterKeyRowStyles = Object.assign(
+  keyboardRowStyles,
   {
     display: 'grid',
     gridTemplateColumns: '1f 1fr 1fr 1fr 1fr 1fr 1fr 3fr'
   },
-  keyboardRowStyles,
 )
 
 export const KeyboardQWERTY = ({

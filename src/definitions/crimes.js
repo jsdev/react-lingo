@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"shoplifting was a serious crime"',
     '"the victims of crime"',
     '"they condemned apartheid as a crime against humanity"',
     '"it\'s a crime to keep a creature like Willy in a tank"',
 ]
-synonyms: [
+export const synonyms = [
     'offense',
     'misdemeanor',
     'misdeed',

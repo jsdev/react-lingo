@@ -1,8 +1,8 @@
-definitions: [
+export const definitions = [
     '"she cycled to work every day"',
     '"economies cycle regularly between boom and slump"',
 ]
-synonyms: [
+export const synonyms = [
     'travel',
     'go',
     'move',

@@ -1,0 +1,27 @@
+export const definitions = [
+    '"the moose dropped a hind foot and dented the hood of the car"',
+    '"this neither deterred him nor dented his enthusiasm"',
+]
+export const synonyms = [
+    'dint',
+    'indent',
+    'mark',
+    'make a dent in',
+    'make an indentation in',
+    'diminish',
+    'reduce',
+    'lessen',
+    'shrink',
+    'weaken',
+    'erode',
+    'undermine',
+    'sap',
+    'shake',
+    'break',
+    'crush',
+    'cripple',
+    'destroy',
+    'damage',
+    'impair',
+    'increase',
+]

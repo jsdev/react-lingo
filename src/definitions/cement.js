@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"rubber cement"',
     '"traditional entertainment was a form of community cement"',
     '"dental cement"',
@@ -6,7 +6,7 @@ definitions: [
     '"the two firms are expected to cement an agreement soon"',
     '"the original quartz grains were cemented by authigenic quartz"',
 ]
-synonyms: [
+export const synonyms = [
     'adhesive',
     'glue',
     'fixative',

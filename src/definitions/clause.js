@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"the missing verb in the second clause is understood to be the same verb as in the first clause"',
     '"Clause 1 of the agreement"',
     '"he had to sign a confidentiality clause that prevents him speaking to the media"',
     '"many contracts have clauses requiring contractors to notify the owner in writing when they encounter installation problems"',
 ]
-synonyms: [
+export const synonyms = [
     'expression',
     'construction',
     'locution',

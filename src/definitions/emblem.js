@@ -1,0 +1,33 @@
+export const definitions = [
+    '"America\'s national emblem, the bald eagle"',
+    '"our child would be a dazzling emblem of our love"'
+]
+export const synonyms = [
+    'symbol',
+    'representation',
+    'token',
+    'image',
+    'figure',
+    'mark',
+    'sign',
+    'crest',
+    'badge',
+    'device',
+    'insignia',
+    'stamp',
+    'seal',
+    'design',
+    'coat of arms',
+    'shield',
+    'logo',
+    'trademark',
+    'heraldic device',
+    'token',
+    'sign',
+    'representation',
+    'figure',
+    'image',
+    'type',
+    'metaphor',
+    'allegory',
+]

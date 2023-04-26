@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"draw a circle with a compass"',
     '"the lamp spread a circle of light"',
     '"they all sat around in a circle"',
@@ -11,7 +11,7 @@ definitions: [
     '"the monastery was circled by a huge wall"',
     '"circle the correct answers"',
 ]
-synonyms: [
+export const synonyms = [
     'ring',
     'round',
     'band',

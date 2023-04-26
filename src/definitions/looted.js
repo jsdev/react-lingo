@@ -1,0 +1,28 @@
+export const definitions = [
+    '"desperate residents looted shops for food and water"',
+    '"tons of food aid awaiting distribution had been looted"',
+]
+export const synonyms = [
+    'plunder',
+    'pillage',
+    'ransack',
+    'sack',
+    'raid',
+    'rifle',
+    'rob',
+    'burgle',
+    'maraud',
+    'ravage',
+    'devastate',
+    'lay waste to',
+    'vandalize',
+    'gut',
+    'strip',
+    'fleece',
+    'clear out',
+    'despoil',
+    'steal from',
+    'wreak havoc on',
+    'depredate',
+    'spoliate',
+]

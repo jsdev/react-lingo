@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"shallow water of no more than 12 feet in depth"',
     '"the depth of the wardrobe"',
     '"loosen the soil to a depth of 8 inches"',
@@ -16,7 +16,7 @@ definitions: [
     '"she was in the depths of despair"',
     '"a remote little village somewhere in the depths of Russia"',
 ]
-synonyms: [
+export const synonyms = [
     'deepness',
     'drop',
     'profundity',

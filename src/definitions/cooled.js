@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"we hold the cooled branding irons"',
     '"an air-cooled engine"',
     '"we dived into the river to cool off"',
@@ -7,7 +7,7 @@ definitions: [
     '"after I\'d cooled off, I realized I was being irrational"',
     '"George was trying to cool him down"',
 ]
-synonyms: [
+export const synonyms = [
     'chill',
     'refrigerate',
     'make cold/colder',

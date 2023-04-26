@@ -1,0 +1,27 @@
+export const definitions = [
+    '"we cannot prevent ourselves sometimes from dreaming of performing venial if not mortal sins"',
+    '"everything I\'ve disclosed up to now can be seen as venial"',
+]
+export const synonyms = [
+    'pardonable',
+    'forgivable',
+    'excusable',
+    'condonable',
+    'tolerable',
+    'permissible',
+    'allowable',
+    'understandable',
+    'justifiable',
+    'slight',
+    'minor',
+    'unimportant',
+    'insignificant',
+    'trivial',
+    'trifling',
+    'all right',
+    'not serious',
+    'within accepted bounds',
+    'unforgivable',
+    'unpardonable',
+    'mortal',
+]

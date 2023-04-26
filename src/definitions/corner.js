@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"Jan sat at one corner of the table"',
     '"he drove the ball into the corner of the net"',
     '"an apartment on the corner of 199th Street and Amsterdam Avenue"',
@@ -17,7 +17,7 @@ definitions: [
     '"no squeal is evident from the tires when cornering fast"',
     '"Kavanagh lofted a corner kick"',
 ]
-synonyms: [
+export const synonyms = [
     'bring to bay',
     'cut off',
     'trap',

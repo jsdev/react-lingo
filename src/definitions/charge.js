@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"he charged me 2 euros for the postcard"',
     '"the restaurant charged $15 for dinner"',
     '"museums should charge for admission"',
@@ -26,7 +26,7 @@ definitions: [
     '"smaller charges, fired on three minute fuses lit by hand"',
     '"a cavalry charge"',
 ]
-synonyms: [
+export const synonyms = [
     'ask',
     'impose',
     'levy',

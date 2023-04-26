@@ -11,7 +11,7 @@ export const definitions = [
     '"income rose by 11 percent _____ing for inflation"',
     '"_____ an hour or so for driving"',
     '"he _____ed that the penalty appeared too harsh for the crime"',
-    '"“Could happen,” she _____ed indifferently"',
+    '"\"Could happen,\" she _____ed indifferently"',
     '"Lincoln _____ed that he himself could never support the man"'
 ];
 export const synonyms = [
@@ -38,7 +38,7 @@ export const synonyms = [
     'grant someone the right',
     'consent to',
     'assent to',
-    'give one\'s consent/assent to',
+    'give one\'s consent / assent to',
     'give one\'s blessing to',
     'give someone/something the nod',
     'acquiesce in',

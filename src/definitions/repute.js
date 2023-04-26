@@ -1,0 +1,27 @@
+export const definitions = [
+    '"pollution could bring the authority\'s name into bad repute"',
+    '"chefs of international repute"',
+    '"he\'s reputed to earn $7m per annum"',
+    '"the waters of the fountain are reputed to have healing properties"',
+]
+export const synonyms = [
+    'reputation',
+    'name',
+    'character',
+    'report',
+    'fame',
+    'renown',
+    'celebrity',
+    'distinction',
+    'stature',
+    'eminence',
+    'prominence',
+    'note',
+    'prestige',
+    'account',
+    'high standing',
+    'good reputation',
+    'good name',
+    'obscurity',
+    'infamy',
+]

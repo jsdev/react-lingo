@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"I dashed into the garden"',
     '"I must dash, I\'m late"',
     '"the ship was dashed upon the rocks"',
@@ -13,7 +13,7 @@ definitions: [
     '"he has youthful energy, dash, and charisma"',
     '"an indicator on the dash tells you what gear you are in"',
 ]
-synonyms: [
+export const synonyms = [
     'rush',
     'race',
     'run',

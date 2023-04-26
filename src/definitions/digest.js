@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"the computer digested your labors into a form understandable by a program"',
     '"a digest of their findings"',
     '"a digest of cloned DNA"',
 ]
-synonyms: [
+export const synonyms = [
     'break down',
     'dissolve',
     'assimilate',

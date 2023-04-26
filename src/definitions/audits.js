@@ -1,5 +1,5 @@
 export const definitions = [
-    "______ can't be expected to detect every fraud",
+    "______ can\'t be expected to detect every fraud",
     "a complete _____ of flora and fauna at the site",
     "companies must have their accounts _____ed",
     "_____ing obstetrical and neonatal care",

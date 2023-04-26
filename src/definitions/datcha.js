@@ -1,0 +1,26 @@
+export const definitions = [
+]
+export const synonyms = [
+    'house',
+    'bungalow',
+    'villa',
+    'lodge',
+    'chalet',
+    'cabin',
+    'shack',
+    'shanty',
+    'retreat',
+    'home',
+    'residence',
+    'place',
+    'abode',
+    'bothy',
+    'gîte',
+    'but and ben',
+    'rondavel',
+    'holiday home',
+    'bower',
+    'cot',
+    'small house',
+    'holiday cottage',
+]

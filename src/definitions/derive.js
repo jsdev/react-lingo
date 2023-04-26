@@ -1,13 +1,13 @@
-definitions: [
+export const definitions = [
     '"they derived great comfort from this assurance"',
     '"Eliot derived his poetics from the French Symbolists"',
-    '"the word “punch” derives from the Hindustani “pancha”"',
-    '"the word “man” is derived from the Sanskrit “manu.”"',
+    '"the word \"punch\" derives from the Hindustani \"pancha\""',
+    '"the word \"man\" is derived from the Sanskrit \"manu.\""',
     '"words whose spelling derives from Dr. Johnson\'s incorrect etymology"',
     '"strong acids are derived from the combustion of fossil fuels"',
     '"the volume fraction of the soil can then be derived as a function of L"',
 ]
-synonyms: [
+export const synonyms = [
     'obtain',
     'get',
     'take',

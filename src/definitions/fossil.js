@@ -1,0 +1,25 @@
+export const definitions = [
+    '"sites rich in fossils"',
+    '"a fossil fish"',
+    '"he can be a cantankerous old fossil at times"',
+]
+export const synonyms = [
+    'cast',
+    'impression',
+    'mold',
+    'remnant',
+    'relic',
+    'reliquiae',
+    'petrified remains',
+    'petrified impression',
+    'conservative',
+    'traditionalist',
+    'conventionalist',
+    'diehard',
+    'conformist',
+    'bourgeois',
+    'museum piece',
+    'dinosaur',
+    'troglodyte',
+    '(old) fogey',
+]

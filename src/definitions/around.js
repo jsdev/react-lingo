@@ -17,7 +17,7 @@ export const definitions = [
     '"he made his way ______ to the back of the building"',
     '"they went the long way ______ by the main road"',
     '"I like pupils to find their own way ______"',
-    '"why don\'t you come ______ to my office?"',
+    '"why don\'t you come ______ to my office ? "',
     '"one of them was glancing nervously ______"',
     '"John tried to focus on her but she kept moving ______"',
     '"there was no one ______"',

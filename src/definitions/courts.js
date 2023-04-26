@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"we can have the courts settle our dispute"',
     '"a court case"',
     '"everyone in the court knew he was going down, innocent or guilty"',
@@ -12,7 +12,7 @@ definitions: [
     '"he never had to court the approval of the political elite"',
     '"that celebrity often courts controversy"',
 ]
-synonyms: [
+export const synonyms = [
     'bench',
     'bar',
     'judicature',

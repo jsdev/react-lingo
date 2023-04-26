@@ -1,0 +1,25 @@
+export const definitions = [
+    '"plenty of fully rotted horse manure can be dug in this fall"',
+    '"organic manure might be animal or vegetable derived"',
+    '"artificial manures"',
+    '"the ground should be well dug and manured"',
+]
+export const synonyms = [
+    'dung',
+    'muck',
+    'droppings',
+    'ordure',
+    'guano',
+    'cowpats',
+    'feed',
+    'mulch',
+    'compost',
+    'dung',
+    'dress',
+    'top-dress',
+    'fecundate',
+    'fructify',
+    'add fertilizer to',
+    'enrich with fertilizer',
+    'make more fertile',
+]

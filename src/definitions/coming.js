@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"work is due to start in the coming year"',
     '"he was the coming man of French racing"',
     '"the coming of a new age"',
@@ -19,7 +19,7 @@ definitions: [
     '"the electrician came to fix the stove"',
     '"we have certainly come a long way since Aristotle"',
     '"do you want to come fishing tomorrow?"',
-    '"“Come, come, child, no need to thank me.”"',
+    '"\"Come, come, child, no need to thank me.\""',
     '"twilight had not yet come"',
     '"his father waited for a phone call that never came"',
     '"the attacks came without warning"',
@@ -27,7 +27,7 @@ definitions: [
     '"the cuts come amid increasing competition in Hong Kong"',
     '"a voice came from the kitchen"',
     '"it came as a great shock"',
-    '"“No,” came the reply"',
+    '"\"No,\" came the reply"',
     '"prisons come far down the list of priorities"',
     '"I make sure my kids come first"',
     '"she came second among sixty contestants"',
@@ -38,7 +38,7 @@ definitions: [
     '"the cars come with a variety of extras"',
     '"they come in three sizes"',
 ]
-synonyms: [
+export const synonyms = [
     'forthcoming',
     'imminent',
     'impending',

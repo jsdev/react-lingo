@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"the southwestern French domains of the Plantagenets"',
     '"the expanding domain of psychology"',
     '"visual communication is the domain of the graphic designer"',
 ]
-synonyms: [
+export const synonyms = [
     'realm',
     'kingdom',
     'empire',

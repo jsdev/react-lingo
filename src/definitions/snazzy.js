@@ -1,0 +1,27 @@
+export const definitions = [
+    '"snazzy little silk dresses"',
+]
+export const synonyms = [
+    'stylish',
+    'smart',
+    'attractive',
+    'lovely',
+    'glamorous',
+    'gorgeous',
+    'stunning',
+    'fashionable',
+    'dapper',
+    'debonair',
+    'dashing',
+    'jaunty',
+    'rakish',
+    'spruce',
+    'chic',
+    'modish',
+    'elegant',
+    'trim',
+    'gay',
+    'trig',
+    'as if one had just stepped out of a bandbox',
+    'dowdy',
+]

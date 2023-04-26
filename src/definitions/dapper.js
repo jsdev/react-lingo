@@ -1,0 +1,25 @@
+export const definitions = [
+    '"he looked very dapper in a dark silk suit"',
+]
+export const synonyms = [
+    'smart',
+    'spruce',
+    'trim',
+    'debonair',
+    'neat',
+    'tidy',
+    'crisp',
+    'well dressed',
+    'besuited',
+    'well groomed',
+    'elegant',
+    'chic',
+    'dashing',
+    'soigné',
+    'trig',
+    'neat and tidy',
+    'well turned out',
+    'smartly dressed',
+    'as if one had just stepped out of a bandbox',
+    'scruffy',
+]

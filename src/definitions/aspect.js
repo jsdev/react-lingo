@@ -6,7 +6,8 @@ export const definitions = [
     '"a greenhouse with a southern ______"',
     '"the front ______ of the hotel was unremarkable"',
     '"the sun in Aries formed an adverse ______ with Uranus in Capricorn"',
-    '"the semantics of tense and ______" · "four verbal ______s"',
+    '"the semantics of tense and ______"',
+    '"four verbal ______s"',
     '"the sun is superbly ______ed by your ruler Mars on the 19th"'
 ]
 

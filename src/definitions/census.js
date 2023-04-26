@@ -1,8 +1,8 @@
-definitions: [
+export const definitions = [
     '"population estimates extrapolated from the 1981 census"',
     '"census data"',
 ]
-synonyms: [
+export const synonyms = [
     'poll',
     'review',
     'investigation',

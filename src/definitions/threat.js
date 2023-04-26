@@ -1,0 +1,26 @@
+export const definitions = [
+    '"members of her family have received death threats"',
+    '"hurricane damage poses a major threat to many coastal communities"',
+    '"the company faces the threat of bankruptcy"',
+    '"thousands of railroad jobs came under threat"',
+]
+export const synonyms = [
+    'warning',
+    'ultimatum',
+    'commination',
+    'menaces',
+    'menacing',
+    'threatening remark',
+    'intimidating remark',
+    'danger',
+    'peril',
+    'hazard',
+    'menace',
+    'risk',
+    'possibility',
+    'chance',
+    'probability',
+    'likelihood',
+    'fear',
+    'prospect',
+]

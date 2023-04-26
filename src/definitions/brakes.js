@@ -1,0 +1,26 @@
+export const definitions = [
+    '"he slammed on his brakes"',
+    '"a brake pedal"',
+    '"managers have a duty to put the brakes on growth when it is unsustainable"',
+    '"drivers who brake abruptly"',
+    '"mist floats through the hawthorn brake"',
+]
+export const synonyms = [
+    'curb',
+    'check',
+    'restraint',
+    'restriction',
+    'constraint',
+    'rein',
+    'control',
+    'damper',
+    'impediment',
+    'limitation',
+    'slow down',
+    'slow',
+    'decelerate',
+    'reduce speed',
+    'put on the brakes',
+    'hit the brakes',
+    'accelerate',
+]

@@ -1,0 +1,27 @@
+export const definitions = [
+    '"spider monkeys leap and cavort in the branches"',
+    '"he spent his nights cavorting with the glitterati"',
+]
+export const synonyms = [
+    'skip',
+    'dance',
+    'romp',
+    'jig',
+    'caper',
+    'frisk',
+    'gambol',
+    'prance',
+    'frolic',
+    'play',
+    'bounce',
+    'trip',
+    'leap',
+    'jump',
+    'bound',
+    'spring',
+    'hop',
+    'bob',
+    'sport',
+    'rollick',
+    'cut capers',
+]

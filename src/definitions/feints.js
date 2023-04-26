@@ -1,0 +1,26 @@
+export const definitions = [
+    '"a brief feint at the opponent\'s face"',
+    '"Adam feinted with his right and then swung a left"',
+    '"‘You would, would you?’ said Bob, feinting punches back at them"',
+]
+export const synonyms = [
+    'bluff',
+    'blind',
+    'ruse',
+    'deception',
+    'subterfuge',
+    'hoax',
+    'trick',
+    'ploy',
+    'device',
+    'wile',
+    'sham',
+    'pretense',
+    'artifice',
+    'cover',
+    'smokescreen',
+    'distraction',
+    'expedient',
+    'contrivance',
+    'machination',
+]

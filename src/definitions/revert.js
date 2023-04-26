@@ -1,0 +1,27 @@
+export const definitions = [
+    '"he reverted to his native language"',
+    '"he ignored her words by reverting to the former subject"',
+    '"I reverted to Islam five years ago"',
+    '"it is impossible that a fishlike mammal will actually revert to being a true fish"',
+    '"in the event of the building ceasing to become a school, ownership would revert to the Church"',
+    '"we texted both Farah and Shirish, but neither of them reverted"',
+    '"if interested, kindly revert with your updated resume"',
+    '"on reverting our eyes, every step presented some new and admirable scene"',
+]
+export const synonyms = [
+    'return',
+    'go back',
+    'come back',
+    'retrogress',
+    'regress',
+    'default',
+    'retrograde',
+    'change back',
+    'fall back into',
+    'relapse into',
+    'lapse into',
+    'drift back into',
+    'fall',
+    'escheat',
+    'be returned',
+]

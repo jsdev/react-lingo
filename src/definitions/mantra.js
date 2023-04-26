@@ -1,0 +1,25 @@
+export const definitions = [
+    '"a mantra is given to a trainee meditator when his teacher initiates him"',
+    '"her high, sweet voice began chanting the mantra of life"',
+    '"the environmental mantra that energy has for too long been too cheap"',
+]
+export const synonyms = [
+    'incantation',
+    'intonation',
+    'recitation',
+    'singing',
+    'song',
+    'recitative',
+    'cantillation',
+    'catchphrase',
+    'catchline',
+    'catchword',
+    'jingle',
+    'saying',
+    'formula',
+    'legend',
+    'watchword',
+    'motto',
+    'shibboleth',
+    'rallying cry',
+]

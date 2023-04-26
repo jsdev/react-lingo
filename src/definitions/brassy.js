@@ -1,0 +1,28 @@
+export const definitions = [
+    '"the last rays of the sun were brassy and chill"',
+    '"audience members are tapping their feet to the brassy music of the band"',
+    '"her brassy, audacious exterior"',
+]
+export const synonyms = [
+    'loud',
+    'blaring',
+    'noisy',
+    'thundering',
+    'booming',
+    'deafening',
+    'ear-splitting',
+    'raucous',
+    'harsh',
+    'dissonant',
+    'discordant',
+    'cacophonous',
+    'jangling',
+    'grating',
+    'jarring',
+    'strident',
+    'piercing',
+    'shrill',
+    'tinny',
+    'soft',
+    'dulcet',
+]

@@ -1,0 +1,27 @@
+export const definitions = [
+    '"paper products are bleached with chlorine"',
+    '"his contributions to the album are bleached of personality"',
+    '"a new formula to bleach and brighten clothing"',
+    '"how can I get all those stains out of my wash without bleach?"',
+]
+export const synonyms = [
+    'whiten',
+    'blanch',
+    'lighten',
+    'fade',
+    'wash out',
+    'decolorize',
+    'peroxide',
+    'pale',
+    'blench',
+    'make/turn white',
+    'make/turn pale',
+    'make/turn pallid',
+    'decolor',
+    'etiolate',
+    'go/grow/turn/become white',
+    'go/turn/grow/become pale',
+    'go/grow/turn/become pallid',
+    'lose its color',
+    'be washed out',
+]

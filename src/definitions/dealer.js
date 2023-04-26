@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"a car dealer"',
     '"a brash young dealer arrived on the dealing floor"',
     '"he posed as a dealer willing to buy heroin"',
 ]
-synonyms: [
+export const synonyms = [
     'trader',
     'tradesman',
     'tradesperson',

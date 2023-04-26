@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the boom and slump periods of a trade cycle"',
     '"the cells are shed over a cycle of twenty-eight days"',
     '"the familiar four cycles of intake, combustion, ignition, and exhaust"',
@@ -12,7 +12,7 @@ definitions: [
     '"she cycled to work every day"',
     '"economies cycle regularly between boom and slump"',
 ]
-synonyms: [
+export const synonyms = [
     'round',
     'rotation',
     'revolution',

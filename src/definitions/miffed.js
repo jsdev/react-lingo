@@ -1,0 +1,28 @@
+export const definitions = [
+    '"she turned around, looking slightly miffed"',
+    '"she was miffed at not being invited"',
+    '"she was slightly miffed at not being invited"',
+]
+export const synonyms = [
+    'annoyed',
+    'displeased',
+    'offended',
+    'aggrieved',
+    'piqued',
+    'riled',
+    'nettled',
+    'vexed',
+    'irked',
+    'irritated',
+    'upset',
+    'hurt',
+    'pained',
+    'put out',
+    'fed up',
+    'chagrined',
+    'disgruntled',
+    'discontented',
+    'resentful',
+    'in a huff',
+    'pleased',
+]

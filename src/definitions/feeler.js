@@ -1,0 +1,28 @@
+export const definitions = [
+    '"he put out feelers about seeking the party nomination"',
+]
+export const synonyms = [
+    'antenna',
+    'tentacle',
+    'horn',
+    'whisker',
+    'hair',
+    'barb',
+    'palp',
+    'palpus',
+    'pedipalp',
+    'antennule',
+    'tactile organ',
+    'sensory organ',
+    'tactor',
+    'advance',
+    'approach',
+    'overture',
+    'appeal',
+    'probe',
+    'trial balloon',
+    'tentative inquiry',
+    'tentative proposal',
+    'tentative suggestion',
+    'ballon d\'essai',
+]

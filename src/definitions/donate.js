@@ -1,8 +1,8 @@
-definitions: [
+export const definitions = [
     '"a portion of the proceeds will be donated to charity"',
     '"all donated blood is tested for antibodies"',
 ]
-synonyms: [
+export const synonyms = [
     'give',
     'contribute',
     'present',

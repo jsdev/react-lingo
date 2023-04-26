@@ -1,0 +1,25 @@
+export const definitions = [
+    '"she initiated training for matrons of residential homes"',
+    '"\"This is preposterous,\" sighed Matron"',
+    '"respectable suburban matrons"',
+]
+export const synonyms = [
+    'lady',
+    'female',
+    'girl',
+    'person',
+    'lass',
+    'lassie',
+    'wife',
+    'colleen',
+    'Frau',
+    'Signora',
+    'Señora',
+    'maid',
+    'maiden',
+    'damsel',
+    'demoiselle',
+    'gentlewoman',
+    'bitch',
+    'adult female',
+]

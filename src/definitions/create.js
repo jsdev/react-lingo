@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"he created a thirty-acre lake"',
     '"over 170 jobs were created"',
     '"divorce only created problems for children"',
     '"he was created a baronet"',
 ]
-synonyms: [
+export const synonyms = [
     'generate',
     'produce',
     'design',

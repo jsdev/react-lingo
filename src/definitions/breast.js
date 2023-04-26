@@ -19,6 +19,6 @@ export const synonyms = [
     'soul',
     'bosom',
     'core',
-    'seat of one\'s emotions/feelings',
+    'seat of one\'s emotions / feelings',
     'innermost being',
 ]

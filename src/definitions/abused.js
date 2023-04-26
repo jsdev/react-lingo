@@ -1,7 +1,7 @@
 export const definitions = [
     '"______ children"',
     '"an ______ rescue dog"',
-    '"“next generation” is an ______ term"',
+    '"\"next generation\" is an ______ term"',
     '"food can be an ______ substance"',
     '"the judge ______ his power by imposing the fines"',
     '"at various times in her life she ______ both alcohol and drugs"',

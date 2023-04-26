@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the cooler was a dark, claustrophobic room"',
     '"it\'ll be a cool afternoon"',
     '"the wind kept them cool"',
@@ -14,7 +14,7 @@ definitions: [
     '"if people want to freak out at our clubs, that\'s cool"',
     '"a cool $15,000 to buy the franchise"',
 ]
-synonyms: [
+export const synonyms = [
     'jail',
     'prison',
     'cell',

@@ -1,0 +1,26 @@
+export const definitions = [
+    '"the production has yet to offend Gilbert and Sullivan purists"',
+    '"purist fans of the original comic strip"',
+    '"Purist painters"',
+]
+export const synonyms = [
+    'pedant',
+    'precisionist',
+    'perfectionist',
+    'formalist',
+    'literalist',
+    'stickler',
+    'traditionalist',
+    'doctrinaire',
+    'quibbler',
+    'hair-splitter',
+    'dogmatist',
+    'casuist',
+    'sophist',
+    'fault-finder',
+    'caviller',
+    'carper',
+    'pettifogger',
+    'precisian',
+    'Dryasdust',
+]

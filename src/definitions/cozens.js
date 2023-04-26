@@ -1,0 +1,28 @@
+export const definitions = [
+    '"do not think to cozen your contemporaries"',
+    '"he was able to cozen a profit"',
+]
+export const synonyms = [
+    'deceive',
+    'delude',
+    'hoodwink',
+    'mislead',
+    'take in',
+    'dupe',
+    'fool',
+    'double-cross',
+    'cheat',
+    'defraud',
+    'swindle',
+    'outwit',
+    'outmaneuver',
+    'catch out',
+    'gull',
+    'hoax',
+    'bamboozle',
+    'beguile',
+    'entrap',
+    'chicane',
+    'sell',
+    'illude',
+]

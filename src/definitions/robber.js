@@ -1,0 +1,25 @@
+export const definitions = [
+]
+export const synonyms = [
+    'burglar',
+    'thief',
+    'housebreaker',
+    'cat burglar',
+    'mugger',
+    'shoplifter',
+    'stealer',
+    'pilferer',
+    'raider',
+    'looter',
+    'plunderer',
+    'pillager',
+    'marauder',
+    'bandit',
+    'brigand',
+    'pirate',
+    'highwayman',
+    'dacoit',
+    'holdupper',
+    'tea leaf',
+    'sneak thief',
+]

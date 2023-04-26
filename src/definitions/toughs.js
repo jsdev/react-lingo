@@ -1,0 +1,28 @@
+export const definitions = [
+    '"young toughs sporting their state-of-the-art firearms"',
+]
+export const synonyms = [
+    'ruffian',
+    'rowdy',
+    'thug',
+    'hoodlum',
+    'hooligan',
+    'brute',
+    'bully',
+    'bully boy',
+    'rough',
+    'gangster',
+    'desperado',
+    'grin and bear it',
+    'keep going',
+    'persevere',
+    'persist',
+    'carry on',
+    'put up with it',
+    'keep at it',
+    'stay with it',
+    'see it through',
+    'see it through to the end',
+    'struggle on',
+    'give up',
+]

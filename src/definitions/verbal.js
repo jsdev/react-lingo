@@ -1,0 +1,25 @@
+export const definitions = [
+    '"the root of the problem is visual rather than verbal"',
+    '"verbal abuse"',
+    '"a verbal agreement"',
+    '"he\'s very verbal"',
+    '"a verbal adjective"',
+]
+export const synonyms = [
+    'oral',
+    'spoken',
+    'said',
+    'uttered',
+    'articulated',
+    'expressed',
+    'stated',
+    'verbalized',
+    'vocal',
+    'unwritten',
+    'word-of-mouth',
+    'viva voce',
+    'by mouth',
+    'nonverbal',
+    'unspoken',
+    'written',
+]

@@ -1,7 +1,7 @@
 
 export const definitions = [
     '"people are always ______ questions"',
-    '"“How much further?” I kept ______"',
+    '"\"How much further?\" I kept ______"',
     '"an old man ______ about her job"',
     '"he\'s ______ if she wanted coffee"',
     '"______ whether his electric wheelchair would fit through their doors"',

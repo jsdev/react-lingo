@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"there is little chance of his finding a job"',
     '"a chance of victory"',
     '"he played down his chances of becoming chairman"',
@@ -11,7 +11,7 @@ definitions: [
     '"he chanced upon an interesting advertisement"',
     '"she waited a few seconds and chanced another look"',
 ]
-synonyms: [
+export const synonyms = [
     'possibility',
     'prospect',
     'probability',

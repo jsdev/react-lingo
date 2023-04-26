@@ -1,0 +1,26 @@
+export const definitions = [
+    '"she\'d always prided herself on her ability to deal with a crisis"',
+]
+export const synonyms = [
+    'vaunt',
+    'be proud of',
+    'be proud of oneself for',
+    'take pride in',
+    'take satisfaction in',
+    'congratulate oneself on',
+    'flatter oneself on',
+    'preen oneself on',
+    'pat oneself on the back for',
+    'revel in',
+    'glory in',
+    'delight in',
+    'exult in',
+    'rejoice in',
+    'triumph over',
+    'feel self-satisfied about',
+    'boast about',
+    'brag about',
+    'crow about',
+    'gloat over',
+    'pique oneself on/in',
+]

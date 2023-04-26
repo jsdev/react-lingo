@@ -1,7 +1,7 @@
-definitions: [
+export const definitions = [
     '"a chesty cough"',
 ]
-synonyms: [
+export const synonyms = [
     'large-breasted',
     'big-breasted',
     'bosomy',

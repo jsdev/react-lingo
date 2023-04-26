@@ -1,0 +1,25 @@
+export const definitions = [
+    '"the whole is light and portable, and ornamental withal"',
+    '"she gave him a grateful smile, but rueful withal"',
+    '"we sat with little to nourish ourselves withal but vile water"',
+]
+export const synonyms = [
+    'nevertheless',
+    'nonetheless',
+    'all the same',
+    'just the same',
+    'anyway',
+    'anyhow',
+    'still',
+    'yet',
+    'however',
+    'notwithstanding',
+    'be that as it may',
+    'in any event',
+    'at any rate',
+    'natheless',
+    'howbeit',
+    'despite that',
+    'in spite of that',
+    'for all that',
+]

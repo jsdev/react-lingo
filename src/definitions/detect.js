@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"cancer may soon be detected in its earliest stages"',
     '"Paul detected a faint note of weariness in his father\'s voice"',
     '"the public can help the police to detect crime"',
 ]
-synonyms: [
+export const synonyms = [
     'notice',
     'perceive',
     'note',

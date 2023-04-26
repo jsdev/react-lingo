@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"he committed an uncharacteristic error"',
     '"they were reluctant to commit themselves to an opinion"',
     '"the treaty commits each party to defend the other"',
@@ -13,7 +13,7 @@ definitions: [
     '"the magistrate decided to commit him for trial"',
     '"he had been committed for treatment"',
 ]
-synonyms: [
+export const synonyms = [
     'carry out',
     'do',
     'perform',

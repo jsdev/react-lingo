@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"heroes with divine powers"',
     '"paintings of shipwrecks being prevented by divine intervention"',
     '"divine liturgy"',
@@ -8,7 +8,7 @@ definitions: [
     '"they had divined that he was a fake"',
     '"frauds who claimed to divine the future in chicken\' entrails"',
 ]
-synonyms: [
+export const synonyms = [
     'godly',
     'godlike',
     'angelic',

@@ -1,0 +1,27 @@
+export const definitions = [
+    '"binders full of maps and photos"',
+    '"a fast-drying paint in which colored pigments are mixed with a water-soluble binder"',
+    '"Eli wears a binder to flatten his chest but the only real solution to feel comfortable in his own body is to have top surgery"',
+]
+export const synonyms = [
+    'file',
+    'ring binder',
+    'portfolio',
+    'document case',
+    'envelope',
+    'sleeve',
+    'jacket',
+    'wrapper',
+    'wallet',
+    'adhesive',
+    'glue',
+    'fixative',
+    'gum',
+    'paste',
+    'bonding',
+    'sealer',
+    'sealant',
+    'superglue',
+    'epoxy resin',
+    'mucilage',
+]

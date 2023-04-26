@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"there was no direct flight that day"',
     '"the complications are a direct result of bacteria spreading"',
     '"the government moved towards reintroducing direct rule"',
@@ -24,7 +24,7 @@ definitions: [
     '"the judge directed him to perform community service"',
     '"he directed that no picture from his collection could be sold"',
 ]
-synonyms: [
+export const synonyms = [
     'straight',
     'undeviating',
     'unswerving',

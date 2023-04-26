@@ -1,0 +1,26 @@
+export const definitions = [
+    '"efficiency can lead to higher outputs"',
+    '"the diverse range of Liszt\'s output"',
+    '"the output of epinephrine"',
+    '"the quality of the output from the printer is very good"',
+    '"you can output the image directly to a video recording system"',
+]
+export const synonyms = [
+    'production',
+    'product',
+    'yield',
+    'harvest',
+    'return',
+    'volume',
+    'gross national product',
+    'gross domestic product',
+    'outturn',
+    'achievement',
+    'accomplishment',
+    'solutions',
+    'works',
+    'writings',
+    'creation',
+    'oeuvre',
+    'amount/quantity produced',
+]

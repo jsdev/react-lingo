@@ -14300,7 +14300,8 @@ export const WORDS6 = [
 export type Complexity = 'Elementary' | 'Middle Schoole' | 'High School' | 'College' | 'Post-College'
 
 export const getWords = (complexity: Complexity = 'Elementary'): string[] =>
-  taggedWords6.filter(o => ['a', 'b'].includes(o.word[0]) && o.complexity === complexity).map(o => o.word)
+  // temporary until resolved Cs && Ds
+  taggedWords6.filter(o => o.complexity === complexity).map(o => o.word)
 
 // function countOccurrences(str: string, letter: string) {
 //   const regex = new RegExp(letter, 'g')

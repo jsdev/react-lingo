@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"the second set of data differed from the first"',
     '"tastes differ, especially in cars"',
     '"he differed from his contemporaries in ethical matters"',
 ]
-synonyms: [
+export const synonyms = [
     'vary',
     'diverge',
     'contradict',

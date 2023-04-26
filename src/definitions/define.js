@@ -1,11 +1,11 @@
-definitions: [
+export const definitions = [
     '"the contract will seek to define the client\'s obligations"',
-    '"the dictionary defines it as “a type of pasture”"',
+    '"the dictionary defines it as \"a type of pasture\""',
     '"for some, the football team defines their identity"',
     '"the river defines the park\'s boundary"',
     '"she defined her eyes by applying eyeshadow"',
 ]
-synonyms: [
+export const synonyms = [
     'explain',
     'expound',
     'interpret',

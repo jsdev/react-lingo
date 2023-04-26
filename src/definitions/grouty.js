@@ -1,0 +1,27 @@
+export const definitions = [
+    '"the gaps are grouted afterward"',
+    '"old women told fortunes in grouts of tea"',
+]
+export const synonyms = [
+    'mud',
+    'muck',
+    'mire',
+    'ooze',
+    'silt',
+    'alluvium',
+    'dirt',
+    'slime',
+    'slush',
+    'slurry',
+    'sediment',
+    'lees',
+    'dregs',
+    'deposit',
+    'grounds',
+    'precipitate',
+    'residue',
+    'slob',
+    'settlings',
+    'clag',
+    'clart',
+]

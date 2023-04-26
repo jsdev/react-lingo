@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"they came to church with me"',
     '"the Church of England"',
     '"Isobel would enter the Church as a deacon"',
     '"the separation of church and state"',
 ]
-synonyms: [
+export const synonyms = [
     'house of God',
     'kirk',
     'the Lord\'s house',

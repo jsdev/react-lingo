@@ -1,0 +1,27 @@
+export const definitions = [
+    '"she shot out of her chair like a rocket"',
+    '"sales of milk in supermarkets are rocketing"',
+    '"she showed the kind of form that rocketed her to the semifinals last year"',
+    '"the cab rocketed down a ramp"',
+    '"the city was rocketed and bombed from the air"',
+]
+export const synonyms = [
+    'missile',
+    'projectile',
+    'trajectile',
+    'shoot up',
+    'soar',
+    'escalate',
+    'increase rapidly',
+    'rise rapidly',
+    'spiral upwards',
+    'fall',
+    'plummet',
+    'speed',
+    'zoom',
+    'shoot',
+    'roar',
+    'whiz',
+    'career',
+    'go hell for leather',
+]

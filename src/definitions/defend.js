@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"we shall defend our country, whatever the cost"',
     '"he defended his policy of imposing high taxes"',
     '"the lawyer had defended the dissidents"',
     '"he successfully defended his congressional seat in new elections"',
 ]
-synonyms: [
+export const synonyms = [
     'protect',
     'guard',
     'safeguard',

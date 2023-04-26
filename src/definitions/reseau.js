@@ -1,0 +1,26 @@
+export const definitions = [
+]
+export const synonyms = [
+    'web',
+    'crisscross',
+    'grid',
+    'lattice',
+    'net',
+    'matrix',
+    'mesh',
+    'webbing',
+    'tracery',
+    'trellis',
+    'webwork',
+    'meshwork',
+    'latticework',
+    'openwork',
+    'filigree',
+    'fretwork',
+    'reticulum',
+    'plexus',
+    'rete',
+    'reticulation',
+    'reticule',
+    'graticule',
+]

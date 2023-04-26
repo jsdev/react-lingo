@@ -1,0 +1,26 @@
+export const definitions = [
+    '"she descried two figures"',
+]
+export const synonyms = [
+    'perceive',
+    'make out',
+    'pick out',
+    'detect',
+    'recognize',
+    'notice',
+    'observe',
+    'see',
+    'spot',
+    'identify',
+    'determine',
+    'distinguish',
+    'differentiate',
+    'discriminate',
+    'tell apart',
+    'espy',
+    'become cognizant of',
+    'become aware of',
+    'become conscious of',
+    'overlook',
+    'miss',
+]

@@ -1,5 +1,5 @@
 export const definitions = [
-    '"“It stands to reason,” she ______"',
+    '"\"It stands to reason,\" she ______"',
     '"I tried to _____ him out of it"',
     '"I wasn\'t going to _____ with a gun"',
     '"she was too tired to _____ the point"',

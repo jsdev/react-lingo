@@ -1,0 +1,25 @@
+export const definitions = [
+    '"he\'s hoping for an offer of compensation"',
+    '"I hope that the kids are OK"',
+    '"we\'re hoping to address all these issues"',
+]
+export const synonyms = [
+    'expect',
+    'anticipate',
+    'look for',
+    'pin one\'s hopes on',
+    'want',
+    'wait for',
+    'be hopeful of',
+    'wish for',
+    'dream of',
+    'hope against hope for',
+    'despair of',
+    'aim',
+    'intend',
+    'plan',
+    'aspire',
+    'be looking',
+    'have the/every intention',
+    'have in mind',
+]

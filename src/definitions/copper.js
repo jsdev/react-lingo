@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"you could hire a raft for a few coppers"',
     '"she had copper-colored hair"',
     '"some iron hulls were sheathed with wood and then coppered"',
     '"coppered pins"',
 ]
-synonyms: [
+export const synonyms = [
     'metallic element',
     'peacock ore',
     'brass',

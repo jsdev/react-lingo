@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"Arab armies defeated the Byzantine garrison"',
     '"she was defeated by the last steep hill"',
     '"don\'t cheat by allowing your body to droop—this defeats the object of the exercise"',
@@ -7,7 +7,7 @@ definitions: [
     '"she had still not quite admitted defeat"',
     '"the defeat of the Armada in 1588"',
 ]
-synonyms: [
+export const synonyms = [
     'beat',
     'conquer',
     'get the better of',

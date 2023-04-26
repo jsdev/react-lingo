@@ -1,0 +1,27 @@
+export const definitions = [
+    '"free choices become the matrix of human life"',
+    '"nodules of secondary limestone set in a matrix of porous dolomite"',
+    '"such fossils will often be partly concealed by matrix"',
+    '"the lipid matrix of olfactory cells"',
+    '"the matrix of gravel paths is raked regularly"',
+    '"her two duets with Isobel Baillie were never issued and the matrices were destroyed"',
+    '"this formula applies for all square matrices"',
+    '"matrix structures are said to foster greater flexibility"',
+]
+export const synonyms = [
+    'casting',
+    'replica',
+    'copy',
+    'model',
+    'representation',
+    'mock-up',
+    'imitation',
+    'reproduction',
+    'duplicate',
+    'network',
+    'reticulation',
+    'reticulum',
+    'plexus',
+    'decussation',
+    'graticule',
+]

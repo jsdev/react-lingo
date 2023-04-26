@@ -1,0 +1,25 @@
+export const definitions = [
+    '"she couldn\'t cope with her senile husband"',
+    '"senile decay"',
+]
+export const synonyms = [
+    'doddering',
+    'doddery',
+    'decrepit',
+    'aged',
+    'long in the tooth',
+    'senescent',
+    'failing',
+    'declining',
+    'infirm',
+    'feeble',
+    'unsteady',
+    'in one\'s dotage',
+    'losing \'s \'s faculties',
+    'in \'s \'s second childhood',
+    'mentally confused',
+    'suffering from Alzheimer\'s(disease)',
+    'suffering from senile dementia',
+    'anile',
+    'in the prime of life',
+]

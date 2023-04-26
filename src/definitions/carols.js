@@ -1,0 +1,25 @@
+export const definitions = [
+    '"we sang carols by candlelight"',
+    '"singing Christmas carols around the tree"',
+    '"a carol service"',
+    '"she was cheerfully caroling the words of the song"',
+    '"‘Goodbye,’ he caroled"',
+    '"we caroled from door to door"',
+]
+export const synonyms = [
+    'hymn',
+    'psalm',
+    'canticle',
+    'noel',
+    'Christmas song',
+    'sing',
+    'trill',
+    'chorus',
+    'warble',
+    'chirp',
+    'pipe',
+    'quaver',
+    'chant',
+    'intone',
+    'wassail',
+]

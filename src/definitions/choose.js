@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"he chose a seat facing the door"',
     '"now it\'s my turn to choose"',
     '"he chose to go"',
     '"I\'ll stay as long as I choose"'
 ]
-synonyms: [
+export const synonyms = [
     'select',
     'pick',
     'pick out',

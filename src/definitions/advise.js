@@ -2,7 +2,7 @@ export const definitions = [
     '"I ______d him to go home"',
     '"he ______d caution"',
     '"we ______ against sending cash by mail"',
-    '"“Go to Paris,” he ______d"',
+    '"\"Go to Paris,\" he ______d"',
     '"sleeping pills are not ______d"',
     '"you will be ______d of the requirements"',
     '"the lawyer ______d the court that his client wished to give evidence"'

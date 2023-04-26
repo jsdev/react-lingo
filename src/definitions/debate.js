@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"last night\'s debate on the Education Bill"',
     '"the national debate on education"',
     '"there has been much debate about prices"',
@@ -6,7 +6,7 @@ definitions: [
     '"the date when people first entered America is hotly debated"',
     '"he debated whether he should leave the matter alone or speak to her"',
 ]
-synonyms: [
+export const synonyms = [
     'discussion',
     'discourse',
     'parley',

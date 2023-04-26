@@ -1,0 +1,26 @@
+export const definitions = [
+    '"a merger between two supermarket chains"',
+    '"local companies ripe for merger or acquisition"',
+]
+export const synonyms = [
+    'amalgamation',
+    'combination',
+    'merging',
+    'union',
+    'fusion',
+    'coalition',
+    'affiliation',
+    'coupling',
+    'unification',
+    'incorporation',
+    'coalescence',
+    'consolidation',
+    'confederation',
+    'hookup',
+    'linkup',
+    'alliance',
+    'association',
+    'connection',
+    'split',
+    'breakup',
+]

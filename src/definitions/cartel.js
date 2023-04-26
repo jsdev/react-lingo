@@ -1,0 +1,26 @@
+export const definitions = [
+    '"the Colombian drug cartels"',
+]
+export const synonyms = [
+    'gang',
+    'syndicate',
+    'mob',
+    'band',
+    'organization',
+    'confederation',
+    'confederacy',
+    'federation',
+    'union',
+    'association',
+    'circle',
+    'society',
+    'combine',
+    'consortium',
+    'alliance',
+    'league',
+    'cabal',
+    'cell',
+    'coterie',
+    'crew',
+    'junta',
+]

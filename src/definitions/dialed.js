@@ -1,8 +1,8 @@
-definitions: [
+export const definitions = [
     '"he dialed 911"',
     '"company employees dial out from their office"',
 ]
-synonyms: [
+export const synonyms = [
     'telephone',
     'phone',
     'call',

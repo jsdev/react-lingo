@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"they decided to appoint someone else"',
     '"you\'ve decided that a hedge is what you want"',
     '"this business about the letter decided me"',
@@ -9,7 +9,7 @@ definitions: [
     '"we must decide the fates of the people who headed the coup"',
     '"an exciting game was decided in a sudden-death overtime"',
 ]
-synonyms: [
+export const synonyms = [
     'conclude',
     'determine',
     'consider',

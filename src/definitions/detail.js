@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"we shall consider every detail of the Bill"',
     '"her meticulous attention to detail"',
     '"he didn\'t want them to get sidetracked on a detail of policy"',
@@ -12,7 +12,7 @@ definitions: [
     '"the ships were detailed to keep watch"',
     '"the Buick dealer gave him a job washing and detailing cars"',
 ]
-synonyms: [
+export const synonyms = [
     'particular',
     'feature',
     'characteristic',

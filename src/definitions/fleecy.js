@@ -1,0 +1,25 @@
+export const definitions = [
+    '"a fleecy sweatshirt"',
+    '"little fleecy clouds"',
+]
+export const synonyms = [
+    'fluffy',
+    'woolly',
+    'downy',
+    'fuzzy',
+    'feathery',
+    'furry',
+    'velvety',
+    'shaggy',
+    'soft',
+    'smooth',
+    'silky',
+    'silken',
+    'satiny',
+    'cushiony',
+    'floccose',
+    'pilose',
+    'lanate',
+    'lanose',
+    'coarse',
+]

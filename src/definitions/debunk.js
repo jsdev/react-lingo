@@ -1,0 +1,26 @@
+export const definitions = [
+    '"the magazine that debunks claims of the paranormal"',
+    '"comedy takes delight in debunking heroes"',
+]
+export const synonyms = [
+    'explode',
+    'deflate',
+    'puncture',
+    'quash',
+    'expose',
+    'discredit',
+    'disprove',
+    'contradict',
+    'controvert',
+    'confute',
+    'invalidate',
+    'negate',
+    'give the lie to',
+    'challenge',
+    'knock the bottom out of',
+    'drive a coach and horses through',
+    'show in its true light',
+    'prove to be false',
+    'call into question',
+    'confirm',
+]

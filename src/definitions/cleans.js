@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"clean your teeth properly after meals"',
     '"chair covers should be easy to clean"',
     '"there are a variety of ways to cook the herring, but it must first be gutted and cleaned"',
 ]
-synonyms: [
+export const synonyms = [
     'wash',
     'cleanse',
     'wipe',

@@ -1,0 +1,27 @@
+export const definitions = [
+    '"he greeted me with salaams and repeated cries of welcome"',
+    '"she had asked him to send me her salaams"',
+    '"instead of salaaming he spat on the ground"',
+]
+export const synonyms = [
+    'inclination',
+    'obeisance',
+    'nod',
+    'curtsy',
+    'bob',
+    'salutation',
+    'namaskar',
+    'kowtow',
+    'reverence',
+    'nod',
+    'curtsy',
+    'bob',
+    'genuflect',
+    'bend the knee',
+    'kowtow',
+    'incline the body',
+    'incline the head',
+    'make an obeisance',
+    'make a bow',
+    'drop a curtsy',
+]

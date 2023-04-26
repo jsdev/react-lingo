@@ -1,0 +1,26 @@
+export const definitions = [
+    '"his skin felt cold and clammy"',
+    '"the clammy atmosphere of the cave"',
+]
+export const synonyms = [
+    'moist',
+    'damp',
+    'sweaty',
+    'perspiring',
+    'sweating',
+    'sticky',
+    'slimy',
+    'slippery',
+    'slick',
+    'dry',
+    'damp',
+    'dank',
+    'wet',
+    'moisture-laden',
+    'humid',
+    'close',
+    'muggy',
+    'heavy',
+    'steamy',
+    'claggy',
+]

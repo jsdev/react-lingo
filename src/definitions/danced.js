@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"their cheeks were pressed together as they danced"',
     '"all the men wanted her to dance with them"',
     '"they danced a tango"',
@@ -8,7 +8,7 @@ definitions: [
     '"she could see flames dancing in the fireplace"',
     '"he grinned, his gray eyes dancing"',
 ]
-synonyms: [
+export const synonyms = [
     'trip',
     'sway',
     'spin',

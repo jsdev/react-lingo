@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"the bomb hits it, showering debris from all sides"',
     '"clean away any collected dust or debris"',
     '"a stable arrangement of planets, comets, and debris orbiting the sun"',
 ]
-synonyms: [
+export const synonyms = [
     'detritus',
     'refuse',
     'waste',

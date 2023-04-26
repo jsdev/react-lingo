@@ -1,0 +1,27 @@
+export const definitions = [
+    '"modern math and its arcane notation"',
+]
+export const synonyms = [
+    'mysterious',
+    'secret',
+    'hidden',
+    'concealed',
+    'covert',
+    'clandestine',
+    'enigmatic',
+    'dark',
+    'esoteric',
+    'obscure',
+    'abstruse',
+    'recondite',
+    'recherché',
+    'inscrutable',
+    'impenetrable',
+    'opaque',
+    'incomprehensible',
+    'cryptic',
+    'occult',
+    'little known',
+    'well known',
+    'open',
+]

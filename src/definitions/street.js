@@ -1,0 +1,28 @@
+export const definitions = [
+    '"the narrow, winding streets of Greenwich Village"',
+    '"45 Lake Street"',
+    '"every week, fans stop me in the street"',
+    '"New York City street culture"',
+    '"he ministered to street people in storefront missions"',
+    '"street theater"',
+]
+export const synonyms = [
+    'road',
+    'thoroughfare',
+    'way',
+    'avenue',
+    'drive',
+    'row',
+    'crescent',
+    'terrace',
+    'close',
+    'parade',
+    'side street',
+    'side road',
+    'lane',
+    'alley',
+    'boulevard',
+    'highway',
+    'strip',
+    'blacktop',
+]

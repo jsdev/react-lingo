@@ -1,8 +1,8 @@
-definitions: [
+export const definitions = [
     '"freshly baked cookies"',
     '"a tough cookie with one eye on her bank account"',
 ]
-synonyms: [
+export const synonyms = [
     'person',
     'human being',
     'human',

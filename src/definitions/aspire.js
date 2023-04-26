@@ -1,0 +1,27 @@
+export const definitions = [
+    '"we never thought that we might aspire to those heights"',
+    '"other people will aspire to be like you"',
+    '"above the domes of loftiest mosques these pinnacles aspire"',
+]
+export const synonyms = [
+    'set one\'s heart on',
+    'pursue',
+    'set one\'s sights on',
+    'desire (to)',
+    'aim for/to',
+    'hope for/to',
+    'long for/to',
+    'yearn for/to',
+    'hanker after/for/to',
+    'wish for/to',
+    'want (to)',
+    'expect (to)',
+    'have the objective of',
+    'dream of',
+    'hunger for/to',
+    'seek (to)',
+    'have as one\'s goal / aim',
+    'be ambitious',
+    'thirst for/after',
+    'be desirous of',
+]

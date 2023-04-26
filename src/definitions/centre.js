@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the center of the ceiling"',
     '"the center of a vast territory"',
     '"a new center party"',
@@ -21,7 +21,7 @@ definitions: [
     '"West Virginia\'s offense lined up to center the ball"',
     'No translation found.',
 ]
-synonyms: [
+export const synonyms = [
     'middle',
     'nucleus',
     'heart',

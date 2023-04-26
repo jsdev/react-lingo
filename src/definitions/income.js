@@ -1,0 +1,28 @@
+export const definitions = [
+    '"he has a nice home and an adequate income"',
+    '"figures showed an overall increase in income this year"',
+]
+export const synonyms = [
+    'earnings',
+    'salary',
+    'pay',
+    'remuneration',
+    'wages',
+    'stipend',
+    'emolument',
+    'revenue',
+    'receipts',
+    'takings',
+    'profits',
+    'gains',
+    'proceeds',
+    'turnover',
+    'yield',
+    'dividend',
+    'incomings',
+    'means',
+    'take',
+    'money received',
+    'expenditure',
+    'outgoings',
+]

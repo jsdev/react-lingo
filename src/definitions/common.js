@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"salt and pepper are the two most common seasonings"',
     '"it\'s common for children to have middle ear infections"',
     '"you might spot less common birds such as the great spotted woodpecker"',
@@ -15,7 +15,7 @@ definitions: [
     '"common assault"',
     '"we spent the morning tramping over the common looking for flowers"',
 ]
-synonyms: [
+export const synonyms = [
     'usual',
     'ordinary',
     'customary',

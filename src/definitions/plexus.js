@@ -1,0 +1,27 @@
+export const definitions = [
+    '"the plexus of international relations"',
+]
+export const synonyms = [
+    'web',
+    'crisscross',
+    'grid',
+    'lattice',
+    'net',
+    'matrix',
+    'mesh',
+    'webbing',
+    'tracery',
+    'trellis',
+    'webwork',
+    'meshwork',
+    'latticework',
+    'openwork',
+    'filigree',
+    'fretwork',
+    'réseau',
+    'reticulum',
+    'rete',
+    'reticulation',
+    'reticule',
+    'graticule',
+]

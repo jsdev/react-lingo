@@ -1,0 +1,27 @@
+export const definitions = [
+    '"my auntie believed I was a great singer"',
+    '"what would Auntie Mabel think?"',
+    '"a celebration of Auntie\'s golden moments since the early 20th century"',
+]
+export const synonyms = [
+    'relative',
+    'relation',
+    'next of kin',
+    'cousin',
+    'uncle',
+    'nephew',
+    'blood relation/relative',
+    'family member',
+    'one\'s own flesh and blood',
+    'companion',
+    'duenna',
+    'protectress',
+    'escort',
+    'governess',
+    'nursemaid',
+    'keeper',
+    'protector',
+    'bodyguard',
+    'minder',
+    'carer',
+]

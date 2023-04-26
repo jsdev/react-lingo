@@ -1,10 +1,10 @@
-definitions: [
+export const definitions = [
     '"insurance tailor-made to a client\'s specific requirements"',
     '"a client referred for counseling"',
     '"workstation clients are going to be easy to install"',
     '"friendly client programs like this enable you to perform complicated actions in just a mouse press or two"',
 ]
-synonyms: [
+export const synonyms = [
     'customer',
     'buyer',
     'purchaser',

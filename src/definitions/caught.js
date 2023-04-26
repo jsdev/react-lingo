@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"she threw the bottle into the air and caught it again"',
     '"he fell forwards and Linda caught him"',
     '"he caught hold of her arm as she tried to push past him"',
@@ -23,7 +23,7 @@ definitions: [
     '"the rafters have caught"',
     '"the generator caught immediately"',
 ]
-synonyms: [
+export const synonyms = [
     'seize',
     'grab',
     'snatch',

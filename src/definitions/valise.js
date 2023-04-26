@@ -1,0 +1,25 @@
+export const definitions = [
+]
+export const synonyms = [
+    'suitcase',
+    'case',
+    'portmanteau',
+    'grip',
+    'overnight bag',
+    'overnighter',
+    'flight bag',
+    'Gladstone bag',
+    'carpet bag',
+    'backpack',
+    'rucksack',
+    'knapsack',
+    'haversack',
+    'kitbag',
+    'duffel bag',
+    'satchel',
+    'luggage',
+    'baggage',
+    'holdall',
+    'carryall',
+    'traveling bag',
+]

@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"bombing caused extensive damage to the town"',
     '"the damage to his reputation was considerable"',
     '"she was awarded $284,000 in damages"',
@@ -6,7 +6,7 @@ definitions: [
     '"damaged ligaments"',
     '"the scandal could seriously damage his career"',
 ]
-synonyms: [
+export const synonyms = [
     'harm',
     'injury',
     'destruction',

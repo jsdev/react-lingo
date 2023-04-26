@@ -1,0 +1,25 @@
+export const definitions = [
+    '"a button incised with a skull"',
+    '"figures incised on upright stones"',
+    '"the wound was incised and drained"',
+]
+export const synonyms = [
+    'engrave',
+    'etch',
+    'carve',
+    'cut',
+    'chisel',
+    'inscribe',
+    'score',
+    'chase',
+    'notch',
+    'scotch',
+    'cut',
+    'cut into',
+    'slit',
+    'lance',
+    'gash',
+    'slash',
+    'make an incision in',
+    'slit open',
+]

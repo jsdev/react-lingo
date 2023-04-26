@@ -1,0 +1,26 @@
+export const definitions = [
+    '"rain began to beat down on my plumed cap"',
+    '"smoke plumed from the chimneys"',
+    '"I plumed the hat with a couple of soft feathers from the tail of a hawk"',
+    '"she plumed herself on being cosmopolitan"',
+]
+export const synonyms = [
+    'feathered',
+    'plumed',
+    'plumy',
+    'downy',
+    'fluffy',
+    'fuzzy',
+    'fleecy',
+    'plumose',
+    'plumate',
+    'bald',
+    'congratulate oneself',
+    'pat oneself on the back',
+    'pride oneself',
+    'preen oneself',
+    'feel proud about',
+    'feel self-satisfied about',
+    'boast about',
+    'pique oneself',
+]

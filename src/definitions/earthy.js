@@ -1,0 +1,32 @@
+export const definitions = [
+    '"an earthy smell"',
+    '"their good-natured vulgarity and earthy humor"',
+    '"she\'s very earthy and voluptuous"'
+]
+export const synonyms = [
+    'soil-like',
+    'dirtlike',
+    'bawdy',
+    'ribald',
+    'off color',
+    'racy',
+    'rude',
+    'vulgar',
+    'lewd',
+    'crude',
+    'foul',
+    'coarse',
+    'uncouth',
+    'rough',
+    'dirty',
+    'filthy',
+    'smutty',
+    'unseemly',
+    'indelicate',
+    'indecent',
+    'indecorous',
+    'obscene',
+    'decorous',
+    'proper',
+    'prim',
+]

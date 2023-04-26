@@ -1,0 +1,25 @@
+export const definitions = [
+    '"I watched my colleagues abasing themselves before the board of trustees"',
+]
+export const synonyms = [
+    'humble',
+    'humiliate',
+    'belittle',
+    'demean',
+    'lower',
+    'degrade',
+    'disgrace',
+    'disparage',
+    'debase',
+    'cheapen',
+    'discredit',
+    'mortify',
+    'demote',
+    'reduce',
+    'grovel',
+    'kowtow',
+    'bow and scrape',
+    'toady',
+    'fawn',
+    'bring low',
+]

@@ -1,8 +1,8 @@
 chancy
-definitions: [
+export const definitions = [
     '"the screening process was likely to be chancy and unreliable"',
 ]
-synonyms: [
+export const synonyms = [
     'risky',
     'unpredictable',
     'uncertain',

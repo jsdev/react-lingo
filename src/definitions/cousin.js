@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"she\'s a distant cousin"',
     '"the new motorbikes are not proving as popular as their four-wheeled cousins"',
     '"the Russians and their Slavic cousins"',
 ]
-synonyms: [
+export const synonyms = [
     'relative',
     'relation',
     'next of kin',

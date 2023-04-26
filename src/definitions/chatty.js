@@ -1,8 +1,8 @@
-definitions: [
+export const definitions = [
     '"the driver was very chatty"',
     '"she wrote a chatty, cheerful letter to her mother"',
 ]
-synonyms: [
+export const synonyms = [
     'talkative',
     'communicative',
     'expansive',

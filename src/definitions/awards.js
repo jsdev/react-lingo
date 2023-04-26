@@ -2,7 +2,7 @@ export const definitions = [
     "he was _____ed the Purple Heart",
     "the 3.5 percent pay raise was _____ed to the staff",
     "the company was _____ed a contract to refurbish the timber mill",
-    "the company's annual _____ for high-quality service",
+    "the company\'s annual _____ for high-quality service",
     "an _____ ceremony",
     "a generous _____ given to promising young dancers",
     "the _____ of an honorary doctorate",

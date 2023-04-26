@@ -1,4 +1,4 @@
-definitions: [
+export const definitions = [
     '"the good name of such a decent and innocent person"',
     '"they would meet again after a decent interval"',
     '"a decent high-necked dress"',
@@ -8,7 +8,7 @@ definitions: [
     '"the deer are small: a 14-inch spread is a pretty decent buck"',
     '"that was pretty awfully decent of him"',
 ]
-synonyms: [
+export const synonyms = [
     'respectable',
     'upright',
     'upstanding',

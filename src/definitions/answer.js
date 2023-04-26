@@ -4,7 +4,7 @@ export const definitions = [
     '"the ______ is 280°"',
     '"the ______ to poverty and unemployment is a properly funded range of services"',
     '"the press called her Britain\'s ______ to Marilyn Monroe"',
-    '"“Of course I can,” she ______ed"',
+    '"\"Of course I can,\" she ______ed"',
     '"she ______ed that she would take nothing but the ring"',
     '"she tried to ______ his questions truthfully"',
     '"Steve was about to ______, but Hazel spoke first"',

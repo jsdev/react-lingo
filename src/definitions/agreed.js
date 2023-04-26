@@ -5,7 +5,7 @@ export const definitions = [
     '"we are ______ that what is needed is a catchy title"',
     '"I completely ______ with a recent editorial"',
     '"we both ______ on issues such as tougher penalties for criminals"',
-    '"“Yes, it\'s dreadful, isn\'t it,” she ______"',
+    '"\"Yes, it\'s dreadful, isn\'t it,\" she ______"',
     '"she had ______ to go and see a movie with him"',
     '"the government has ______ a plan on the country\'s territorial waters"',
     '"the commission ______ on a proposal to limit imports"',

@@ -1,0 +1,26 @@
+export const definitions = [
+    '"arrange the fruit on a serving platter"',
+    '"huge platters of cold cuts"',
+    '"I\'ll have the seafood platter"',
+    '"his son\'s fascination with a Jimi Hendrix collection prompted him to dig out some old platters"',
+]
+export const synonyms = [
+    'plate',
+    'dish',
+    'salver',
+    'tray',
+    'charger',
+    'trencher',
+    'paten',
+    'serving plate',
+    'serving dish',
+    'ashet',
+    'portion',
+    'helping',
+    'plateful',
+    'plate',
+    'bowlful',
+    'amount',
+    'quantity',
+    'ration',
+]

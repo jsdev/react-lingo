@@ -1,0 +1,28 @@
+export const definitions = [
+    '"he swiveled in the chair"',
+    '"she swiveled her eyes round"',
+]
+export const synonyms = [
+    'pivot',
+    'axle',
+    'spindle',
+    'hinge',
+    'axis',
+    'fulcrum',
+    'pin',
+    'hub',
+    'kingpin',
+    'gudgeon',
+    'trunnion',
+    'turn',
+    'spin',
+    'swing',
+    'rotate',
+    'revolve',
+    'pivot',
+    'twirl',
+    'whirl',
+    'wheel',
+    'gyrate',
+    'pirouette',
+]

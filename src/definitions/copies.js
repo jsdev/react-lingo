@@ -1,9 +1,9 @@
-definitions: [
+export const definitions = [
     '"the problem is telling which is the original document and which the copy"',
     '"the record has sold more than a million copies"',
     '"copy for the next issue must be submitted by the beginning of the month"',
     '"it is an unfortunate truth of today\'s media that bad news makes good copy"',
-    '"“No more stubble—no more trouble,” trumpeted their ad copy"',
+    '"\"No more stubble—no more trouble,\" trumpeted their ad copy"',
     '"examinees will not be allowed to take pens, copies, or water bottles inside the test center"',
     '"you need a stock of exercise copies, A4 refill pads, and maths copies"',
     '"each form had to be copied and sent to a different department"',
@@ -17,7 +17,7 @@ definitions: [
     '"she was such fun that everybody wanted to copy her"',
     '"this is Edwards, do you copy, over"',
 ]
-synonyms: [
+export const synonyms = [
     'duplicate',
     'duplication',
     'reprint',

@@ -5,7 +5,8 @@ export const definitions = [
     '"the bridge ______ the river"',
     '"he had swum ______"',
     '"a crater some 30 feet ______"',
-    '"he looked ______ at me" · "halfway ______, Jenny jumped"',
+    '"he looked ______ at me"',
+    '"halfway ______, Jenny jumped"',
     '"19 ______"'
 ];
 export const synonyms = [

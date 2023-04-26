@@ -1,0 +1,26 @@
+export const definitions = [
+    '"she refused to allow herself to be bested"',
+]
+export const synonyms = [
+    'defeat',
+    'beat',
+    'get the better of',
+    'outdo',
+    'outwit',
+    'outsmart',
+    'worst',
+    'conquer',
+    'vanquish',
+    'trounce',
+    'surpass',
+    'outclass',
+    'outshine',
+    'overshadow',
+    'eclipse',
+    'gain the advantage over',
+    'get the upper hand over',
+    'be more than a match for',
+    'prevail over',
+    'triumph over',
+    'put someone in the shade',
+]

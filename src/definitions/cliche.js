@@ -1,0 +1,27 @@
+export const definitions = [
+    '"the old cliché \"one man\'s meat is another man\'s poison.\""',
+    '"each building is a mishmash of tired clichés"',
+]
+export const synonyms = [
+    'platitude',
+    'commonplace',
+    'banality',
+    'truism',
+    'bromide',
+    'saw',
+    'maxim',
+    'adage',
+    'dictum',
+    'saying',
+    'tag',
+    'aphorism',
+    'expression',
+    'phrase',
+    'formula',
+    'apothegm',
+    'hackneyed phrase',
+    'trite phrase',
+    'banal phrase',
+    'overworked phrase',
+    'stock phrase',
+]
