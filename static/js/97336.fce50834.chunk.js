@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97336],{497336:function(n,s,e){e.r(s),e.d(s,{definitions:function(){return i},synonyms:function(){return r}});var i=['"I turned my head so quickly that I cricked my neck"'],r=["cramp","spasm","rick","kink","twinge","pang","pain","ache","stiffness","discomfort","tenderness","soreness","muscle spasm","muscular contraction","shooting pain","strain","sprain","pull","wrench","tear","twist","rick","injure","hurt","damage","impair"]}}]);
+//# sourceMappingURL=97336.fce50834.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18333],{118333:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return c},synonyms:function(){return t}});var c=['"a chrome bumper"','"chrome dyes"'],t=[]}}]);
+//# sourceMappingURL=18333.cf42ca28.chunk.js.map

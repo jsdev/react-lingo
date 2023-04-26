@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59513],{559513:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"one supermarket offered a school blazer for just $10"','"the actress donned a black v-neck top which she paired with a matching blazer"'],a=[]}}]);
+//# sourceMappingURL=59513.dd262578.chunk.js.map

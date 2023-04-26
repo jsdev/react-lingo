@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43380],{843380:function(n,c,r){r.r(c),r.d(c,{definitions:function(){return i},synonyms:function(){return o}});var i=['"a parish church"'],o=["parishioners","churchgoers","church","congregation","flock","fold","community"]}}]);
+//# sourceMappingURL=43380.141a0af5.chunk.js.map

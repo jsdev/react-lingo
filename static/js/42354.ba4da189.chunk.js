@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42354],{242354:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"one million dollars cash paid to the general\'s bagman"','"the prime minister further tightened the rules by banning corporate donations entirely. The era of the Ottawa bagman has ended"'],r=[]}}]);
+//# sourceMappingURL=42354.ba4da189.chunk.js.map

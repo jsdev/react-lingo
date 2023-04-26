@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35337],{735337:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"water is easy to dowse for"','"he dowsed a spiral of energy on the stone"'],t=["search","look","seek","hunt","go after"]}}]);
+//# sourceMappingURL=35337.f5a5340c.chunk.js.map

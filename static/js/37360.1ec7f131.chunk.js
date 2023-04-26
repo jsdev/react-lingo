@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37360],{237360:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return u},synonyms:function(){return i}});var u=['"Hugh had to kludge something together"'],i=[]}}]);
+//# sourceMappingURL=37360.1ec7f131.chunk.js.map

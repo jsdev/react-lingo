@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6025],{706025:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=[],a=["prelate","diocesan","metropolitan","suffragan","coadjutor","exarch"]}}]);
+//# sourceMappingURL=6025.f5f7f47f.chunk.js.map

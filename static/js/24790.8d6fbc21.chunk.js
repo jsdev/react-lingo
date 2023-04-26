@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24790],{524790:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"damson jam"'],r=[]}}]);
+//# sourceMappingURL=24790.8d6fbc21.chunk.js.map

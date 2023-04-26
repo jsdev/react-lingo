@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45922],{745922:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return c}});var r=['"the French government"','"her accent is very French"','"I am fluent in French"','"French lessons"','"the French, they say, live to eat"'],c=[]}}]);
+//# sourceMappingURL=45922.10d2942a.chunk.js.map

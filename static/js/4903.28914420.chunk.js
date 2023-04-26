@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4903],{204903:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"pastry and cheese served with fraises des bois"'],r=[]}}]);
+//# sourceMappingURL=4903.28914420.chunk.js.map

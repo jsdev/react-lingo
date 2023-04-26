@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6923],{6923:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return c},synonyms:function(){return i}});var c=['"a cobalt sky"'],i=[]}}]);
+//# sourceMappingURL=6923.f6767a10.chunk.js.map

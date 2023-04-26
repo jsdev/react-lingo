@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3269],{927699:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"all dharmas are forms of emptiness"'],t=[]}}]);
+//# sourceMappingURL=3269.4024e7f7.chunk.js.map

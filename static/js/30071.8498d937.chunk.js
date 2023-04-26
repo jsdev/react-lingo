@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30071],{30071:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return o},synonyms:function(){return t}});var o=['"she descried two figures"'],t=["perceive","make out","pick out","detect","recognize","notice","observe","see","spot","identify","determine","distinguish","differentiate","discriminate","tell apart","espy","become cognizant of","become aware of","become conscious of","overlook","miss"]}}]);
+//# sourceMappingURL=30071.8498d937.chunk.js.map

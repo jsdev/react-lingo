@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86762],{486762:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a fender bender"','"he went off on a self-destructive bender"'],i=["debauch","bacchanal","bacchanalia","wassail","fuddle","potation","drinking bout"]}}]);
+//# sourceMappingURL=86762.95a62d0f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54086],{154086:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"each pledged to desist from acts of sabotage"'],t=["abstain","refrain","forbear","hold back","keep","stop","cease","discontinue","suspend","give up","quit","break off","leave off","conclude","forgo","drop","eschew","wash one's hands of","belay","call a halt/stop to","dispense with","have done with","continue","persist in"]}}]);
+//# sourceMappingURL=54086.d306fa31.chunk.js.map

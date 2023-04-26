@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/99458.7d70733d.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,mCACA,2BAESC,EAAW,E","sources":["definitions/frappe.js"],"sourcesContent":["export const definitions = [\n    '\"a crème de menthe frappé\"',\n    '\"a battement frappé\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

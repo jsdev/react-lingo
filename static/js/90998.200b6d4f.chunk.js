@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90998],{490998:function(l,a,e){e.r(a),e.d(a,{definitions:function(){return r},synonyms:function(){return t}});var r=['"both men guffawed at the remark"'],t=["belly laugh","hearty laugh","loud laugh","roar of laughter","hoot of laughter","shriek of laughter","peal of laughter","roar","bellow","cackle","howl","laugh heartily","laugh loudly","roar with laughter","hoot with laughter","laugh uncontrollably"]}}]);
+//# sourceMappingURL=90998.200b6d4f.chunk.js.map

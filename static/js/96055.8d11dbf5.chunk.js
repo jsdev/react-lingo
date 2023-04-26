@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96055],{496055:function(e,s,i){i.r(s),i.d(s,{definitions:function(){return n},synonyms:function(){return r}});var n=[],r=["facial hair","whiskers","stubble","designer stubble","five o'clock shadow","bristles","imperial","Vandyke","side whiskers","sideburns","mutton chops","mustache","mustaches","sideboards","full beard","Abe Lincoln"]}}]);
+//# sourceMappingURL=96055.8d11dbf5.chunk.js.map

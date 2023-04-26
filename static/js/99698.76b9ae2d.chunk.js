@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99698],{504814:function(t,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return a}});var s=['"he came up the stairs"','"the bottom stair"'],a=["tread","tread board","stairs","staircase","stairway","stoop"]}}]);
+//# sourceMappingURL=99698.76b9ae2d.chunk.js.map

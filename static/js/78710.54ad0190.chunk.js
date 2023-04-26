@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78710],{178710:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"plaque around gum margins can lead to gingivitis"'],i=["plate","tablet","panel","sign","brass","medallion","plaquette","cartouche","memorial tablet","stone plate","metal plate"]}}]);
+//# sourceMappingURL=78710.54ad0190.chunk.js.map

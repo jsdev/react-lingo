@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32927],{432927:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return c}});var r=['"the celebrated pleiad of French poets"'],c=[]}}]);
+//# sourceMappingURL=32927.938dfd3c.chunk.js.map

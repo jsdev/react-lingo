@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39793],{939793:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return s}});var e=['"the patient suffered partial seizures accompanied with clonus in the left arm"'],s=["pang","twinge","crick","kink","stitch","stiffness","pain","ache","convulsion","tic","twitch","hyperkinesis","muscle/muscular spasm","muscle/muscular contraction","shooting pain"]}}]);
+//# sourceMappingURL=39793.7b41de14.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58206],{258206:function(e,t,o){o.r(t),o.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"textile-makers must retool plants to meet the demand for smaller quantities"','"we were going to have to retool"','"the enormous cost of retooling"','"he likes to retool the old stories to make them relevant for today\'s kids"','"perhaps one can even retool for the afterlife"'],r=[]}}]);
+//# sourceMappingURL=58206.fafddc27.chunk.js.map

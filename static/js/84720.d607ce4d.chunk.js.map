@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/84720.d607ce4d.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,E","sources":["definitions/sudoku.js"],"sourcesContent":["export const definitions = [\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

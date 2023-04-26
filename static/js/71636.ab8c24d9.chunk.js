@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71636],{771636:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return o}});var e=['"black-hatted, citified cowboys"'],o=["built-up","town","city","inner-city","metropolitan","suburban","municipal","civic","borough","densely populated","townified","nonrural","oppidan","rural"]}}]);
+//# sourceMappingURL=71636.ab8c24d9.chunk.js.map

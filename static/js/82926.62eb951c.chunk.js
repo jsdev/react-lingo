@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82926],{382926:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return o},synonyms:function(){return s}});var o=['"a flag-bearer"','"I\'m sorry to be the bearer of bad tidings"','"promissory notes payable to the bearer"','"bearer bonds"'],s=["messenger","agent","conveyor","emissary","carrier","provider","runner","courier","carrier","porter","conveyor","transporter","holder","possessor","owner","payee","consignee","beneficiary"]}}]);
+//# sourceMappingURL=82926.62eb951c.chunk.js.map

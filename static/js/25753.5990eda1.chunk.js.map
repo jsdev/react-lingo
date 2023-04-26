@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/25753.5990eda1.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,iEACA,mBAESC,EAAW,E","sources":["definitions/cirrus.js"],"sourcesContent":["export const definitions = [\n    '\"long strands of high cirrus stretched across the eastern sky\"',\n    '\"cirrus clouds\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/84910.deab5cf0.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,8CAESC,EAAW,E","sources":["definitions/muggle.js"],"sourcesContent":["export const definitions = [\n    '\"this video game won\\'t appeal to muggles\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

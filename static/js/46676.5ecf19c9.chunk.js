@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46676],{446676:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the diminutive hoofer is hotfooting it around Britain on a marathon tour"'],r=[]}}]);
+//# sourceMappingURL=46676.5ecf19c9.chunk.js.map

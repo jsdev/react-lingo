@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5915],{405915:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return i},synonyms:function(){return n}});var i=['"the plexus of international relations"'],n=["web","crisscross","grid","lattice","net","matrix","mesh","webbing","tracery","trellis","webwork","meshwork","latticework","openwork","filigree","fretwork","r\xe9seau","reticulum","rete","reticulation","reticule","graticule"]}}]);
+//# sourceMappingURL=5915.7c8b0d70.chunk.js.map

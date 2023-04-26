@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52261],{552261:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"for some reason I trigger other people\'s gaydar on a not - infrequent basis"','"I don\'t have the greatest gaydar"'],o=[]}}]);
+//# sourceMappingURL=52261.7055d003.chunk.js.map

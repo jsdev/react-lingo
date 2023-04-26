@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99275],{899275:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return s},synonyms:function(){return i}});var s=['"they went into the marsh grass to unstep their masts and dismantle their cannon"'],i=[]}}]);
+//# sourceMappingURL=99275.9d9af290.chunk.js.map

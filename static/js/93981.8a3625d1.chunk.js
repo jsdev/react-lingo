@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93981],{193981:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return i}});var s=['"insect pests"'],i=[]}}]);
+//# sourceMappingURL=93981.8a3625d1.chunk.js.map

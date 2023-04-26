@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[69348],{469348:function(i,t,e){e.r(t),e.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"we must direct our efforts toward relieving the plight of children living in poverty"','"men to plighted vows were faithful"'],r=["mess","difficulty","issue","quandary","trouble","muddle","mare's nest","crisis","difficult situation","awkward situation","problematic situation"]}}]);
+//# sourceMappingURL=69348.b7436f9d.chunk.js.map

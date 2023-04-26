@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94378],{694378:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the horsemen of the Parthenon frieze"','"the coastline is a frieze of cliffs"','"a wallpaper frieze with chickens on it"'],r=[]}}]);
+//# sourceMappingURL=94378.918e0317.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16021],{916021:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a nimbus of power played around him, brighter than lightning"','"nimbus clouds"'],t=[]}}]);
+//# sourceMappingURL=16021.865ab2c9.chunk.js.map

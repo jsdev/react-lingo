@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66802],{266802:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return a}});var i=['"the abbey was founded in 1240 and the first abbot was appointed in 1245"'],a=[]}}]);
+//# sourceMappingURL=66802.28ce6759.chunk.js.map

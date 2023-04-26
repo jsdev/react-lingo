@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7314],{807314:function(t,a,e){e.r(a),e.d(a,{definitions:function(){return n},synonyms:function(){return r}});var n=['"a pickup van towing a trailer"','"a man called to tow the car away"','"the authorities refused to allow the tanker to be towed into their ports"','"she saw Frank towing Nicky along by the hand"'],r=["pull","draw","drag","haul","tug","trail","lug","heave","trawl","hoist","transport"]}}]);
+//# sourceMappingURL=7314.86bf6afd.chunk.js.map

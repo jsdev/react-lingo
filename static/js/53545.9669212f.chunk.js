@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53545],{353545:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return a}});var r=['"the baleen plates of a Greenland right whale"'],a=[]}}]);
+//# sourceMappingURL=53545.9669212f.chunk.js.map

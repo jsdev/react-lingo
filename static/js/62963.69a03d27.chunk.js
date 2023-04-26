@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62963],{162963:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"a nautch girl"'],r=[]}}]);
+//# sourceMappingURL=62963.69a03d27.chunk.js.map

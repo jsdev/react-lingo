@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32794],{32794:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a coal bunker"','"he was bunkered at the fifth hole"','"he bunkered his second shot"','"his family had bunkered down inside their home"'],i=["manger","stall","trough","bin","box","rack","container","receptacle","feeding trough","fodder rack"]}}]);
+//# sourceMappingURL=32794.43211789.chunk.js.map

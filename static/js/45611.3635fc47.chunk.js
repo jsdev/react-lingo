@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45611],{245611:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return o},synonyms:function(){return t}});var o=['"working out in gymnasiums to become bionic men"'],t=[]}}]);
+//# sourceMappingURL=45611.3635fc47.chunk.js.map

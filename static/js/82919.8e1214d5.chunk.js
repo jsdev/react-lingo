@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82919],{82919:function(i,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"a stolid bourgeois gent"'],a=["impassive","phlegmatic","unemotional","calm","placid","unexcitable","apathetic","uninterested","unimaginative","indifferent","dull","bovine","lumpish","wooden","slow","lethargic","torpid","stupid","emotional","lively","imaginative"]}}]);
+//# sourceMappingURL=82919.8e1214d5.chunk.js.map

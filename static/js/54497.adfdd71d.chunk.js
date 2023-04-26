@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54497],{354497:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return c}});var t=['"she became an iconic figure for directors around the world"','"he wasn\'t the first actor to play the iconic character"','"a respected photographer known for capturing iconic images of reggae legends"'],c=[]}}]);
+//# sourceMappingURL=54497.adfdd71d.chunk.js.map

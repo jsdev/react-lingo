@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8539],{808539:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"he was like an axeman at work in a tangled thicket"'],i=[]}}]);
+//# sourceMappingURL=8539.6ccc5d65.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16330],{316330:function(e,t,s){s.r(t),s.d(t,{definitions:function(){return r},synonyms:function(){return n}});var r=['"the gaps are grouted afterward"','"old women told fortunes in grouts of tea"'],n=["mud","muck","mire","ooze","silt","alluvium","dirt","slime","slush","slurry","sediment","lees","dregs","deposit","grounds","precipitate","residue","slob","settlings","clag","clart"]}}]);
+//# sourceMappingURL=16330.307f7999.chunk.js.map

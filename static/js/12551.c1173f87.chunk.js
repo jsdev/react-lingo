@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12551],{612551:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a front-loader"'],i=[]}}]);
+//# sourceMappingURL=12551.c1173f87.chunk.js.map

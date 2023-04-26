@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6164],{406164:function(t,a,s){s.r(a),s.d(a,{definitions:function(){return e},synonyms:function(){return n}});var e=['"he always had a flashy car"'],n=["ostentatious","showy","bold","flamboyant","conspicuous","obtrusive","extravagant","expensive","pretentious","vulgar","tasteless","tawdry","brash","lurid","garish","loud","gaudy","crude","trashy","in bad/poor taste","understated","tasteful"]}}]);
+//# sourceMappingURL=6164.83b96175.chunk.js.map

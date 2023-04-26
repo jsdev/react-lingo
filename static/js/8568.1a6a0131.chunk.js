@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8568],{408568:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"radio receivers squawked and beeped"','"they have themselves beeped in restaurants"'],t=["purr","sound","reverberate","ring","bleep","warble"]}}]);
+//# sourceMappingURL=8568.1a6a0131.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83100],{383100:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return f},synonyms:function(){return i}});var f=['"give me an effing break!"','"some movies are so effing awful, they\'re hilarious"','"if I\'d told him to eff off that would have been me out of the team"'],i=[]}}]);
+//# sourceMappingURL=83100.75bbeafb.chunk.js.map

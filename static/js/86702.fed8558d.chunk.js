@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86702],{286702:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return s}});var i=['"once the parasite is encysted the fish is heading for death"','"tapeworms are notorious in their ability to encyst in a great variety of hosts"'],s=[]}}]);
+//# sourceMappingURL=86702.fed8558d.chunk.js.map

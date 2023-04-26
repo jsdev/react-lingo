@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53918],{653918:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return a},synonyms:function(){return t}});var a=['"a deer hunter"','"a bargain hunter"'],t=["huntsman","stalker","trapper","woodsman","nimrod","Orion","predator","chasseur","shikari","huntswoman","venator","venerer"]}}]);
+//# sourceMappingURL=53918.04d190d8.chunk.js.map

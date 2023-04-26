@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2731],{902731:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return s},synonyms:function(){return t}});var s=['"a bottle of dry sherry"','"a sherry glass"','"please pour me a sherry"'],t=[]}}]);
+//# sourceMappingURL=2731.d51fce04.chunk.js.map

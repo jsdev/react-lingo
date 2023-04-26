@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64141],{64141:function(n,e,c){c.r(e),c.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"the cyber age"','"cyberpunk"','"cyberspace"'],t=[]}}]);
+//# sourceMappingURL=64141.7b202101.chunk.js.map

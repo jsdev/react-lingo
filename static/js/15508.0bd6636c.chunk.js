@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15508],{215508:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"evidence submitted late will be returned to the sender"','"senders of unwanted emails"'],r=[]}}]);
+//# sourceMappingURL=15508.0bd6636c.chunk.js.map

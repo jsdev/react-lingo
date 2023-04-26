@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62911],{162911:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"his laboratory was filled with Bunsen burners, beakers, and thousands of books"','"she gave him jam sandwiches and a beaker of squash"','"the distinctive funnel-neck beaker is the calling card of the first Neolithic farmers along the Baltic"'],i=["cup","tumbler","glass","mug","jug","drinking vessel"]}}]);
+//# sourceMappingURL=62911.e47e2a7c.chunk.js.map

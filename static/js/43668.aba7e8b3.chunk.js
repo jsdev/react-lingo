@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43668],{743668:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"Arabic literature"','"a fluent Arabic-speaker"'],i=[]}}]);
+//# sourceMappingURL=43668.aba7e8b3.chunk.js.map

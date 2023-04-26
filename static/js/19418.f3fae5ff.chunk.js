@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19418],{519418:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"he was only doodling in the margin"','"the text was interspersed with doodles"'],r=["scratch","scrawl","dash off","write hurriedly","write untidily","write illegibly","jot (down)"]}}]);
+//# sourceMappingURL=19418.f3fae5ff.chunk.js.map

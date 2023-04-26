@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24277],{24277:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return r}});var t=['"reefing the mainsail in strong winds"'],r=[]}}]);
+//# sourceMappingURL=24277.1ffe2ab2.chunk.js.map

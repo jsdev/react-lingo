@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46771],{746771:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return a},synonyms:function(){return t}});var a=[],t=["grounds","ground","fields","property","acres","acreage","estate","lands","real property","real estate","landholding","holding","countryside","green belt","demesne","open space","open area","unbuilt land","rural area","green area"]}}]);
+//# sourceMappingURL=46771.2902693f.chunk.js.map

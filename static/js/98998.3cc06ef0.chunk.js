@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[98998],{598998:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"plans call for a new atrium to be built behind the facade"','"the full-height glass atrium allows light to flood into the home"'],r=["entrance hall","hallway","entry","entrance","lobby","foyer","vestibule","concourse","passageway","passage","corridor","entryway","reception area"]}}]);
+//# sourceMappingURL=98998.3cc06ef0.chunk.js.map

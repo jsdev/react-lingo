@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57236],{257236:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return t},synonyms:function(){return i}});var t=['"I spent months visiting our rural communities in the campo"'],i=["grassland","flatland","lowland","pasture","meadowland","prairie","savannah","steppe","tableland","tundra","pampas","llano","vega","veld","pediplain","champaign","open country"]}}]);
+//# sourceMappingURL=57236.a63a568f.chunk.js.map

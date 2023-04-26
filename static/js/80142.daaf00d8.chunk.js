@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80142],{680142:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the flanges that held the tailpipe to the aircraft"'],r=["shelf","sill","mantel","mantelpiece","mantelshelf","shelving","projection","protrusion","overhang","extension","ridge","step","prominence","spur","jut","bulge"]}}]);
+//# sourceMappingURL=80142.daaf00d8.chunk.js.map

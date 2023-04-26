@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84290],{384290:function(n,i,a){a.r(i),a.d(i,{definitions:function(){return e},synonyms:function(){return r}});var e=['"Turkish helmets fitted with a camail"'],r=["armour","coat of mail","chain mail","chain armour","brigandine","hauberk","byrnie","habergeon"]}}]);
+//# sourceMappingURL=84290.e8935a85.chunk.js.map

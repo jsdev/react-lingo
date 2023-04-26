@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82966],{982966:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"freshly baked cookies"','"a tough cookie with one eye on her bank account"'],i=["person","human being","human","being","mortal","soul","creature","thing","man","gentleman","boy","woman","lady","girl","figure","personage","wight"]}}]);
+//# sourceMappingURL=82966.7ec62996.chunk.js.map

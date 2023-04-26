@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83147],{983147:function(n,r,i){i.r(r),i.d(r,{definitions:function(){return e},synonyms:function(){return t}});var e=[],t=["strong drink","drink","liquor","intoxicant","beverage","liquid refreshment","drop","dram","draft","swallow","sip","gulp","nip","tot","chaser","alcoholic drink"]}}]);
+//# sourceMappingURL=83147.2c58c5eb.chunk.js.map

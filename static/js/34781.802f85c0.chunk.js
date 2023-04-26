@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34781],{534781:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return u}});var s=['"her cheeks can the roses and lilies outvie"','"luxury led to struggles between men to outvie each other for useless and unethical ends"'],u=[]}}]);
+//# sourceMappingURL=34781.802f85c0.chunk.js.map

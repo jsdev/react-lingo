@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9584],{809584:function(e,s,o){o.r(s),o.d(s,{definitions:function(){return r},synonyms:function(){return y}});var r=['"a smoky office"','"smoky factory chimneys"','"her wide smoky eyes"','"smoky bacon"'],y=["smoke-filled","smoggy","hazy","foggy","murky","thick","smelly","fresh","airy","grey","sooty","black","dark","dark grey","slate grey"]}}]);
+//# sourceMappingURL=9584.40541e9e.chunk.js.map

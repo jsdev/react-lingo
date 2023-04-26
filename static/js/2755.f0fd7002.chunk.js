@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2755],{402755:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return t},synonyms:function(){return u}});var t=[],u=["brook","rivulet","rill","runnel","streamlet","freshet","river","watercourse","tributary","winterbourne","burn","beck","bourn","creek","billabong","influent","confluent","brooklet","anabranch","rillet"]}}]);
+//# sourceMappingURL=2755.f0fd7002.chunk.js.map

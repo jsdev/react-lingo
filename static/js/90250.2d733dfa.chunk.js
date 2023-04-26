@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90250],{190250:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"you are a great waster of time"'],t=["idler","loafer","good-for-nothing","drone","ne'er -do -well","do-nothing","slob","lounger","shirker","sluggard","slug","laggard","slugabed","wastrel"]}}]);
+//# sourceMappingURL=90250.2d733dfa.chunk.js.map

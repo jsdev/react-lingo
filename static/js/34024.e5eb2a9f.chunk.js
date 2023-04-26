@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34024],{434024:function(n,s,t){t.r(s),t.d(s,{definitions:function(){return e},synonyms:function(){return i}});var e=['"they skied down the mountain"','"spring snow is not always easy to ski"'],i=[]}}]);
+//# sourceMappingURL=34024.e5eb2a9f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17482],{317482:function(t,r,a){a.r(r),a.d(r,{definitions:function(){return e},synonyms:function(){return n}});var e=['"the tyrant was deposed by popular demonstrations"','"her father was a tyrant and a bully"'],n=["dictator","despot","autocrat","authoritarian","oppressor","absolute ruler","slave driver","martinet","scourge","bully","hard taskmaster"]}}]);
+//# sourceMappingURL=17482.984bc71f.chunk.js.map

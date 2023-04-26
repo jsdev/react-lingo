@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18736],{18736:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"Dan has ice-cool nerves, and his ability to be that iceman for his team has served his country well"','"she remembers the iceman delivering blocks to the icebox"'],s=[]}}]);
+//# sourceMappingURL=18736.1ad99c91.chunk.js.map

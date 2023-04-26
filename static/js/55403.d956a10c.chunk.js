@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55403],{455403:function(e,a,n){n.r(a),n.d(a,{definitions:function(){return s},synonyms:function(){return o}});var s=['"a miasma of stale alcohol hung around him like marsh gas"','"there was a miasma of despair over this place"'],o=["stink","reek","stench","smell","odor","malodor"]}}]);
+//# sourceMappingURL=55403.d956a10c.chunk.js.map

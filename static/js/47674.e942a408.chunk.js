@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47674],{447674:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return i},synonyms:function(){return n}});var i=[],n=["beat","strike","hit","flog","thrash","lash","birch","whip","horsewhip","strap","leather","flagellate","scourge","bullwhip","quirt","yerk"]}}]);
+//# sourceMappingURL=47674.e942a408.chunk.js.map

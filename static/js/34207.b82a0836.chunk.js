@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34207],{934207:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"Crikey! I never thought I\'d see you again"'],r=[]}}]);
+//# sourceMappingURL=34207.b82a0836.chunk.js.map

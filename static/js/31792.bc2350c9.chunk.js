@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31792],{131792:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"he phoned her at work"','"she phoned about twenty minutes ago"'],a=["telephone","call","call up","ring","get","reach","dial","ring up","give someone a call/ring","get someone on the phone","get on the phone to","make/place a call (to)"]}}]);
+//# sourceMappingURL=31792.bc2350c9.chunk.js.map

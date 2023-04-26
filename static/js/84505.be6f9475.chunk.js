@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84505],{384505:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=[],r=["lackey","steward","butler","footman","valet","retainer","attendant","factotum","houseboy","page","liveried manservant","liveried servant","minion","lackey","hireling","subordinate","underling","servant","retainer","vassal","puppet","spaniel","pawn","tool","creature","instrument","cat's paw"]}}]);
+//# sourceMappingURL=84505.be6f9475.chunk.js.map

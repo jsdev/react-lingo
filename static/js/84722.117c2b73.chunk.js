@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84722],{884722:function(i,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the country was an economic midget compared with its extraordinarily rich neighbor"','"a midget submarine"','"midget hockey"'],r=["dwarf","miniature","baby","diminutive","dwarfish","petite","elfin","pocket","toy","pygmy","fun-size","very small","giant"]}}]);
+//# sourceMappingURL=84722.117c2b73.chunk.js.map

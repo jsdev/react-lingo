@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39443],{739443:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return u}});var r=['"private haulers collect the bagged or bundled waste"','"a three-ton hauler"'],u=[]}}]);
+//# sourceMappingURL=39443.edc8af16.chunk.js.map

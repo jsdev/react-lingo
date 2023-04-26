@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2768],{902768:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"at the bus station, there were coyotes offering to drive us to Los Angeles"'],s=[]}}]);
+//# sourceMappingURL=2768.f57cb675.chunk.js.map

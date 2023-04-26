@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49319],{149319:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=[],r=["abstainer","recluse","hermit","solitary","anchorite","anchoress","celibate","puritan","nun","monk","Sufi","dervish","yogi","rishi","sannyasi","sadhu","muni","hikikomori","gymnosophist","marabout","santon","eremite","stylite","aerialist","cenobite","desert saint","pillar saint","pillar hermit","pillarist","sybarite"]}}]);
+//# sourceMappingURL=49319.dfa231c1.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78253],{78253:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"a dish of cauliflower with black olives"','"a cucumber and olive salad"','"shades of gold, olive, and black"'],r=["greenish","viridescent","olive green","pea green","emerald green","lime green","bottle green","Lincoln green","sea green","sage green","eau de Nil","aquamarine","aqua","virescent","glaucous","acid green"]}}]);
+//# sourceMappingURL=78253.35445e4a.chunk.js.map

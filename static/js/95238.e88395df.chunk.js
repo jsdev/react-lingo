@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[95238],{895238:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=[],o=["entreaty","plea","appeal","petition","solicitation","exhortation","urge","prayer","invocation","suit","request","application","beseeching","begging","pleading","obsecration","imploration"]}}]);
+//# sourceMappingURL=95238.e88395df.chunk.js.map

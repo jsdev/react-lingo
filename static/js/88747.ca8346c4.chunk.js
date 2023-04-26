@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88747],{488747:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"smoked-salmon canap\xe9s"'],t=["starter","finger food","tidbit","savory","snack","namkeen","hors d'oeuvre","amuse-gueule","antipasto","first course"]}}]);
+//# sourceMappingURL=88747.ca8346c4.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91255],{491255:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return u},synonyms:function(){return o}});var u=['"I unpicked the seams of his trousers"','"Elisabeth did not want to unpick the past"'],o=["unbolt","unlatch","unbar","undo","unfasten","unclick","unseal","unclose","open","free","throw open/wide","lock"]}}]);
+//# sourceMappingURL=91255.6f9e5d31.chunk.js.map

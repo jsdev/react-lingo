@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37479],{637479:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"canine distemper virus"','"related canine species"','"the majority agreed with neutering stray canines"','"most primates use their canine teeth for fighting"'],r=["hound","mongrel","cur","tyke","bitch","pup","puppy","whelp","Rover","Fido"]}}]);
+//# sourceMappingURL=37479.78928f15.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86236],{86236:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"her aunt babied her and fussed over her clothes"'],t=["pamper","mollycoddle","spoil","cosset","coddle","indulge","overindulge","pet","wait on someone hand and foot","overparent","nanny","feather-bed","cocker","pander to","wrap in cotton wool"]}}]);
+//# sourceMappingURL=86236.9d9e92a4.chunk.js.map

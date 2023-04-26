@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[13818],{413818:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"both countries began massing troops in the region"','"clouds massed heavily on the horizon"'],s=["accumulate","assemble","amass","collect","gather","marshal","muster","round up","mobilize","rally","gather together","draw together","join together","disperse","disband"]}}]);
+//# sourceMappingURL=13818.15f9d4bd.chunk.js.map

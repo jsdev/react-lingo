@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57503],{757503:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the ratio of computers to students is now 2 to 1"'],r=["proportion","correlation","relationship","correspondence","balance","percentage","fraction","quotient","comparative number/extent","quantitative relation"]}}]);
+//# sourceMappingURL=57503.0a08b0e4.chunk.js.map

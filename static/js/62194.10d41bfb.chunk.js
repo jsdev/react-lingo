@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62194],{762194:function(n,o,t){t.r(o),t.d(o,{definitions:function(){return e},synonyms:function(){return i}});var e=['"anvil clouds"'],i=["mold","model","pattern","form","matrix","hobbing foot/boot"]}}]);
+//# sourceMappingURL=62194.10d41bfb.chunk.js.map

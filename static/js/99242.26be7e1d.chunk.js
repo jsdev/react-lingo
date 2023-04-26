@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99242],{999242:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"fruit and vegetables were being sorted and crated"'],r=["package","pack","parcel","wrap","bundle","bale","stow","store","put away"]}}]);
+//# sourceMappingURL=99242.26be7e1d.chunk.js.map

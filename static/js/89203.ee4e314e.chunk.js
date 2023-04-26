@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89203],{689203:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return o}});var e=['"it\'s all done\u2014finito"'],o=[]}}]);
+//# sourceMappingURL=89203.ee4e314e.chunk.js.map

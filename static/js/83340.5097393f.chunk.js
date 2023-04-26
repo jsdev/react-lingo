@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83340],{883340:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return i}});var o=['"communication is the key to understanding your spouse, partner, or significant other"','"technology can be the downfall of cheating spouses"'],i=["husband","wife","partner","mate","consort","lady","helpmate","helpmeet"]}}]);
+//# sourceMappingURL=83340.5097393f.chunk.js.map

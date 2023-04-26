@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/88619.8ab79844.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,2BAESC,EAAW,E","sources":["definitions/groats.js"],"sourcesContent":["export const definitions = [\n    '\"I do not care a groat\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

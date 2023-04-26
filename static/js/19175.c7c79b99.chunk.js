@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19175],{419175:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return a}});var i=['"the anal sphincter"','"he\'s anal about things like that"'],a=[]}}]);
+//# sourceMappingURL=19175.c7c79b99.chunk.js.map

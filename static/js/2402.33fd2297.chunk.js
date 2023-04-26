@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2402],{302402:function(e,n,l){l.r(n),l.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=[],t=["valley","dale","vale","hollow","gully","dene","combe","nook","glen","strath","dell","slade","clough"]}}]);
+//# sourceMappingURL=2402.33fd2297.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[85263],{885263:function(n,o,_){_.r(o),_.d(o,{definitions:function(){return e},synonyms:function(){return r}});var e=['"for the first year I had a room on ______"','"deadman on ______"','"off ______ frat house'],r=["school grounds","university buildings","academia","college grounds","dormatories"]}}]);
+//# sourceMappingURL=85263.dfc40b6a.chunk.js.map

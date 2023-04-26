@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36232],{436232:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"archers shoot 30 arrows each at the target"','"arch observations about even the most mundane matters"'],s=["bowman","knowing","playful","mischievous","puckish","roguish","impish","elfin","devilish","naughty","wicked","cheeky","teasing","saucy","flippant","tongue-in-cheek","artful","sly","cunning","affected","frolicsome"]}}]);
+//# sourceMappingURL=36232.a78ef012.chunk.js.map

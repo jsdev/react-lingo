@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22606],{322606:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"a fast talker with an encyclopedic mind"','"he\'s a persuasive talker and a forceful personality"','"I was the talker of the group"','"she\'s quite a talker, conversing and arguing with Henry"'],r=["conversationalist","speaker","communicator","chatterer","chatterbox","gossip","someone who is all talk"]}}]);
+//# sourceMappingURL=22606.c7c2ff2f.chunk.js.map

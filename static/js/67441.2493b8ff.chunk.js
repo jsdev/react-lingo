@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67441],{667441:function(n,a,c){c.r(a),c.d(a,{definitions:function(){return e},synonyms:function(){return r}});var e=['"a carton of milk"'],r=["box","package","container","case","pack","packet","parcel","cardboard box"]}}]);
+//# sourceMappingURL=67441.2493b8ff.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61525],{861525:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return o},synonyms:function(){return t}});var o=['"opioids other than heroin"','"opioid use"'],t=[]}}]);
+//# sourceMappingURL=61525.b0cd9273.chunk.js.map

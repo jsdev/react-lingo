@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48314],{850724:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return s}});var o=['"why do you have to be so cussed?"'],s=["annoying","infuriating","exasperating","maddening","trying","tiresome","vexing","vexatious","irksome","galling","troublesome","bothersome","provoking","displeasing","awkward","difficult","inconvenient","helpful","pleasing"]}}]);
+//# sourceMappingURL=48314.0ab84cba.chunk.js.map

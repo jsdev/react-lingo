@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87884],{287884:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"arch observations about even the most mundane matters"'],t=["knowing","playful","mischievous","puckish","roguish","impish","elfin","devilish","naughty","wicked","cheeky","teasing","saucy","flippant","tongue-in-cheek","artful","sly","cunning","affected","frolicsome"]}}]);
+//# sourceMappingURL=87884.6bd82be0.chunk.js.map

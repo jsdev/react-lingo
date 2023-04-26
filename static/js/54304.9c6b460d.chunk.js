@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54304],{254304:function(e,n,u){u.r(n),u.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"in the war they had queued for food"','"companies are queuing up to move to the bay"','"input or output requests to a file are queued by the operating system"'],t=["line up","fall in","file","form lines","get into rows/columns","walk/move in line","stand in a queue","form a queue","queue up","wait in line","form a line"]}}]);
+//# sourceMappingURL=54304.9c6b460d.chunk.js.map

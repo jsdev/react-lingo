@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78265],{778265:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the California Legislature has defunded the Industrial Welfare Commission"'],r=[]}}]);
+//# sourceMappingURL=78265.fdea2eb6.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36803],{236803:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"to make celery juice, push stalks through a juicer or blend them before straining the juice"','"he used a juicer to extract the lime juice"','"Okay, once a juicer, always a juicer"','"some deadbeat juicer"'],r=[]}}]);
+//# sourceMappingURL=36803.d0aa515e.chunk.js.map

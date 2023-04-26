@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24521],{524521:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the early risers were up and about, doing their chores"','"he sees interviews as a chore"'],o=["task","job","duty","errand","burden","work","drudgery","thing to be done","domestic work"]}}]);
+//# sourceMappingURL=24521.58a5fa0c.chunk.js.map

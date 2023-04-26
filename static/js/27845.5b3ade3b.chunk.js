@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27845],{527845:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return o}});var s=['"a glimpse of a geisha slipping into a teahouse"','"the owner of the geisha house"'],o=["hostess","gigolo","geisha (girl)","singsong girl","courtesan","paid companion","male escort"]}}]);
+//# sourceMappingURL=27845.5b3ade3b.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66517],{866517:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"as a former CIA director, he is not averse to secrecy"','"the bank\'s approach has been risk - averse"'],o=["against","disinclined","unwilling","reluctant","loath","opposed to","antipathetic to","hostile to","antagonistic to","unfavorably disposed to","ill-disposed to","resistant to","keen"]}}]);
+//# sourceMappingURL=66517.47193eab.chunk.js.map

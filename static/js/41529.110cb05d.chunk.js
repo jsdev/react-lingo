@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41529],{541529:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return a},synonyms:function(){return l}});var a=['"they would lie in wait and cudgel her to death"'],l=["club","bludgeon","stick","truncheon","baton","blackthorn","mace","bat","blackjack","billy","billy club","nightstick","shillelagh","lathi","knobkerrie","danda","kierie","bludgeon","club","beat","batter","bash","attack","assault"]}}]);
+//# sourceMappingURL=41529.110cb05d.chunk.js.map

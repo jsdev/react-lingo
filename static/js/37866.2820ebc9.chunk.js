@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37866],{437866:function(n,a,r){r.r(a),r.d(a,{definitions:function(){return o},synonyms:function(){return i}});var o=['"four mosaics have a radial arrangement"','"a ring road to which the principal radial roads of London would connect"'],i=[]}}]);
+//# sourceMappingURL=37866.2820ebc9.chunk.js.map

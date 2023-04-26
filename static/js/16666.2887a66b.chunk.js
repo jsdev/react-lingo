@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16666],{216666:function(i,n,t){t.r(n),t.d(n,{definitions:function(){return e},synonyms:function(){return a}});var e=['"a display of filial affection"'],a=["dutiful","devoted","loyal","faithful","compliant","respectful","dedicated","affectionate","loving","familial","befitting a son or daughter"]}}]);
+//# sourceMappingURL=16666.2887a66b.chunk.js.map

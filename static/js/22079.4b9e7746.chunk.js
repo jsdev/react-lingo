@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22079],{22079:function(n,r,t){t.r(r),t.d(r,{definitions:function(){return e},synonyms:function(){return i}});var e=['"a program to combat racism"','"theories of racism"'],i=[]}}]);
+//# sourceMappingURL=22079.4b9e7746.chunk.js.map

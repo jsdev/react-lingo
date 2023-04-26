@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97675],{997675:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"baler twine"'],r=[]}}]);
+//# sourceMappingURL=97675.f7916c05.chunk.js.map

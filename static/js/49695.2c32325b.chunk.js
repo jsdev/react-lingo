@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49695],{549695:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return i}});var s=['"the savanna is surrounded by an extensive stretch of pindan"'],i=[]}}]);
+//# sourceMappingURL=49695.2c32325b.chunk.js.map

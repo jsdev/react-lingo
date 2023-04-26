@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1014],{201014:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"he was snacking on a sack of goobers"','"throughout my dating career, I was set up with some goobers"'],t=[]}}]);
+//# sourceMappingURL=1014.df6f5909.chunk.js.map

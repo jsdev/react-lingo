@@ -1,1 +1,0 @@
-(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4307],{4307:function(){}}]);

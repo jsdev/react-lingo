@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91674],{291674:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"I flensed and butchered the whale"','"flensing knives"','"the skin had been flensed off"'],i=[]}}]);
+//# sourceMappingURL=91674.a97783eb.chunk.js.map

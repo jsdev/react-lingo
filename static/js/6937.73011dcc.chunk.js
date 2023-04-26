@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6937],{706937:function(t,e,l){l.r(e),l.d(e,{definitions:function(){return a},synonyms:function(){return s}});var a=['"the ball sped across the grass like a bullet"','"all afternoon, he threw bullets at the other team\'s batters"','"you can apply your lipstick straight from the bullet but I like to use a brush"'],s=["ball","shot","lead","ball","shot","lead","ball","shot","lead"]}}]);
+//# sourceMappingURL=6937.73011dcc.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86923],{86923:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"Flora\'s spirit and character endeared her to everyone who met her"'],i=[]}}]);
+//# sourceMappingURL=86923.09ba7a67.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65245],{365245:function(n,a,t){t.r(a),t.d(a,{definitions:function(){return i},synonyms:function(){return r}});var i=['"a racial minority"','"racial hatred"'],r=["ethnic","race-related","ethnological","cultural","national","tribal","folk"]}}]);
+//# sourceMappingURL=65245.ff1dc674.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68798],{268798:function(n,e,c){c.r(e),c.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=[],r=["token","chip","disk","piece","man","marker","wafer","check"]}}]);
+//# sourceMappingURL=68798.fa80b12a.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31793],{531793:function(s,n,i){i.r(n),i.d(n,{definitions:function(){return e},synonyms:function(){return t}});var e=['"the walls glow with a satiny sheen"','"smooth, satiny skin"'],t=["smooth","shiny","glossy","shining","gleaming","lustrous","sleek","silky","sheeny","polished","patinated","slippery","glassy","nitid"]}}]);
+//# sourceMappingURL=31793.84ee8283.chunk.js.map

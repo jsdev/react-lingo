@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80514],{480514:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"the fetor of decay"'],t=["smell","scent","aroma","perfume","fragrance","bouquet","savor","nose","tang","essence","redolence","stench","stink","reek","malodor","miasma","mephitis"]}}]);
+//# sourceMappingURL=80514.4f5069a8.chunk.js.map

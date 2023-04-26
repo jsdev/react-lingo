@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/82746.ee3e8ea8.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,0EAESC,EAAW,E","sources":["definitions/gasket.js"],"sourcesContent":["export const definitions = [\n    '\"oil was leaking from the gasket between the drive flange and the hub\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

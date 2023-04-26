@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[85143],{985143:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"the society does its best on limited mazuma"'],t=["cash","hard cash","ready money","funds","capital","finances","banknotes","notes","paper money","coins","change","coin","coinage","silver","copper","currency","legal tender","sterling","bills","roll","specie","pelf","the means","the wherewithal","(filthy) lucre","l.s.d."]}}]);
+//# sourceMappingURL=85143.b8f56314.chunk.js.map

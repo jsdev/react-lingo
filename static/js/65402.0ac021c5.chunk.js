@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65402],{165402:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return a},synonyms:function(){return o}});var a=['"one of Italy\'s most beautiful cities"','"the city council"','"panic city"','"a City analyst"'],o=["town","municipality","metropolis","megalopolis","conurbation","burgh","wen","urban area","metropolitan area","town","municipality","metropolis","megalopolis","conurbation","burgh","wen","urban area","metropolitan area"]}}]);
+//# sourceMappingURL=65402.0ac021c5.chunk.js.map

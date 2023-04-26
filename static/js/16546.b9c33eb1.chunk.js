@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16546],{16546:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"illegal ______"','"attack of the ______"'],t=["foreigner","foreign national","nonnative","immigrant","emigrant","\xe9migr\xe9","newcomer","visitor","outsider","stranger","incomer","native","extraterrestrial","Martians","Venutians"]}}]);
+//# sourceMappingURL=16546.b9c33eb1.chunk.js.map

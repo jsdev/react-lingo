@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4365],{604365:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return r},synonyms:function(){return n}});var r=['"air rarefies and degrounds the physical body"','"as the shell continues to expand and rarefy, astronomers may eventually be able to see characteristic gamma rays from the radioactivity within"'],n=["purify","clarify","clear","cleanse","strain","sift","filter","distil","concentrate","process","treat","rectify","adulterate"]}}]);
+//# sourceMappingURL=4365.a99442ed.chunk.js.map

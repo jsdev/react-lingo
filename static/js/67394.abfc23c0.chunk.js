@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67394],{167394:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return a}});var r=['"he taught at the university for nearly a decade"','"the fourth decade of the nineteenth century"','"a local priest led the mourners in a decade of the rosary"'],a=["age","time","period","era","epoch","century","year","stage"]}}]);
+//# sourceMappingURL=67394.abfc23c0.chunk.js.map

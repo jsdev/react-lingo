@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30722],{930722:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he worked as a welder in a steel factory"'],i=[]}}]);
+//# sourceMappingURL=30722.c0c2ec77.chunk.js.map

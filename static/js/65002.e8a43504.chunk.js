@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65002],{665002:function(n,r,u){u.r(r),u.d(r,{definitions:function(){return c},synonyms:function(){return t}});var c=[],t=["court of law","law court","bench","bar","judicature","tribunal","forum","chancery","assizes","courtroom","palais de justice","court of justice"]}}]);
+//# sourceMappingURL=65002.e8a43504.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82822],{482822:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return l},synonyms:function(){return a}});var l=['"he is mainly concerned with fiction"','"the west will be mainly dry"'],a=["mostly","for the most part","in the main","on the whole","largely","by and large","predominantly","chiefly","principally","generally","usually","typically","commonly","as a rule","to a large extent","to a great degree","on average"]}}]);
+//# sourceMappingURL=82822.d35f6429.chunk.js.map

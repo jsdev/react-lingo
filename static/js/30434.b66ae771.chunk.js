@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30434],{530434:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return r}});var s=['"his employer is stingy and idle"','"he was stingy with his information"'],r=["miserly","parsimonious","close-fisted","penny-pinching","cheeseparing","penurious","Scroogelike","ungenerous","illiberal","close","mean","near","generous","liberal","magnanimous"]}}]);
+//# sourceMappingURL=30434.b66ae771.chunk.js.map

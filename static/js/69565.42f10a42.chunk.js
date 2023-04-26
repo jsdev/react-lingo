@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[69565],{769565:function(e,o,r){r.r(o),r.d(o,{definitions:function(){return s},synonyms:function(){return t}});var s=['"they gear workouts to your specific needs"','"the interactive quiz has been geared for those aged 6 to 12 years"','"the program is geared towards families on lower incomes"','"it\'s geared too high for serious off - road use"'],t=[]}}]);
+//# sourceMappingURL=69565.42f10a42.chunk.js.map

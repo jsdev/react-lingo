@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76451],{76451:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return a}});var n=['"when we started bailing, the boat was filled with water"','"those on board tried desperately to bail water from the sinking craft"','"after 12 years of this, including Sunday Mass with the family, I bailed"','"I couldn\'t handle the crowds, so I bailed"','"he looks a little like the other guy that bailed on me"'],a=[]}}]);
+//# sourceMappingURL=76451.9e214520.chunk.js.map

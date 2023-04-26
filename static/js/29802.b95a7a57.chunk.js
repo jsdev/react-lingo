@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[29802],{629802:function(c,i,n){n.r(i),n.d(i,{definitions:function(){return e},synonyms:function(){return u}});var e=['"a circus elephant"','"the Formula One circus"','"a media circus"','"the Circus Maximus"','"Piccadilly Circus"'],u=[]}}]);
+//# sourceMappingURL=29802.b95a7a57.chunk.js.map

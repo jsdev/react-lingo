@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56762],{756762:function(t,n,o){o.r(n),o.d(n,{definitions:function(){return e},synonyms:function(){return i}});var e=['"I\'ll oil that gate for you tomorrow"','"lightly oil the pan"','"attempts should not be made to oil individual tanks too rapidly"'],i=["lubricate","grease"]}}]);
+//# sourceMappingURL=56762.5334086c.chunk.js.map

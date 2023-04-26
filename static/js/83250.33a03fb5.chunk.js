@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83250],{983250:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"she had been deputed to look after him while Clarissa was away"'],o=["appoint","designate","nominate","assign","commission","charge","choose","select","elect","co-opt","empower","authorize","mandate","detail","delegate","transfer","turn over","hand over","hand on","pass on","consign","assign","entrust","give","devolve"]}}]);
+//# sourceMappingURL=83250.33a03fb5.chunk.js.map

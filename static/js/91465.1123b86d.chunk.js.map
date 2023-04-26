@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/91465.1123b86d.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,2CAESC,EAAW,E","sources":["definitions/coryza.js"],"sourcesContent":["export const definitions = [\n    '\"a patient suffering from acute coryza\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

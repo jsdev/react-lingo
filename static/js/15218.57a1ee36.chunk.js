@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15218],{415218:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"they make paella almost every day"','"enjoy your paellas"'],r=[]}}]);
+//# sourceMappingURL=15218.57a1ee36.chunk.js.map

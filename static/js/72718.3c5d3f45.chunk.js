@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72718],{572718:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"Quoit Green in Derbyshire"','"it was just beyond where Falstaff was quoited into the Thames"'],s=[]}}]);
+//# sourceMappingURL=72718.3c5d3f45.chunk.js.map

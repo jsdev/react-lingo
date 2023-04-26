@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67718],{367718:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return o}});var r=['"here are books well worth toting home"','"a gun-toting loner"'],o=["carry","lift","bear","heave","hoist","shoulder","manhandle","haul","drag","pull","tug","tow","transport","move","take","bring","convey","shift","fetch"]}}]);
+//# sourceMappingURL=67718.88967664.chunk.js.map

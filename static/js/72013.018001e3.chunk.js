@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72013],{972013:function(e,a,r){r.r(a),r.d(a,{definitions:function(){return n},synonyms:function(){return s}});var n=['"she quailed at his heartless words"'],s=["cower","cringe","waver","falter","flinch","shrink","recoil","start","pull back","back away","draw back","shudder","shiver","tremble","shake","quake","blench","blanch","get cold feet","shy (away)"]}}]);
+//# sourceMappingURL=72013.018001e3.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[11118],{511118:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"the truism that you get what you pay for"'],i=["platitude","commonplace","clich\xe9","banality","bromide","maxim","axiom","saw","hackneyed/trite/banal/overworked saying","stock phrase","old chestnut"]}}]);
+//# sourceMappingURL=11118.da1bf8c6.chunk.js.map

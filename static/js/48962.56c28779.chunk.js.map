@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/48962.56c28779.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,qBAESC,EAAW,E","sources":["definitions/dermic.js"],"sourcesContent":["export const definitions = [\n    '\"a dermic remedy\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44755],{544755:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return a}});var i=['"a sandy-haired cutie"','"the little cutie let out a giggle that made his parents laugh"'],a=[]}}]);
+//# sourceMappingURL=44755.b6f3d880.chunk.js.map

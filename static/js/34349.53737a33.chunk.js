@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34349],{334349:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return n},synonyms:function(){return a}});var n=['"the water is heated quickly to a preset temperature"','"if you don\'t like the presets, you can customize your own"','"I tried presetting the focus before making the shot"'],a=["prearranged","set","fixed","preestablished","preplanned","agreed","settled","arranged/established in advance","pre-agreed","predecided"]}}]);
+//# sourceMappingURL=34349.53737a33.chunk.js.map

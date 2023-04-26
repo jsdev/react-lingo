@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[29650],{629650:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return o}});var i=['"their pelage is soft, thick, and wooly"'],o=["hair","wool","coat","mane","fleece","pelt","fell"]}}]);
+//# sourceMappingURL=29650.2b77933a.chunk.js.map

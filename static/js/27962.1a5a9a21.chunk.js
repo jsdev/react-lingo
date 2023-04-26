@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27962],{27962:function(t,e,a){a.r(e),a.d(e,{definitions:function(){return n},synonyms:function(){return r}});var n=['"an educational laager, isolated from the outside world"','"Van Rensburg\'s wagons were not laagered, but scattered about"','"the troops crossed the river to laager for the night"'],r=["camp","bivouac","cantonment","barracks","base","station","post","campsite","tents","military camp","camping ground"]}}]);
+//# sourceMappingURL=27962.1a5a9a21.chunk.js.map

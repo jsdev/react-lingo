@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79206],{579206:function(o,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return n}});var t=['"the old adage "out of sight out of mind.""'],n=["saying","maxim","axiom","proverb","aphorism","saw","dictum","precept","epigram","epigraph","motto","truism","platitude","clich\xe9","commonplace","expression","phrase","formula","slogan","quotation","apothegm","gnome","words of wisdom","pearls of wisdom"]}}]);
+//# sourceMappingURL=79206.14100aa3.chunk.js.map

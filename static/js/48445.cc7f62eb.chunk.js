@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48445],{448445:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he was no meanie when it came to transport"'],i=["penny-pincher","pinchpenny","Scrooge","hoarder","saver","collector","gatherer","accumulator","magpie","squirrel","ascetic","puritan","cheese-parer","spendthrift","philanthropist"]}}]);
+//# sourceMappingURL=48445.cc7f62eb.chunk.js.map

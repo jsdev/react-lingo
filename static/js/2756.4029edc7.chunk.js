@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2756],{2756:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return i},synonyms:function(){return u}});var i=['"using bisque for doll heads"','"bisque figurines"','"shades of bisque, taupe, and chocolate brown"'],u=[]}}]);
+//# sourceMappingURL=2756.4029edc7.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3479],{703479:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"their dual role at work and home"','"Old English has dual number for first- and second-person pronouns"','"a dual flight"'],r=["double","twofold","binary","duplicate","duplex","twin","matched","matching","paired","coupled","binate","in pairs","single"]}}]);
+//# sourceMappingURL=3479.f916850b.chunk.js.map

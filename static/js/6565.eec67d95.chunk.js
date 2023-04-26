@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6565],{6565:function(c,e,a){c.exports=a.p+"static/media/coding.56e9a5b838070ca787bc"}}]);

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2231],{502231:function(e,o,r){r.r(o),r.d(o,{definitions:function(){return t},synonyms:function(){return s}});var t=['"he had a morbid fascination with the horrors of contemporary warfare"','"the treatment of morbid obesity"'],s=["ghoulish","macabre","unhealthy","gruesome","grisly","grotesque","ghastly","horrible","unwholesome","death-obsessed","wholesome","diseased","pathological","healthy"]}}]);
+//# sourceMappingURL=2231.ad2e8c34.chunk.js.map

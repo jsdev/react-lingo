@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2174],{102174:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return o}});var r=[],o=["girdle","panty girdle","foundation garment","foundation","corselette","roll-on","truss","stays","support garment"]}}]);
+//# sourceMappingURL=2174.85cf6cde.chunk.js.map

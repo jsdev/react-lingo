@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7475],{7475:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"they took us through a dog-leg cave"','"the surf splashes over the dogleg concrete jetty"','"Highway 60 now doglegs northwest toward Frankfort"'],r=["bend","corner","angle","crook","twist","turn","curve","loop","zigzag","hairpin bend"]}}]);
+//# sourceMappingURL=7475.a5a7387a.chunk.js.map

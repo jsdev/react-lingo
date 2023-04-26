@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20399],{20399:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return d}});var i=['"a sheet of dimple foam"','"a sucking swirl dimpled the water"','"the water ruffled and dimpled"'],d=["indentation","concavity","depression","hollow","cleft","dent","dint","dip","pit"]}}]);
+//# sourceMappingURL=20399.b3247ff8.chunk.js.map

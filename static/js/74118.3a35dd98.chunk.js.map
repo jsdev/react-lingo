@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/74118.3a35dd98.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,2BACA,0DAESC,EAAW,E","sources":["definitions/eaters.js"],"sourcesContent":["export const definitions = [\n    '\"I\\'m still a big eater\"',\n    '\"it was a good place to dine if you were a fish eater\"'\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

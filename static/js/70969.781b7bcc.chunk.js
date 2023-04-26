@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70969],{70969:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"young red oaken leaves decocted in wine make an excellent gargle for a sore mouth"'],t=[]}}]);
+//# sourceMappingURL=70969.781b7bcc.chunk.js.map

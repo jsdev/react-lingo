@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33401],{533401:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"I ordered the flautas and a margarita"'],a=[]}}]);
+//# sourceMappingURL=33401.ca31638c.chunk.js.map

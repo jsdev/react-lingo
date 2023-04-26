@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51209],{51209:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"take care not to let the soup boil or it will curdle"','"making cheese by curdling milk"'],r=["clot","coagulate","congeal","solidify","thicken","condense","turn","turn sour","sour","ferment","separate into curds/lumps"]}}]);
+//# sourceMappingURL=51209.b52b1ff2.chunk.js.map

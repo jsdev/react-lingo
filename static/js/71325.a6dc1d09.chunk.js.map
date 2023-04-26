@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/71325.a6dc1d09.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,IAESC,EAAW,E","sources":["definitions/lender.js"],"sourcesContent":["export const definitions = [\n    '',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

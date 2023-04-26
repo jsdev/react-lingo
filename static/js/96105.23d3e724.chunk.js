@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96105],{796105:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"he kings it over the natives on his atoll"'],s=[]}}]);
+//# sourceMappingURL=96105.23d3e724.chunk.js.map

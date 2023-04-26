@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53615],{153615:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"courses of stone were corbeled out from the angles of the walls of the square"'],r=[]}}]);
+//# sourceMappingURL=53615.b443f1be.chunk.js.map

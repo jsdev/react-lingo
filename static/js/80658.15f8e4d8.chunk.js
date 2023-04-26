@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80658],{580658:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return a}});var s=['"I really needed the cash", she says baldly','"it seems enough to state the facts baldly"'],a=[]}}]);
+//# sourceMappingURL=80658.15f8e4d8.chunk.js.map

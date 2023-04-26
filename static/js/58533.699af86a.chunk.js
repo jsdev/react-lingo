@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58533],{558533:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return c},synonyms:function(){return i}});var c=['"jellied cranberry sauce"','"jellied eels"','"the eels are stewed and jellied"'],i=["conserve","bottle","tin","can","pot","chill","freeze","freeze-dry","quick-freeze","dry","desiccate","dehydrate","cure","smoke","kipper","salt","pickle","marinate","souse","corn","candy","embalm","mummify","consume","use"]}}]);
+//# sourceMappingURL=58533.699af86a.chunk.js.map

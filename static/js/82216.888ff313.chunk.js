@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82216],{982216:function(s,e,n){n.r(e),n.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"we all need several glasses of fluid a day"','"a cleaning fluid"'],i=["liquid","moisture","solution","juice","sap","gas","vapor","flowing substance","watery substance","gaseous substance","solid"]}}]);
+//# sourceMappingURL=82216.888ff313.chunk.js.map

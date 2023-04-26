@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[867],{900867:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"I bloused my trousers over my boots"','"my dress bloused out above my waist"'],t=[]}}]);
+//# sourceMappingURL=867.f536b3ad.chunk.js.map

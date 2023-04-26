@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76416],{376416:function(o,t,n){n.r(t),n.d(t,{definitions:function(){return e},synonyms:function(){return b}});var e=[],b=["gumboot","wellington","wader","field boot","jackboot","thigh boot","half-boot","ankle boot","Chelsea boot","balmoral","desert boot","moon boot","snow boot","overshoe","buskin","napoleon","top boot","walking boot","riding boot","pixie boot","football boot","Doc Martens"]}}]);
+//# sourceMappingURL=76416.4b3ffb27.chunk.js.map

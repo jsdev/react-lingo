@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/29257.1a2b657e.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACpB,Q","sources":["definitions/seraph.js"],"sourcesContent":["export const definitions = [\n]\nexport const synonyms = [\n    'angel',\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

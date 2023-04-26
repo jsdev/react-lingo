@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[29561],{29561:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return a}});var o=['"cobnut stuffing"','"he\'s got a nice young bay cob if you want to hack"','"ganders and cobs have permanent pair bonds"'],a=[]}}]);
+//# sourceMappingURL=29561.82153c86.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99439],{599439:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return a}});var r=['"the 55 meter three-masted barque is known for adventurous voyages"'],a=["boat","sailboat","ship","yacht","craft","watercraft","keel"]}}]);
+//# sourceMappingURL=99439.899b5644.chunk.js.map

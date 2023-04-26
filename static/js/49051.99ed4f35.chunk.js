@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49051],{549051:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"they drank champagne and ate caviar by the pool at their house"'],r=[]}}]);
+//# sourceMappingURL=49051.99ed4f35.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/24462.e861b73e.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,+CAESC,EAAW,E","sources":["definitions/pooing.js"],"sourcesContent":["export const definitions = [\n    '\"carrying a high sea, we were badly pooped\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

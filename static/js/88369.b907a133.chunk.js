@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88369],{388369:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return o}});var e=['"the Darwinian corpus"'],o=["collection","compilation","body","entity","whole","aggregation","mass"]}}]);
+//# sourceMappingURL=88369.b907a133.chunk.js.map

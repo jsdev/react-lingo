@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5483],{405483:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"he avowed that he was no longer in perfect health"','"he avowed his change of faith"'],a=["assert","declare","state","maintain","aver","attest","swear","vow","insist","confess","admit","asseverate","declared","sworn","self-confessed","confessed","self-proclaimed","acknowledged","admitted","open","overt","known"]}}]);
+//# sourceMappingURL=5483.dd583822.chunk.js.map

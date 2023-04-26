@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64241],{164241:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"those on the cusp of adulthood"','"he was Aries on the cusp with Taurus"'],r=["corner","intersection","point","apex","nook","niche","recess","crook","projection","bend","curve","arc","kink","dogleg","crook","deviation","turn","turning","junction","fork","intersection","angle","projection","apex","hairpin","hairpin bend"]}}]);
+//# sourceMappingURL=64241.e733449c.chunk.js.map

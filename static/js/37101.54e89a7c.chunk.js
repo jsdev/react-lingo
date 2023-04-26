@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37101],{237101:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"I recently googled my 7th grade teacher and found his current email address"','"she spent the afternoon googling aimlessly"'],s=[]}}]);
+//# sourceMappingURL=37101.54e89a7c.chunk.js.map

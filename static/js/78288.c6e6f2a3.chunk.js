@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78288],{978288:function(n,t,a){a.r(t),a.d(t,{definitions:function(){return e},synonyms:function(){return i}});var e=['"the University of Ottawa alumna was in Japan"'],i=[]}}]);
+//# sourceMappingURL=78288.c6e6f2a3.chunk.js.map

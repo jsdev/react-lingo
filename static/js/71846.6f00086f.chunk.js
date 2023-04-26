@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71846],{971846:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return s}});var o=['"bright pink lipstick"','"her healthy pink cheeks"','"pale pink politics"','"a boom in the pink economy"'],s=["rosy","rose","rose-colored","ros\xe9","salmon","shell-pink","flesh-colored","flushed","blushing","pale red","salmon-pink"]}}]);
+//# sourceMappingURL=71846.6f00086f.chunk.js.map

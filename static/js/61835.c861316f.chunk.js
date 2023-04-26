@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61835],{361835:function(e,a,r){r.r(a),r.d(a,{definitions:function(){return i},synonyms:function(){return n}});var i=['"Hoover feuded with the CIA for decades"','"these two families have been feuding since the Civil War"'],n=["quarrel","fight","argue","bicker","squabble","dispute","clash","differ","take up arms","be at odds","be at daggers drawn","wage war"]}}]);
+//# sourceMappingURL=61835.c861316f.chunk.js.map

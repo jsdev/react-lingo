@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37380],{237380:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"his knowledge of federal budget arcana is legendary"'],t=[]}}]);
+//# sourceMappingURL=37380.1cd2a7c9.chunk.js.map

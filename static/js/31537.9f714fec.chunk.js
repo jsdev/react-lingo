@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31537],{731537:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"Dorset sites are bigger than their pre-Dorset counterparts"'],s=[]}}]);
+//# sourceMappingURL=31537.9f714fec.chunk.js.map

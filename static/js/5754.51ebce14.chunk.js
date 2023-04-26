@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5754],{5754:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return s}});var t=['"she was petite and vivacious"'],s=["small","dainty","diminutive","slight","little","tiny","elfin","delicate","small-boned","wee"]}}]);
+//# sourceMappingURL=5754.51ebce14.chunk.js.map

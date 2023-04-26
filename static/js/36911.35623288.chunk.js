@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36911],{736911:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=[],r=["hill","hillside","hillock","bank","rise","escarpment","scarp","brae","versant","bajada","piedmont","steep","adret","ubac"]}}]);
+//# sourceMappingURL=36911.35623288.chunk.js.map

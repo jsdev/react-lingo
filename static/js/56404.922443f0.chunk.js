@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56404],{656404:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return l},synonyms:function(){return i}});var l=['"a wistful cherub of eighteen months, photographed at her playgroup"'],i=["angel","seraph","baby","infant","toddler","babe","babe in arms","little one","pretty child","lovable child","well behaved child","innocent child","little angel","little dear","little darling"]}}]);
+//# sourceMappingURL=56404.922443f0.chunk.js.map

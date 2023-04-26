@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16120],{216120:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the British consul in Israel"'],i=["ambassador","diplomat","charg\xe9 'affaires","attach\xe9","envoy","emissary","plenipotentiary","consul general","legate"]}}]);
+//# sourceMappingURL=16120.948f8c1a.chunk.js.map

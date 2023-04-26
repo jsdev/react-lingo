@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81316],{581316:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return s},synonyms:function(){return n}});var s=['"he words his request in a particularly ironic way"','"a strongly worded letter of protest"'],n=["phrase","express","put","couch","frame","set forth","formulate","style","say","utter","state"]}}]);
+//# sourceMappingURL=81316.a6a98d4b.chunk.js.map

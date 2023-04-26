@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68126],{468126:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"her eyes were googly for a second, but when they focused she started swinging"','"you are going to bowl some amazing googlies"'],t=[]}}]);
+//# sourceMappingURL=68126.c6ac317e.chunk.js.map

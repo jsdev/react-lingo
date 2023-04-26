@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74140],{774140:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"this infestation can be countered by inarching a tolerant rootstock"'],o=[]}}]);
+//# sourceMappingURL=74140.79694940.chunk.js.map

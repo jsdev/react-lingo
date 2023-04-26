@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20544],{120544:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"Duma inspanned sixteen of his best cattle"'],s=[]}}]);
+//# sourceMappingURL=20544.b8229143.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46919],{946919:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"Lowe was charged with causing an affray"','"a person guilty of affray"'],r=["fight","brawl","battle","engagement","encounter","confrontation","melee","clash","skirmish","scuffle","tussle","fracas","altercation","disturbance","commotion","breach of the peace","riot"]}}]);
+//# sourceMappingURL=46919.8217b23b.chunk.js.map

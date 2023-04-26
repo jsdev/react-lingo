@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36160],{736160:function(e,i,t){t.r(i),t.d(i,{definitions:function(){return n},synonyms:function(){return a}});var n=['"a timely warning"','"timely diagnosis and subsequent early administration will be imperative"'],a=["opportune","well timed","prompt","punctual","convenient","appropriate","suitable","apt","fitting","expedient","felicitous","seasonable","at the right time","inopportune","ill-timed","inappropriate","late"]}}]);
+//# sourceMappingURL=36160.28fb3957.chunk.js.map

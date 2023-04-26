@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68108],{868108:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return i}});var c=['"he had once canoed down the Nile"'],i=[]}}]);
+//# sourceMappingURL=68108.586ae2c4.chunk.js.map

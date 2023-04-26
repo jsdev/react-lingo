@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93856],{593856:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return l},synonyms:function(){return n}});var l=['"I wondered if I\'d heard aright"'],n=["accurately","right","rightly","faithfully","unerringly","precisely","exactly","faultlessly","flawlessly","perfectly","without error","without flaws","incorrectly"]}}]);
+//# sourceMappingURL=93856.c255985b.chunk.js.map

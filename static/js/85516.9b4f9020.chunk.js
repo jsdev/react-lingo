@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[85516],{585516:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return c}});var r=['"he could carry dirty dishes with the best of them, by cracky"'],c=[]}}]);
+//# sourceMappingURL=85516.9b4f9020.chunk.js.map

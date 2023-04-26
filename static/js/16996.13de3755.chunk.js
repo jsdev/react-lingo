@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16996],{616996:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a ripper of a gig"'],t=[]}}]);
+//# sourceMappingURL=16996.13de3755.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20828],{220828:function(l,y,e){e.r(y),e.d(y,{definitions:function(){return i},synonyms:function(){return t}});var i=['"the monkey leapt nimbly from rock to rock"'],t=["agilely","lithely","acrobatically","lightly","easily","spryly","actively","quickly","smartly","briskly","gracefully","supply","lissomly","flexibly","skillfully","deftly","dexterously","adroitly","fleetly","lightsomely","clumsily"]}}]);
+//# sourceMappingURL=20828.fb6c80fb.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93470],{593470:function(i,t,e){e.r(t),e.d(t,{definitions:function(){return n},synonyms:function(){return s}});var n=['"she treated him to a coy smile of invitation"','"he is coy about his age"'],s=["arch","simpering","coquettish","flirtatious","kittenish","skittish","shy","modest","bashful","reticent","diffident","retiring","backward","self-effacing","shrinking","withdrawn","timid","demure","brazen"]}}]);
+//# sourceMappingURL=93470.0fbb2589.chunk.js.map

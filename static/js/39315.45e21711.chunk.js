@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39315],{239315:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"the dying embers in the fireplace"','"it rekindled in my breast the smoldering embers of liberty"'],t=["cinder","ashes","residue","clinker","charcoal","glowing coal","live coal"]}}]);
+//# sourceMappingURL=39315.45e21711.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4283],{404283:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return o},synonyms:function(){return s}});var o=['"Golfer was two ______ shy of winning"','"he eagled the last to share fourth place"',"No translation found."],s=["big birds","feathery mascot","symbols for US patriotism"]}}]);
+//# sourceMappingURL=4283.f44e836c.chunk.js.map

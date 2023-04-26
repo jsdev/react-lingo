@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53970],{253970:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a raster image"'],i=[]}}]);
+//# sourceMappingURL=53970.d40a32be.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55840],{255840:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return s}});var t=['"he runs off with some floozy that\'s only interested in fame and money"','"she learns her husband is cheating on her with a blond floozy"'],s=[]}}]);
+//# sourceMappingURL=55840.efac53a6.chunk.js.map

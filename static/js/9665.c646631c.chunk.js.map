@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/9665.c646631c.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,4BAESC,EAAW,E","sources":["definitions/bitmap.js"],"sourcesContent":["export const definitions = [\n    '\"a bitmapped background\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

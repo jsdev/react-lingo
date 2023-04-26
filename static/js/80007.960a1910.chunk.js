@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80007],{980007:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return r},synonyms:function(){return o}});var r=['"his audacious deployment of simile and metaphor"'],o=["metaphor","metonymy","figure of speech","trope","turn of phrase","conceit","word picture","figurative expression","rhetorical device","word painting"]}}]);
+//# sourceMappingURL=80007.960a1910.chunk.js.map

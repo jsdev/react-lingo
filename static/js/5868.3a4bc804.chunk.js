@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5868],{305868:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return i},synonyms:function(){return u}});var i=['"a deluxe hotel"'],u=["luxurious","luxury","sumptuous","palatial","opulent","splendid","magnificent","lavish","grand","rich","superior","high-class","quality","exclusive","choice","select","elegant","well appointed","fancy","expensive","costly","upmarket","Lucullan","palatian","basic","cheap","downmarket"]}}]);
+//# sourceMappingURL=5868.3a4bc804.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42653],{42653:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return o},synonyms:function(){return a}});var o=['"old codgers always harp on about yesteryear"'],a=["man","boy","person","individual","soul","carl"]}}]);
+//# sourceMappingURL=42653.f9651159.chunk.js.map

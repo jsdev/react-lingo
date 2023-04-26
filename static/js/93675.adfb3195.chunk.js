@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93675],{293675:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return h}});var i=['"he was making progress, albeit rather slowly"'],h=["although","while","whilst","however","yet","but","even though/if","in spite of the fact that","despite the fact that","notwithstanding the fact that","notwithstanding that","for all that","granted that","even supposing","despite the possibility that"]}}]);
+//# sourceMappingURL=93675.adfb3195.chunk.js.map

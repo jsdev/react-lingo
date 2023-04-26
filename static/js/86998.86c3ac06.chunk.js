@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86998],{586998:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"Manny hand rolled a couple of bombers"'],t=["cannabis cigarette","marijuana cigarette","zol"]}}]);
+//# sourceMappingURL=86998.86c3ac06.chunk.js.map

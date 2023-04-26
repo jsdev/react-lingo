@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/32236.6d6497f4.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,oBAESC,EAAW,E","sources":["definitions/cedarn.js"],"sourcesContent":["export const definitions = [\n    '\"a cedarn chest\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

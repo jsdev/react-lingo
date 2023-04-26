@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52801],{652801:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return s}});var t=['"the pony whinnied and tossed his head happily"'],s=[]}}]);
+//# sourceMappingURL=52801.3b092efe.chunk.js.map

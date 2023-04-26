@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[95411],{395411:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"Aunt Gertrude\'s diamond parure"'],u=[]}}]);
+//# sourceMappingURL=95411.da54289e.chunk.js.map

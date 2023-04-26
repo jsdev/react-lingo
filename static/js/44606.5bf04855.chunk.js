@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44606],{444606:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"a pair of muddy boots ______ in the corner"','"the blood under his nose started ______"'],r=["cover","coat","encrust","plaster","smother","spread thickly","clot","congeal","coagulate","thicken","solidify","harden","set","dry","inspissate","liquefy"]}}]);
+//# sourceMappingURL=44606.5bf04855.chunk.js.map

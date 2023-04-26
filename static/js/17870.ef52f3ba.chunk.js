@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17870],{117870:function(e,i,t){t.r(i),t.d(i,{definitions:function(){return n},synonyms:function(){return s}});var n=['"she simpered, looking pleased with herself"','"he simpered at me"','"an exaggerated simper"'],s=["giggle","titter","smirk","smile affectedly","smile coquettishly","look coy"]}}]);
+//# sourceMappingURL=17870.ef52f3ba.chunk.js.map

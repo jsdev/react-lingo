@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23436],{223436:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"they rarely bestir themselves except in the most pressing of circumstances"'],i=["make an effort","get moving","exert oneself","rouse oneself","get going","get on with it"]}}]);
+//# sourceMappingURL=23436.913b0c58.chunk.js.map

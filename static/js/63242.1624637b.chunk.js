@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63242],{563242:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return c}});var i=['"he spoke slowly and calmly"','"people living in the area reacted calmly to the incident"'],c=[]}}]);
+//# sourceMappingURL=63242.1624637b.chunk.js.map

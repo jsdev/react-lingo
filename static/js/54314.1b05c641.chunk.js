@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54314],{954314:function(n,i,o){o.r(i),o.d(i,{definitions:function(){return t},synonyms:function(){return e}});var t=['"medium weight cotton or polycotton fabric such as poplin"','"a worn black poplin skirt"','"the selection includes gabardines, poplins, and lawns"'],e=[]}}]);
+//# sourceMappingURL=54314.1b05c641.chunk.js.map

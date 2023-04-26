@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3767],{203767:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"a great fistic encounter"'],r=[]}}]);
+//# sourceMappingURL=3767.4e8e7b25.chunk.js.map

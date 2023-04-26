@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38848],{638848:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return a}});var o=['"they were gawking at some pinup"'],a=["gape","goggle","gaze","ogle","stare","stare stupidly","stare open-mouthed","stare in wonder","look fixedly","look vacantly"]}}]);
+//# sourceMappingURL=38848.b7c3b8e8.chunk.js.map

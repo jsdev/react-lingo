@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62491],{162491:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return t},synonyms:function(){return o}});var t=['"skyways, from 18,000 to 40,000 feet, resemble a highway system"','"a second-story skyway links the two shops"','"over the marsh rises the Pulaski Skyway, a mile-long flyover"'],o=[]}}]);
+//# sourceMappingURL=62491.b537c411.chunk.js.map

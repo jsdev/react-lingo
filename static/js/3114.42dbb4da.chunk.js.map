@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/3114.42dbb4da.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,8EAESC,EAAW,E","sources":["definitions/applet.js"],"sourcesContent":["export const definitions = [\n    '\"there\\'s a useful control applet which can be used to center the picture\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

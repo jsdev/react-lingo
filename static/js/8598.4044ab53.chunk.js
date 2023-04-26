@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8598],{108598:function(e,n,c){c.r(n),c.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"we swam and went on picnics"','"we packed up a picnic and went to the reservoir"','"in summer they picnicked on the beach"'],a=["barbecue","garden party","f\xeate champ\xeatre","clambake","cookout","burgoo","outdoor meal","al fresco meal"]}}]);
+//# sourceMappingURL=8598.4044ab53.chunk.js.map

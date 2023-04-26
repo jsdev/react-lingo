@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81715],{481715:function(e,o,r){r.r(o),r.d(o,{definitions:function(){return n},synonyms:function(){return c}});var n=[],c=["cupboard","wardrobe","cabinet","cubicle","storage room","cupboard","cabinet","chest","safe","box","case","coffer","compartment","storeroom","storage room"]}}]);
+//# sourceMappingURL=81715.77a13ab3.chunk.js.map

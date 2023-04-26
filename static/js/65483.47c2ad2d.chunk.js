@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65483],{165483:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"a gas-guzzling polluting junker"','"junkers on the porches cussin\' out everyone who walks by"','"a Reich dominated by the Junkers and an industrial bourgeoisie"','"Junker resistance to the abolition of serfdom"'],r=["abuser","user","viper","narcotist","morphinist","morphiomaniac","etheromaniac"]}}]);
+//# sourceMappingURL=65483.47c2ad2d.chunk.js.map

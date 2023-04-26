@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4086],{204086:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"Madeleine was still an enigma to him"'],i=["mystery","puzzle","riddle","conundrum","paradox","problem","question","question mark","quandary","unsolved problem","a closed book"]}}]);
+//# sourceMappingURL=4086.f4ad0fa6.chunk.js.map

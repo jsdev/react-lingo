@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22944],{680247:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the preservation of biotic diversity"'],r=["living","live","animate","biological","natural","inorganic"]}}]);
+//# sourceMappingURL=22944.94e66acb.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6802],{106802:function(n,a,s){s.r(a),s.d(a,{definitions:function(){return e},synonyms:function(){return t}});var e=['"a bunch of bananas"','"she went bananas when I said I was going to leave the job"','"I\'ve spent two months in a studio\u2014I must be bananas"','"Roy\'s customers think the council has gone bananas"'],t=[]}}]);
+//# sourceMappingURL=6802.0e2a59d7.chunk.js.map

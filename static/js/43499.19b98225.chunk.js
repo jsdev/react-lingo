@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43499],{743499:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return c}});var t=['"cube the deviations from the mean"','"1200 meters cubed"','"I bought sirloin from the butcher and cubed it myself"'],c=["chop","cut up","slice","dice","mince","carve","divide","hash"]}}]);
+//# sourceMappingURL=43499.19b98225.chunk.js.map

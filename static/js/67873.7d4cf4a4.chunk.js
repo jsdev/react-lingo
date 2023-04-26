@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67873],{967873:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return c}});var r=['"she had placed first in the discus"'],c=["circle","round","saucer","ring"]}}]);
+//# sourceMappingURL=67873.7d4cf4a4.chunk.js.map

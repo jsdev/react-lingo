@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74127],{874127:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return a},synonyms:function(){return t}});var a=['"there wasn\'t anyone there"','"does anyone remember him ? "','"I was afraid to tell anyone"','"anyone could do it"','"they are read by anyone who\'s anyone"'],t=["anybody"]}}]);
+//# sourceMappingURL=74127.3eb35c6e.chunk.js.map

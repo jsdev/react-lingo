@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41322],{641322:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return o}});var r=['"an autopsy report"','"an autopsied brain"'],o=["postmortem","PM","necropsy"]}}]);
+//# sourceMappingURL=41322.50ee7dc8.chunk.js.map

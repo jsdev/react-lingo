@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15749],{715749:function(o,e,n){n.r(e),n.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=[],t=["notepad","notebook","pad","exercise book","binder","ledger","log","logbook","chronicle","journal","diary","daybook","pocketbook","scratch pad","memo pad","record book","jotter"]}}]);
+//# sourceMappingURL=15749.3e332c53.chunk.js.map

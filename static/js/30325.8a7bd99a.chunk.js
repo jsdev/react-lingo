@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30325],{530325:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the hotel is classy but relaxed"'],i=["stylish","high-class","superior","exclusive","chic","elegant","smart","sophisticated","fancy","expensive","upmarket","high-toned","upscale"]}}]);
+//# sourceMappingURL=30325.8a7bd99a.chunk.js.map

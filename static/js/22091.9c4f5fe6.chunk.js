@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22091],{122091:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return s}});var i=['"it seemed certain that some great trial of strength impended between the opponents"','"the loss of liberty impends as the result of fatal indiscretion"'],s=[]}}]);
+//# sourceMappingURL=22091.9c4f5fe6.chunk.js.map

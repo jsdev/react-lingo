@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27585],{727585:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a brainy, high-powered lawyer"'],t=["clever","intelligent","bright","brilliant","gifted","intellectual","erudite","well read","cultured","highbrow","academic","scholarly","cerebral","studious","bookish","bluestocking","stupid"]}}]);
+//# sourceMappingURL=27585.69fd5dbb.chunk.js.map

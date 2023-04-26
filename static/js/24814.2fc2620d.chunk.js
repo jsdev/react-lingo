@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24814],{224814:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"I gimped over to the door"'],r=[]}}]);
+//# sourceMappingURL=24814.2fc2620d.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32236],{32236:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return r}});var c=['"a cedarn chest"'],r=[]}}]);
+//# sourceMappingURL=32236.6d6497f4.chunk.js.map

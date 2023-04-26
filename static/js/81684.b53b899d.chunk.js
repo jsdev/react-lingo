@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81684],{181684:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a barium meal"'],t=[]}}]);
+//# sourceMappingURL=81684.b53b899d.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35496],{835496:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the gap between theory and praxis, text and world"','"patterns of Christian praxis in church and society"'],o=["custom","practice","habit","tradition","convention","routine","rule","rite","ritual","observance","ordinance","ceremony","ceremonial","way","procedure","method","mode","form","formality","wont","mores","moeurs"]}}]);
+//# sourceMappingURL=35496.97cd6d00.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78469],{778469:function(n,c,e){e.r(c),e.d(c,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a lancet clock"'],i=[]}}]);
+//# sourceMappingURL=78469.1df29f20.chunk.js.map

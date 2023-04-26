@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16028],{816028:function(e,n,l){l.r(n),l.d(n,{definitions:function(){return t},synonyms:function(){return u}});var t=[],u=["pill","capsule","lozenge","caplet","pastille","pellet","drop","ball","jujube","bolus","troche"]}}]);
+//# sourceMappingURL=16028.fee31ce6.chunk.js.map

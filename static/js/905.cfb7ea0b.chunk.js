@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[905],{300905:function(i,n,t){t.r(n),t.d(n,{definitions:function(){return e},synonyms:function(){return s}});var e=['"the civic humanist\'s polity"','"a vision of a plural Arab polity"','"the period in which West Germany was a distinct polity"'],s=[]}}]);
+//# sourceMappingURL=905.cfb7ea0b.chunk.js.map

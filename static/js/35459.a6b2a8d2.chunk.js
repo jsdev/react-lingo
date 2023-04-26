@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35459],{635459:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=[],r=["strophe","stave","canto","couplet","distich","triplet","tercet","tetrastich","part","section","portion"]}}]);
+//# sourceMappingURL=35459.a6b2a8d2.chunk.js.map

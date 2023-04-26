@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/1651.bb81d694.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,mDAESC,EAAW,E","sources":["definitions/corvee.js"],"sourcesContent":["export const definitions = [\n    '\"they still force the peasants to do corvée\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

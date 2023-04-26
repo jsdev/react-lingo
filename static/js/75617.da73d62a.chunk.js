@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75617],{75617:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return o}});var r=['"he stood transfixed, a voyeur feasting on the swell of her buttocks"','"a voyeur of death"','"murder trials make us voyeurs"'],o=[]}}]);
+//# sourceMappingURL=75617.da73d62a.chunk.js.map

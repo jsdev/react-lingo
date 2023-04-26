@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6830],{306830:function(n,s,t){t.r(s),t.d(s,{definitions:function(){return c},synonyms:function(){return a}});var c=['"the causal factors associated with illness"','"a causal conjunction"'],a=[]}}]);
+//# sourceMappingURL=6830.49fe9ad9.chunk.js.map

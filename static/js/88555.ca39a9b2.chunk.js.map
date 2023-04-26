@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/88555.ca39a9b2.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,sCAESC,EAAW,CACpB,SACA,MACA,Q","sources":["definitions/lollop.js"],"sourcesContent":["export const definitions = [\n    '\"the bear lolloped along the path\"',\n]\nexport const synonyms = [\n    'stride',\n    'run',\n    'bound',\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

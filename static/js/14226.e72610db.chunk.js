@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[14226],{514226:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"there are 60 confirmed cases of corona"','"my corona test was negative"'],o=[]}}]);
+//# sourceMappingURL=14226.e72610db.chunk.js.map

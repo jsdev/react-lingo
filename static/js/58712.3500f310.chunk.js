@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58712],{358712:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return t},synonyms:function(){return s}});var t=['"their morale was high"'],s=["confidence","self-confidence","self-esteem","spirit","spirits","esprit de corps","team spirit","heart","optimism","hope","hopefulness","determination","state of mind"]}}]);
+//# sourceMappingURL=58712.3500f310.chunk.js.map

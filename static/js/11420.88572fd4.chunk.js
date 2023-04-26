@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[11420],{811420:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return u}});var i=['"the cabin should be fitted with demisting equipment"'],u=[]}}]);
+//# sourceMappingURL=11420.88572fd4.chunk.js.map

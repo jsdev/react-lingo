@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61789],{161789:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"the lakes attracted weekend picnickers and bathers"','"people head down to the beach wearing bathers and flip-flops"'],r=[]}}]);
+//# sourceMappingURL=61789.be228729.chunk.js.map

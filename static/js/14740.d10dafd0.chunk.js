@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[14740],{114740:function(l,e,o){o.r(e),o.d(e,{definitions:function(){return r},synonyms:function(){return u}});var r=['"her dress billowed out around her"','"smoke was billowing from the chimney"'],u=["cloud","mass","wave","roller","breaker","swell","fill out","puff up/out","balloon (out)","bulge out","belly out","pour","flow","swirl","spiral","roll","undulate","eddy","rise and fall"]}}]);
+//# sourceMappingURL=14740.d10dafd0.chunk.js.map

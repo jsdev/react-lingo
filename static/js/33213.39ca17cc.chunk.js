@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33213],{933213:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return a}});var n=['"they accused him of fomenting political unrest"'],a=["instigate","incite","provoke","agitate","excite","stir up","whip up","arouse","inspire","encourage","urge","actuate","initiate","generate","cause","prompt","start","bring about","kindle","touch off","enkindle","effectuate","spark off","trigger off","fan the flames of"]}}]);
+//# sourceMappingURL=33213.39ca17cc.chunk.js.map

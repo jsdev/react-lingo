@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76397],{476397:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"for fast days a soupe maigre was made"'],r=[]}}]);
+//# sourceMappingURL=76397.ed4b643b.chunk.js.map

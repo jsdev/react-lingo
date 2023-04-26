@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41309],{141309:function(e,n,u){u.r(n),u.d(n,{definitions:function(){return l},synonyms:function(){return r}});var l=['"planar surfaces"'],r=["flat","smooth","uniform","featureless","unbroken","undamaged","unwrinkled","level","leveled","plane","flush","true","homaloidal","uneven","bumpy"]}}]);
+//# sourceMappingURL=41309.3d3e8f97.chunk.js.map

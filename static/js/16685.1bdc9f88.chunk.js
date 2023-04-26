@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16685],{816685:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return s},synonyms:function(){return i}});var s=['"our lake is probably a kettle"','"a kettle pond"','"activists in the kettle were protesting at being held and resisting arrest"','"the plan was to get as close to the protest as possible without getting kettled"'],i=[]}}]);
+//# sourceMappingURL=16685.1bdc9f88.chunk.js.map

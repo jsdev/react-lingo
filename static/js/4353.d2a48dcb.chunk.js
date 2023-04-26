@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4353],{804353:function(i,n,a){a.r(n),a.d(n,{definitions:function(){return e},synonyms:function(){return t}});var e=['"the surface of the road ahead rippled in the heat mirages"','"the notion that the public is pro-business is a mirage"'],t=["optical illusion","hallucination","phantasmagoria","apparition","fantasy","chimera","trick","vision","delusion","misconception","pipe dream","day dream","phantasm","figment of the imagination"]}}]);
+//# sourceMappingURL=4353.d2a48dcb.chunk.js.map

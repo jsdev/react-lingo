@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[871],{800871:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"she thought that now her inning had come"'],o=[]}}]);
+//# sourceMappingURL=871.7d65a188.chunk.js.map

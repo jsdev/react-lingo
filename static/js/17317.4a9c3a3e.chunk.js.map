@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/17317.4a9c3a3e.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACpB,QACA,MACA,OACA,OACA,gB","sources":["definitions/curser.js"],"sourcesContent":["export const definitions = [\n]\nexport const synonyms = [\n    'stick',\n    'rod',\n    'cane',\n    'pole',\n    'laser pointer',\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

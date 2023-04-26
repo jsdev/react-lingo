@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16418],{916418:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return c},synonyms:function(){return i}});var c=[],i=["shield","bulwark","screen","fence","bumper","buffer","cushion","pad","safety guard","safety device","protective device"]}}]);
+//# sourceMappingURL=16418.fb4f4e27.chunk.js.map

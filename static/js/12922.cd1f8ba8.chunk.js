@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12922],{612922:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=[],i=["playboy","beau","admirer","(male) dancing partner","(male) escort","(male) companion"]}}]);
+//# sourceMappingURL=12922.cd1f8ba8.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1868],{901868:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return a},synonyms:function(){return s}});var a=['"Can I help you, madam?"','"Dear Madam, \u2026"','"Madam President"'],s=["procurer","procuress","go-between","brothel-keeper","souteneur","pander","mack","bawd","fancy man","panderess"]}}]);
+//# sourceMappingURL=1868.fdb16591.chunk.js.map

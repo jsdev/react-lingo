@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67409],{567409:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return o}});var t=['"5 million tons of coal have been gasified"','"if PVC is overheated it will gasify"'],o=[]}}]);
+//# sourceMappingURL=67409.8aad598a.chunk.js.map

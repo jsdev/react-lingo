@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90292],{990292:function(e,s,r){r.r(s),r.d(s,{definitions:function(){return n},synonyms:function(){return t}});var n=['"energy-restoring, sugary drinks"','"a sugary texture"','"sugary romance"'],t=["sweet","sugared","sickly","sickly sweet","oversweet","sour","tart","sentimental","oversentimental","mawkish","cloying","sickly","sickly sweet","gushing","saccharine","syrupy","slushy","oversweet","spare","stark"]}}]);
+//# sourceMappingURL=90292.421086e8.chunk.js.map

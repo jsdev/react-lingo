@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57210],{157210:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"to ensure greater response and surer handling, the engineers used electronic sensors to monitor each wheel"'],t=[]}}]);
+//# sourceMappingURL=57210.22fa1232.chunk.js.map

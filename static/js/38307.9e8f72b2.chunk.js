@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38307],{638307:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return a},synonyms:function(){return r}});var a=['"a mutant gene"','"frequently only a small percentage of the offspring of mutants resemble their parents"'],r=["freak","freak of nature","deviant","oddity","monstrosity","monster","mutation","variant","variation","lusus naturae","miscreation"]}}]);
+//# sourceMappingURL=38307.9e8f72b2.chunk.js.map

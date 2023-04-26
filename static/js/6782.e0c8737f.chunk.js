@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6782],{706782:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return a},synonyms:function(){return r}});var a=['"linear arrangements"','"linear movement"','"linear in shape"','"simple linear designs"','"linear elasticity"','"linear functions"','"linear relationship"','"a linear narrative"'],r=["unswerving","undeviating","direct","as straight as an arrow","unbending","uncurving","winding","zigzag"]}}]);
+//# sourceMappingURL=6782.e0c8737f.chunk.js.map

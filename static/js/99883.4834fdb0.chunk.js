@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99883],{399883:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return u},synonyms:function(){return i}});var u=['"a bottle of whiskey"','"he poured her a stiff whiskey"'],i=["the water of life","usquebaugh","usque","screigh"]}}]);
+//# sourceMappingURL=99883.4834fdb0.chunk.js.map

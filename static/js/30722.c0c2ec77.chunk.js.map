@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/30722.c0c2ec77.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,8CAESC,EAAW,E","sources":["definitions/welder.js"],"sourcesContent":["export const definitions = [\n    '\"he worked as a welder in a steel factory\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

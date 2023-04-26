@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/97582.c43cfb53.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,8BAESC,EAAW,E","sources":["definitions/ballet.js"],"sourcesContent":["export const definitions = [\n    '\"the New York City Ballet\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

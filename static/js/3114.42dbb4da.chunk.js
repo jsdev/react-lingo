@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3114],{303114:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return c},synonyms:function(){return r}});var c=['"there\'s a useful control applet which can be used to center the picture"'],r=[]}}]);
+//# sourceMappingURL=3114.42dbb4da.chunk.js.map

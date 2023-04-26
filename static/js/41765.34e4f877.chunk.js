@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41765],{41765:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return r},synonyms:function(){return t}});var r=['"the Baptist choir"','"his famous Spem in alium for eight five-part choirs"','"it has tall, twin western towers and spires and a long nave and choir"','"a clarinet choir"'],t=["singers","chorus","chorale"]}}]);
+//# sourceMappingURL=41765.34e4f877.chunk.js.map

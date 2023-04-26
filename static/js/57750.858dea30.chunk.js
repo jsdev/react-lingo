@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57750],{957750:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"his horse hurt itself"','"wisteria was tumbling over itself"','"the roots are several inches long, though the plant itself is only a foot tall"','"Mrs. Vincent was kindness itself"'],i=[]}}]);
+//# sourceMappingURL=57750.858dea30.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74360],{474360:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he budgets carefully and spends wisely"','"she wisely chose not to encourage him"','"they nodded wisely in agreement"'],i=[]}}]);
+//# sourceMappingURL=74360.bd25de8a.chunk.js.map

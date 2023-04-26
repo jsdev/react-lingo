@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40953],{940953:function(o,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"it would be wise to download your program to another computer before testing it"','"movie downloads were painfully slow"','"we have music available for free download"','"download speeds of 200 to 300 kilobits per second"','"digital music downloads"'],t=[]}}]);
+//# sourceMappingURL=40953.86b9ca84.chunk.js.map

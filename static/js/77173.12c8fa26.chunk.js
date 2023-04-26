@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77173],{777173:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"spider monkeys leap and cavort in the branches"','"he spent his nights cavorting with the glitterati"'],t=["skip","dance","romp","jig","caper","frisk","gambol","prance","frolic","play","bounce","trip","leap","jump","bound","spring","hop","bob","sport","rollick","cut capers"]}}]);
+//# sourceMappingURL=77173.12c8fa26.chunk.js.map

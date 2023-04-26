@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96333],{796333:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"the barman refused to serve them"'],s=[]}}]);
+//# sourceMappingURL=96333.61920dd3.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72030],{772030:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the courtyard echoed to shouts of "Bombs away!" and "Banzai!""','"a banzai charge"'],o=[]}}]);
+//# sourceMappingURL=72030.6466efd0.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90416],{290416:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"collections of pop oldies"'],t=[]}}]);
+//# sourceMappingURL=90416.b9b1137b.chunk.js.map

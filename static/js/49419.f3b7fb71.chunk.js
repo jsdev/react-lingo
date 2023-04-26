@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49419],{649419:function(n,r,i){i.r(r),i.d(r,{definitions:function(){return t},synonyms:function(){return e}});var t=[],e=["gust","light air","cat's paw","gentle wind","breath of wind","puff of air","current of air","flurry of air"]}}]);
+//# sourceMappingURL=49419.f3b7fb71.chunk.js.map

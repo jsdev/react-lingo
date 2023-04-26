@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65853],{765853:function(e,o,t){t.r(o),t.d(o,{definitions:function(){return n},synonyms:function(){return s}});var n=['"despite objections, the committee ok\'d the construction"'],s=["authorize","approve","sanction","pass","ratify","endorse","allow","rubber-stamp","agree to","consent to","give something one's consent","say yes to","accede to","give something one's approval","give something the nod","refuse","forbid","veto"]}}]);
+//# sourceMappingURL=65853.8260bb3d.chunk.js.map

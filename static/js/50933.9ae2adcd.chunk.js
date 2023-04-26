@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50933],{350933:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"Socrates claimed to have lived his life according to the dictates of his daimon"'],r=["genius","numen","demon","familiar spirit","genius loci","inspiring force","tutelary spirit","attendant spirit"]}}]);
+//# sourceMappingURL=50933.9ae2adcd.chunk.js.map

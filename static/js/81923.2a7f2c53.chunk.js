@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81923],{81923:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"power junkies"'],t=["abuser","user","viper","narcotist","morphinist","morphiomaniac","etheromaniac"]}}]);
+//# sourceMappingURL=81923.2a7f2c53.chunk.js.map

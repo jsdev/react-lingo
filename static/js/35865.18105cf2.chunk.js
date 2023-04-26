@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35865],{935865:function(o,n,e){e.r(n),e.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"the movie flopped\u2014the second in a trio of turkeys"','"I felt like such a turkey spying on his house"'],t=["idiot","halfwit","nincompoop","blockhead","buffoon","dunce","dolt","ignoramus","cretin","imbecile","dullard","moron","simpleton","clod","tomfool","noddy","loggerhead","spoony","mooncalf","clodpole"]}}]);
+//# sourceMappingURL=35865.18105cf2.chunk.js.map

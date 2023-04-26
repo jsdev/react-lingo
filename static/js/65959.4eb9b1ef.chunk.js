@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65959],{565959:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"huge dank caverns"'],u=["damp","musty","chilly","clammy","wet","moist","unaired","moisture-laden","humid","claggy","dry"]}}]);
+//# sourceMappingURL=65959.4eb9b1ef.chunk.js.map

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18015],{318015:function(e,c,t){e.exports=t.p+"static/media/LICENSE.505ca3d50fe6deef2c34"}}]);

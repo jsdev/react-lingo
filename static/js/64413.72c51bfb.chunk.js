@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64413],{764413:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return c}});var o=['"the country\'s uptake of electronic banking technology"','"the uptake of glucose into the muscles"'],c=[]}}]);
+//# sourceMappingURL=64413.72c51bfb.chunk.js.map

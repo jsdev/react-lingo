@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28638],{528638:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return u}});var i=['"fuzzed guitars"','"snow fuzzes the outlines of the signs"','"tiny detail can be enlarged to poster size without fuzzing out"','"her hair fuzzed out uncontrollably in the heat"'],u=[]}}]);
+//# sourceMappingURL=28638.7fc1fc02.chunk.js.map

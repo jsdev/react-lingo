@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24262],{624262:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"the judge granted bail with a surety of $500"','"I was enmeshed in the surety of my impending fatherhood"'],i=["guarantor","sponsor","pledge","collateral","guaranty","guarantee","bond","insurance","bail","deposit","security","indemnity","indemnification","assurance","gage","earnest"]}}]);
+//# sourceMappingURL=24262.b50a3c25.chunk.js.map

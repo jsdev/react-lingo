@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76956],{276956:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"a fleecy sweatshirt"','"little fleecy clouds"'],t=["fluffy","woolly","downy","fuzzy","feathery","furry","velvety","shaggy","soft","smooth","silky","silken","satiny","cushiony","floccose","pilose","lanate","lanose","coarse"]}}]);
+//# sourceMappingURL=76956.2723ba36.chunk.js.map

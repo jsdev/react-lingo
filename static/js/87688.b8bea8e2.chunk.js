@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87688],{787688:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"they jibed, and the boat turned over"','"the skipper was hit by a jibing boom"'],r=[]}}]);
+//# sourceMappingURL=87688.b8bea8e2.chunk.js.map

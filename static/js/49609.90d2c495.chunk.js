@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49609],{249609:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"on any given corner you will be entertained by buskers"'],t=[]}}]);
+//# sourceMappingURL=49609.90d2c495.chunk.js.map

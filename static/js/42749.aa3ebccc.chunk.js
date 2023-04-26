@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42749],{642749:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"our sight would be endued with a far greater sharpness"'],i=["provide","supply","furnish","equip","invest","give","present","favor","bless","grace","award","gift","confer","bestow","enrich","arm"]}}]);
+//# sourceMappingURL=42749.aa3ebccc.chunk.js.map

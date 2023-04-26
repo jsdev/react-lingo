@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1861],{1861:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"Sensei Ritchie began work"'],r=[]}}]);
+//# sourceMappingURL=1861.ce9bba92.chunk.js.map

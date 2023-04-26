@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92309],{392309:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=[],r=["rind","skin","peel","sheath","covering","coating","casing","crust","cork","integument","bast","outer layer"]}}]);
+//# sourceMappingURL=92309.50ebea36.chunk.js.map

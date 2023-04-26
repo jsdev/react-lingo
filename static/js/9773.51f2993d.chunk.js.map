@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/9773.51f2993d.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,qCAESC,EAAW,E","sources":["definitions/thusly.js"],"sourcesContent":["export const definitions = [\n    '\"the review was conducted thusly\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

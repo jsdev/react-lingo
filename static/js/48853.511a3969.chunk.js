@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48853],{48853:function(n,r,t){t.r(r),t.d(r,{definitions:function(){return e},synonyms:function(){return a}});var e=[],a=["drape","curtain","drop","drop cloth","drop curtain","drop scene","frontal","drapery","tableau curtain"]}}]);
+//# sourceMappingURL=48853.511a3969.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30720],{930720:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"truffles are fungi but not mushrooms"','"fallen logs were overgrown with bright fungus"','"farmed fish often get fungus"'],r=["mushroom","toadstool","mold","mildew","rust","rot","decay","mycelium","saprophyte","fungal disease"]}}]);
+//# sourceMappingURL=30720.b0e16a8e.chunk.js.map

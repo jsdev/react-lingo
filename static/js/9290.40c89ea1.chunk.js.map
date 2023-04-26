@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/9290.40c89ea1.chunk.js","mappings":"+LAAO,IAAMA,EAAc,CACvB,uCAESC,EAAW,E","sources":["definitions/bedded.js"],"sourcesContent":["export const definitions = [\n    '\"thinly bedded carbonate mudstones\"',\n];\nexport const synonyms = [\n]\n"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[25672],{725672:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return u}});var r=['"a dusk-to-dawn curfew"','"the whole area was immediately placed under curfew"','"to be out after curfew without permission was to risk punishment"','"they had to return before the curfew sounded"'],u=[]}}]);
+//# sourceMappingURL=25672.fab256e7.chunk.js.map

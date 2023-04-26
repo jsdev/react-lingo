@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92807],{292807:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return o}});var s=['"the painting was mostly in shades of blue and purple"','"he was too young to assume the purple"','"a faded purple T-shirt"','"Ed\'s cheeks purpled"','"the neon was purpling the horizon above the highway"'],o=[]}}]);
+//# sourceMappingURL=92807.b565fbbb.chunk.js.map

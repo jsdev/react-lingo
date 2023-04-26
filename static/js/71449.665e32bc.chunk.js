@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71449],{771449:function(s,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the antics of our political parties"'],r=["capers","pranks","larks","escapades","high jinks","skylarking","stunts","tricks","horseplay","romps","frolics","silliness","tomfoolery","foolery","clowning","buffoonery","harlequinades","amusing behavior","foolish behavior"]}}]);
+//# sourceMappingURL=71449.665e32bc.chunk.js.map

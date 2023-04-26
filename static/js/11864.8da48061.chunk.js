@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[11864],{11864:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he gave his players an earful at halftime"','"an earful of static"'],i=[]}}]);
+//# sourceMappingURL=11864.8da48061.chunk.js.map

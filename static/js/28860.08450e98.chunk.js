@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28860],{128860:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return o},synonyms:function(){return t}});var o=[],t=["fellow","professor","reader","academic","scholar","senior common room","university teacher","(university) lecturer","college tutor"]}}]);
+//# sourceMappingURL=28860.08450e98.chunk.js.map

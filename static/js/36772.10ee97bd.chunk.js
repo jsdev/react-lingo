@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36772],{736772:function(e,l,t){t.r(l),t.d(l,{definitions:function(){return y},synonyms:function(){return i}});var y=['"neatly folded shirts"','"she neatly sidestepped the question"'],i=["tidily","smartly","sprucely","methodically","systematically","cleverly","aptly","nicely","elegantly","well","skillfully","deftly","adroitly","adeptly","expertly","precisely","nimbly","agilely","gracefully","effortlessly"]}}]);
+//# sourceMappingURL=36772.10ee97bd.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40651],{440651:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"the wind was gusting through the branches of the tree"'],s=["bluster","flurry","blow","blast","roar"]}}]);
+//# sourceMappingURL=40651.7a86b0c9.chunk.js.map

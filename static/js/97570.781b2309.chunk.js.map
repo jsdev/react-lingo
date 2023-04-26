@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/97570.781b2309.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,oBACA,4BAESC,EAAW,E","sources":["definitions/loaves.js"],"sourcesContent":["export const definitions = [\n    '\"a loaf of bread\"',\n    '\"two loaves in the oven\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

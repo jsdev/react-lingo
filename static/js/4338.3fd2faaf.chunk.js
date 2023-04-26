@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4338],{404338:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"she sat back and exhaled deeply"','"he exhaled the smoke toward the ceiling"','"the jungle exhaled mists of early morning"'],i=["blow out","expire","breathe out","puff out","inhale","emanate","send forth","emit","discharge","give off","exsufflate"]}}]);
+//# sourceMappingURL=4338.3fd2faaf.chunk.js.map

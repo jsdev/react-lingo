@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52326],{752326:function(n,i,s){s.r(i),s.d(i,{definitions:function(){return e},synonyms:function(){return t}});var e=['"they dismissed their foes as brainwashed nutjobs"'],t=["lunatic","maniac","psychotic","psychopath","schizophrenic"]}}]);
+//# sourceMappingURL=52326.bbd22dfa.chunk.js.map

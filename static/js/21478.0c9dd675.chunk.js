@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21478],{821478:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return u},synonyms:function(){return t}});var u=[],t=["metro","underground","underground railway","underpass","tunnel","underground passage","pedestrian tunnel"]}}]);
+//# sourceMappingURL=21478.0c9dd675.chunk.js.map

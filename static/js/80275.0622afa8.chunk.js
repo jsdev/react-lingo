@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80275],{80275:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return o}});var s=['"I\'ll be showing you the best of the schwag I get my hands on each day"','"even potheads couldn\'t smoke that schwag"'],o=[]}}]);
+//# sourceMappingURL=80275.0622afa8.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/57681.c37f72c8.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,oCAESC,EAAW,E","sources":["definitions/brewer.js"],"sourcesContent":["export const definitions = [\n    '\"pubs owned by regional brewers\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

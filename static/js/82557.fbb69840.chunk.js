@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82557],{582557:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return u},synonyms:function(){return _}});var u=['"a flooded laundromat, had the owner leaving ______ out to dry"','"Rapunzel needs multiple heavy duty hair ______"'],_=[]}}]);
+//# sourceMappingURL=82557.fbb69840.chunk.js.map

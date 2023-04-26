@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87361],{687361:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"Celeste had been guilted into going by her parents"'],r=[]}}]);
+//# sourceMappingURL=87361.93af7bcc.chunk.js.map

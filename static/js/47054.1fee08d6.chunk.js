@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47054],{647054:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return a},synonyms:function(){return t}});var a=[],t=["house","bungalow","villa","lodge","chalet","cabin","shack","shanty","retreat","home","residence","place","abode","bothy","g\xeete","but and ben","rondavel","holiday home","bower","cot","small house","holiday cottage"]}}]);
+//# sourceMappingURL=47054.1fee08d6.chunk.js.map

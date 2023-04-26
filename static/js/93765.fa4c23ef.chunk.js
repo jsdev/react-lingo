@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93765],{993765:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return o},synonyms:function(){return a}});var o=['"a grave-digger"','"how are you, Digger?"'],a=["private soldier","common soldier","infantryman","foot soldier","trooper","sapper","ranker","GI","enlisted man","poilu","jawan","swad","swaddy"]}}]);
+//# sourceMappingURL=93765.fa4c23ef.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89567],{489567:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return c}});var i=[],c=["iceberg","glacier","black ice","glaze","verglas","frost","rime","frozen water"]}}]);
+//# sourceMappingURL=89567.edb03a79.chunk.js.map

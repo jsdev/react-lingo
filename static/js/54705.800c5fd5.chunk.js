@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54705],{454705:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return o}});var s=['"the combers, glassy blue-green, moved slowly in"'],o=["wave","breaker","roller","billow","bombora","swell","white horses","white caps"]}}]);
+//# sourceMappingURL=54705.800c5fd5.chunk.js.map

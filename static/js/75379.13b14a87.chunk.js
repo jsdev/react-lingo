@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75379],{875379:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return s}});var t=['"he was planning to advance this position in an amicus brief"'],s=[]}}]);
+//# sourceMappingURL=75379.13b14a87.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84492],{184492:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return s},synonyms:function(){return u}});var s=['"he had a short, stocky body"'],u=["thickset","heavily built","sturdy","heavyset","bull-necked","chunky","solid","dumpy","stubby","stumpy","squat","burly","beefy","meaty","hulking","strapping","hefty","cobby","mesomorphic","pyknic","nuggety","sturdily built","slender","skinny"]}}]);
+//# sourceMappingURL=84492.2e2037d0.chunk.js.map

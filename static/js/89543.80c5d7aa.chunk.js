@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89543],{389543:function(n,_,e){e.r(_),e.d(_,{definitions:function(){return t},synonyms:function(){return o}});var t=['"a taxi ______"','"a student ______ doing donuts"','"mule ______"','"achieving a monopoly becomes the main ______ of investment"'],o=["motorist","chauffeur","pilot","operator","engineer","passenger"]}}]);
+//# sourceMappingURL=89543.80c5d7aa.chunk.js.map

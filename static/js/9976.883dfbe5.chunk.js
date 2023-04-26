@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9976],{9976:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return u}});var t=['"the car jounced wildly"','"the pilot jounced the plane through turbulence"'],u=["bounce","float","spring","toss","skip","hop","dance","jump","quiver","wobble","jiggle","joggle","jolt","jerk","shake","oscillate","move up and down"]}}]);
+//# sourceMappingURL=9976.883dfbe5.chunk.js.map

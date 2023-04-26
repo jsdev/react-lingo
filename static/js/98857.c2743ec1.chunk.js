@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[98857],{598857:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"I can handle a shrimp like him any time"','"some families still go shrimping off the coast at Lytham"','"at Trebetherick you paddle on Daymer Bay or shrimp off Gully"'],t=["little person","dwarf","pygmy","homunculus","manikin","Lilliputian","small person","short person","person of restricted growth"]}}]);
+//# sourceMappingURL=98857.c2743ec1.chunk.js.map

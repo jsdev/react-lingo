@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60734],{460734:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return r}});var s=['"spires of delphiniums"'],r=["steeple","belfry","fl\xe8che","shikara"]}}]);
+//# sourceMappingURL=60734.5fad10da.chunk.js.map

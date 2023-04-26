@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23617],{23617:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the first person plural"','"the meanings of the text are plural"','"a plural society"','"the verb is in the plural"'],i=[]}}]);
+//# sourceMappingURL=23617.59f0b667.chunk.js.map

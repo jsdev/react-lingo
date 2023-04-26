@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6888],{206888:function(c,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return u}});var o=[],u=["cubicle","kiosk","box","compartment","enclosure","cupboard","cubbyhole","cabin","hut","alcove","bay","recess","booth","cubicle","kiosk","cabin","hut","enclosure","compartment","cupboard","cubbyhole","alcove","bay","recess"]}}]);
+//# sourceMappingURL=6888.ae96f7b1.chunk.js.map

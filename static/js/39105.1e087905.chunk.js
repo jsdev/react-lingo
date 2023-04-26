@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39105],{139105:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=[],s=["pensioner","elder","Methuselah","patriarch","senior","retiree","golden ager","senex","retirer","pensionary","retired person","old-age pensioner","OAP","old person","elderly person","superannuitant"]}}]);
+//# sourceMappingURL=39105.1e087905.chunk.js.map

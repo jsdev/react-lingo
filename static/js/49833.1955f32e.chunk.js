@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49833],{149833:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return t},synonyms:function(){return s}});var t=['"two suitcases flung anyhow"'],s=["anyway","in any case","in any event","at any rate","regardless","however","be that as it may","at all events","no matter what","haphazardly","carelessly","heedlessly","negligently","in a muddle","in a disorganized manner"]}}]);
+//# sourceMappingURL=49833.1955f32e.chunk.js.map

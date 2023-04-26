@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3529],{3529:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=[],r=["droop","sag","flop","wither","become limp","become flaccid","shrivel (up)","thrive","flourish","languish","flag","droop","sag","lose energy","become listless","feel weak/faint","perk up"]}}]);
+//# sourceMappingURL=3529.f859400c.chunk.js.map

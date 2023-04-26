@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22969],{22969:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return a}});var o=['"the old carlin had done all the evil"','"one would think you were an auld carlin to hear you talk"'],a=[]}}]);
+//# sourceMappingURL=22969.05336c1d.chunk.js.map

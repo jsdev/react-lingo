@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30388],{130388:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"the tape could be magnetically erased and reused"'],s=["reprocess","reclaim","recover","salvage","save","convert into something"]}}]);
+//# sourceMappingURL=30388.bdcc2f54.chunk.js.map

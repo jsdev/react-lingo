@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96674],{896674:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"he was left an orphan as a small boy"','"an orphan girl"','"orphan chimps"','"John was orphaned at 12"'],s=["orphaned","widowed","grieving","sorrowful","lamenting","deprived","dispossessed"]}}]);
+//# sourceMappingURL=96674.26e8810b.chunk.js.map

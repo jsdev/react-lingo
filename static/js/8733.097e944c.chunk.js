@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8733],{208733:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return u},synonyms:function(){return o}});var u=['"he is an avid foodie and successful restaurateur"'],o=["gourmet","gastronome","epicure","gourmand","connoisseur","glutton","sensualist","hedonist","bon viveur","bon vivant"]}}]);
+//# sourceMappingURL=8733.097e944c.chunk.js.map

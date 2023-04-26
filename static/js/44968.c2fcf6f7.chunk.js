@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44968],{444968:function(n,_,e){e.r(_),e.d(_,{definitions:function(){return o},synonyms:function(){return t}});var o=['"notorious ______s of the English language"','"a chronic cocaine ______"','"______s often control the victim\'s access to friends and family"','"how much do we know about what makes someone a sexual ______?"'],t=["molester","addict"]}}]);
+//# sourceMappingURL=44968.c2fcf6f7.chunk.js.map

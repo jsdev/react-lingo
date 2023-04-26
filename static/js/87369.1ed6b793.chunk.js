@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87369],{687369:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"every email message needs a header indicating the sender\'s identity and address"','"the steer ran straight and the header made a good catch"'],i=["kick","hit","throw","shot","fall","trip","spill"]}}]);
+//# sourceMappingURL=87369.1ed6b793.chunk.js.map

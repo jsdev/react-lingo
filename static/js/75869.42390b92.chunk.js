@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75869],{975869:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the ordeal of having to give evidence"','"ordeals conducted in the twelfth century"','"ordeal by fire"'],i=["trial","tribulation","test","nightmare","trauma","baptism of fire","hell","misery","trouble","difficulty","torture","torment","agony","painful/unpleasant experience","hell on earth"]}}]);
+//# sourceMappingURL=75869.42390b92.chunk.js.map

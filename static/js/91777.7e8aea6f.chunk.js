@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91777],{391777:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return u},synonyms:function(){return a}});var u=['"a duffel hat"','"our duffel was already stacked by the cook tent"'],a=[]}}]);
+//# sourceMappingURL=91777.7e8aea6f.chunk.js.map

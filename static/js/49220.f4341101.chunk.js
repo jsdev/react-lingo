@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49220],{849220:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"he owns a ski chalet in the Alps"'],s=[]}}]);
+//# sourceMappingURL=49220.f4341101.chunk.js.map

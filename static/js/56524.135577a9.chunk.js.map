@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/56524.135577a9.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACvB,6BACA,mBAESC,EAAW,E","sources":["definitions/gratin.js"],"sourcesContent":["export const definitions = [\n    '\"a gratin of sole fillets\"',\n    '\"a gratin dish\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

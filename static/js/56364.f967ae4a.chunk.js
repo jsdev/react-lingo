@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56364],{356364:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return i},synonyms:function(){return u}});var i=['"you hate to face the world with bleary, tear-soaked, itching eyes"'],u=["blurred","blurry","unfocused","fogged","clouded","cloudy","dim","dull","filmy","muzzy","tired","moist","misty","watery","rheumy","blear","clear","limpid"]}}]);
+//# sourceMappingURL=56364.f967ae4a.chunk.js.map

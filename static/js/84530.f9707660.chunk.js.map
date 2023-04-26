@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/84530.f9707660.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACpB,SACA,S","sources":["definitions/chelae.js"],"sourcesContent":["export const definitions = [\n]\nexport const synonyms = [\n    'pincer',\n    'nipper',\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

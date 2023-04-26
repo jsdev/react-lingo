@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49036],{649036:function(e,t,o){o.r(t),o.d(t,{definitions:function(){return s},synonyms:function(){return n}});var s=['"the same active efflux of sodium from the cytoplasm to the external medium"','"the routing for the jet efflux also needs to be considered"'],n=["leak","leakage","spill","seepage","drip","dribble","discharge","emanation","issue","flow","outflow","outpouring","gush","stream","spurt","spout","squirt","jet"]}}]);
+//# sourceMappingURL=49036.9068fc5e.chunk.js.map

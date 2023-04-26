@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/54825.106108c7.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACpB,cACA,YACA,YACA,qB","sources":["definitions/sedans.js"],"sourcesContent":["export const definitions = [\n]\nexport const synonyms = [\n    'sedan chair',\n    'palanquin',\n    'stretcher',\n    'portable bed/couch',\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

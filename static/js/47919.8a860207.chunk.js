@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47919],{47919:function(n,e,c){c.r(e),c.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=[],i=["ricochet","rebound","fly","bounce","graze","clip","cannon","resile","be deflected","make contact with"]}}]);
+//# sourceMappingURL=47919.8a860207.chunk.js.map

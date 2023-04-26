@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68889],{568889:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return r},synonyms:function(){return u}});var r=['"a lush and fecund garden"','"her fecund imagination"'],u=["fruitful","productive","high-yielding","prolific","proliferating","propagative","generative","rich","lush","fructuous","infertile"]}}]);
+//# sourceMappingURL=68889.50c51a77.chunk.js.map

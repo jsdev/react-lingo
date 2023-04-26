@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89347],{189347:function(i,r,s){s.r(r),s.d(r,{definitions:function(){return e},synonyms:function(){return n}});var e=['"her prissy mother"','"prissy little dresses"'],n=["prudish","priggish","prim","niminy-piminy","strait-laced","formal","proper","stuffy","namby-pamby","Victorian","old-maidish","schoolmarmish","po-faced","square-toed","prim and proper","mimsy","schoolmistressy","governessy","Grundyish","broad-minded"]}}]);
+//# sourceMappingURL=89347.75fcba98.chunk.js.map
