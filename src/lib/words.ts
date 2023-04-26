@@ -124,7 +124,7 @@ export const getIndex = (gameDate: Date) => {
   return index
 }
 
-export const getWordOfDay = (index: number, words: string[]) => {
+export const getDay = (index: number, words: string[]) => {
   if (index < 0) {
     throw new Error('Invalid index')
   }

@@ -1,10 +1,10 @@
 export const definitions = [
-    '"a wild beast"',
-    '"the gift of reason differentiates humanity from the beasts"',
-    '"he is a filthy drunken beast"',
-    '"a scheming, manipulative little beast"',
-    '"the beast in you is rearing its ugly head"',
-    '"that much-maligned beast, the rave record"',
+    '"wild ______"',
+    '"the gift of reason differentiates humanity from the ______"',
+    '"filthy drunken ______"',
+    '"scheming, manipulative little ______"',
+    '"the ______ roar their ugly head"',
+    '"altered ______"',
 ];
 export const synonyms = [
     'animal',

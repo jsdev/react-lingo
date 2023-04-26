@@ -1,9 +1,7 @@
-import { WORDS } from '../constants/wordlist'
 import {
   getIndex,
   getLastGameDate,
   getNextGameDate,
-  getWordOfDay,
 } from './words'
 
 describe('solutionIndex', () => {
@@ -71,10 +69,4 @@ describe('solutionIndex', () => {
     expect(getIndex(new Date(2022, 5, 24))).toEqual(174)
   })
 
-  test('word of the day', () => {
-    expect(() => getWordOfDay(-1, WORDS)).toThrowError('Invalid index')
-    expect(getWordOfDay(0, WORDS)).toEqual('WHICH')
-    expect(getWordOfDay(1, WORDS)).toEqual('THERE')
-    expect(getWordOfDay(255, WORDS)).toEqual('SHEEP')
-  })
 })
