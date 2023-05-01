@@ -4439,12 +4439,6 @@ export const alphabet6 = {
             complexity: "High School"
         },
         {
-            word: "cabble",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "College"
-        },
-        {
             word: "cablet",
             isCapitalized: false,
             isRoot: true,
@@ -4493,18 +4487,6 @@ export const alphabet6 = {
             complexity: "unknown"
         },
         {
-            word: "cafone",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "High School"
-        },
-        {
-            word: "cafoni",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "High School"
-        },
-        {
             word: "caftan",
             isCapitalized: false,
             isRoot: true,
@@ -4527,12 +4509,6 @@ export const alphabet6 = {
             isCapitalized: false,
             isRoot: true,
             complexity: "High School"
-        },
-        {
-            word: "cahill",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Middle School"
         },
         {
             word: "cahoot",
@@ -4643,12 +4619,6 @@ export const alphabet6 = {
             complexity: "Post-College"
         },
         {
-            word: "callan",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "unknown"
-        },
-        {
             word: "callas",
             isCapitalized: true,
             isRoot: false,
@@ -4715,12 +4685,6 @@ export const alphabet6 = {
             complexity: "Middle School"
         },
         {
-            word: "calvus",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "Post-College"
-        },
-        {
             word: "camaca",
             isCapitalized: false,
             isRoot: true,
@@ -4785,18 +4749,6 @@ export const alphabet6 = {
             isCapitalized: false,
             isRoot: true,
             complexity: "Post-College"
-        },
-        {
-            word: "cammie",
-            isCapitalized: false,
-            isRoot: true,
-            complexity: "College"
-        },
-        {
-            word: "camoca",
-            isCapitalized: false,
-            isRoot: false,
-            complexity: "College"
         },
         {
             word: "camote",

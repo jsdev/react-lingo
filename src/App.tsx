@@ -1,4 +1,3 @@
-import './App.css'
 import { ClockIcon } from '@heroicons/react/24/outline'
 import { format } from 'date-fns'
 import { default as GraphemeSplitter } from 'grapheme-splitter'
@@ -61,6 +60,8 @@ import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet'
 import { KeyboardQWERTY } from './components/keyboard/KeyboardQwerty'
 import { KeyboardVowels } from './components/keyboard/KeyboardVowels'
 import getRandomString from './lib/getRanomString'
+
+import './App.css'
 
 const Keyboards: any = {
   'ALPHABET': KeyboardAlphabet,

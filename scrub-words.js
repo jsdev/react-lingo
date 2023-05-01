@@ -3012,10 +3012,6 @@ let missed = [
         complexity: "High School"
     },
     {
-        word: "cabble",
-        complexity: "College"
-    },
-    {
         word: "cablet",
         complexity: "College"
     },
@@ -3048,14 +3044,6 @@ let missed = [
         complexity: "unknown"
     },
     {
-        word: "cafone",
-        complexity: "High School"
-    },
-    {
-        word: "cafoni",
-        complexity: "High School"
-    },
-    {
         word: "caftan",
         complexity: "College"
     },
@@ -3070,10 +3058,6 @@ let missed = [
     {
         word: "cahier",
         complexity: "High School"
-    },
-    {
-        word: "cahill",
-        complexity: "Middle School"
     },
     {
         word: "cahoot",
@@ -3198,10 +3182,6 @@ let missed = [
         complexity: "Middle School"
     },
     {
-        word: "calvus",
-        complexity: "Post-College"
-    },
-    {
         word: "camaca",
         complexity: "College"
     },
@@ -3244,14 +3224,6 @@ let missed = [
     {
         word: "camlet",
         complexity: "Post-College"
-    },
-    {
-        word: "cammie",
-        complexity: "College"
-    },
-    {
-        word: "camoca",
-        complexity: "College"
     },
     {
         word: "camote",

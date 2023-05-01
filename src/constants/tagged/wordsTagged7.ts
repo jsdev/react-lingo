@@ -16379,18 +16379,6 @@ const alphabet = {
             complexity: "Middle School"
         },
         {
-            word: "cabbled",
-            isCapatalize: false,
-            isRoot: false,
-            complexity: "College Level"
-        },
-        {
-            word: "cabbles",
-            isCapatalize: false,
-            isRoot: false,
-            complexity: "College Level"
-        },
-        {
             word: "cabezon",
             isCapatalize: false,
             isRoot: true,
@@ -16679,12 +16667,6 @@ const alphabet = {
             complexity: "High School"
         },
         {
-            word: "cahills",
-            isCapatalize: false,
-            isRoot: false,
-            complexity: "Middle School"
-        },
-        {
             word: "caimans",
             isCapatalize: false,
             isRoot: false,
@@ -16917,12 +16899,6 @@ const alphabet = {
             isCapatalize: false,
             isRoot: false,
             complexity: "Post-College"
-        },
-        {
-            word: "callans",
-            isCapatalize: false,
-            isRoot: false,
-            complexity: "Middle School"
         },
         {
             word: "callant",
@@ -17249,22 +17225,10 @@ const alphabet = {
             complexity: "Post-College"
         },
         {
-            word: "cammies",
-            isCapatalize: false,
-            isRoot: false,
-            complexity: ""
-        },
-        {
             word: "camming",
             isCapatalize: false,
             isRoot: true,
             complexity: ""
-        },
-        {
-            word: "camocas",
-            isCapatalize: false,
-            isRoot: false,
-            complexity: "College Level"
         },
         {
             word: "camorra",

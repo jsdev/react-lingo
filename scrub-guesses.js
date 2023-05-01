@@ -972,7 +972,6 @@ let missed = [
     'cabane',
     'cabbed',
     'cabbie',
-    'cabble',
     'cabers',
     'cabins',
     'cabled',
@@ -1002,15 +1001,12 @@ let missed = [
     'caecal',
     'caecum',
     'caeoma',
-    'cafone',
-    'cafoni',
     'caftan',
     'cagers',
     'cagier',
     'cagily',
     'caging',
     'cahier',
-    'cahill',
     'cahoot',
     'cahows',
     'caiman',
@@ -1020,7 +1016,6 @@ let missed = [
     'cairny',
     'cajole',
     'caking',
-    'cakras',
     'calaba',
     'calami',
     'calash',
@@ -1050,7 +1045,6 @@ let missed = [
     'calque',
     'calved',
     'calves',
-    'calvus',
     'calxes',
     'camaca',
     'camail',
@@ -1067,7 +1061,6 @@ let missed = [
     'camlet',
     'cammed',
     'cammie',
-    'camoca',
     'camote',
     'camped',
     'camper',
@@ -14579,7 +14572,7 @@ const lines = [];
 
 //omit: avians
 
-missed.splice(missed.indexOf('bummed')+1,50).forEach((word) => {
+missed.splice(missed.indexOf('carhop') + 1, 50).forEach((word) => {
     const url = `https://www.merriam-webster.com/dictionary/${word}`;
 
     fixture`// ${word}`
