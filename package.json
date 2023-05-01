@@ -8,6 +8,9 @@
     "eject": "react-scripts eject",
     "fix": "prettier --write src",
     "lint": "prettier --check src",
+
+    "eslint:fix": "eslint --fix src",
+    "eslint": "eslint src",
     "start": "react-scripts start",
     "test": "react-scripts test",
     "prepare": "husky install",
@@ -45,6 +48,7 @@
   },
   "eslintConfig": {
     "extends": [
+      "eslint:recommended",
       "react-app",
       "react-app/jest"
     ]

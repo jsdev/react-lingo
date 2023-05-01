@@ -1,7 +1,7 @@
 export const definitions = [
     '"Golfer was two ______ shy of winning"',
+    '"soar like some ______"',
     '"he eagled the last to share fourth place"',
-    'No translation found.',
 ]
 export const synonyms = [
     'big birds',

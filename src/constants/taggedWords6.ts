@@ -907,12 +907,6 @@ export const alphabet6 = {
             complexity: "Post-College"
         },
         {
-            word: "amtrak",
-            isCapitalized: true,
-            isRoot: false,
-            complexity: "unknown"
-        },
-        {
             word: "amulet",
             isCapitalized: false,
             isRoot: true,
@@ -15883,6 +15877,12 @@ export const alphabet6 = {
             complexity: "Middle School"
         },
         {
+            word: "grimly",
+            isCapitalized: false,
+            isRoot: false,
+            complexity: "Middle School"
+        },
+        {
             word: "griper",
             isCapitalized: false,
             isRoot: false,
@@ -22228,12 +22228,12 @@ export const alphabet6 = {
             isRoot: true,
             complexity: "Middle School"
         },
-        {
-            word: "outcut",
-            isCapitalized: true,
-            isRoot: false,
-            complexity: "Elementary"
-        },
+        // {
+        //     word: "outcut",
+        //     isCapitalized: true,
+        //     isRoot: false,
+        //     complexity: "Elementary"
+        // },
         {
             word: "outeat",
             isCapitalized: true,
@@ -29837,12 +29837,6 @@ export const taggedWords6 = [
 //     },
 //     {
 //         word: "amazon",
-//         isCapitalized: true,
-//         isRoot: false,
-//         complexity: "unknown"
-//     },
-//     {
-//         word: "amtrak",
 //         isCapitalized: true,
 //         isRoot: false,
 //         complexity: "unknown"

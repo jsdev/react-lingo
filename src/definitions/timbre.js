@@ -1,6 +1,6 @@
 export const definitions = [
-    '"trumpet mutes with different timbres"',
-    '"a voice high in pitch but rich in timbre"',
+    '"trumpet mutes with different ______s"',
+    '"a voice high in pitch but rich in ______"',
 ]
 export const synonyms = [
     'tone',

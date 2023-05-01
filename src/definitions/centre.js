@@ -19,7 +19,6 @@ export const definitions = [
     '"to center the needle, turn the knob"',
     '"he centered from a difficult position on the left"',
     '"West Virginia\'s offense lined up to center the ball"',
-    'No translation found.',
 ]
 export const synonyms = [
     'middle',

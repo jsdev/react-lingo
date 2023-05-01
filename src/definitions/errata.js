@@ -1,5 +1,4 @@
 export const definitions = [
-    'No translation found.',
 ]
 export const synonyms = [
     'error',

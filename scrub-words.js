@@ -3,6 +3,9 @@ import fs from 'fs';
 
 let missed = [
     {
+        word: 'wtfuck'
+    },
+    {
         word: "abacus",
         complexity: "High School"
     },
@@ -20133,44 +20136,28 @@ let missed = [
         isCapitalized: true,
         complexity: "unknown"
     }
-]
+].map(o => o.word);
 
-    .map(o => o.word);
-
-// NEED TO GO BACK AND DO non elementary for A-D
+const fileName = 'invalid.txt';
+const lines = [];
 
 missed.forEach((word) => {
-    const url = `https://www.bing.com/search?q=define+${word}`;
+    const url = `https://www.merriam-webster.com/dictionary/${word}`;
 
     fixture`// ${word}`
-        .page`https://www.bing.com/search?q=define+${word}`;
+        .page`${url}}`;
 
-    test(`// ${word} defs and syns`, async t => {
-        const fileName = `${word}.js`;
+    test(`check if ${word} is in meriam-webster`, async t => {
         const lines = [];
 
         const definitions = Selector('h1.mispelled-word');
         const definitionsCount = await definitions.count;
-
-        lines.push('export const definitions = [');
         for (let i = 0; i < definitionsCount; i++) {
-            const definition = definitions.nth(i);
-            const definitionText = await definition.innerText;
-            lines.push("'" + definitionText + "',");
+            console.error(`invalid: ${word}`);
+            lines.push("'" + word + "',");
         }
 
-        lines.push(']');
-
-        const synonyms = Selector('.b_nymsItem');
-
-        lines.push('export const synonyms = [');
-        const synonymCount = await synonyms.count;
-        for (let i = 0; i < synonymCount; i++) {
-            const synonym = synonyms.nth(i);
-            const synonymText = await synonym.innerText;
-            lines.push("'" + synonymText + "',");
-        }
-        lines.push(']');
-        fs.writeFileSync(fileName, lines.join('\n'))
     });
+
 });
+fs.writeFileSync(fileName, lines.join('\n'))
