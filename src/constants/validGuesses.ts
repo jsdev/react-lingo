@@ -13111,7 +13111,7 @@ export const VALID_GUESSES = [
   'zygon',
   'zymes',
   'zymic',
-]
+];
 
 type Out = {
   0: string,
@@ -13120,7 +13120,7 @@ type Out = {
   3: string,
   4: string,
   5: string,
-}
+};
 
 type Alphabet = {
   a: string[],
@@ -13149,7 +13149,7 @@ type Alphabet = {
   x: string[],
   y: string[],
   z: string[],
-}
+};
 
 export const alphabet: Alphabet = {
   'a': [
@@ -14347,7 +14347,7 @@ export const alphabet: Alphabet = {
     'casing',
     'casino',
     'casita',
-    'casked',
+    'casked', // scrabble not MW
     'casket',
     'casque',
     'casses',
@@ -14415,8 +14415,7 @@ export const alphabet: Alphabet = {
     'celled',
     'cellie',
     'cellos',
-    'celoms',
-    'celure',
+    'celoms', // scrabble not MW
     'cement',
     'cendal',
     'cenizo',
@@ -14473,7 +14472,6 @@ export const alphabet: Alphabet = {
     'chaffs',
     'chaffy',
     'chagal',
-    'chagga',
     'chagul',
     'chaine',
     'chains',
@@ -14483,17 +14481,16 @@ export const alphabet: Alphabet = {
     'chalet',
     'chalks',
     'chalky',
-    'chally',
+    'chally', // scrabble not MW
     'chammy',
     'champs',
-    'champy',
+    'champy', // scrabble not MW
     'chance',
     'chancy',
     'change',
     'chanks',
     'chants',
     'chanty',
-    'chaori',
     'chapel',
     'chapes',
     'chappe',
@@ -14522,10 +14519,9 @@ export const alphabet: Alphabet = {
     'chaunt',
     'chavvy',
     'chawed',
-    'chawer',
+    'chawer', // scrabble not MW
     'chazan',
     'cheapo',
-    'cheapy',
     'cheats',
     'chebec',
     'checks',
@@ -14534,7 +14530,7 @@ export const alphabet: Alphabet = {
     'cheeks',
     'cheeky',
     'cheeps',
-    'cheero',
+    'cheero', // scrabble not MW
     'cheers',
     'cheery',
     'cheese',
@@ -14547,15 +14543,13 @@ export const alphabet: Alphabet = {
     'cheque',
     'chequy',
     'cherem',
-    'cherie',
     'cherry',
     'cherts',
     'cherty',
     'cherub',
-    'chesky',
     'chests',
     'chesty',
-    'cheths',
+    'cheths', // scrabble not MW
     'chevee',
     'chevet',
     'chevon',
@@ -14563,7 +14557,6 @@ export const alphabet: Alphabet = {
     'chewed',
     'chewer',
     'chiack',
-    'chiaos',
     'chiasm',
     'chiaus',
     'chicer',
@@ -14574,7 +14567,7 @@ export const alphabet: Alphabet = {
     'chicly',
     'chicos',
     'chided',
-    'chider',
+    'chider', // scrabble not MW
     'chides',
     'chiefs',
     'chield',
@@ -14586,8 +14579,8 @@ export const alphabet: Alphabet = {
     'chilli',
     'chills',
     'chilly',
-    'chimar',
-    'chimbs',
+    'chimar', // scrabble not MW
+    'chimbs', // scrabble not MW
     'chimed',
     'chimer',
     'chimes',
@@ -14600,10 +14593,10 @@ export const alphabet: Alphabet = {
     'chippy',
     'chiral',
     'chirks',
-    'chiros',
+    'chiros', // scrabble not MW
     'chirps',
     'chirpy',
-    'chirre',
+    'chirre', // scrabble not MW
     'chirrs',
     'chirus',
     'chisel',
@@ -14619,14 +14612,11 @@ export const alphabet: Alphabet = {
     'choker',
     'chokes',
     'cholas',
-    'cholee',
     'choler',
     'cholis',
     'cholla',
     'chomps',
     'chooks',
-    'chooms',
-    'choora',
     'choose',
     'choosy',
     'chopas',
@@ -14659,10 +14649,8 @@ export const alphabet: Alphabet = {
     'chukka',
     'chulos',
     'chulpa',
-    'chuman',
     'chummy',
     'chumps',
-    'chungs',
     'chunks',
     'chunky',
     'church',
@@ -14670,8 +14658,8 @@ export const alphabet: Alphabet = {
     'churns',
     'churro',
     'churrs',
-    'chused',
-    'chuses',
+    'chused', // scrabble not MW
+    'chuses', // scrabble not MW
     'chuted',
     'chutes',
     'chyack',
@@ -14681,7 +14669,7 @@ export const alphabet: Alphabet = {
     'chyron',
     'cicada',
     'cicala',
-    'cicale',
+    'cicale', // scrabble not MW
     'cicely',
     'cicero',
     'ciders',
@@ -14691,7 +14679,7 @@ export const alphabet: Alphabet = {
     'cilium',
     'cinder',
     'cinema',
-    'cineol',
+    'cineol', // scrabble not MW
     'cinque',
     'cipher',
     'cippus',
@@ -14701,12 +14689,11 @@ export const alphabet: Alphabet = {
     'cirque',
     'cirrhi',
     'cirrus',
-    'ciscos',
+    'ciscos', // scrabble not MW
     'cisele',
     'cissus',
-    'cisted',
-    'cistic',
-    'citers',
+    'cisted', // scrabble not MW
+    'citers', // scrabble not MW
     'citied',
     'cities',
     'citify',
@@ -14717,7 +14704,6 @@ export const alphabet: Alphabet = {
     'citrin',
     'citron',
     'citrus',
-    'cittas',
     'civets',
     'civics',
     'civies',
@@ -14734,7 +14720,7 @@ export const alphabet: Alphabet = {
     'claret',
     'claros',
     'clasps',
-    'claspt',
+    'claspt', // scrabble not MW
     'classy',
     'clasts',
     'clause',
@@ -14744,9 +14730,9 @@ export const alphabet: Alphabet = {
     'claves',
     'clavus',
     'clawed',
-    'clawer',
+    'clawer', // scrabble not MW
     'claxon',
-    'clayed',
+    'clayed', // scrabble not MW
     'clayey',
     'cleans',
     'clears',
@@ -14780,7 +14766,6 @@ export const alphabet: Alphabet = {
     'clings',
     'clingy',
     'clinic',
-    'clinid',
     'clinks',
     'clique',
     'cliquy',
@@ -14819,7 +14804,7 @@ export const alphabet: Alphabet = {
     'cloves',
     'clowns',
     'cloyed',
-    'clozes',
+    'clozes', // scrabble not MW
     'clubby',
     'clucks',
     'cluing',
@@ -14837,7 +14822,7 @@ export const alphabet: Alphabet = {
     'cnemis',
     'cnidae',
     'coacts',
-    'coalas',
+    'coalas', // scrabble not MW
     'coaled',
     'coaler',
     'coapts',
@@ -14849,7 +14834,7 @@ export const alphabet: Alphabet = {
     'coatis',
     'coaxal',
     'coaxed',
-    'coaxer',
+    'coaxer', // scrabble not MW
     'coaxes',
     'cobalt',
     'cobber',
@@ -14857,14 +14842,12 @@ export const alphabet: Alphabet = {
     'cobias',
     'cobles',
     'cobnut',
-    'cobots',
     'cobras',
     'coburg',
     'cobweb',
     'coccal',
-    'coccic',
+    'coccic', // scrabble not MW
     'coccid',
-    'coccis',
     'coccus',
     'coccyx',
     'cochin',
@@ -14875,7 +14858,7 @@ export const alphabet: Alphabet = {
     'cocoas',
     'cocoon',
     'coddle',
-    'codeia',
+    'codeia', // scrabble not MW
     'coders',
     'codger',
     'codify',
@@ -14898,13 +14881,13 @@ export const alphabet: Alphabet = {
     'coheir',
     'cohere',
     'cohoba',
-    'cohoes',
+    'cohoes', // scrabble not MW
     'cohort',
     'cohosh',
     'cohune',
     'coifed',
-    'coiffe',
-    'coigne',
+    'coiffe', // scrabble not MW
+    'coigne', // scrabble not MW
     'coigns',
     'coiled',
     'coined',
@@ -14915,7 +14898,6 @@ export const alphabet: Alphabet = {
     'colada',
     'colder',
     'coldly',
-    'colens',
     'coleus',
     'colics',
     'colies',
@@ -14926,7 +14908,7 @@ export const alphabet: Alphabet = {
     'collie',
     'collop',
     'colobi',
-    'cologs',
+    'cologs', // scrabble not MW
     'coloni',
     'colons',
     'colony',
@@ -14944,8 +14926,6 @@ export const alphabet: Alphabet = {
     'comber',
     'combes',
     'combos',
-    'comdrs',
-    'comdts',
     'comedo',
     'comedy',
     'comely',
@@ -14955,7 +14935,6 @@ export const alphabet: Alphabet = {
     'comfit',
     'comics',
     'coming',
-    'comint',
     'comity',
     'commas',
     'commie',
@@ -14970,7 +14949,7 @@ export const alphabet: Alphabet = {
     'comply',
     'compos',
     'compts',
-    'comtes',
+    'comtes', // scrabble not MW
     'concha',
     'conchs',
     'concur',
@@ -14986,13 +14965,13 @@ export const alphabet: Alphabet = {
     'conger',
     'conges',
     'congii',
-    'congos',
+    'congos', // scrabble not MW
     'congou',
     'conics',
     'conies',
-    'conine',
+    'conine', // scrabble not MW
     'coning',
-    'conins',
+    'conins', // scrabble not MW
     'conium',
     'conked',
     'conker',
@@ -15009,10 +14988,9 @@ export const alphabet: Alphabet = {
     'convey',
     'convos',
     'convoy',
-    'cooboo',
-    'cooeed',
+    'cooeed', // scrabble not MW
     'cooees',
-    'cooers',
+    'cooers', // scrabble not MW
     'cooeys',
     'cooing',
     'cooked',
@@ -15031,7 +15009,6 @@ export const alphabet: Alphabet = {
     'cootch',
     'cooter',
     'cootie',
-    'coozie',
     'copals',
     'copays',
     'copeck',
@@ -15048,7 +15025,6 @@ export const alphabet: Alphabet = {
     'copter',
     'copula',
     'coquet',
-    'coraji',
     'corals',
     'corban',
     'corbel',
@@ -15073,7 +15049,6 @@ export const alphabet: Alphabet = {
     'cornet',
     'cornua',
     'corody',
-    'corols',
     'corona',
     'corpse',
     'corpus',
@@ -15084,11 +15059,10 @@ export const alphabet: Alphabet = {
     'cortex',
     'corvee',
     'corves',
-    'corvet',
-    'corvos',
+    'corvet', // scrabble not MW
     'corymb',
     'coryza',
-    'cosecs',
+    'cosecs', // scrabble not MW
     'cosets',
     'coshed',
     'cosher',
@@ -15104,14 +15078,13 @@ export const alphabet: Alphabet = {
     'cosmos',
     'cosses',
     'cosset',
-    'cossie',
     'costae',
     'costal',
     'costar',
     'costed',
     'coster',
     'costly',
-    'cotans',
+    'cotans', // Scrabble not MW
     'coting',
     'cottas',
     'cotter',
@@ -15134,7 +15107,7 @@ export const alphabet: Alphabet = {
     'course',
     'courts',
     'cousin',
-    'couter',
+    'couter', // Scrabble not MW
     'couths',
     'coutil',
     'covens',
@@ -15142,18 +15115,15 @@ export const alphabet: Alphabet = {
     'covert',
     'covets',
     'coveys',
-    'covids',
     'coving',
     'cowage',
     'coward',
-    'cowash',
     'cowboy',
     'cowers',
     'cowing',
     'cowled',
     'cowman',
     'cowmen',
-    'cowork',
     'cowpea',
     'cowpox',
     'cowrie',
@@ -15161,18 +15131,18 @@ export const alphabet: Alphabet = {
     'coydog',
     'coyest',
     'coying',
-    'coyish',
+    'coyish', // scrabble not MW
     'coyote',
     'coypus',
     'cozens',
-    'cozeys',
-    'cozied',
+    'cozeys', // scrabble not MW
+    'cozied', // scrabble not MW
     'cozier',
     'cozies',
     'cozily',
     'cozing',
     'cozzes',
-    'craals',
+    'craals', // scrabble not MW
     'crabby',
     'cracks',
     'cracky',
@@ -15180,7 +15150,6 @@ export const alphabet: Alphabet = {
     'crafts',
     'crafty',
     'craggy',
-    'craics',
     'crakes',
     'crakow',
     'crambo',
@@ -15233,11 +15202,11 @@ export const alphabet: Alphabet = {
     'cremes',
     'crenel',
     'creole',
-    'creped',
+    'creped', // scrabble not MW
     'crepes',
     'crepey',
     'crepon',
-    'crescs',
+    'crescs', // scrabble not MW
     'cresol',
     'cressy',
     'crests',
@@ -15259,7 +15228,7 @@ export const alphabet: Alphabet = {
     'crinum',
     'cripes',
     'crises',
-    'crisic',
+    'crisic', // scrabble not MW
     'crisis',
     'crisps',
     'crispy',
@@ -15272,7 +15241,6 @@ export const alphabet: Alphabet = {
     'crocus',
     'crofts',
     'crones',
-    'cronic',
     'crooks',
     'croons',
     'crores',
@@ -15287,7 +15255,7 @@ export const alphabet: Alphabet = {
     'crowds',
     'crowdy',
     'crowed',
-    'crower',
+    'crower', // scrabble not MW
     'crowns',
     'crozes',
     'cruces',
@@ -15303,7 +15271,7 @@ export const alphabet: Alphabet = {
     'crummy',
     'crumps',
     'crunch',
-    'crunks',
+    'crunks', // scrabble not MW
     'cruors',
     'crural',
     'cruses',
@@ -15333,21 +15301,20 @@ export const alphabet: Alphabet = {
     'cueist',
     'cuesta',
     'cuffed',
-    'cuirie',
     'cuisse',
     'culets',
     'culled',
     'culler',
     'cullet',
     'cullis',
-    'culmed',
+    'culmed', // scrabble not MW
     'culpae',
     'cultch',
     'cultic',
     'cultus',
     'culver',
     'cumber',
-    'cumbia',
+    'cumbia', // scrabble not MW
     'cumene',
     'cumins',
     'cummer',
@@ -15360,7 +15327,7 @@ export const alphabet: Alphabet = {
     'cupola',
     'cuppas',
     'cupped',
-    'cupper',
+    'cupper', // scrabble not MW
     'cupric',
     'cuprum',
     'cupule',
@@ -15388,7 +15355,7 @@ export const alphabet: Alphabet = {
     'curred',
     'currie',
     'cursed',
-    'curser',
+    'curser', // Scrabble not MW
     'curses',
     'cursor',
     'curtal',
@@ -15399,11 +15366,10 @@ export const alphabet: Alphabet = {
     'curved',
     'curves',
     'curvet',
-    'curvey',
+    'curvey', // Scrabble not MW
     'cusecs',
     'cushat',
     'cushaw',
-    'cushes',
     'cuspal',
     'cusped',
     'cuspid',
@@ -15412,14 +15378,13 @@ export const alphabet: Alphabet = {
     'cusses',
     'custom',
     'custos',
-    'cutcha',
     'cutely',
     'cutest',
     'cutesy',
     'cuteys',
     'cuties',
     'cutins',
-    'cutlas',
+    'cutlas', // Scrabble not MW
     'cutler',
     'cutlet',
     'cutoff',
@@ -15428,12 +15393,11 @@ export const alphabet: Alphabet = {
     'cuttle',
     'cutups',
     'cuvees',
-    'cuzzes',
+    'cuzzes', // Scrabble not MW
     'cyanic',
-    'cyanid',
+    'cyanid', // Scrabble not MW
     'cyanin',
     'cyathi',
-    'cybers',
     'cyborg',
     'cycads',
     'cyclas',
@@ -15445,7 +15409,6 @@ export const alphabet: Alphabet = {
     'cyders',
     'cyeses',
     'cyesis',
-    'cyetic',
     'cygnet',
     'cymars',
     'cymbal',
@@ -15457,7 +15420,6 @@ export const alphabet: Alphabet = {
     'cypres',
     'cyprus',
     'cystic',
-    'cytost',
     'cywydd',
   ],
   'd': [
@@ -27766,7 +27728,7 @@ export const alphabet: Alphabet = {
     'zygote',
     'zymase',
   ],
-}
+};
 
 export const VALID_GUESSES6 = [
   ...alphabet.a,
@@ -27794,8 +27756,8 @@ export const VALID_GUESSES6 = [
   ...alphabet.w,
   ...alphabet.x,
   ...alphabet.y,
-  ...alphabet.z
-]
+  ...alphabet.z,
+];
 
 const include = (wordLetters: string[], mustIncludeLetters: string[]): boolean =>
   mustIncludeLetters.every(letter => wordLetters.includes(letter));
@@ -27807,7 +27769,7 @@ export const possibilities = (
   absent: string,
   out: Out,
   given: string[],
-  mustInclude: string[]
+  mustInclude: string[],
 ): string[] => possible
   .filter((word: string) => exclude(word.split(''), absent.split('')) && include(word.split(''), mustInclude))
   .filter((word: string) =>
@@ -27816,4 +27778,4 @@ export const possibilities = (
     !out[3].toLowerCase().includes(word[3]) &&
     !out[4].toLowerCase().includes(word[4]) &&
     !out[5].toLowerCase().includes(word[5]))
-  .filter((word: string) => word.split('').every((letter, i) => [' ', letter].includes(given[i])))
+  .filter((word: string) => word.split('').every((letter, i) => [' ', letter].includes(given[i])));

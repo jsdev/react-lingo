@@ -1,6 +1,6 @@
 export enum CharStatus {
-    Absent,
-    Invalid,
-    Present,
-    Correct
+  Absent,
+  Invalid,
+  Present,
+  Correct,
 }

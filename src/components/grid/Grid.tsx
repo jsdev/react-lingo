@@ -1,9 +1,9 @@
-import { MAX_CHALLENGES } from '../../constants/settings'
-import { CompletedRow } from './CompletedRow'
-import { CurrentRow } from './CurrentRow'
-import { EmptyRow } from './EmptyRow'
-import { FeedbackRow } from './FeedbackRow'
-import { HardenedCurrentRow } from './HardenedCurrentRow'
+import { MAX_CHALLENGES } from '../../constants/settings';
+import { CompletedRow } from './CompletedRow';
+import { CurrentRow } from './CurrentRow';
+import { EmptyRow } from './EmptyRow';
+import { FeedbackRow } from './FeedbackRow';
+import { HardenedCurrentRow } from './HardenedCurrentRow';
 
 type Props = {
   solution: string
@@ -14,7 +14,7 @@ type Props = {
   currentRowClassName: string
   isHardMode?: boolean
   isFeedbackMode?: boolean
-}
+};
 
 export const Grid = ({
   solution,
@@ -29,7 +29,7 @@ export const Grid = ({
   const empties =
     guesses.length < MAX_CHALLENGES - 1
       ? Array.from(Array(MAX_CHALLENGES - 1 - guesses.length))
-      : []
+      : [];
 
   return (
     <>
@@ -65,5 +65,5 @@ export const Grid = ({
         <EmptyRow key={i} />
       ))}
     </>
-  )
-}
+  );
+};

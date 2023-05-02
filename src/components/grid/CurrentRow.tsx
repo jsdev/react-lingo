@@ -1,21 +1,21 @@
-import { getRevealStatus } from '../../lib/statuses'
-import { solution, unicodeSplit } from '../../lib/words'
-import { Cell } from './Cell'
+import { getRevealStatus } from '../../lib/statuses';
+import { solution, unicodeSplit } from '../../lib/words';
+import { Cell } from './Cell';
 
 type Props = {
   guess: string
   className: string
-}
+};
 
 export const CurrentRow = ({ guess, className }: Props) => {
-  const given = localStorage.given
+  const given = localStorage.given;
   const slice = guess.length - given.length;
-  const chars = given.slice(slice).split('')
-  const statuses = getRevealStatus(solution, given)
-  const emptyStatuses = getRevealStatus(solution.slice(slice), given.slice(slice))
-  const splitGuess = unicodeSplit(guess)
-  const emptyCells = Array.from(Array(solution.length - splitGuess.length))
-  const classes = `flex justify-center mb-1 ${className}`
+  const chars = given.slice(slice).split('');
+  const statuses = getRevealStatus(solution, given);
+  const emptyStatuses = getRevealStatus(solution.slice(slice), given.slice(slice));
+  const splitGuess = unicodeSplit(guess);
+  const emptyCells = Array.from(Array(solution.length - splitGuess.length));
+  const classes = `flex justify-center mb-1 ${className}`;
 
   return (
     <div className={classes} data-current>
@@ -39,5 +39,5 @@ export const CurrentRow = ({ guess, className }: Props) => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};

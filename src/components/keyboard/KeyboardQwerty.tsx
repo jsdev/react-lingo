@@ -1,18 +1,18 @@
-import { BackspaceIcon } from '@heroicons/react/24/outline'
-import { useEffect } from 'react'
-import { DELETE_TEXT, ENTER_TEXT } from '../../constants/strings'
-import { getStatuses } from '../../lib/statuses'
-import { localeAwareUpperCase } from '../../lib/words'
-import { Key } from './Key'
-import { KeyboardProps, keyboardRowStyles } from './KeyboardProps'
+import { BackspaceIcon } from '@heroicons/react/24/outline';
+import { useEffect } from 'react';
+import { DELETE_TEXT, ENTER_TEXT } from '../../constants/strings';
+import { getStatuses } from '../../lib/statuses';
+import { localeAwareUpperCase } from '../../lib/words';
+import { Key } from './Key';
+import { KeyboardProps, keyboardRowStyles } from './KeyboardProps';
 
 const enterKeyRowStyles = Object.assign(
   keyboardRowStyles,
   {
     display: 'grid',
-    gridTemplateColumns: '1f 1fr 1fr 1fr 1fr 1fr 1fr 3fr'
+    gridTemplateColumns: '1f 1fr 1fr 1fr 1fr 1fr 1fr 3fr',
   },
-)
+);
 
 export const KeyboardQWERTY = ({
   onChar,
@@ -23,37 +23,37 @@ export const KeyboardQWERTY = ({
   isRevealing,
   isWordInWordList,
 }: KeyboardProps) => {
-  const charStatuses = getStatuses(solution, guesses, isWordInWordList)
+  const charStatuses = getStatuses(solution, guesses, isWordInWordList);
 
   const onClick = (value: string) => {
     if (value === 'ENTER') {
-      onEnter()
+      onEnter();
     } else if (value === 'DELETE') {
-      onDelete()
+      onDelete();
     } else {
-      onChar(value)
+      onChar(value);
     }
-  }
+  };
 
   useEffect(() => {
     const listener = (e: KeyboardEvent) => {
       if (e.code === 'Enter') {
-        onEnter()
+        onEnter();
       } else if (e.code === 'Backspace') {
-        onDelete()
+        onDelete();
       } else {
-        const key = localeAwareUpperCase(e.key)
+        const key = localeAwareUpperCase(e.key);
         // TODO: check this test if the range works with non-english letters
         if (key.length === 1 && key >= 'A' && key <= 'Z') {
-          onChar(key)
+          onChar(key);
         }
       }
-    }
-    window.addEventListener('keyup', listener)
+    };
+    window.addEventListener('keyup', listener);
     return () => {
-      window.removeEventListener('keyup', listener)
-    }
-  }, [onEnter, onDelete, onChar])
+      window.removeEventListener('keyup', listener);
+    };
+  }, [onEnter, onDelete, onChar]);
 
   return (
     <>
@@ -99,5 +99,5 @@ export const KeyboardQWERTY = ({
         </Key>
       </div>
     </>
-  )
-}
+  );
+};

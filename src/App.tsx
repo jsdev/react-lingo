@@ -1,17 +1,17 @@
-import { ClockIcon } from '@heroicons/react/24/outline'
-import { format } from 'date-fns'
-import { default as GraphemeSplitter } from 'grapheme-splitter'
-import { useEffect, useState } from 'react'
-import Div100vh from 'react-div-100vh'
+import { ClockIcon } from '@heroicons/react/24/outline';
+import { format } from 'date-fns';
+import { default as GraphemeSplitter } from 'grapheme-splitter';
+import { useEffect, useState } from 'react';
+import Div100vh from 'react-div-100vh';
 
-import { AlertContainer } from './components/alerts/AlertContainer'
-import { Grid } from './components/grid/Grid'
-import { DatePickerModal } from './components/modals/DatePickerModal'
-import { InfoModal } from './components/modals/InfoModal'
-import { MigrateStatsModal } from './components/modals/MigrateStatsModal'
-import { SettingsModal, complexityOptions } from './components/modals/SettingsModal'
-import { StatsModal } from './components/modals/StatsModal'
-import { Navbar } from './components/navbar/Navbar'
+import { AlertContainer } from './components/alerts/AlertContainer';
+import { Grid } from './components/grid/Grid';
+import { DatePickerModal } from './components/modals/DatePickerModal';
+import { InfoModal } from './components/modals/InfoModal';
+import { MigrateStatsModal } from './components/modals/MigrateStatsModal';
+import { SettingsModal, complexityOptions } from './components/modals/SettingsModal';
+import { StatsModal } from './components/modals/StatsModal';
+import { Navbar } from './components/navbar/Navbar';
 import {
   DATE_LOCALE,
   DISCOURAGE_INAPP_BROWSERS,
@@ -19,7 +19,7 @@ import {
   MAX_CHALLENGES,
   REVEAL_TIME_MS,
   WELCOME_INFO_MODAL_MS,
-} from './constants/settings'
+} from './constants/settings';
 import {
   CORRECT_WORD_MESSAGE,
   DISCOURAGE_INAPP_BROWSER_TEXT,
@@ -29,9 +29,9 @@ import {
   // NOT_ENOUGH_LETTERS_MESSAGE,
   SHARE_FAILURE_TEXT,
   WIN_MESSAGES,
-} from './constants/strings'
-import { useAlert } from './context/AlertContext'
-import { isInAppBrowser } from './lib/browser'
+} from './constants/strings';
+import { useAlert } from './context/AlertContext';
+import { isInAppBrowser } from './lib/browser';
 import {
   getStoredIsHighContrastMode,
   loadGameStateFromLocalStorage,
@@ -40,9 +40,9 @@ import {
   setStoredComplexityMode,
   getStoredComplexityMode,
   getStoredKeyboardMode,
-  setStoredKeyboardMode
-} from './lib/localStorage'
-import { addStatsForCompletedGame, loadStats } from './lib/stats'
+  setStoredKeyboardMode,
+} from './lib/localStorage';
+import { addStatsForCompletedGame, loadStats } from './lib/stats';
 import {
   // findFirstUnusedReveal,
   getGameDate,
@@ -54,89 +54,89 @@ import {
   solution,
   solutionGameDate,
   unicodeLength,
-} from './lib/words'
-import { possibilities, alphabet } from './constants/validGuesses'
-import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet'
-import { KeyboardQWERTY } from './components/keyboard/KeyboardQwerty'
-import { KeyboardVowels } from './components/keyboard/KeyboardVowels'
-import getRandomString from './lib/getRanomString'
+} from './lib/words';
+import { possibilities, alphabet } from './constants/validGuesses';
+import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet';
+import { KeyboardQWERTY } from './components/keyboard/KeyboardQwerty';
+import { KeyboardVowels } from './components/keyboard/KeyboardVowels';
+import getRandomString from './lib/getRanomString';
 
-import './App.css'
+import './App.css';
 
 const Keyboards: any = {
   'ALPHABET': KeyboardAlphabet,
   'VOWELS': KeyboardVowels,
   'QWERTY': KeyboardQWERTY,
-}
+};
 
 function App() {
-  const isLatestGame = getIsLatestGame()
-  const gameDate = getGameDate()
+  const isLatestGame = getIsLatestGame();
+  const gameDate = getGameDate();
   const prefersDarkMode = window.matchMedia(
-    '(prefers-color-scheme: dark)'
-  ).matches
+    '(prefers-color-scheme: dark)',
+  ).matches;
   const [isFeedbackMode, setIsFeedbackMode] = useState(
-    !!localStorage.getItem('feedbackMode')
-  )
+    !!localStorage.getItem('feedbackMode'),
+  );
   const [isHardMode, setIsHardMode] = useState(
     localStorage.getItem('gameMode')
       ? localStorage.getItem('gameMode') === 'hard'
-      : false
-  )
+      : false,
+  );
 
   const { showError: showErrorAlert, showSuccess: showSuccessAlert } =
-    useAlert()
-  const defaultHardGuess = localStorage.given
-  const [currentGuess, setCurrentGuess] = useState(isHardMode ? defaultHardGuess : '')
-  const [isGameWon, setIsGameWon] = useState(false)
-  const [isInfoModalOpen, setIsInfoModalOpen] = useState(false)
-  const [isStatsModalOpen, setIsStatsModalOpen] = useState(false)
-  const [isDatePickerModalOpen, setIsDatePickerModalOpen] = useState(false)
-  const [isMigrateStatsModalOpen, setIsMigrateStatsModalOpen] = useState(false)
-  const [isSettingsModalOpen, setIsSettingsModalOpen] = useState(false)
+    useAlert();
+  const defaultHardGuess = localStorage.given;
+  const [currentGuess, setCurrentGuess] = useState(isHardMode ? defaultHardGuess : '');
+  const [isGameWon, setIsGameWon] = useState(false);
+  const [isInfoModalOpen, setIsInfoModalOpen] = useState(false);
+  const [isStatsModalOpen, setIsStatsModalOpen] = useState(false);
+  const [isDatePickerModalOpen, setIsDatePickerModalOpen] = useState(false);
+  const [isMigrateStatsModalOpen, setIsMigrateStatsModalOpen] = useState(false);
+  const [isSettingsModalOpen, setIsSettingsModalOpen] = useState(false);
   const [
     currentRowClass,
     //setCurrentRowClass
-  ] = useState('')
-  const [isGameLost, setIsGameLost] = useState(false)
+  ] = useState('');
+  const [isGameLost, setIsGameLost] = useState(false);
   const [isDarkMode, setIsDarkMode] = useState(
     localStorage.getItem('theme')
       ? localStorage.getItem('theme') === 'dark'
       : prefersDarkMode
         ? true
-        : false
-  )
+        : false,
+  );
   const [complexityMode, setComplexitytMode] = useState(
-    getStoredComplexityMode() || 'Elementary'
-  )
+    getStoredComplexityMode() || 'Elementary',
+  );
 
   const [keyboardMode, setKeyboardMode] = useState(
-    getStoredKeyboardMode() || 'VOWELS'
-  )
+    getStoredKeyboardMode() || 'VOWELS',
+  );
 
   const [isHighContrastMode, setIsHighContrastMode] = useState(
-    getStoredIsHighContrastMode()
-  )
-  const [isRevealing, setIsRevealing] = useState(false)
+    getStoredIsHighContrastMode(),
+  );
+  const [isRevealing, setIsRevealing] = useState(false);
   const [guesses, setGuesses] = useState<string[]>(() => {
-    const loaded = loadGameStateFromLocalStorage(isLatestGame)
+    const loaded = loadGameStateFromLocalStorage(isLatestGame);
     if (loaded?.solution !== solution) {
-      return []
+      return [];
     }
-    const gameWasWon = loaded!.guesses.includes(solution)
+    const gameWasWon = loaded!.guesses.includes(solution);
     if (gameWasWon) {
-      setIsGameWon(true)
+      setIsGameWon(true);
     }
     if (loaded!.guesses?.length === MAX_CHALLENGES && !gameWasWon) {
-      setIsGameLost(true)
+      setIsGameLost(true);
       showErrorAlert(CORRECT_WORD_MESSAGE(solution), {
         persist: true,
-      })
+      });
     }
-    return loaded!.guesses
-  })
+    return loaded!.guesses;
+  });
 
-  const [stats, setStats] = useState(() => loadStats())
+  const [stats, setStats] = useState(() => loadStats());
 
   // const [soltuon, setSolution] = useState(null);
 
@@ -145,10 +145,9 @@ function App() {
   useEffect(() => {
     import(`./definitions/${solution.toLowerCase()}`).then((module) => {
       // const definition = getRandomString(module?.definitions)
-      const synonym = getRandomString(module?.synonyms)
-      const hint = getRandomString([synonym])
+      const synonym = getRandomString(module?.synonyms);
 
-      setHint(hint)
+      setHint(getRandomString([synonym]));
       // TODO pass solution as a dependency
     });
   }, []);
@@ -157,10 +156,10 @@ function App() {
     // show the user the how-to info modal
     if (!loadGameStateFromLocalStorage(true)) {
       setTimeout(() => {
-        setIsInfoModalOpen(true)
-      }, WELCOME_INFO_MODAL_MS)
+        setIsInfoModalOpen(true);
+      }, WELCOME_INFO_MODAL_MS);
     }
-  })
+  });
 
   useEffect(() => {
     DISCOURAGE_INAPP_BROWSERS &&
@@ -168,95 +167,95 @@ function App() {
       showErrorAlert(DISCOURAGE_INAPP_BROWSER_TEXT, {
         persist: false,
         durationMs: 7000,
-      })
-  }, [showErrorAlert])
+      });
+  }, [showErrorAlert]);
 
   useEffect(() => {
     if (isDarkMode) {
-      document.documentElement.classList.add('dark')
+      document.documentElement.classList.add('dark');
     } else {
-      document.documentElement.classList.remove('dark')
+      document.documentElement.classList.remove('dark');
     }
 
     if (isHighContrastMode) {
-      document.documentElement.classList.add('high-contrast')
+      document.documentElement.classList.add('high-contrast');
     } else {
-      document.documentElement.classList.remove('high-contrast')
+      document.documentElement.classList.remove('high-contrast');
     }
-  }, [isDarkMode, isHighContrastMode])
+  }, [isDarkMode, isHighContrastMode]);
 
-  const handleDarkMode = (isDark: boolean) => {
-    setIsDarkMode(isDark)
-    localStorage.setItem('theme', isDark ? 'dark' : 'light')
-  }
+  const handleDarkMode = (bool: boolean) => {
+    setIsDarkMode(bool);
+    localStorage.setItem('theme', bool ? 'dark' : 'light');
+  };
 
-  const handleHardMode = (isHard: boolean) => {
+  const handleHardMode = (bool: boolean) => {
     if (guesses?.length === 0 || localStorage.getItem('gameMode') === 'hard') {
-      setIsHardMode(isHard)
-      localStorage.setItem('gameMode', isHard ? 'hard' : 'normal')
+      setIsHardMode(bool);
+      localStorage.setItem('gameMode', bool ? 'hard' : 'normal');
     } else {
-      showErrorAlert(HARD_MODE_ALERT_MESSAGE)
+      showErrorAlert(HARD_MODE_ALERT_MESSAGE);
     }
-  }
+  };
 
-  const handleFeedbackMode = (isFeedbackMode: boolean) => {
+  const handleFeedbackMode = (bool: boolean) => {
     if (localStorage.getItem('feedbackMode')) {
-      delete localStorage.feedbackMode
+      delete localStorage.feedbackMode;
     } else {
-      setIsFeedbackMode(isFeedbackMode)
-      localStorage.setItem('feedbackMode', 'true')
+      setIsFeedbackMode(bool);
+      localStorage.setItem('feedbackMode', 'true');
     }
-  }
+  };
 
-  const handleHighContrastMode = (isHighContrast: boolean) => {
-    setIsHighContrastMode(isHighContrast)
-    setStoredIsHighContrastMode(isHighContrast)
-  }
+  const handleHighContrastMode = (bool: boolean) => {
+    setIsHighContrastMode(bool);
+    setStoredIsHighContrastMode(bool);
+  };
 
-  const handleComplexityMode = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setComplexitytMode(event.target.value)
-    setStoredComplexityMode(event.target.value)
-  }
+  const handleComplexityMode = (event: React.ChangeEvent<HTMLSelectElement>): void => {
+    setComplexitytMode(event.target.value);
+    setStoredComplexityMode(event.target.value);
+  };
 
   const handleKeyboardMode = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setKeyboardMode(event.target.value)
-    setStoredKeyboardMode(event.target.value)
-  }
+    setKeyboardMode(event.target.value);
+    setStoredKeyboardMode(event.target.value);
+  };
 
   const handleNewGame = () => {
-    delete localStorage.solution
-    window.location.reload()
-  }
+    delete localStorage.solution;
+    window.location.reload();
+  };
 
   // const clearCurrentRowClass = () => {
   //   setCurrentRowClass('')
   // }
 
   useEffect(() => {
-    saveGameStateToLocalStorage(getIsLatestGame(), { guesses, solution })
-  }, [guesses])
+    saveGameStateToLocalStorage(getIsLatestGame(), { guesses, solution });
+  }, [guesses]);
 
   useEffect(() => {
     if (isGameWon) {
       const winMessage =
-        WIN_MESSAGES[Math.floor(Math.random() * WIN_MESSAGES.length)]
-      const delayMs = REVEAL_TIME_MS * solution.length
+        WIN_MESSAGES[Math.floor(Math.random() * WIN_MESSAGES.length)];
+      const delayMs = REVEAL_TIME_MS * solution.length;
 
       showSuccessAlert(winMessage, {
         delayMs,
         onClose: () => setIsStatsModalOpen(true),
-      })
+      });
     }
 
     if (isGameLost) {
       setTimeout(() => {
-        setIsStatsModalOpen(true)
-      }, (solution.length + 1) * REVEAL_TIME_MS)
+        setIsStatsModalOpen(true);
+      }, (solution.length + 1) * REVEAL_TIME_MS);
     }
-  }, [isGameWon, isGameLost, showSuccessAlert])
+  }, [isGameWon, isGameLost, showSuccessAlert]);
 
   const onCharLetter = (value: string) => {
-    const given = localStorage.given
+    const given = localStorage.given;
     const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
     const splitGiven = given.split('');
     if (
@@ -264,66 +263,29 @@ function App() {
       guesses.length < MAX_CHALLENGES &&
       !isGameWon
     ) {
-      setCurrentGuess(guess)
+      setCurrentGuess(guess);
       for (let i = 0; i < solution.length; i++) {
-        if (guess[i] === solution[i]) splitGiven[i] = solution[i]
+        if (guess[i] === solution[i]) splitGiven[i] = solution[i];
       }
-      localStorage.given = splitGiven?.join('')
+      localStorage.given = splitGiven?.join('');
     }
-    if (solution === localStorage.given) setIsGameWon(true)
-  }
+    if (solution === localStorage.given) setIsGameWon(true);
+  };
 
-  const onChar = (value: string) => {
-    const given = localStorage.given
-    const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
-    if (
-      unicodeLength(guess) <= solution.length &&
-      guesses.length < MAX_CHALLENGES &&
-      !isGameWon
-    ) {
-      setCurrentGuess(guess)
-    }
-
-    if (keyboardMode !== 'QWERTY' && guess.length === solution.length) {
-      setTimeout(onEnter, 2000)
-    }
-  }
-
-  const doNothing = (): void => {
-  }
-
-  const onDelete = () => {
-    if (isHardMode) {
-      const given = localStorage.given
-      const guess = currentGuess.split('');
-      for (let i = solution.length - 1; i >= 0; i--) {
-        if (currentGuess[i] !== ' ' && given[i] !== currentGuess[i]) {
-          guess[i] = ' '
-          setCurrentGuess(guess?.join(''))
-
-          return
-        }
-      }
-    } else {
-      setCurrentGuess(
-        new GraphemeSplitter().splitGraphemes(currentGuess).slice(0, -1)?.join('')
-      )
-    }
-  }
 
   const onEnter = () => {
     if (isGameWon || isGameLost || isFeedbackMode) {
-      return
+      return;
     }
-
-    const guess = document!.querySelector('[data-current]')?.textContent!
+    const current = document.querySelector('[data-current]');
+    const guess = current ? current.textContent! : '';
 
     if (guess && !(unicodeLength(guess) === solution.length)) {
-      return
+      return;
     }
 
     if (guess && guess.indexOf(' ') >= 0) {
-      return
+      return;
     }
 
     // if (!isWordInWordList(guess)) {
@@ -355,7 +317,7 @@ function App() {
     //   setIsRevealing(true)
     // }
 
-    const winningWord = isWinningWord(guess)
+    const winningWord = isWinningWord(guess);
 
     if (
       guess &&
@@ -363,62 +325,100 @@ function App() {
       guesses.length < MAX_CHALLENGES &&
       !isGameWon
     ) {
-      setGuesses([...guesses, guess])
-      setCurrentGuess(isHardMode ? localStorage.given : '')
+      setGuesses([...guesses, guess]);
+      setCurrentGuess(isHardMode ? localStorage.given : '');
 
       if (winningWord) {
         if (isLatestGame) {
-          setStats(addStatsForCompletedGame(stats, guesses.length))
+          setStats(addStatsForCompletedGame(stats, guesses.length));
         }
-        return setIsGameWon(true)
+        return setIsGameWon(true);
       }
 
       if (guesses.length === MAX_CHALLENGES - 1) {
         if (isLatestGame) {
-          setStats(addStatsForCompletedGame(stats, guesses.length + 1))
+          setStats(addStatsForCompletedGame(stats, guesses.length + 1));
         }
-        setIsGameLost(true)
+        setIsGameLost(true);
         showErrorAlert(CORRECT_WORD_MESSAGE(solution), {
           persist: true,
           delayMs: REVEAL_TIME_MS * solution.length + 1,
-        })
+        });
       }
-      setIsRevealing(true)
+      setIsRevealing(true);
       // turn this back off after all
       // chars have been revealed
       setTimeout(() => {
-        setIsRevealing(false)
-      }, REVEAL_TIME_MS * solution.length)
+        setIsRevealing(false);
+      }, REVEAL_TIME_MS * solution.length);
 
     }
-  }
+  };
+
+  const onChar = (value: string) => {
+    const given = localStorage.given;
+    const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
+    if (
+      unicodeLength(guess) <= solution.length &&
+      guesses.length < MAX_CHALLENGES &&
+      !isGameWon
+    ) {
+      setCurrentGuess(guess);
+    }
+
+    if (keyboardMode !== 'QWERTY' && guess.length === solution.length) {
+      setTimeout(onEnter, 2000);
+    }
+  };
+
+  const doNothing = (): void => {
+  };
+
+  const onDelete = () => {
+    if (isHardMode) {
+      const given = localStorage.given;
+      const guess = currentGuess.split('');
+      for (let i = solution.length - 1; i >= 0; i--) {
+        if (currentGuess[i] !== ' ' && given[i] !== currentGuess[i]) {
+          guess[i] = ' ';
+          setCurrentGuess(guess?.join(''));
+
+          return;
+        }
+      }
+    } else {
+      setCurrentGuess(
+        new GraphemeSplitter().splitGraphemes(currentGuess).slice(0, -1)?.join(''),
+      );
+    }
+  };
 
   const complexity = complexityOptions
     .filter(o => o.value === localStorage.complexity)
-    .map(o => o.label)
+    .map(o => o.label);
 
-  const getText = (o: Element) => o.textContent!.toLowerCase()
-  const absent: Element[] = Array.from(document.querySelectorAll('button.absent'))
-  const present: Element[] = Array.from(document.querySelectorAll('button.present'))
-  const correct: Element[] = Array.from(document.querySelectorAll('button.correct'))
+  const getText = (o: Element) => o.textContent!.toLowerCase();
+  const absent: Element[] = Array.from(document.querySelectorAll('button.absent'));
+  const present: Element[] = Array.from(document.querySelectorAll('button.present'));
+  const correct: Element[] = Array.from(document.querySelectorAll('button.correct'));
   const given = localStorage.given.toLowerCase().split('');
-  const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet]
+  const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet];
   const possibleGuesses = possibilities(
     possibleWords,
     absent.map(getText)?.join(''),
     JSON.parse(localStorage.out),
     given,
-    present.concat(correct).map(getText))
+    present.concat(correct).map(getText));
 
-  const probability = (1 / (possibleGuesses?.length) * 100).toFixed(2)
+  const probability = (1 / (possibleGuesses?.length) * 100).toFixed(2);
   const statStyles = {
-    width: 350
-  }
+    width: 350,
+  };
 
-  const onCharType = isFeedbackMode ? onCharLetter : onChar
-  const onEnterType = isFeedbackMode ? doNothing : onEnter
+  const onCharType = isFeedbackMode ? onCharLetter : onChar;
+  const onEnterType = isFeedbackMode ? doNothing : onEnter;
 
-  const Keyboard: any = Keyboards[keyboardMode]
+  const Keyboard: any = Keyboards[keyboardMode];
 
   return (
     <Div100vh>
@@ -475,9 +475,9 @@ function App() {
           <StatsModal
             isOpen={isStatsModalOpen}
             handleClose={() => {
-              setIsStatsModalOpen(false)
+              setIsStatsModalOpen(false);
               if (isGameLost || (isGameWon && isFeedbackMode)) {
-                handleNewGame()
+                handleNewGame();
               }
             }}
             solution={solution}
@@ -493,8 +493,8 @@ function App() {
               })
             }
             handleMigrateStatsButton={() => {
-              setIsStatsModalOpen(false)
-              setIsMigrateStatsModalOpen(true)
+              setIsStatsModalOpen(false);
+              setIsMigrateStatsModalOpen(true);
             }}
             handleNewGame={handleNewGame}
             isHardMode={isHardMode}
@@ -506,8 +506,8 @@ function App() {
             isOpen={isDatePickerModalOpen}
             initialDate={solutionGameDate}
             handleSelectDate={(d) => {
-              setIsDatePickerModalOpen(false)
-              setGameDate(d)
+              setIsDatePickerModalOpen(false);
+              setGameDate(d);
             }}
             handleClose={() => setIsDatePickerModalOpen(false)}
           />
@@ -532,10 +532,11 @@ function App() {
             handleKeyboardMode={handleKeyboardMode}
           />
           <AlertContainer />
+          <footer></footer>
         </main>
       </div>
     </Div100vh>
-  )
+  );
 }
 
-export default App
+export default App;

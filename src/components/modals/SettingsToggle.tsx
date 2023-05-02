@@ -1,11 +1,11 @@
-import classnames from 'classnames'
+import classnames from 'classnames';
 
 type Props = {
   settingName: string
   flag: boolean
-  handleFlag: Function
+  handleFlag: (bool: boolean) => void
   description?: string
-}
+};
 
 export const SettingsToggle = ({
   settingName,
@@ -17,14 +17,14 @@ export const SettingsToggle = ({
     'w-14 h-8 flex shrink-0 items-center bg-gray-300 rounded-full p-1 duration-300 ease-in-out dark:bg-black-800',
     {
       'bg-green-400 dark:bg-green-800': flag,
-    }
-  )
+    },
+  );
   const toggleButton = classnames(
     'bg-white w-6 h-6 rounded-full shadow-md transform duration-300 ease-in-out dark:bg-gray-800',
     {
       'translate-x-6': flag,
-    }
-  )
+    },
+  );
 
   return (
     <>
@@ -42,5 +42,5 @@ export const SettingsToggle = ({
         </button>
       </div>
     </>
-  )
-}
+  );
+};
