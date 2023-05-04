@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a cedarn chest"',
-]
+  '"a cedarn chest"',
+];
 export const synonyms = [
-]
+];

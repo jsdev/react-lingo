@@ -1,5 +1,5 @@
 export const definitions = [
-    '"denary numbers"',
-]
+  '"denary numbers"',
+];
 export const synonyms = [
-]
+];

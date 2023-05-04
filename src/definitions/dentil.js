@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a dentil frieze"',
-]
+  '"a dentil frieze"',
+];
 export const synonyms = [
-]
+];

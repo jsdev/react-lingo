@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a short-sleeved madras shirt"',
-]
+  '"a short-sleeved madras shirt"',
+];
 export const synonyms = [
-]
+];

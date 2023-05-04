@@ -1,5 +1,5 @@
 export const definitions = [
-    '"Sensei Ritchie began work"',
-]
+  '"Sensei Ritchie began work"',
+];
 export const synonyms = [
-]
+];

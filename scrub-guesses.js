@@ -1,4 +1,4 @@
-import { Selector } from 'testcafe';
+import { fixture, test, Selector } from 'testcafe';
 import fs from 'fs';
 
 let missed = [
@@ -1261,8 +1261,7 @@ let missed = [
     'celled',
     'cellie',
     'cellos',
-    'celoms',
-    'celure',
+    'celoms', // scrabble not MW
     'cement',
     'cendal',
     'cenizo',
@@ -1319,7 +1318,6 @@ let missed = [
     'chaffs',
     'chaffy',
     'chagal',
-    'chagga',
     'chagul',
     'chaine',
     'chains',
@@ -1332,14 +1330,12 @@ let missed = [
     'chally',
     'chammy',
     'champs',
-    'champy',
     'chance',
     'chancy',
     'change',
     'chanks',
     'chants',
     'chanty',
-    'chaori',
     'chapel',
     'chapes',
     'chappe',
@@ -1368,10 +1364,9 @@ let missed = [
     'chaunt',
     'chavvy',
     'chawed',
-    'chawer',
+    'chawer', // scrabble not MW
     'chazan',
     'cheapo',
-    'cheapy',
     'cheats',
     'chebec',
     'checks',
@@ -1380,7 +1375,6 @@ let missed = [
     'cheeks',
     'cheeky',
     'cheeps',
-    'cheero',
     'cheers',
     'cheery',
     'cheese',
@@ -1393,15 +1387,12 @@ let missed = [
     'cheque',
     'chequy',
     'cherem',
-    'cherie',
     'cherry',
     'cherts',
     'cherty',
     'cherub',
-    'chesky',
     'chests',
     'chesty',
-    'cheths',
     'chevee',
     'chevet',
     'chevon',
@@ -1409,7 +1400,6 @@ let missed = [
     'chewed',
     'chewer',
     'chiack',
-    'chiaos',
     'chiasm',
     'chiaus',
     'chicer',
@@ -1446,7 +1436,7 @@ let missed = [
     'chippy',
     'chiral',
     'chirks',
-    'chiros',
+    'chiros', // scrabble not MW
     'chirps',
     'chirpy',
     'chirre',
@@ -1465,14 +1455,11 @@ let missed = [
     'choker',
     'chokes',
     'cholas',
-    'cholee',
     'choler',
     'cholis',
     'cholla',
     'chomps',
     'chooks',
-    'chooms',
-    'choora',
     'choose',
     'choosy',
     'chopas',
@@ -1505,10 +1492,8 @@ let missed = [
     'chukka',
     'chulos',
     'chulpa',
-    'chuman',
     'chummy',
     'chumps',
-    'chungs',
     'chunks',
     'chunky',
     'church',
@@ -1516,8 +1501,6 @@ let missed = [
     'churns',
     'churro',
     'churrs',
-    'chused',
-    'chuses',
     'chuted',
     'chutes',
     'chyack',
@@ -1527,7 +1510,6 @@ let missed = [
     'chyron',
     'cicada',
     'cicala',
-    'cicale',
     'cicely',
     'cicero',
     'ciders',
@@ -1537,7 +1519,6 @@ let missed = [
     'cilium',
     'cinder',
     'cinema',
-    'cineol',
     'cinque',
     'cipher',
     'cippus',
@@ -1550,8 +1531,6 @@ let missed = [
     'ciscos',
     'cisele',
     'cissus',
-    'cisted',
-    'cistic',
     'citers',
     'citied',
     'cities',
@@ -1563,7 +1542,6 @@ let missed = [
     'citrin',
     'citron',
     'citrus',
-    'cittas',
     'civets',
     'civics',
     'civies',
@@ -14570,25 +14548,154 @@ let missed = [
 const fileName = 'invalid-guesses.txt';
 const lines = [];
 
-//omit: avians
-
-missed.splice(missed.indexOf('carhop') + 1, 50).forEach((word) => {
+// Add async here
+// async function writeToFile() { //TODO run EYEING 100
+for (const word of missed.splice(missed.indexOf('fetish') + 1, 100)) {
     const url = `https://www.merriam-webster.com/dictionary/${word}`;
 
     fixture`// ${word}`
         .page`${url}}`;
 
-    test(`check if ${word} is in meriam-webster`, async t => {
-        const lines = [];
-
+    test(`check if ${word} is in meriam-webster`, async (t) => {
         const definitions = Selector('h1.mispelled-word');
         const definitionsCount = await definitions.count;
         for (let i = 0; i < definitionsCount; i++) {
             console.error(`invalid: ${word}`);
             lines.push("'" + word + "',");
         }
-
     });
+}
+// }
 
-});
-fs.writeFileSync(fileName, lines.join('\n'))
+// writeToFile();
+// lines.forEach(console.log);
+// fs.writeFileSync(fileName, lines.join('\n'))
+
+// https://scrabble.merriam.com/finder/${word}
+
+// enbies
+// encycl
+// encycs
+// enders
+// engawa
+// enoses
+// entera
+// entoms
+// enwove
+// dacker
+// dadded
+// dagged
+// dakoit
+// dalans
+// dalets
+// dallan
+// dammer
+// daruma
+// dasted
+// dauted
+// debags
+// decime
+// deckel
+// deelie
+// defoam
+// deguts
+// deking
+// delink
+// demoth
+// depill
+// depulp
+// derped
+// dertra
+// derust
+// deslum
+// desmog
+// destem
+// devine
+// dewire
+// dhamma
+// dhooti
+// dhurna
+// dhutis
+// diable
+// dibses
+// dieing
+// dikier
+// dioons
+// dixits
+// doated
+// doater
+// dobies
+// dogeys
+// dolces
+// domals
+// donnas
+// dorjes
+// dosers
+// dossil
+// dottel
+// doumas
+// douras
+// dowery
+// dowily
+// drangs
+// dreegh
+// dreigh
+// dromon
+// droved
+// drungs
+// duffed
+// dukkha
+// dumbos
+// dupers
+// dupped
+// durion
+// durrie
+// durums
+// dvaita
+// dvijas
+// dwighs
+// dyable
+// dyings
+// dykier
+// dyking
+// dynams
+// ecchis
+// eceses
+// echoer
+// ecoles
+// ediles
+// eikons
+// elfins
+// elints
+// ellipt
+// eloins
+// eluvia
+// embars
+// emeers
+// emince
+
+ // eonism
+ 
+// invalid: epigon
+// invalid: etapes
+// invalid: etchis
+// invalid: ethals
+// invalid: etwees
+// invalid: eusols
+ 
+// invalid: evoker
+
+// invalid: exodoi
+// invalid: exodos
+// invalid: exonym
+// invalid: eyalet
+
+// fakeer
+// facons
+// fabada
+
+// febres
+// fecits
+// faulds
+// feened
+// fessor

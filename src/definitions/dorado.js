@@ -1,5 +1,5 @@
 export const definitions = [
-    '"the star R Doradus"',
-]
+  '"the star R Doradus"',
+];
 export const synonyms = [
-]
+];

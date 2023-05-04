@@ -1,9 +1,9 @@
 export const definitions = [
-    '"spires of delphiniums"',
-]
+  '"spires of delphiniums"',
+];
 export const synonyms = [
-    'steeple',
-    'belfry',
-    'flèche',
-    'shikara',
-]
+  'steeple',
+  'belfry',
+  'flèche',
+  'shikara',
+];

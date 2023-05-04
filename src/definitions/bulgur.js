@@ -1,5 +1,5 @@
 export const definitions = [
-    '"bulgar wheat"',
-]
+  '"bulgar wheat"',
+];
 export const synonyms = [
-]
+];

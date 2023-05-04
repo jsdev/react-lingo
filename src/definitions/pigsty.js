@@ -1,6 +1,6 @@
 export const definitions = [
-]
+];
 export const synonyms = [
-    'pigpen',
-    'complete mess',
-]
+  'pigpen',
+  'complete mess',
+];

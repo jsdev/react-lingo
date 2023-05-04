@@ -1,5 +1,5 @@
 export const definitions = [
-    '"baler twine"',
-]
+  '"baler twine"',
+];
 export const synonyms = [
-]
+];

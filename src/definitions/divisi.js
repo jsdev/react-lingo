@@ -1,6 +1,6 @@
 export const definitions = [
-    '"violas divisi"',
-    '"divisi passages"',
-]
+  '"violas divisi"',
+  '"divisi passages"',
+];
 export const synonyms = [
-]
+];

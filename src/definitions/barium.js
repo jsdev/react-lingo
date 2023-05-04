@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a barium meal"',
-]
+  '"a barium meal"',
+];
 export const synonyms = [
-]
+];

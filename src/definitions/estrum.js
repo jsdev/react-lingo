@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a mare in estrus"'
-]
+  '"a mare in estrus"',
+];
 export const synonyms = [
-]
+];

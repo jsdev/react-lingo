@@ -14,6 +14,7 @@ export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
     <Transition.Root show={isOpen} as={Fragment}>
       <Dialog
         as="div"
+        title={title}
         className="fixed inset-0 z-10 overflow-y-auto"
         onClose={handleClose}
       >
@@ -40,6 +41,7 @@ export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
           >
             <div className="inline-block transform overflow-hidden rounded-lg bg-white px-4 pt-5 pb-4 text-left align-bottom shadow-xl transition-all dark:bg-gray-800 sm:my-8 sm:w-full sm:max-w-sm sm:p-6 sm:align-middle">
               <button
+                aria-label={`Close ${title} Dialog`}
                 onClick={handleClose}
                 tabIndex={0}
                 aria-pressed="false"

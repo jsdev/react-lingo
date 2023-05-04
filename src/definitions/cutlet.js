@@ -1,6 +1,6 @@
 export const definitions = [
-    '"a pork cutlet"',
-    '"nut cutlets"',
-]
+  '"a pork cutlet"',
+  '"nut cutlets"',
+];
 export const synonyms = [
-]
+];

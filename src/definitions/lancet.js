@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a lancet clock"',
-]
+  '"a lancet clock"',
+];
 export const synonyms = [
-]
+];

@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a meat packer"',
-]
+  '"a meat packer"',
+];
 export const synonyms = [
-]
+];

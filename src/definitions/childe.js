@@ -1,5 +1,5 @@
 export const definitions = [
-    '"Childe Harold"',
-]
+  '"Childe Harold"',
+];
 export const synonyms = [
-]
+];

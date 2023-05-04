@@ -1,5 +1,5 @@
 export const definitions = [
-    '"rapier wit"',
-]
+  '"rapier wit"',
+];
 export const synonyms = [
-]
+];

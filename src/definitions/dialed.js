@@ -1,19 +1,19 @@
 export const definitions = [
-    '"he dialed 911"',
-    '"company employees dial out from their office"',
-]
+  '"he dialed 911"',
+  '"company employees dial out from their office"',
+];
 export const synonyms = [
-    'telephone',
-    'phone',
-    'call',
-    'call up',
-    'ring',
-    'ring up',
-    'phone up',
-    'place a call to',
-    'make a call to',
-    'give someone a call',
-    'get on the phone to',
-    'get someone on the phone',
-    'give someone a ring',
-]
+  'telephone',
+  'phone',
+  'call',
+  'call up',
+  'ring',
+  'ring up',
+  'phone up',
+  'place a call to',
+  'make a call to',
+  'give someone a call',
+  'get on the phone to',
+  'get someone on the phone',
+  'give someone a ring',
+];

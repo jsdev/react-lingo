@@ -1,6 +1,6 @@
 export const definitions = [
-    '"phyllo pastry"',
-    '"phyllotaxis"',
-]
+  '"phyllo pastry"',
+  '"phyllotaxis"',
+];
 export const synonyms = [
-]
+];

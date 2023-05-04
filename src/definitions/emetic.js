@@ -1,5 +1,5 @@
 export const definitions = [
-    '"that emetic music in department stores"'
-]
+  '"that emetic music in department stores"',
+];
 export const synonyms = [
-]
+];

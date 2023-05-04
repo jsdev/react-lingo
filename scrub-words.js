@@ -3539,10 +3539,6 @@ let missed = [
         complexity: "College"
     },
     {
-        word: "casked",
-        complexity: "High School"
-    },
-    {
         word: "casket",
         complexity: "Middle School"
     },
@@ -3709,10 +3705,6 @@ let missed = [
     {
         word: "celled",
         complexity: "Middle School"
-    },
-    {
-        word: "celure",
-        complexity: "High School"
     },
     {
         word: "cement",
@@ -3943,11 +3935,6 @@ let missed = [
     {
         word: "chelae",
         complexity: "College"
-    },
-    {
-        word: "cherie",
-        isCapitalized: true,
-        complexity: "unknown"
     },
     {
         word: "cherub",
@@ -4182,28 +4169,12 @@ let missed = [
         complexity: "Middle School"
     },
     {
-        word: "chuman",
-        complexity: "High School"
-    },
-    {
-        word: "chungs",
-        complexity: "Middle School"
-    },
-    {
         word: "church",
         complexity: "Elementary"
     },
     {
         word: "churro",
         complexity: "College"
-    },
-    {
-        word: "chused",
-        complexity: "Middle School"
-    },
-    {
-        word: "chuses",
-        complexity: "Middle School"
     },
     {
         word: "chymes",
@@ -4256,10 +4227,6 @@ let missed = [
     {
         word: "cinema",
         complexity: "Middle School"
-    },
-    {
-        word: "cineol",
-        complexity: "unknown"
     },
     {
         word: "cinque",

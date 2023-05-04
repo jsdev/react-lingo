@@ -1,5 +1,5 @@
 export const definitions = [
-    '"velour curtains"',
-]
+  '"velour curtains"',
+];
 export const synonyms = [
-]
+];

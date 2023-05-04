@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a potato peeler"',
-]
+  '"a potato peeler"',
+];
 export const synonyms = [
-]
+];

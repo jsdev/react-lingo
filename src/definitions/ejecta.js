@@ -1,8 +1,8 @@
 export const definitions = [
-]
+];
 export const synonyms = [
-    'sick',
-    'vomitus',
-    'purge',
-    'parbreak',
-]
+  'sick',
+  'vomitus',
+  'purge',
+  'parbreak',
+];

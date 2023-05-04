@@ -1,10 +1,10 @@
 export const definitions = [
-    '"the argent moon"',
-]
+  '"the argent moon"',
+];
 export const synonyms = [
-    'silvery',
-    'shining',
-    'lustrous',
-    'bright',
-    'gleaming',
-]
+  'silvery',
+  'shining',
+  'lustrous',
+  'bright',
+  'gleaming',
+];

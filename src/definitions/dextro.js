@@ -1,5 +1,5 @@
 export const definitions = [
-    '"dextrorotatory"',
-]
+  '"dextrorotatory"',
+];
 export const synonyms = [
-]
+];
