@@ -1,18 +1,18 @@
 export const definitions = [
-    '"population estimates extrapolated from the 1981 census"',
-    '"census data"',
-]
+  '"population estimates extrapolated from the 1981 census"',
+  '"census data"',
+];
 export const synonyms = [
-    'poll',
-    'review',
-    'investigation',
-    'inquiry',
-    'study',
-    'probe',
-    'questionnaire',
-    'opinion poll',
-    'sampling',
-    'cross-examination',
-    'quiz',
-    'research',
-]
+  'poll',
+  'review',
+  'investigation',
+  'inquiry',
+  'study',
+  'probe',
+  'questionnaire',
+  'opinion poll',
+  'sampling',
+  'cross-examination',
+  'quiz',
+  'research',
+];

@@ -1,5 +1,5 @@
 export const definitions = [
-    '"blocky granite"'
+  '"blocky granite"',
 ];
 export const synonyms = [
-]
+];

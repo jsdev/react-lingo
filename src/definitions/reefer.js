@@ -1,7 +1,7 @@
 export const definitions = [
-]
+];
 export const synonyms = [
-    'cannabis cigarette',
-    'marijuana cigarette',
-    'zol',
-]
+  'cannabis cigarette',
+  'marijuana cigarette',
+  'zol',
+];

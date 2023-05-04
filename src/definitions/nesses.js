@@ -1,5 +1,5 @@
 export const definitions = [
-    '"Orford Ness"',
-]
+  '"Orford Ness"',
+];
 export const synonyms = [
-]
+];

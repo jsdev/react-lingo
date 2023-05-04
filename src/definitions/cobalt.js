@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a cobalt sky"',
-]
+  '"a cobalt sky"',
+];
 export const synonyms = [
-]
+];

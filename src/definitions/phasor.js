@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a phasor diagram"',
-]
+  '"a phasor diagram"',
+];
 export const synonyms = [
-]
+];

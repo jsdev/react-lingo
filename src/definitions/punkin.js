@@ -1,5 +1,5 @@
 export const definitions = [
-    '"listen, pumpkin, I thought you ought to know"',
-]
+  '"listen, pumpkin, I thought you ought to know"',
+];
 export const synonyms = [
-]
+];

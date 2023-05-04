@@ -1,6 +1,6 @@
 export const definitions = [
-    '"cardiograph"',
-    '"cardiopulmonary"',
-]
+  '"cardiograph"',
+  '"cardiopulmonary"',
+];
 export const synonyms = [
-]
+];

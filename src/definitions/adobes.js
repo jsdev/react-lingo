@@ -1,5 +1,5 @@
 export const definitions = [
-    '"adobe houses"',
-]
+  '"adobe houses"',
+];
 export const synonyms = [
-]
+];

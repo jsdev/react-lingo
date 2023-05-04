@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a cheese omelet"',
-]
+  '"a cheese omelet"',
+];
 export const synonyms = [
-]
+];

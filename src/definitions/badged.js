@@ -1,5 +1,5 @@
 export const definitions = [
-    '"vendors can badge their products ‘certified’"',
-]
+  '"vendors can badge their products ‘certified’"',
+];
 export const synonyms = [
-]
+];

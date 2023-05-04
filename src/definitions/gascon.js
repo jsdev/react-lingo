@@ -1,5 +1,5 @@
 export const definitions = [
-    '"Gascon wines"',
-]
+  '"Gascon wines"',
+];
 export const synonyms = [
-]
+];

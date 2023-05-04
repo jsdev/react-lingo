@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a papal visit"',
-]
+  '"a papal visit"',
+];
 export const synonyms = [
-]
+];

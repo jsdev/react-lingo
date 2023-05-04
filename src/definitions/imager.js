@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a thermal imager"',
-]
+  '"a thermal imager"',
+];
 export const synonyms = [
-]
+];

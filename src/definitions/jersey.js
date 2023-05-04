@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a jersey skirt"',
-]
+  '"a jersey skirt"',
+];
 export const synonyms = [
-]
+];

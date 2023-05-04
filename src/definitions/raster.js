@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a raster image"',
-]
+  '"a raster image"',
+];
 export const synonyms = [
-]
+];

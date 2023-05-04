@@ -1,7 +1,7 @@
 export const definitions = [
-    '"G\'day cobbers!"',
-]
+  '"G\'day cobbers!"',
+];
 export const synonyms = [
-    'man',
-    'my friend',
-]
+  'man',
+  'my friend',
+];

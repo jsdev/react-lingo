@@ -1,12 +1,12 @@
 export const definitions = [
-    '"a parish church"',
-]
+  '"a parish church"',
+];
 export const synonyms = [
-    'parishioners',
-    'churchgoers',
-    'church',
-    'congregation',
-    'flock',
-    'fold',
-    'community',
-]
+  'parishioners',
+  'churchgoers',
+  'church',
+  'congregation',
+  'flock',
+  'fold',
+  'community',
+];

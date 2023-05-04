@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a nautch girl"',
-]
+  '"a nautch girl"',
+];
 export const synonyms = [
-]
+];

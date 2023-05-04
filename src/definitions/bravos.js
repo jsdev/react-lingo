@@ -1,5 +1,5 @@
 export const definitions = [
-    '"bravos rang out"',
-]
+  '"bravos rang out"',
+];
 export const synonyms = [
-]
+];

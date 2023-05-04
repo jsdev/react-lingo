@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a dermic remedy"',
-]
+  '"a dermic remedy"',
+];
 export const synonyms = [
-]
+];

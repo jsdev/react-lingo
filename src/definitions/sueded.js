@@ -1,5 +1,5 @@
 export const definitions = [
-    '"suede shoes"',
-]
+  '"suede shoes"',
+];
 export const synonyms = [
-]
+];

@@ -1,8 +1,8 @@
 export const definitions = [
-]
+];
 export const synonyms = [
-    'roost',
-    'nest box',
-    'nesting box',
-    'birdhouse',
-]
+  'roost',
+  'nest box',
+  'nesting box',
+  'birdhouse',
+];

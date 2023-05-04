@@ -1,5 +1,5 @@
 export const definitions = [
-    '"damson jam"',
-]
+  '"damson jam"',
+];
 export const synonyms = [
-]
+];

@@ -1,8 +1,8 @@
 export const definitions = [
-    '"a carp angler"',
-]
+  '"a carp angler"',
+];
 export const synonyms = [
-    'fisherman',
-    'fisher',
-    'piscator',
-]
+  'fisherman',
+  'fisher',
+  'piscator',
+];

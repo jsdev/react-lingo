@@ -1,17 +1,17 @@
 export const definitions = [
-    '"jubilee celebrations"',
-    '"cherries jubilee"',
-]
+  '"jubilee celebrations"',
+  '"cherries jubilee"',
+];
 export const synonyms = [
-    'anniversary',
-    'commemoration',
-    'celebration',
-    'festival',
-    'gala',
-    'carnival',
-    'jamboree',
-    'feast day',
-    'holiday',
-    'festivities',
-    'revelry',
-]
+  'anniversary',
+  'commemoration',
+  'celebration',
+  'festival',
+  'gala',
+  'carnival',
+  'jamboree',
+  'feast day',
+  'holiday',
+  'festivities',
+  'revelry',
+];

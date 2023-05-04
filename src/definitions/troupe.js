@@ -1,12 +1,12 @@
 export const definitions = [
-    '"a dance troupe"',
-    '"a troupe of singers"',
-]
+  '"a dance troupe"',
+  '"a troupe of singers"',
+];
 export const synonyms = [
-    'group',
-    'company',
-    'band',
-    'ensemble',
-    'set',
-    'cast',
-]
+  'group',
+  'company',
+  'band',
+  'ensemble',
+  'set',
+  'cast',
+];

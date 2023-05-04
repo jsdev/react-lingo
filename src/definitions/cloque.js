@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a cotton cloqué suit"',
-]
+  '"a cotton cloqué suit"',
+];
 export const synonyms = [
-]
+];

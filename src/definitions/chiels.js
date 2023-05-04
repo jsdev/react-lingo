@@ -1,5 +1,5 @@
 export const definitions = [
-    '"where you been, honey chile?"',
-]
+  '"where you been, honey chile?"',
+];
 export const synonyms = [
-]
+];

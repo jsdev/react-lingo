@@ -1,6 +1,6 @@
 export const definitions = [
-    '"angora rabbits"',
-    '"an angora cardigan"',
-]
+  '"angora rabbits"',
+  '"an angora cardigan"',
+];
 export const synonyms = [
-]
+];

@@ -1,9 +1,9 @@
 export const definitions = [
-    '"an autopsy report"',
-    '"an autopsied brain"',
-]
+  '"an autopsy report"',
+  '"an autopsied brain"',
+];
 export const synonyms = [
-    'postmortem',
-    'PM',
-    'necropsy',
-]
+  'postmortem',
+  'PM',
+  'necropsy',
+];

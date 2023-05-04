@@ -1,5 +1,5 @@
 export const definitions = [
-    '"almond cookies"',
-]
+  '"almond cookies"',
+];
 export const synonyms = [
-]
+];

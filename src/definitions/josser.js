@@ -1,5 +1,5 @@
 export const definitions = [
-    '"an old josser"',
-]
+  '"an old josser"',
+];
 export const synonyms = [
-]
+];

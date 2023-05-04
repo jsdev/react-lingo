@@ -1,9 +1,9 @@
 export const definitions = [
-    '"she had placed first in the discus"',
-]
+  '"she had placed first in the discus"',
+];
 export const synonyms = [
-    'circle',
-    'round',
-    'saucer',
-    'ring',
-]
+  'circle',
+  'round',
+  'saucer',
+  'ring',
+];

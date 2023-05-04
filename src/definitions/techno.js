@@ -1,5 +1,5 @@
 export const definitions = [
-    '"technophobe"',
-]
+  '"technophobe"',
+];
 export const synonyms = [
-]
+];

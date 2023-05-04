@@ -1,12 +1,12 @@
 export const definitions = [
-    '"he came up the stairs"',
-    '"the bottom stair"',
-]
+  '"he came up the stairs"',
+  '"the bottom stair"',
+];
 export const synonyms = [
-    'tread',
-    'tread board',
-    'stairs',
-    'staircase',
-    'stairway',
-    'stoop',
-]
+  'tread',
+  'tread board',
+  'stairs',
+  'staircase',
+  'stairway',
+  'stoop',
+];

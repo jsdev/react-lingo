@@ -1,5 +1,5 @@
 export const definitions = [
-    '"a front-loader"',
-]
+  '"a front-loader"',
+];
 export const synonyms = [
-]
+];

@@ -1,5 +1,5 @@
 export const definitions = [
-    '"insect pests"',
-]
+  '"insect pests"',
+];
 export const synonyms = [
-]
+];
