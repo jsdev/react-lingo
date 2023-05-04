@@ -1,21 +1,21 @@
-import { GameStats } from '../../lib/localStorage'
-import { Progress } from './Progress'
+import { GameStats } from '../../lib/localStorage';
+import { Progress } from './Progress';
 
 type Props = {
   gameStats: GameStats
   isLatestGame: boolean
   isGameWon: boolean
   numberOfGuessesMade: number
-}
+};
 
 const isCurrentDayStatRow = (
   isLatestGame: boolean,
   isGameWon: boolean,
   numberOfGuessesMade: number,
-  i: number
+  i: number,
 ) => {
-  return isLatestGame && isGameWon && numberOfGuessesMade === i + 1
-}
+  return isLatestGame && isGameWon && numberOfGuessesMade === i + 1;
+};
 
 export const Histogram = ({
   gameStats,
@@ -23,8 +23,8 @@ export const Histogram = ({
   isGameWon,
   numberOfGuessesMade,
 }: Props) => {
-  const winDistribution = gameStats.winDistribution
-  const maxValue = Math.max(...winDistribution, 1)
+  const winDistribution = gameStats.winDistribution;
+  const maxValue = Math.max(...winDistribution, 1);
 
   return (
     <div className="justify-left m-2 columns-1 text-sm dark:text-white">
@@ -36,12 +36,12 @@ export const Histogram = ({
             isLatestGame,
             isGameWon,
             numberOfGuessesMade,
-            i
+            i,
           )}
           size={90 * (value / maxValue)}
           label={String(value)}
         />
       ))}
     </div>
-  )
-}
+  );
+};

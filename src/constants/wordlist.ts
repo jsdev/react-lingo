@@ -1,4 +1,4 @@
-import { taggedWords6 } from "./taggedWords6"
+import { taggedWords6 } from './taggedWords6';
 
 export const WORDS = [
   'which',
@@ -5758,7 +5758,7 @@ export const WORDS = [
   'rumba',
   'biffy',
   'pupal',
-]
+];
 
 const alphabet = {
   // ARISEN
@@ -14272,7 +14272,7 @@ const alphabet = {
     'zoomed',
     'zygote',
   ],
-}
+};
 
 export const WORDS6 = [
   ...alphabet.a,
@@ -14292,13 +14292,13 @@ export const WORDS6 = [
   ...alphabet.x,
   ...alphabet.y,
   ...alphabet.z,
-]
+];
 
-export type Complexity = 'Elementary' | 'Middle Schoole' | 'High School' | 'College' | 'Post-College'
+export type Complexity = 'Elementary' | 'Middle Schoole' | 'High School' | 'College' | 'Post-College';
 
 export const getWords = (complexity: Complexity = 'Elementary'): string[] =>
   // temporary until resolved Cs && Ds
-  taggedWords6.filter(o => o.complexity === complexity).map(o => o.word)
+  taggedWords6.filter(o => o.complexity === complexity).map(o => o.word);
 
 // function countOccurrences(str: string, letter: string) {
 //   const regex = new RegExp(letter, 'g')

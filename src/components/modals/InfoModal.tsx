@@ -1,11 +1,11 @@
-import { CharStatus } from '../../lib/enums/status'
-import { Cell } from '../grid/Cell'
-import { BaseModal } from './BaseModal'
+import { CharStatus } from '../../lib/enums/status';
+import { Cell } from '../grid/Cell';
+import { BaseModal } from './BaseModal';
 
 type Props = {
   isOpen: boolean
   handleClose: () => void
-}
+};
 
 export const InfoModal = ({ isOpen, handleClose }: Props) => {
   return (
@@ -66,5 +66,5 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         None of these letters appear in the word.
       </p>
     </BaseModal>
-  )
-}
+  );
+};

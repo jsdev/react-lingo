@@ -1,3 +1,3 @@
 module.exports = {
-    blockInterestCohort: false
-}
+  blockInterestCohort: false,
+};

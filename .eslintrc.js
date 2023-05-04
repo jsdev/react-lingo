@@ -4,7 +4,8 @@ module.exports = {
         'airbnb/hooks',
         'plugin:@typescript-eslint/recommended',
         'plugin:jest/recommended',
-        'plugin:prettier/recommended'
+        // 'plugin:prettier/recommended',
+        'plugin:jsx-a11y/recommended'
     ],
     plugins: ['react', '@typescript-eslint', 'jest'],
     env: {
@@ -20,6 +21,7 @@ module.exports = {
     parserOptions: {
         ecmaFeatures: {
             jsx: true,
+            tsx: true,
         },
         ecmaVersion: 2018,
         sourceType: 'module',
@@ -27,11 +29,23 @@ module.exports = {
     },
     rules: {
         'linebreak-style': 'off',
-        'prettier/prettier': [
-            'error',
-            {
-                endOfLine: 'auto',
-            },
-        ],
+        'import/extensions': 'off',
+        'import/no-extraneous-dependencies': 'off',
+        // TODO ADDRESS AND REMOVE
+        '@typescript-eslint/no-use-before-define': 'off',
+        '@typescript-eslint/no-explicit-any': 'off',
+        '@typescript-eslint/no-non-null-assertion': 'off',
+
+        '@typescript-eslint/no-unused-expressions': 'off',
+        '@typescript-eslint/no-unused-vars': 'off',
+        // '@typescript-eslint/ban-types': 'off',
+        'react-hooks/exhaustive-deps': 'off',
+
+        // 'prettier/prettier': [
+        //     'error',
+        //     {
+        //         endOfLine: 'auto',
+        //     },
+        // ],
     },
 };

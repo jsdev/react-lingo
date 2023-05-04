@@ -1,19 +1,19 @@
-import { BookOpenIcon, PlayCircleIcon, ShareIcon } from '@heroicons/react/24/outline'
+import { BookOpenIcon, PlayCircleIcon, ShareIcon } from '@heroicons/react/24/outline';
 
 import {
   ENABLE_MIGRATE_STATS,
-} from '../../constants/settings'
+} from '../../constants/settings';
 import {
   GUESS_DISTRIBUTION_TEXT,
   SHARE_TEXT,
   STATISTICS_TITLE,
-} from '../../constants/strings'
-import { GameStats } from '../../lib/localStorage'
-import { shareStatus } from '../../lib/share'
-import { Histogram } from '../stats/Histogram'
-import { MigrationIntro } from '../stats/MigrationIntro'
-import { StatBar } from '../stats/StatBar'
-import { BaseModal } from './BaseModal'
+} from '../../constants/strings';
+import { GameStats } from '../../lib/localStorage';
+import { shareStatus } from '../../lib/share';
+import { Histogram } from '../stats/Histogram';
+import { MigrationIntro } from '../stats/MigrationIntro';
+import { StatBar } from '../stats/StatBar';
+import { BaseModal } from './BaseModal';
 
 type Props = {
   isOpen: boolean
@@ -32,7 +32,7 @@ type Props = {
   isDarkMode: boolean
   isHighContrastMode: boolean
   numberOfGuessesMade: number
-}
+};
 
 export const StatsModal = ({
   isOpen,
@@ -64,7 +64,7 @@ export const StatsModal = ({
           <MigrationIntro handleMigrateStatsButton={handleMigrateStatsButton} />
         )}
       </BaseModal>
-    )
+    );
   }
   return (
     <BaseModal
@@ -97,8 +97,8 @@ export const StatsModal = ({
                   isDarkMode,
                   isHighContrastMode,
                   handleShareToClipboard,
-                  handleShareFailure
-                )
+                  handleShareFailure,
+                );
               }}
             >
               <ShareIcon aria-hidden="true" className="mr-2 h-6 w-6 dark:stroke-white" />
@@ -121,5 +121,5 @@ export const StatsModal = ({
         </>
       )}
     </BaseModal>
-  )
-}
+  );
+};

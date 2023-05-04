@@ -1,139 +1,139 @@
-import { CharStatus } from './enums/status'
-import { unicodeSplit } from './words'
+import { CharStatus } from './enums/status';
+import { unicodeSplit } from './words';
 
 // export type CharStatus = 'absent' | 'present' | 'correct' | 'invalid'
 
 export const getRevealStatus = (
   solution: string,
-  given: string
+  given: string,
 ): CharStatus[] => {
-  const charObj: CharStatus[] = []
-  const splitSolution = unicodeSplit(solution)
+  const charObj: CharStatus[] = [];
+  const splitSolution = unicodeSplit(solution);
 
   unicodeSplit(given).forEach((letter, i) => charObj[i] = letter === splitSolution[i] ?
-    CharStatus.Correct : CharStatus.Absent
-  )
+    CharStatus.Correct : CharStatus.Absent,
+  );
 
-  return charObj
-}
+  return charObj;
+};
 
 export const getLetterRevealStatus = (
   solution: string,
-  guess: string
+  guess: string,
 ): CharStatus[] => {
-  const given = localStorage.given
-  const splitSolution = unicodeSplit(solution)
+  const given = localStorage.given;
+  const splitSolution = unicodeSplit(solution);
   const splitGiven = given.split('');
 
   const charObj: CharStatus[] = unicodeSplit(guess).map((letter, i) => {
     if (letter === splitSolution[i]) {
-      splitGiven[i] = letter
-      return CharStatus.Correct
+      splitGiven[i] = letter;
+      return CharStatus.Correct;
     } else {
-      return CharStatus.Absent
+      return CharStatus.Absent;
     }
-  })
+  });
 
-  localStorage.given = splitGiven.join('')
+  localStorage.given = splitGiven.join('');
 
-  return charObj
-}
+  return charObj;
+};
 
 export const getStatuses = (
   solution: string,
   guesses: string[],
   isWordInWordList: (word: string) => boolean,
 ): { [key: string]: CharStatus } => {
-  const charObj: { [key: string]: CharStatus } = {}
-  const splitSolution = unicodeSplit(solution)
+  const charObj: { [key: string]: CharStatus } = {};
+  const splitSolution = unicodeSplit(solution);
 
   guesses.forEach((word) => {
     if (!isWordInWordList(word)) {
-      return
+      return;
     }
     unicodeSplit(word).forEach((letter, i) => {
       if (!splitSolution.includes(letter)) {
         // make status absent
-        return (charObj[letter] = CharStatus.Absent)
+        return (charObj[letter] = CharStatus.Absent);
       }
 
       if (letter === splitSolution[i]) {
         //make status correct
-        return (charObj[letter] = CharStatus.Correct)
+        return (charObj[letter] = CharStatus.Correct);
       }
 
       if (charObj[letter] !== CharStatus.Correct) {
         //make status present
-        return (charObj[letter] = CharStatus.Present)
+        return (charObj[letter] = CharStatus.Present);
       }
-    })
-  })
+    });
+  });
 
-  return charObj
-}
+  return charObj;
+};
 
 export const getGuessStatuses = (
   solution: string,
   guess: string,
-  validWords: string[]
+  validWords: string[],
 ): CharStatus[] => {
-  const splitSolution = unicodeSplit(solution)
-  const splitGuess = unicodeSplit(guess)
+  const splitSolution = unicodeSplit(solution);
+  const splitGuess = unicodeSplit(guess);
 
-  const solutionCharsTaken = splitSolution.map((_) => false)
+  const solutionCharsTaken = splitSolution.map((_) => false);
 
-  const statuses: CharStatus[] = Array.from(Array(guess.length))
-  let given = localStorage.given.split('')
-  const out = JSON.parse(localStorage.out)
+  const statuses: CharStatus[] = Array.from(Array(guess.length));
+  const given = localStorage.given.split('');
+  const out = JSON.parse(localStorage.out);
 
   if (!validWords.includes(guess.toLocaleLowerCase())) {
     splitSolution.forEach((_letter, i) => {
-      statuses[i] = CharStatus.Invalid
-    })
+      statuses[i] = CharStatus.Invalid;
+    });
 
-    return statuses
+    return statuses;
   }
 
   // handle all correct cases first
   splitGuess.forEach((letter, i) => {
     if (letter === splitSolution[i]) {
-      statuses[i] = CharStatus.Correct
-      solutionCharsTaken[i] = true
-      given[i] = letter
-      return
+      statuses[i] = CharStatus.Correct;
+      solutionCharsTaken[i] = true;
+      given[i] = letter;
+      return;
     }
-  })
+  });
 
   localStorage.given = given.join('');
 
   splitGuess.forEach((letter, i) => {
-    if (statuses[i]) return
+    if (statuses[i]) return;
 
     if (!splitSolution.includes(letter)) {
       // handles the absent case
-      statuses[i] = CharStatus.Absent
-      return
+      statuses[i] = CharStatus.Absent;
+      return;
     }
 
     // now we are left with "present"s
     const indexOfPresentChar = splitSolution.findIndex(
-      (x, index) => x === letter && !solutionCharsTaken[index]
-    )
+      (x, index) => x === letter && !solutionCharsTaken[index],
+    );
 
     if (indexOfPresentChar > -1) {
-      statuses[i] = CharStatus.Present
+      statuses[i] = CharStatus.Present;
       if (!out[i].includes(letter)) {
-        out[i] += letter
+        out[i] += letter;
       }
-      solutionCharsTaken[indexOfPresentChar] = true
-      return
+      solutionCharsTaken[indexOfPresentChar] = true;
+      return;
     } else {
-      statuses[i] = CharStatus.Absent
-      return
+      statuses[i] = CharStatus.Absent;
+      return;
     }
-  })
+  });
 
-  localStorage.out = JSON.stringify(out)
+  localStorage.out = JSON.stringify(out);
 
-  return statuses
-}
+  return statuses;
+};
