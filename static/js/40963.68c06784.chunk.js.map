@@ -1,1 +1,1 @@
-{"version":3,"file":"static/js/40963.68c06784.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,E","sources":["definitions/cokers.js"],"sourcesContent":["export const definitions = [\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}
+{"version":3,"file":"static/js/40963.68c06784.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,E","sources":["definitions/cokers.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

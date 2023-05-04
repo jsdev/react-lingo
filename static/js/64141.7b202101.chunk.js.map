@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/64141.7b202101.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACvB,kBACA,cACA,gBAESC,EAAW,E","sources":["definitions/cybers.js"],"sourcesContent":["export const definitions = [\n    '\"the cyber age\"',\n    '\"cyberpunk\"',\n    '\"cyberspace\"',\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,1 +1,1 @@
-{"version":3,"file":"static/js/6365.e1651a31.chunk.js","mappings":"+LAAO,IAAMA,EAAc,GAEdC,EAAW,E","sources":["definitions/carpal.js"],"sourcesContent":["export const definitions = [\n]\nexport const synonyms = [\n]"],"names":["definitions","synonyms"],"sourceRoot":""}
+{"version":3,"file":"static/js/6365.e1651a31.chunk.js","mappings":"+LAAO,IAAMA,EAAc,GAEdC,EAAW,E","sources":["definitions/carpal.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

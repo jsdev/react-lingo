@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92355],{292355:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return o}});var e=['"trumpet mutes with different timbres"','"a voice high in pitch but rich in timbre"'],o=["tone","sound","voice","color","tone color","tonality","resonance","ring","sound quality","voice quality"]}}]);
-//# sourceMappingURL=92355.918eb5df.chunk.js.map

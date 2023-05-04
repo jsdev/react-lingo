@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5804],{405804:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"When she ______, she regained the lead"','"he ______ the last hole and shared fourth place"'],s=["below par","birdied","great shot","precise putt"]}}]);
+//# sourceMappingURL=5804.7866e9b2.chunk.js.map

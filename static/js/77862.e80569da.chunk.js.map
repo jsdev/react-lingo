@@ -1,1 +1,1 @@
-{"version":3,"file":"static/js/77862.e80569da.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAGdC,EAAW,E","sources":["definitions/apples.js"],"sourcesContent":["export const definitions = [\n]\n\nexport const synonyms = [\n]\n"],"names":["definitions","synonyms"],"sourceRoot":""}
+{"version":3,"file":"static/js/77862.e80569da.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAGdC,EAAW,E","sources":["definitions/apples.js"],"sourcesContent":["export const definitions = [\n];\n\nexport const synonyms = [\n];\n"],"names":["definitions","synonyms"],"sourceRoot":""}
