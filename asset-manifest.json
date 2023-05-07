@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-lingo/static/css/main.a1befa11.css",
-    "main.js": "/react-lingo/static/js/main.0880e391.js",
+    "main.css": "/react-lingo/static/css/main.dfe7e3b2.css",
+    "main.js": "/react-lingo/static/js/main.a13948ef.js",
     "static/js/91109.b1004b46.chunk.js": "/react-lingo/static/js/91109.b1004b46.chunk.js",
     "static/js/84885.790f7dec.chunk.js": "/react-lingo/static/js/84885.790f7dec.chunk.js",
     "static/js/58262.5c490085.chunk.js": "/react-lingo/static/js/58262.5c490085.chunk.js",
@@ -4887,8 +4887,8 @@
     "static/js/11496.0c345772.chunk.js": "/react-lingo/static/js/11496.0c345772.chunk.js",
     "index.html": "/react-lingo/index.html",
     "static/media/coding": "/react-lingo/static/media/coding.9ff6c34de68bb4707f98",
-    "main.a1befa11.css.map": "/react-lingo/static/css/main.a1befa11.css.map",
-    "main.0880e391.js.map": "/react-lingo/static/js/main.0880e391.js.map",
+    "main.dfe7e3b2.css.map": "/react-lingo/static/css/main.dfe7e3b2.css.map",
+    "main.a13948ef.js.map": "/react-lingo/static/js/main.a13948ef.js.map",
     "91109.b1004b46.chunk.js.map": "/react-lingo/static/js/91109.b1004b46.chunk.js.map",
     "84885.790f7dec.chunk.js.map": "/react-lingo/static/js/84885.790f7dec.chunk.js.map",
     "58262.5c490085.chunk.js.map": "/react-lingo/static/js/58262.5c490085.chunk.js.map",
@@ -9773,7 +9773,7 @@
     "11496.0c345772.chunk.js.map": "/react-lingo/static/js/11496.0c345772.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1befa11.css",
-    "static/js/main.0880e391.js"
+    "static/css/main.dfe7e3b2.css",
+    "static/js/main.a13948ef.js"
   ]
 }
