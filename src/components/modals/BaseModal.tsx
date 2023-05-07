@@ -9,12 +9,18 @@ type Props = {
   handleClose: () => void
 };
 
+
+export const dialogStyles = {
+  display: 'grid',
+  gridTemplateColumns: '1fr 1em',
+};
+
 export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
   return (
     <Transition.Root show={isOpen} as={Fragment}>
       <Dialog
+        aria-labelledby="dialog-title"
         as="div"
-        title={title}
         className="fixed inset-0 z-10 overflow-y-auto"
         onClose={handleClose}
       >
@@ -40,23 +46,23 @@ export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
             leaveTo="opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95"
           >
             <div className="inline-block transform overflow-hidden rounded-lg bg-white px-4 pt-5 pb-4 text-left align-bottom shadow-xl transition-all dark:bg-gray-800 sm:my-8 sm:w-full sm:max-w-sm sm:p-6 sm:align-middle">
-              <button
-                aria-label={`Close ${title} Dialog`}
-                onClick={handleClose}
-                tabIndex={0}
-                aria-pressed="false"
-                className="absolute right-4 top-4"
-              >
-                <XCircleIcon className="h-6 w-6 dark:stroke-white" />
-              </button>
               <div>
                 <div className="text-center">
-                  <Dialog.Title
-                    as="h3"
-                    className="text-lg font-medium leading-6 text-gray-900 dark:text-gray-100"
-                  >
-                    {title}
-                  </Dialog.Title>
+                  <div style={dialogStyles}>
+                    <Dialog.Title
+                      id="dialog-title"
+                      className="text-lg font-medium leading-6 text-gray-900 dark:text-gray-100"
+                    >
+                      {title}
+                    </Dialog.Title>
+                    <button
+                      aria-label={`Close ${title} Dialog`}
+                      onClick={handleClose}
+                      aria-pressed="false"
+                    >
+                      <XCircleIcon className="h-6 w-6 dark:stroke-white" />
+                    </button>
+                  </div>
                   <div className="mt-2">{children}</div>
                 </div>
               </div>

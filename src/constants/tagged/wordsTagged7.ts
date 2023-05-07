@@ -36082,12 +36082,6 @@ const alphabet = {
       complexity: 'High School',
     },
     {
-      word: 'dvaitas',
-      isCapatalize: false,
-      isRoot: false,
-      complexity: 'College',
-    },
-    {
       word: 'dorpers',
       isCapatalize: false,
       isRoot: false,

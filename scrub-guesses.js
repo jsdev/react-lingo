@@ -3109,7 +3109,6 @@ let missed = [
     'dustup',
     'duties',
     'duvets',
-    'dvaita',
     'dvijas',
     'dwarfs',
     'dweebs',
@@ -3375,7 +3374,6 @@ let missed = [
     'entity',
     'entoil',
     'entomb',
-    'entoms',
     'entrap',
     'entree',
     'enured',
@@ -3388,7 +3386,6 @@ let missed = [
     'envoys',
     'enwind',
     'enwomb',
-    'enwove',
     'enwrap',
     'enzyme',
     'eolith',
@@ -9856,9 +9853,8 @@ let missed = [
     'razzed',
     'razzes',
     'razzia',
-    'reachs',
     'reacts',
-    'readds',
+    'readds', // scrabble only
     'reader',
     'reagin',
     'reales',
@@ -13008,12 +13004,9 @@ let missed = [
     'trails',
     'trains',
     'traits',
-    'tramal',
-    'tramas',
     'tramps',
     'trance',
     'tranks',
-    'transe',
     'trapan',
     'trapes',
     'trappy',
@@ -13028,8 +13021,6 @@ let missed = [
     'treble',
     'trebly',
     'treens',
-    'trefle',
-    'tremie',
     'tremor',
     'trench',
     'trends',
@@ -14550,152 +14541,196 @@ const lines = [];
 
 // Add async here
 // async function writeToFile() { //TODO run EYEING 100
-for (const word of missed.splice(missed.indexOf('fetish') + 1, 100)) {
-    const url = `https://www.merriam-webster.com/dictionary/${word}`;
+// for (const word of missed.splice(missed.indexOf('funner') + 1, 100)) {
+//     const url = `https://www.merriam-webster.com/dictionary/${word}`;
 
-    fixture`// ${word}`
-        .page`${url}}`;
+//     fixture`// ${word}`
+//         .page`${url}}`;
 
-    test(`check if ${word} is in meriam-webster`, async (t) => {
-        const definitions = Selector('h1.mispelled-word');
-        const definitionsCount = await definitions.count;
-        for (let i = 0; i < definitionsCount; i++) {
-            console.error(`invalid: ${word}`);
-            lines.push("'" + word + "',");
-        }
-    });
-}
+//     test(`check if ${word} is in meriam-webster`, async (t) => {
+//         const definitions = Selector('h1.mispelled-word');
+//         const definitionsCount = await definitions.count;
+//         for (let i = 0; i < definitionsCount; i++) {
+//             console.error(`${word}`);
+//             lines.push("'" + word + "',");
+//         }
+//     });
+// }
 // }
 
 // writeToFile();
 // lines.forEach(console.log);
 // fs.writeFileSync(fileName, lines.join('\n'))
 
+
+
 // https://scrabble.merriam.com/finder/${word}
+const scrabble = [
+    'galeae',
+    'frousy',
+    'fuages',
+    'fubbed',
+    'fumage',
+    'fumers',
+    'frikeh',
+    'freres',
+    'fritta',
+    'fritts',
+    'frites',
+    'frouzy',
+    'fraena',
+    'fraena',
+    'foutre',
+    'frails',
+    'enbies',
+    'encycl',
+    'encycs',
+    'enders',
+    'engawa',
+    'enoses',
+    'entera',
+    'entoms',
+    'dacker',
+    'dadded',
+    'dagged',
+    'dakoit',
+    'dalans',
+    'dalets',
+    'dallan',
+    'dammer',
+    'daruma',
+    'dasted',
+    'dauted',
+    'debags',
+    'decime',
+    'deckel',
+    'deelie',
+    'defoam',
+    'deguts',
+    'deking',
+    'delink',
+    'demoth',
+    'depill',
+    'depulp',
+    'derped',
+    'dertra',
+    'derust',
+    'deslum',
+    'desmog',
+    'destem',
+    'devine',
+    'dewire',
+    'dhamma',
+    'dhooti',
+    'dhurna',
+    'dhutis',
+    'diable',
+    'dibses',
+    'dieing',
+    'dikier',
+    'dioons',
+    'dixits',
+    'doated',
+    'doater',
+    'dobies',
+    'dogeys',
+    'dolces',
+    'domals',
+    'donnas',
+    'dorjes',
+    'dosers',
+    'dossil',
+    'dottel',
+    'doumas',
+    'douras',
+    'dowery',
+    'dowily',
+    'drangs',
+    'dreegh',
+    'dreigh',
+    'dromon',
+    'droved',
+    'drungs',
+    'duffed',
+    'dukkha',
+    'dumbos',
+    'dupers',
+    'dupped',
+    'durion',
+    'durrie',
+    'durums',
+    'dvijas',
+    'dwighs',
+    'dyable',
+    'dyings',
+    'dykier',
+    'dyking',
+    'dynams',
+    'ecchis',
+    'eceses',
+    'echoer',
+    'ecoles',
+    'ediles',
+    'eikons',
+    'elfins',
+    'elints',
+    'ellipt',
+    'eloins',
+    'eluvia',
+    'embars',
+    'emeers',
+    'emince',
+    'fuzees',
+    'fyttes',
+    'eonism',
+    'epigon',
+    'etapes',
+    'etchis',
+    'ethals',
+    'etwees',
+    'eusols',
+    'evoker',
+    'exodoi',
+    'exodos',
+    'exonym',
+    'eyalet',
+    'fakeer',
+    'facons',
+    'fabada',
+    'febres',
+    'fecits',
+    'faulds',
+    'feened',
+    'fessor',
+    'feuage',
+    'fifing',
+    'figger',
+    'filmis',
+    'fixies',
+    'fitspo',
+    'finito',
+    'fitspo',
+    'fixies',
+    'flench',
+    'flyted',
+    'flytes',
+    'folias',
+    'folies',
+];
+for (const word of scrabble.splice(0, 100)) {
+    const url = `https://scrabble.merriam.com/finder/${word}`;
 
-// enbies
-// encycl
-// encycs
-// enders
-// engawa
-// enoses
-// entera
-// entoms
-// enwove
-// dacker
-// dadded
-// dagged
-// dakoit
-// dalans
-// dalets
-// dallan
-// dammer
-// daruma
-// dasted
-// dauted
-// debags
-// decime
-// deckel
-// deelie
-// defoam
-// deguts
-// deking
-// delink
-// demoth
-// depill
-// depulp
-// derped
-// dertra
-// derust
-// deslum
-// desmog
-// destem
-// devine
-// dewire
-// dhamma
-// dhooti
-// dhurna
-// dhutis
-// diable
-// dibses
-// dieing
-// dikier
-// dioons
-// dixits
-// doated
-// doater
-// dobies
-// dogeys
-// dolces
-// domals
-// donnas
-// dorjes
-// dosers
-// dossil
-// dottel
-// doumas
-// douras
-// dowery
-// dowily
-// drangs
-// dreegh
-// dreigh
-// dromon
-// droved
-// drungs
-// duffed
-// dukkha
-// dumbos
-// dupers
-// dupped
-// durion
-// durrie
-// durums
-// dvaita
-// dvijas
-// dwighs
-// dyable
-// dyings
-// dykier
-// dyking
-// dynams
-// ecchis
-// eceses
-// echoer
-// ecoles
-// ediles
-// eikons
-// elfins
-// elints
-// ellipt
-// eloins
-// eluvia
-// embars
-// emeers
-// emince
+    fixture`// ${word}`
+        .page`${url}}`;
 
- // eonism
- 
-// invalid: epigon
-// invalid: etapes
-// invalid: etchis
-// invalid: ethals
-// invalid: etwees
-// invalid: eusols
- 
-// invalid: evoker
+    test(`check if ${word} is in meriam-webster`, async (t) => {
+        const definitions = Selector('div.play-no');
+        const definitionsCount = await definitions.count;
+        if (definitionsCount > 0) {
+            console.error(`${word}`);
+            lines.push("'" + word + "',");
+        }
+    });
+}
 
-// invalid: exodoi
-// invalid: exodos
-// invalid: exonym
-// invalid: eyalet
-
-// fakeer
-// facons
-// fabada
-
-// febres
-// fecits
-// faulds
-// feened
-// fessor
+lines.forEach(console.log);

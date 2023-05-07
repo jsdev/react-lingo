@@ -3,6 +3,7 @@ import {
   ChartBarIcon,
   CogIcon,
   InformationCircleIcon,
+  LightBulbIcon,
 } from '@heroicons/react/24/outline';
 
 import { ENABLE_ARCHIVED_GAMES } from '../../constants/settings';
@@ -10,6 +11,7 @@ import { GAME_TITLE } from '../../constants/strings';
 
 type Props = {
   setIsInfoModalOpen: (value: boolean) => void
+  setIsHintModalOpen: (value: boolean) => void
   setIsStatsModalOpen: (value: boolean) => void
   setIsDatePickerModalOpen: (value: boolean) => void
   setIsSettingsModalOpen: (value: boolean) => void
@@ -17,6 +19,7 @@ type Props = {
 
 export const Navbar = ({
   setIsInfoModalOpen,
+  setIsHintModalOpen,
   setIsStatsModalOpen,
   setIsDatePickerModalOpen,
   setIsSettingsModalOpen,
@@ -30,6 +33,13 @@ export const Navbar = ({
             onClick={() => setIsInfoModalOpen(true)}>
             <InformationCircleIcon
               className="h-6 w-6 dark:stroke-white"
+            />
+          </button>
+          <button
+            aria-label="Hints"
+            onClick={() => setIsHintModalOpen(true)}>
+            <LightBulbIcon
+              className="ml-3 h-6 w-6 dark:stroke-white"
             />
           </button>
           {ENABLE_ARCHIVED_GAMES && (

@@ -7924,10 +7924,6 @@ let missed = [
         complexity: "unknown"
     },
     {
-        word: "dvaita",
-        complexity: "College"
-    },
-    {
         word: "dwarfs",
         complexity: "Middle School"
     },

@@ -7923,10 +7923,6 @@ let missed = [
         complexity: "unknown"
     },
     {
-        word: "dvaita",
-        complexity: "College"
-    },
-    {
         word: "dwarfs",
         complexity: "Middle School"
     },
@@ -20092,7 +20088,7 @@ missed.forEach((word) => {
         const definitions = Selector('h1.mispelled-word');
         const definitionsCount = await definitions.count;
         for (let i = 0; i < definitionsCount; i++) {
-            console.error(`invalid: ${word}`);
+            console.error(`${word}`);
             lines.push("'" + word + "',");
         }
 

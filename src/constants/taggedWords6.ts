@@ -4685,6 +4685,12 @@ export const alphabet6 = {
       complexity: 'Middle School',
     },
     {
+      word: 'calxes',
+      isCapitalized: false,
+      isRoot: true,
+      complexity: 'Post College',
+    },
+    {
       word: 'camaca',
       isCapitalized: false,
       isRoot: true,
@@ -11586,12 +11592,6 @@ export const alphabet6 = {
       isCapitalized: false,
       isRoot: false,
       complexity: 'unknown',
-    },
-    {
-      word: 'dvaita',
-      isCapitalized: false,
-      isRoot: true,
-      complexity: 'College',
     },
     {
       word: 'dwarfs',
@@ -24288,12 +24288,6 @@ export const alphabet6 = {
       complexity: 'Post-College',
     },
     {
-      word: 'reachs',
-      isCapitalized: false,
-      isRoot: false,
-      complexity: 'Elementary',
-    },
-    {
       word: 'really',
       isCapitalized: false,
       isRoot: true,
@@ -27920,12 +27914,6 @@ export const alphabet6 = {
       isCapitalized: false,
       isRoot: true,
       complexity: 'Middle School',
-    },
-    {
-      word: 'transe',
-      isCapitalized: false,
-      isRoot: true,
-      complexity: 'Elementary',
     },
     {
       word: 'trapan',

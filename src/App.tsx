@@ -7,6 +7,7 @@ import Div100vh from 'react-div-100vh';
 import { AlertContainer } from './components/alerts/AlertContainer';
 import { Grid } from './components/grid/Grid';
 import { DatePickerModal } from './components/modals/DatePickerModal';
+import { HintModal } from './components/modals/HintModal';
 import { InfoModal } from './components/modals/InfoModal';
 import { MigrateStatsModal } from './components/modals/MigrateStatsModal';
 import { SettingsModal, complexityOptions } from './components/modals/SettingsModal';
@@ -90,6 +91,7 @@ function App() {
   const [currentGuess, setCurrentGuess] = useState(isHardMode ? defaultHardGuess : '');
   const [isGameWon, setIsGameWon] = useState(false);
   const [isInfoModalOpen, setIsInfoModalOpen] = useState(false);
+  const [isHintModalOpen, setIsHintModalOpen] = useState(false);
   const [isStatsModalOpen, setIsStatsModalOpen] = useState(false);
   const [isDatePickerModalOpen, setIsDatePickerModalOpen] = useState(false);
   const [isMigrateStatsModalOpen, setIsMigrateStatsModalOpen] = useState(false);
@@ -143,7 +145,9 @@ function App() {
   const [hint, setHint] = useState('');
 
   useEffect(() => {
-    import(`./definitions/${solution.toLowerCase()}`).then((module) => {
+    const lowerCaseSolution = solution.toLowerCase();
+    const twoLetter = lowerCaseSolution.slice(0, 2);
+    import(`./definitions/6/${twoLetter[0]}/${twoLetter}/${lowerCaseSolution}`).then((module) => {
       // const definition = getRandomString(module?.definitions)
       const synonym = getRandomString(module?.synonyms);
 
@@ -425,6 +429,7 @@ function App() {
       <div className="flex h-full flex-col">
         <Navbar
           setIsInfoModalOpen={setIsInfoModalOpen}
+          setIsHintModalOpen={setIsHintModalOpen}
           setIsStatsModalOpen={setIsStatsModalOpen}
           setIsDatePickerModalOpen={setIsDatePickerModalOpen}
           setIsSettingsModalOpen={setIsSettingsModalOpen}
@@ -471,6 +476,10 @@ function App() {
           <InfoModal
             isOpen={isInfoModalOpen}
             handleClose={() => setIsInfoModalOpen(false)}
+          />
+          <HintModal
+            isOpen={isHintModalOpen}
+            handleClose={() => setIsHintModalOpen(false)}
           />
           <StatsModal
             isOpen={isStatsModalOpen}
