@@ -13305,7 +13305,6 @@ let missed = [
     'unbent',
     'unbind',
     'unbled',
-    'unbold',
     'unbolt',
     'unborn',
     'unbred',

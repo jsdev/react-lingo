@@ -9,7 +9,6 @@ type Props = {
   handleClose: () => void
 };
 
-
 export const dialogStyles = {
   display: 'grid',
   gridTemplateColumns: '1fr 1em',
@@ -63,7 +62,7 @@ export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
                       <XCircleIcon className="h-6 w-6 dark:stroke-white" />
                     </button>
                   </div>
-                  <div className="mt-2">{children}</div>
+                  <div className="mt-2 text-gray-900 dark:text-gray-100">{children}</div>
                 </div>
               </div>
             </div>

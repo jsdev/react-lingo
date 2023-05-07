@@ -19170,11 +19170,6 @@ let missed = [
         complexity: "Elementary"
     },
     {
-        word: "unbold",
-        isCapitalized: true,
-        complexity: "Elementary"
-    },
-    {
         word: "uncalm",
         isCapitalized: true,
         complexity: "Middle School"

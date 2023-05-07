@@ -28247,12 +28247,6 @@ export const alphabet6 = {
     complexity: 'Elementary',
   },
   {
-    word: 'unbold',
-    isCapitalized: true,
-    isRoot: false,
-    complexity: 'Elementary',
-  },
-  {
     word: 'uncalm',
     isCapitalized: true,
     isRoot: false,
@@ -30441,12 +30435,6 @@ export const taggedWords6 = [
 //         isCapitalized: true,
 //         isRoot: false,
 //         complexity: "unknown"
-//     },
-//     {
-//         word: "unbold",
-//         isCapitalized: true,
-//         isRoot: false,
-//         complexity: "Elementary"
 //     },
 //     {
 //         word: "uncalm",

@@ -75,7 +75,7 @@ export const SettingsModal = ({
           <select
             id="keyboard"
             className="bg-transparent dark:text-gray-300"
-            value={keyboardMode || 'ALPHABET'}
+            value={keyboardMode || 'QWERTY'}
             onChange={handleKeyboardMode}
           >
             <option value="ALPHABET">ALPHABET</option>
