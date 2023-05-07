@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55650],{655650:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"our house in London has been burgled"'],t=["break into","rob","loot","plunder","rifle","sack","ransack","pillage","force (an) entry into","force one's way into","steal from"]}}]);
+//# sourceMappingURL=55650.8936ec84.chunk.js.map

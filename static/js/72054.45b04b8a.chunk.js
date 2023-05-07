@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72054],{272054:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"a sporty outfit"','"a sporty red coupe"'],s=["stylish","smart","jaunty","casual","informal","formal","dressy","fast","speedy","slow","athletic","fit","active","energetic","outdoor","hearty","unfit","lazy"]}}]);
-//# sourceMappingURL=72054.45b04b8a.chunk.js.map

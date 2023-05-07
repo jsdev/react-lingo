@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/47823.851d056f.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,wBACA,6BAEWC,EAAW,E","sources":["definitions/growly.js"],"sourcesContent":["export const definitions = [\n  '\"a deep growly voice\"',\n  '\"a large and growly bear\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

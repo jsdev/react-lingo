@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97226],{97226:function(i,n,t){t.r(n),t.d(n,{definitions:function(){return e},synonyms:function(){return o}});var e=['"there are a number of caveats which concern the validity of the assessment results"'],o=["warning","caution","admonition","monition","red flag","alarm bells","proviso","condition","stipulation","provision","clause","rider","qualification","restriction","reservation","limitation","strings"]}}]);
-//# sourceMappingURL=97226.23382bda.chunk.js.map

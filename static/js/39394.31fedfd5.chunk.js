@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39394],{39394:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"they deeded their property to their children"'],r=["transfer","grant","cede","devolve","lease","bequeath","leave","will","pass on","demise","devise","give the right/title of"]}}]);
+//# sourceMappingURL=39394.31fedfd5.chunk.js.map

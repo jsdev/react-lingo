@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78816],{78816:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"it was a fun evening"'],a=["enjoyable","amusing","diverting","pleasurable","pleasing","agreeable","interesting","entertaining","lively","fun-loving","witty","convivial","clubbable","boring","serious"]}}]);
+//# sourceMappingURL=78816.9ca59454.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48679],{48679:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return s}});var o=['"I\'m going to see a wee lassie tonight"'],s=["girl","young lady","miss","colleen","maid","maiden","damsel","wench","young woman"]}}]);
-//# sourceMappingURL=48679.6a3371e2.chunk.js.map

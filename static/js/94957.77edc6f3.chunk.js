@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94957],{94957:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return c}});var i=['"the candlelit cocktail party was pretty bougie"'],c=[]}}]);
+//# sourceMappingURL=94957.77edc6f3.chunk.js.map

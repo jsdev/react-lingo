@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/16021.865ab2c9.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,iEACA,mBAEWC,EAAW,E","sources":["definitions/nimbus.js"],"sourcesContent":["export const definitions = [\n  '\"a nimbus of power played around him, brighter than lightning\"',\n  '\"nimbus clouds\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

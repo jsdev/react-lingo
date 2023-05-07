@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3997],{303997:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"differences in credal formulation between the two traditions"'],r=[]}}]);
+//# sourceMappingURL=3997.ce8dcc66.chunk.js.map

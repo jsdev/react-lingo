@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93017],{693017:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return r},synonyms:function(){return a}});var r=['"the most powerful weapon in our armory"','"his armory of comic routines"'],a=["arsenal","ordnance depot","magazine","arms depot","arms cache","ammunition dump"]}}]);
-//# sourceMappingURL=93017.2a738cf6.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41287],{141287:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return u},synonyms:function(){return t}});var u=['"she sat down carefully so she wouldn\'t muss her clothes"'],t=["ruffle","tousle","dishevel","rumple","mess up","make a mess of","disarrange","tumble","disorder","make untidy","put out of place","tidy"]}}]);
+//# sourceMappingURL=41287.4cdb3b9a.chunk.js.map

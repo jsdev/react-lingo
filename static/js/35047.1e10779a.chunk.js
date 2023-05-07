@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35047],{435047:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=[],s=["skull","brain","head","brain case"]}}]);
+//# sourceMappingURL=35047.1e10779a.chunk.js.map

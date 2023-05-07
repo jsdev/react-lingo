@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12810],{512810:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return o},synonyms:function(){return i}});var o=[],i=["housecoat","bathrobe","robe","negligee","dressing gown","peignoir","robe de chambre"]}}]);
+//# sourceMappingURL=12810.f4b527fd.chunk.js.map

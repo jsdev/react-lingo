@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93787],{293787:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"the Ganges is hallowed as a sacred, cleansing river"','"the priest hallowed the wine"','"a theater is a sort of church, hallowing the land on which it sits by its very presence"'],s=[]}}]);
+//# sourceMappingURL=93787.c0cdcad9.chunk.js.map

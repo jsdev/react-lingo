@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26850],{26850:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"his plans turned into a fiasco"'],i=["failure","disaster","catastrophe","debacle","shambles","farce","mess","wreck","ruin","ruination","blunder","botch","abortion","success"]}}]);
+//# sourceMappingURL=26850.b40d6b6e.chunk.js.map

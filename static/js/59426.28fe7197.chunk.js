@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59426],{59426:function(r,e,a){a.r(e),a.d(e,{definitions:function(){return n},synonyms:function(){return t}});var n=['"Scandinavian raiders put down their roots in Cumbria"','"masked raiders burst into the 100-seater restaurant"'],t=["attacker","assailant","robber","burglar","thief","housebreaker","plunderer","pillager","looter","marauder","ransacker","invader","holdupper","reaver","sacker"]}}]);
-//# sourceMappingURL=59426.28fe7197.chunk.js.map

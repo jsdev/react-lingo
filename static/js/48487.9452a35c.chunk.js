@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48487],{748487:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return a}});var s=[],a=["old man","senior citizen","pensioner","grandfather","grandsire","ancient","senex","elderly man","OAP","bodach","boss","manager","manageress","foreman","forewoman","overseer","controller","supervisor","superintendent","ganger"]}}]);
-//# sourceMappingURL=48487.9452a35c.chunk.js.map

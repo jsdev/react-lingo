@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68273],{468273:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"a shade of vivid cerise"','"a bright cerise suit"'],s=[]}}]);
+//# sourceMappingURL=68273.c018649c.chunk.js.map

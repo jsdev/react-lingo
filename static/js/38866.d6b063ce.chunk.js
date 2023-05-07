@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38866],{38866:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=[],t=["investor","speculator","capitalist","industrialist","tycoon","magnate","business person","businessman","businesswoman","stockbroker","clerk","bank clerk","teller","treasurer","bursar","purser","accountant","bookkeeper","controller","bank teller"]}}]);
+//# sourceMappingURL=38866.d6b063ce.chunk.js.map

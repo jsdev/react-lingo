@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42556],{542556:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return s},synonyms:function(){return r}});var s=['"cattle graze on the open meadows"','"llamas graze the tufts of grass"','"shepherds who grazed animals on common land"','"advertisers should not encourage children to graze on snacks or sweets"','"we grazed up and down the channels"'],r=["feed","eat","crop","browse","ruminate","pasture","nibble","take nourishment"]}}]);
+//# sourceMappingURL=42556.0e546737.chunk.js.map

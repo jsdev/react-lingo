@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/23275.bfa0fe72.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,wCACA,kBAEWC,EAAW,E","sources":["definitions/6/n/ne/nectar.js"],"sourcesContent":["export const definitions = [\n  '\"the cold beer at the pub was nectar\"',\n  '\"peach nectar\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

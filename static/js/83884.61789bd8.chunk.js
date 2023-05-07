@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83884],{183884:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"we were sitting on dhurries by the pond"'],a=["rug","runner","carpet","drugget","doormat","hearthrug","bath mat","rag rug","scatter rug","bearskin","sheepskin","numdah","kilim","flokati","Soumak","floorcloth","kaross","welcome mat"]}}]);
-//# sourceMappingURL=83884.61789bd8.chunk.js.map

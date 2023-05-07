@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/85516.9b4f9020.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kEAEWC,EAAW,E","sources":["definitions/cracky.js"],"sourcesContent":["export const definitions = [\n  '\"he could carry dirty dishes with the best of them, by cracky\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

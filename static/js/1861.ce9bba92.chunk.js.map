@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/1861.ce9bba92.chunk.js","mappings":"+LAAO,IAAMA,EAAc,CACzB,+BAEWC,EAAW,E","sources":["definitions/sensei.js"],"sourcesContent":["export const definitions = [\n  '\"Sensei Ritchie began work\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

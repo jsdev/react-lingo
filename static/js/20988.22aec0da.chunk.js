@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20988],{520988:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"I thought it was fantastic that he took the trouble to text me"','"stricter regulations against texting while driving"'],r=[]}}]);
+//# sourceMappingURL=20988.22aec0da.chunk.js.map

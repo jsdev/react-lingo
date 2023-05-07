@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59724],{959724:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return i},synonyms:function(){return s}});var i=['"a carp angler"'],s=["fisherman","fisher","piscator"]}}]);
-//# sourceMappingURL=59724.57507b63.chunk.js.map

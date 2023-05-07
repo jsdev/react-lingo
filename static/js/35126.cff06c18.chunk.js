@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35126],{35126:function(n,t,o){o.r(t),o.d(t,{definitions:function(){return i},synonyms:function(){return u}});var i=['"his boat would cut mine in two and I\'d go for a burton"'],u=[]}}]);
+//# sourceMappingURL=35126.cff06c18.chunk.js.map

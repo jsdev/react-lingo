@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[95920],{595920:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return c}});var o=['"the coolth of the evening"','"the pinnacle of 1960s coolth"'],c=["assured"]}}]);
-//# sourceMappingURL=95920.0c662c32.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74543],{274543:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return l},synonyms:function(){return o}});var l=['"her eyes were green flecked with amber"','"amber eyes"','"the lights were at amber"'],o=["yellowish","yellowy","lemon","lemony","gold","golden","blond","fair","flaxen","light brown"]}}]);
-//# sourceMappingURL=74543.71dd680e.chunk.js.map

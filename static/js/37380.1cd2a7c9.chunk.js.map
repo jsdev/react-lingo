@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/37380.1cd2a7c9.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,yDAEWC,EAAW,E","sources":["definitions/arcana.js"],"sourcesContent":["export const definitions = [\n  '\"his knowledge of federal budget arcana is legendary\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

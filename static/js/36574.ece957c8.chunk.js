@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36574],{536574:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"a chicken breast fillet"','"roast fillet of lamb"','"a splayed mortar fillet at the junction of the roof with the chimney stack"','"a fillet weld"'],r=["crown","coronet","tiara","circlet","chaplet","headpiece","headband","wreath","garland","coronal","taj"]}}]);
-//# sourceMappingURL=36574.ece957c8.chunk.js.map

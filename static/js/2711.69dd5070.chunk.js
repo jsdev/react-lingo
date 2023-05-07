@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2711],{602711:function(n,e,l){l.r(e),l.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"her long flaxen hair"'],r=["yellowish","yellowy","lemon","lemony","amber","gold","golden","blond","fair","light brown"]}}]);
+//# sourceMappingURL=2711.69dd5070.chunk.js.map

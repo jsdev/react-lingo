@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32087],{432087:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return n},synonyms:function(){return i}});var n=['"Walker retells the history of the world from the black perspective"'],i=["recite","repeat","reproduce","restate","echo","iterate","parrot","take","extract","excerpt","derive","misquote","ingeminate","say again"]}}]);
-//# sourceMappingURL=32087.c2aaebe7.chunk.js.map

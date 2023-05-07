@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17898],{717898:function(e,a,n){n.r(a),n.d(a,{definitions:function(){return t},synonyms:function(){return s}});var t=['"he found his mother dozing by the fire"','"I dozed off for a few seconds"'],s=["catnap","nap","drowse","rest","slumber","take a nap","take a siesta","sleep lightly","be awake","go to sleep","drop off","get to sleep","fall asleep","wake up","stay awake"]}}]);
+//# sourceMappingURL=17898.32355d7b.chunk.js.map

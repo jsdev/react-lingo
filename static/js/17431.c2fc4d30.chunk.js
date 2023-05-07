@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17431],{617431:function(a,n,e){e.r(n),e.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"you jest, surely?"','""I don\'t know about maturing," jests William"'],t=["joke","crack","quip","gag","sally","pun","banter","fool","fool around","tease","hoax","tell jokes","crack jokes","play a prank","play a practical joke"]}}]);
-//# sourceMappingURL=17431.c2fc4d30.chunk.js.map

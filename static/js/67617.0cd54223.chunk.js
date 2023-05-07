@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67617],{267617:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"Childe Harold"'],t=[]}}]);
+//# sourceMappingURL=67617.0cd54223.chunk.js.map

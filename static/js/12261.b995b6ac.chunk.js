@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12261],{612261:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return i},synonyms:function(){return t}});var i=['"a phasor diagram"'],t=[]}}]);
-//# sourceMappingURL=12261.b995b6ac.chunk.js.map

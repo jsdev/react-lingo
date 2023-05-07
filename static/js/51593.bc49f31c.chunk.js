@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51593],{451593:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return l}});var t=['"in the sea of life enisled, we mortal millions live alone"'],l=[]}}]);
-//# sourceMappingURL=51593.bc49f31c.chunk.js.map

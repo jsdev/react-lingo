@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17970],{117970:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return s},synonyms:function(){return u}});var s=['"students with autism want to be accepted like every other student"','"her oldest daughter has autism"'],u=[]}}]);
+//# sourceMappingURL=17970.0e5dcd05.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38915],{538915:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the Jazz Club presents a new sextet"','"the sextet from "The Marriage of Figaro""','"a sextet of new releases"'],r=["group","band","orchestra","combo","company","troupe","cast","chorus","corps","circle","association","duo","trio","quartet","quintet","septet","octet","nonet"]}}]);
-//# sourceMappingURL=38915.cc33341b.chunk.js.map

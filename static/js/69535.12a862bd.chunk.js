@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[69535],{769535:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=[],r=["pool","lake","pond","waterbody","loch","tank","water supply"]}}]);
-//# sourceMappingURL=69535.12a862bd.chunk.js.map

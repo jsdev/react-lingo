@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67738],{567738:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"that emetic music in department stores"'],r=[]}}]);
+//# sourceMappingURL=67738.63d2dac8.chunk.js.map

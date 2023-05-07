@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76937],{977203:function(e,r,s){s.r(r),s.d(r,{definitions:function(){return t},synonyms:function(){return a}});var t=['"a drove of cattle"','"tourists have stayed away in droves this summer"'],a=["herd","flock","pack","fold","crowd","swarm","horde","multitude","mob","throng","host","mass","army","collection","gathering","assembly","company","rabble","herd","crush","press","stream","sea"]}}]);
+//# sourceMappingURL=76937.e30a7123.chunk.js.map

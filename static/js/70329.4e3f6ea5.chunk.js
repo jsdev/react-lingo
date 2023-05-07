@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70329],{579618:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return u},synonyms:function(){return f}});var u=['"her eyes were puffy and full of tears"','"small puffy clouds"','"a puffy blue ski jacket"','"his breath was puffy and fast"'],f=["swollen","puffed up","distended","enlarged","full","inflated","dilated","bloated","engorged","bulging","baggy","tumid","turgescent","tumescent","tumefied","edematous","ventricose"]}}]);
-//# sourceMappingURL=70329.4e3f6ea5.chunk.js.map

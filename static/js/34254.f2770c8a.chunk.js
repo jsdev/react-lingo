@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34254],{434254:function(e,t,s){s.r(t),s.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"the stock collapsed and was delisted"','"stores may delist products or their manufacturers decline to supply their usual outlets"'],r=[]}}]);
-//# sourceMappingURL=34254.f2770c8a.chunk.js.map

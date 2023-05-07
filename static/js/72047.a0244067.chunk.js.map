@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/72047.a0244067.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gEAEWC,EAAW,E","sources":["definitions/setose.js"],"sourcesContent":["export const definitions = [\n  '\"each segment has a white setose patch under its distal end\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

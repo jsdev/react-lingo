@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59678],{459678:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return s},synonyms:function(){return a}});var s=['"my ex is a total psycho"','"there\'s some kind of psycho shark out there"','"psychobabble"','"psychometrics"'],a=["maniac","lunatic","psychotic","sociopath","madman/madwoman","mad person","deranged person"]}}]);
+//# sourceMappingURL=59678.d685cfe8.chunk.js.map

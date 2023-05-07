@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40484],{40484:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"when the news came out they were aghast"'],a=["horrified","appalled","astounded","amazed","dismayed","thunderstruck","stunned","shocked","shell-shocked","flabbergasted","staggered","speechless","awestruck","open-mouthed","wide-eyed","in shock","taken aback"]}}]);
+//# sourceMappingURL=40484.adf1dc93.chunk.js.map

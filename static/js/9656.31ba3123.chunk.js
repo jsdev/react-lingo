@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9656],{309656:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return a}});var i=['"the paper is a minnow in the national newspaper mass market"'],a=[]}}]);
+//# sourceMappingURL=9656.31ba3123.chunk.js.map

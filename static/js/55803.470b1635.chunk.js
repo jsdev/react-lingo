@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55803],{655803:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"we have filled up almost half of our bodega"'],u=[]}}]);
+//# sourceMappingURL=55803.470b1635.chunk.js.map

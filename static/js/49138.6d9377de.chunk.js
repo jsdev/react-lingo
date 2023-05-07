@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49138],{449138:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"she cozied him, pretending to find him irresistibly attractive"','"almost everyone loves to cozy up to a roaring fire"','"I shall have a certain lovely lady to cozy up with"','"he decided to resign rather than cozy up to hard-liners in the party"'],r=[]}}]);
+//# sourceMappingURL=49138.6d9377de.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55330],{955330:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return o},synonyms:function(){return t}});var o=['"Se\xf1ora Dolores"'],t=[]}}]);
-//# sourceMappingURL=55330.6d12a184.chunk.js.map

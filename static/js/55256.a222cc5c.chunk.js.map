@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/55256.a222cc5c.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gBAEWC,EAAW,E","sources":["definitions/rapier.js"],"sourcesContent":["export const definitions = [\n  '\"rapier wit\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

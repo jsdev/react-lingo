@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84901],{84901:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"many prisoners were taken out and piked"'],r=["beg off","pull out of","back out of","bow out of","scratch from","get cold feet","recede from"]}}]);
+//# sourceMappingURL=84901.9fc0d0a1.chunk.js.map

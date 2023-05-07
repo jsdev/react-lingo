@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[69302],{369302:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"questions that cannot be answered by mere mortals"','"it happened a mere decade ago"','"the merest hint of makeup"'],r=["trifling","meager","bare","trivial","paltry","basic","scant","scanty","skimpy","minimal","slender","just","only","no more than"]}}]);
+//# sourceMappingURL=69302.0eb6e91c.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44812],{944812:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the seals come ashore to breed"','"we spent the day ashore"'],r=["shorewards","landwards","onto (the) land","onto the shore","toward the shore","on the shore","on the beach","on (the) land","on dry land"]}}]);
-//# sourceMappingURL=44812.fe0f1704.chunk.js.map

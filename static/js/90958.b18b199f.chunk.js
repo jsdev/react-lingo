@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90958],{390958:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"a system of detents is used to ensure that gears are held in whatever position is selected"','"a detent spring"'],i=[]}}]);
-//# sourceMappingURL=90958.b18b199f.chunk.js.map

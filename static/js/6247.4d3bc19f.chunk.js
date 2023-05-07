@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6247],{6247:function(e,o,n){n.r(o),n.d(o,{definitions:function(){return f},synonyms:function(){return t}});var f=['"Lisa kept her voice devoid of emotion"'],t=["lacking","without","wanting","in need of","free from/of","empty of","vacant of","void of","bare of","barren of","bereft of","drained of","denuded of","deprived of","depleted of","destitute of","bankrupt of"]}}]);
-//# sourceMappingURL=6247.4d3bc19f.chunk.js.map

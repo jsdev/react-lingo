@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/78524.1cbf971d.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,wBAEWC,EAAW,E","sources":["definitions/tipper.js"],"sourcesContent":["export const definitions = [\n  '\"he\\'s a big tipper\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

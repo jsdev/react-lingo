@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/36184.e0c95588.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACtB,SACA,SACA,OACA,iBACA,c","sources":["definitions/6/m/ma/manger.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n  'trough',\n  'feeder',\n  'crib',\n  'feeding trough',\n  'fodder rack',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

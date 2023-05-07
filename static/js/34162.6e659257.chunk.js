@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34162],{834162:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"Bridget beavered away to keep things running smoothly"'],r=["toil","labor","work one's fingers to the bone","keep 's 's nose to the grindstone","grind","slave","grub","plow","plod","peg","drudge","travail","moil","work hard","work like a Trojan/dog","work day and night","exert oneself","keep at it","take it easy"]}}]);
+//# sourceMappingURL=34162.6e659257.chunk.js.map

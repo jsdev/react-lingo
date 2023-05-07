@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/89203.ee4e314e.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gCAEWC,EAAW,E","sources":["definitions/finito.js"],"sourcesContent":["export const definitions = [\n  '\"it\\'s all done—finito\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

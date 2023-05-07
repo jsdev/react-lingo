@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7770],{207770:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=[],o=["bearer","conveyor","transporter","porter","runner","courier","haulier","delivery man","delivery woman"]}}]);
-//# sourceMappingURL=7770.10b33f7c.chunk.js.map

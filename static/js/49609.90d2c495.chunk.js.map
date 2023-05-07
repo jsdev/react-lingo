@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/49609.90d2c495.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,4DAEWC,EAAW,E","sources":["definitions/busker.js"],"sourcesContent":["export const definitions = [\n  '\"on any given corner you will be entertained by buskers\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

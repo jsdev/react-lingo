@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61196],{761196:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the theory that high-rise architecture leads to anomie in the residents"'],r=[]}}]);
+//# sourceMappingURL=61196.0cda9fcc.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44683],{944683:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"the tax was to be delivered in two moieties"','"the enzyme removes the sulfate moiety"'],o=["share","slice","quota","part","bit","percentage","amount","quantity","ration","piece","fraction","division","subdivision","allocation","allotment","measure","apportionment","quantum"]}}]);
+//# sourceMappingURL=44683.0b3e226e.chunk.js.map

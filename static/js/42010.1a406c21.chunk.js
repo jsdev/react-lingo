@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42010],{442010:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"he battled gamely but was outclassed by his more experienced opponent"','"I scribbled madly, gamely trying to keep up"'],r=[]}}]);
+//# sourceMappingURL=42010.1a406c21.chunk.js.map

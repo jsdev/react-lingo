@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9866],{909866:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return c},synonyms:function(){return t}});var c=['"a passable bottle of claret"','"the prices of 1990 clarets"'],t=["scarlet","red","crimson","vermilion","cinnabar","wine","vermeil","wine-colored","claret red","claret-colored"]}}]);
+//# sourceMappingURL=9866.873d1bce.chunk.js.map

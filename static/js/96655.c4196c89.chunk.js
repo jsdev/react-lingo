@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96655],{396655:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return u}});var r=['"he buffed the glass until it gleamed"','"there are cards that\'ll buff your troops"'],u=["polish","burnish","rub","smooth","shine","wipe","clean","rub up"]}}]);
-//# sourceMappingURL=96655.c4196c89.chunk.js.map

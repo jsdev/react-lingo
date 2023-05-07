@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65464],{865464:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return n},synonyms:function(){return a}});var n=['"she advised him not to dicker over the extra fee"','"there was no dickering with the lyrics"'],a=["haggle","barter","negotiate","deal","wheel and deal","trade","traffic","treat","chaffer","palter","discuss terms","hold talks"]}}]);
+//# sourceMappingURL=65464.947d8f2e.chunk.js.map

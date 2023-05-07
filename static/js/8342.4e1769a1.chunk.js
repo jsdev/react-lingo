@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8342],{8342:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"the countryside is ablaze with color in autumn"','"autumn leaves"','"he was in the autumn of his life"'],a=["decline","waning","downturn","ebb","final years","closing years","last years","peak","height"]}}]);
-//# sourceMappingURL=8342.4e1769a1.chunk.js.map

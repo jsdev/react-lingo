@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/4083.451c2d1c.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,4DAEWC,EAAW,E","sources":["definitions/factum.js"],"sourcesContent":["export const definitions = [\n  '\"the factum of the intervener shall not exceed 20 pages\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

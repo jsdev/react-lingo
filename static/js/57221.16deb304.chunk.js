@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57221],{257221:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"a data logger"'],i=[]}}]);
+//# sourceMappingURL=57221.16deb304.chunk.js.map

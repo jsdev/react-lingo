@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55496],{955496:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return i},synonyms:function(){return n}});var i=['"video projectors provided extremely blurry images"','"vision may be hazy or blurry for a few days after surgery"','"their eyes were blurry with tears"','"there\'s a very blurry line between art and advertising"','"my memories of him are blurry at best"'],n=[]}}]);
-//# sourceMappingURL=55496.7f1690c6.chunk.js.map

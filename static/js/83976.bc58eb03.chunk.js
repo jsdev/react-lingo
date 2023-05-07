@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83976],{183976:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"a wall sconce"','"the sconces burning in the passage provided some light"'],t=[]}}]);
+//# sourceMappingURL=83976.bc58eb03.chunk.js.map

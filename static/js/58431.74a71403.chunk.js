@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58431],{458431:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=[],t=["embryo","fertilized egg","unborn baby","unborn child"]}}]);
-//# sourceMappingURL=58431.74a71403.chunk.js.map

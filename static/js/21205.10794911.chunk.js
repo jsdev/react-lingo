@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21205],{621205:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"you could live here and look after me in my dotage"'],s=["declining years","old age","elderliness","oldness","senescence","senility","superannuation","decrepitude","second childhood","eld","caducity","winter/autumn of one's life","advanced years","agedness","childhood"]}}]);
+//# sourceMappingURL=21205.10794911.chunk.js.map

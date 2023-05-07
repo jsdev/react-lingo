@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66696],{966696:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return c}});var i=['"at about 18 months my son became very clingy"','"clingy leggings"'],c=[]}}]);
+//# sourceMappingURL=66696.d6f46e4c.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7960],{907960:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"he is a choric commentator speaking with the wisdom of age"'],o=[]}}]);
+//# sourceMappingURL=7960.c0bddfb7.chunk.js.map

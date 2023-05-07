@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30724],{730724:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"outerwear is either a denim jacket or a hoodie"','"the hoodie croaked and flapped off"'],r=[]}}]);
+//# sourceMappingURL=30724.ed66c764.chunk.js.map

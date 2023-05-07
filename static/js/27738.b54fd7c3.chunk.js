@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27738],{527738:function(e,t,o){o.r(t),o.d(t,{definitions:function(){return n},synonyms:function(){return i}});var n=['"a footed bowl"','"a quick-footed American chappie"','"the rider was left to foot it ten or twelve miles back to camp"','"the dance of fairies, footing it to the cricket\'s song"'],i=[]}}]);
+//# sourceMappingURL=27738.b54fd7c3.chunk.js.map

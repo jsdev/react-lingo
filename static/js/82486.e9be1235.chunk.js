@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82486],{582486:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"a mission to encourage more public places to allow nudists"','"nudist beaches"','"a nudist camp"'],t=[]}}]);
+//# sourceMappingURL=82486.e9be1235.chunk.js.map

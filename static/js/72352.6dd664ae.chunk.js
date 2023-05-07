@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72352],{172352:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return u},synonyms:function(){return t}});var u=['"a George I Maundy fourpence"'],t=[]}}]);
-//# sourceMappingURL=72352.6dd664ae.chunk.js.map

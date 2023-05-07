@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[98639],{698639:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"I watched my colleagues abasing themselves before the board of trustees"'],r=["humble","humiliate","belittle","demean","lower","degrade","disgrace","disparage","debase","cheapen","discredit","mortify","demote","reduce","grovel","kowtow","bow and scrape","toady","fawn","bring low"]}}]);
-//# sourceMappingURL=98639.ad5eba59.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/9683.aece3a23.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,wFAEWC,EAAW,E","sources":["definitions/6/a/ap/apnoea.js"],"sourcesContent":["export const definitions = [\n  '\"the doctor said apnea occurred because of obstruction and narrowing of the trachea\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

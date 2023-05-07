@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64903],{964903:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"the mealies were as tall as my stretched arms"','"mealie pudding"','"they arrive each day to sell mealies"'],r=["sweetcorn","maize","corn on the cob","Indian corn"]}}]);
-//# sourceMappingURL=64903.7cea6474.chunk.js.map

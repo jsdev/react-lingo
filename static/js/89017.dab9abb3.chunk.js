@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89017],{389017:function(n,e,u){u.r(e),u.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=[],r=["embryo","bud","nucleus","seed","egg","ovum","ovule"]}}]);
+//# sourceMappingURL=89017.dab9abb3.chunk.js.map

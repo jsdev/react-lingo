@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10010],{910010:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a thermal imager"'],i=[]}}]);
+//# sourceMappingURL=10010.35e2d5fd.chunk.js.map

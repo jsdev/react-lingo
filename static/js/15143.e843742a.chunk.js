@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15143],{380271:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return a}});var i=['"no wrinkles marred her face"','"violence marred a number of New Year celebrations"'],a=[]}}]);
+//# sourceMappingURL=15143.e843742a.chunk.js.map

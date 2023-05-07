@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39358],{839358:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=["\"he would have forgotten the boy's birthday if you hadn't reminded him\" \xb7 [more]",'"his impassive, fierce stare reminded her of an owl"','"the bartender reminded them that singing was not permitted" \xb7 [more]'],r=[]}}]);
-//# sourceMappingURL=39358.7170a7be.chunk.js.map

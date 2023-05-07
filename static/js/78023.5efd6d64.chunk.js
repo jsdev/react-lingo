@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78023],{78023:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"a life-size cut-out"','"this film\'s protagonists are cardboard cutouts"','"the mains output socket is fitted into a suitable cut-out on the rear panel"','"there\'s a thermal cut - out to prevent overheating"'],o=[]}}]);
+//# sourceMappingURL=78023.5efd6d64.chunk.js.map

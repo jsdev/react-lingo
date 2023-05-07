@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96659],{96659:function(o,e,n){n.r(e),n.d(e,{definitions:function(){return l},synonyms:function(){return r}});var l=['"great dollops of cream"','"a dollop of romance here and there"','"Chekov stopped him from dolloping sugar into his coffee"'],r=["blob","glob","lump","clump","ball","mound","gobbet"]}}]);
+//# sourceMappingURL=96659.d8f5b4fb.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/94739.aed741ef.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,yDAEWC,EAAW,E","sources":["definitions/debeak.js"],"sourcesContent":["export const definitions = [\n  '\"debeaking is thought to cause chickens chronic pain\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

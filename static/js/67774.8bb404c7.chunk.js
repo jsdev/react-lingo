@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67774],{367774:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return o}});var r=['"a prominent denier of global warming"','"840 denier nylon"'],o=[]}}]);
+//# sourceMappingURL=67774.8bb404c7.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4177],{404177:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return a},synonyms:function(){return i}});var a=['"he regaled her with a colorful account of that afternoon\'s meeting"','"he was regaled with excellent home cooking"'],i=["entertain","amuse","divert","delight","fascinate","captivate","beguile","treat to","ply","fete","feast","cater for","serve","feed","supply lavishly","entertain lavishly/sumptuously","wine and dine"]}}]);
+//# sourceMappingURL=4177.e15ac285.chunk.js.map

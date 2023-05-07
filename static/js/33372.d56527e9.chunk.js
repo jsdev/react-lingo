@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33372],{833372:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return o},synonyms:function(){return a}});var o=['"the occasional schoolboy howler would amuse the examiners"'],a=["mistake","error","blunder","fault","gaffe","slip","slip of the pen","lapsus calami","malapropism","solecism"]}}]);
-//# sourceMappingURL=33372.d56527e9.chunk.js.map

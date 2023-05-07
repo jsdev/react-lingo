@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19191],{119191:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"he dialed 911"','"company employees dial out from their office"'],a=["telephone","phone","call","call up","ring","ring up","phone up","place a call to","make a call to","give someone a call","get on the phone to","get someone on the phone","give someone a ring"]}}]);
+//# sourceMappingURL=19191.54a8cb54.chunk.js.map

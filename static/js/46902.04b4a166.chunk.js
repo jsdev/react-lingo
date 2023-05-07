@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46902],{546902:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"her eyes dilated with horror"','"the woman dilated her nostrils"','"dilated pupils"'],i=["enlarge","widen","expand","distend","swell","become larger","become wider","contract"]}}]);
-//# sourceMappingURL=46902.04b4a166.chunk.js.map

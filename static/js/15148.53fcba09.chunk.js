@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15148],{315148:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"the three-liter engine has lots of torque"','"during the excitation of each phase the motor produces equal positive and negative torques"','"he gently torqued the hip joint"'],o=[]}}]);
+//# sourceMappingURL=15148.53fcba09.chunk.js.map

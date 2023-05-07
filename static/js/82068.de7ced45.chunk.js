@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82068],{782068:function(n,o,e){e.r(o),e.d(o,{definitions:function(){return c},synonyms:function(){return t}});var c=['"ringdoves cooed among the branches"','""I knew I could count on you," she cooed"','"I cruised the room, cooing at toddlers"'],t=[]}}]);
+//# sourceMappingURL=82068.de7ced45.chunk.js.map

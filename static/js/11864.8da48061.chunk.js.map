@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/11864.8da48061.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,8CACA,yBAEWC,EAAW,E","sources":["definitions/earful.js"],"sourcesContent":["export const definitions = [\n  '\"he gave his players an earful at halftime\"',\n  '\"an earful of static\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

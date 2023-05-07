@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/81938.b8d6bc42.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sBAEWC,EAAW,E","sources":["definitions/6/p/ph/phasor.js"],"sourcesContent":["export const definitions = [\n  '\"a phasor diagram\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

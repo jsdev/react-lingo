@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68003],{168003:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the dye is adsorbed onto the fiber"','"charcoal will not adsorb nitrates"'],i=[]}}]);
+//# sourceMappingURL=68003.645d8266.chunk.js.map

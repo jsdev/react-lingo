@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15645],{215645:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return o}});var i=['"we all geeked out for a bit and exchanged ICQ/MSN/AOL/website information"','"keep it simple or geek out and create multiple playlists on the move"','"I am totally geeking out over this upcoming film"'],o=[]}}]);
+//# sourceMappingURL=15645.e2d6af39.chunk.js.map

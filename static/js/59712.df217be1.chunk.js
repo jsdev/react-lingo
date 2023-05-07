@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59712],{959712:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=[],r=["entitlement","prerogative","privilege","advantage","due","birthright","liberty","authority","authorization","power","license","permission","dispensation","leave","consent","warrant","charter","franchise","sanction","exemption","immunity","indemnity","carte blanche"]}}]);
-//# sourceMappingURL=59712.df217be1.chunk.js.map

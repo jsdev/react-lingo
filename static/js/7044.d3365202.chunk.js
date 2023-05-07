@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7044],{807044:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return i},synonyms:function(){return t}});var i=[],t=["fiber","thread","strand","tendril","string","wire","cable","cord","fibril"]}}]);
+//# sourceMappingURL=7044.d3365202.chunk.js.map

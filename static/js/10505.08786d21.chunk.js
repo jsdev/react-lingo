@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10505],{210505:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return a}});var i=['"he dosed himself with vitamins"','"the champagne was dosed with sugar"'],a=["treat","medicate","soothe","cure","heal","tend","take care of","nurse","attend to","minister to","administer to","care for"]}}]);
+//# sourceMappingURL=10505.08786d21.chunk.js.map

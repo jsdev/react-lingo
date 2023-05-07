@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46932],{246932:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return a},synonyms:function(){return s}});var a=['"in Japan his pale eyes marked him as a gaijin"',"\"the sports dailies' vilification of the Tigers' gaijin manager\""],s=[]}}]);
-//# sourceMappingURL=46932.8af0df08.chunk.js.map

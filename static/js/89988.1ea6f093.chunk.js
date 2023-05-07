@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89988],{989988:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the warrior heroes of ancient Greece"','"when you return to downward dog after the first round, add warrior poses I and II"'],o=["fighter","soldier","serviceman","combatant","fighting man"]}}]);
+//# sourceMappingURL=89988.1ea6f093.chunk.js.map

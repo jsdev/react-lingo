@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10124],{510124:function(i,l,n){n.r(l),n.d(l,{definitions:function(){return e},synonyms:function(){return t}});var e=['"he was airily dismissive of the question"'],t=["lightly","breezily","flippantly","casually","nonchalantly","readily","heedlessly","uncaringly","indifferently","unthinkingly","light-heartedly","gaily","blithely","jauntily","cheerfully","without consideration","seriously","thoughtfully"]}}]);
+//# sourceMappingURL=10124.c37c7d86.chunk.js.map

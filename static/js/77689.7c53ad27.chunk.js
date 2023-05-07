@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77689],{477689:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"if necessary, samples of blood or feces will be taken"','"salmonella is found in the feces of many animals"'],a=["excrement","ordure","dung","manure","scat","excreta","stools","droppings","dirt","filth","muck","mess","night soil","feculence","bodily waste","waste matter","egesta"]}}]);
+//# sourceMappingURL=77689.7c53ad27.chunk.js.map

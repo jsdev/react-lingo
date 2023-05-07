@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47020],{747020:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the 3rd ultimo"'],r=[]}}]);
-//# sourceMappingURL=47020.cef6f666.chunk.js.map

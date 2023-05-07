@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53240],{553240:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return c}});var t=['"pancreatic acinar tissue"','"the acinar lung zone"'],c=[]}}]);
-//# sourceMappingURL=53240.b7f1fdcc.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15695],{115695:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=[],s=["cup","medal","prize","award","laurels","bays","palm","souvenir","memento","keepsake","reminder","record","relic","spoils","booty"]}}]);
-//# sourceMappingURL=15695.48af2f09.chunk.js.map

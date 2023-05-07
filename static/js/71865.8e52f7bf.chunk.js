@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71865],{271865:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return c}});var t=['"too many boards have become executive lapdogs"'],c=[]}}]);
+//# sourceMappingURL=71865.8e52f7bf.chunk.js.map

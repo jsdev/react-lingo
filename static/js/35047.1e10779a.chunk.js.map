@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/35047.1e10779a.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACtB,QACA,QACA,OACA,a","sources":["definitions/6/c/cr/crania.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n  'skull',\n  'brain',\n  'head',\n  'brain case',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

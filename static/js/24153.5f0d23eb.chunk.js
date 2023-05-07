@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24153],{724153:function(e,t,l){l.r(t),l.d(t,{definitions:function(){return n},synonyms:function(){return i}});var n=['"a ruthless killer still lurked in the darkness"','"fear lurks beneath the surface"'],i=["skulk","loiter","lie in wait","lie low","hide","take cover","sneak","sidle","slink","prowl","steal","conceal oneself","keep out of sight","move furtively","move with stealth"]}}]);
+//# sourceMappingURL=24153.5f0d23eb.chunk.js.map

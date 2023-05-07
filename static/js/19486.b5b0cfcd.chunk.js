@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19486],{619486:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return l},synonyms:function(){return r}});var l=[],r=["grassland","flatland","lowland","pasture","meadowland","prairie","savannah","tableland","tundra","pampas","campo","llano","vega","veld","pediplain","champaign","open country"]}}]);
+//# sourceMappingURL=19486.b5b0cfcd.chunk.js.map

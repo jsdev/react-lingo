@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96652],{96652:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the rest of the tables were in little alcoves around the bar"'],i=["recess","niche","nook","opening","bay","hollow","cavity","corner","indentation","booth","apse","inglenook"]}}]);
-//# sourceMappingURL=96652.e8d7d267.chunk.js.map

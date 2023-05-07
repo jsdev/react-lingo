@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50754],{50754:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"she bobbed a curtsy to him"','"she curtsied onto the stage"'],s=["bob","genuflection","courtesy","obeisance","bend the knee","bob","genuflect","drop a curtsy"]}}]);
+//# sourceMappingURL=50754.cfcbe971.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87402],{587402:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"we sold it for a bushel of money"','"packing oysters into bushel baskets"'],o=[]}}]);
-//# sourceMappingURL=87402.8ed7f095.chunk.js.map

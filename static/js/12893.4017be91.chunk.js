@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12893],{812893:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return s}});var t=['"these stones will help align chakras and improve emotional well being"'],s=[]}}]);
+//# sourceMappingURL=12893.4017be91.chunk.js.map

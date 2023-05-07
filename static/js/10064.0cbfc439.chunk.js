@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10064],{10064:function(n,i,r){r.r(i),r.d(i,{definitions:function(){return o},synonyms:function(){return s}});var o=['"a bone marrow biopsy"','"cirrhosis was confirmed by biopsy"'],s=[]}}]);
+//# sourceMappingURL=10064.0cbfc439.chunk.js.map

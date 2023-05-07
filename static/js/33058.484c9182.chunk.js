@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33058],{433058:function(o,n,e){e.r(n),e.d(n,{definitions:function(){return t},synonyms:function(){return f}});var t=['"don\'t let anyone foist inferior goods on you"'],f=["impose","force","thrust","offload","unload","dump","palm off","pass off","get rid of","fob off","shift onto","saddle someone with","land someone with","burden someone with","lumber someone with"]}}]);
-//# sourceMappingURL=33058.484c9182.chunk.js.map

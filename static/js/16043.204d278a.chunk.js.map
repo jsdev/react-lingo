@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/16043.204d278a.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mBAEWC,EAAW,CACtB,YACA,SACA,W","sources":["definitions/6/a/an/angler.js"],"sourcesContent":["export const definitions = [\n  '\"a carp angler\"',\n];\nexport const synonyms = [\n  'fisherman',\n  'fisher',\n  'piscator',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

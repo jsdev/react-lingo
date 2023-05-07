@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/99308.c4002ffb.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,qBAEWC,EAAW,E","sources":["definitions/6/o/om/omelet.js"],"sourcesContent":["export const definitions = [\n  '\"a cheese omelet\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

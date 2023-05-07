@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62747],{562747:function(n,o,a){a.r(o),a.d(o,{definitions:function(){return e},synonyms:function(){return r}});var e=['"the Grand Canyon"'],r=["ravine","gorge","gully","pass","defile","couloir","chasm","abyss","gulf","gulch","coulee","flume","arroyo","barranca","nullah","kloof","quebrada","khud","sloot","donga","khor"]}}]);
+//# sourceMappingURL=62747.87df3e02.chunk.js.map

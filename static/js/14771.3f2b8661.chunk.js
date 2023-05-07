@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[14771],{214771:function(r,n,e){e.r(n),e.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"park rangers"','"rangers of the mountains"'],a=["custodian","keeper","guardian","protector","preserver","curator"]}}]);
+//# sourceMappingURL=14771.3f2b8661.chunk.js.map

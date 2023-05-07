@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19911],{219911:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"she rubbed the ivory bangle on her wrist"'],a=["bracelet","wristlet","anklet","armlet","slave bangle","kara"]}}]);
+//# sourceMappingURL=19911.8eca91e1.chunk.js.map

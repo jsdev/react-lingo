@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61301],{261301:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return i}});var r=['"their footsteps echoed eerily"','"the streets are eerily quiet"'],i=[]}}]);
+//# sourceMappingURL=61301.147f2b3b.chunk.js.map

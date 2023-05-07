@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46197],{946197:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"the river could soon be the venue for a powerboat world championship event"'],t=["place","site","spot","area","position","location","setting","scene","milieu","background","backdrop","neighborhood","district","region","environs","locality","environment","territory","locus"]}}]);
+//# sourceMappingURL=46197.1e5eb3f7.chunk.js.map

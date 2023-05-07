@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60254],{60254:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return s}});var n=['"your skin will begin to feel revitalized and dewy"','"the girls have yet to lose their dewy charm"'],s=["moist","moistened","wettish","dampened","dampish","humid","steamy","muggy","clammy","sweaty","sticky","dank","moisture-laden","wet","wetted","rainy","drizzly","showery","misty","foggy","vaporous","claggy","dry"]}}]);
-//# sourceMappingURL=60254.90315aea.chunk.js.map

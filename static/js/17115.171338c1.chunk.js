@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17115],{817115:function(t,e,o){o.r(e),o.d(e,{definitions:function(){return n},synonyms:function(){return a}});var n=['"he\'s ordering a hot dog"','"a package of hot dogs"','"macho hot dogs who take too many risks"',"\"Hot dog! I've finally found something I can do that you can't\"",'"he chastised the dancers who\'d been hotdogging"'],a=["pose","attitudinize","strut","strike an attitude","put on airs","behave affectedly"]}}]);
+//# sourceMappingURL=17115.171338c1.chunk.js.map

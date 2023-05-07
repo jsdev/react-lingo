@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57089],{57089:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"therapeutic intervention to ablate existing cancer cells"','"drying winds slowly ablate away the ice"','"the laser beam can ablate solid rock from seven metres away"'],i=[]}}]);
-//# sourceMappingURL=57089.59c42fa7.chunk.js.map

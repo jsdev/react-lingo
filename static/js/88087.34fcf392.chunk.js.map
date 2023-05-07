@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/88087.34fcf392.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,iCAEWC,EAAW,E","sources":["definitions/botany.js"],"sourcesContent":["export const definitions = [\n  '\"the botany of North America\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

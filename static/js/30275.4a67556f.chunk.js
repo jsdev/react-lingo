@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30275],{930275:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"we could hear the sound of the water poppling, splashing, trickling"','"the short, confused popple that exists outside the entrance to the marina"'],i=["undulate","lap","purl","babble","crease","wrinkle","ruffle","pucker","form ripples (on)","flow in wavelets","form something into ridges"]}}]);
-//# sourceMappingURL=30275.4a67556f.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80218],{280218:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return u}});var r=['"the young fledge around four weeks after hatching"','"they fledged twenty-four chicks in fourteen months"'],u=[]}}]);
-//# sourceMappingURL=80218.bb2609ad.chunk.js.map

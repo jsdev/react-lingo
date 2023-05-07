@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59407],{859407:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he was suing the lessee for the arrears of rent"'],i=["debt(s)","liabilities","indebtedness","dues","balance","deficit","money owing","outstanding payment(s)"]}}]);
+//# sourceMappingURL=59407.4b8c5e3f.chunk.js.map

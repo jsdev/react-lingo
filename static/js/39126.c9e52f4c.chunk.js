@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39126],{239126:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return t}});var o=['"a lot of boys grew up together, and the school was cliquey"','"this kind of cliquey behaviour hindered information sharing"'],t=[]}}]);
-//# sourceMappingURL=39126.c9e52f4c.chunk.js.map

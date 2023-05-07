@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97582],{497582:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the New York City Ballet"'],r=[]}}]);
-//# sourceMappingURL=97582.c43cfb53.chunk.js.map

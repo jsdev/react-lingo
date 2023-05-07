@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60936],{260936:function(n,r,i){i.r(r),i.d(r,{definitions:function(){return c},synonyms:function(){return e}});var c=['"cardiograph"','"cardiopulmonary"'],e=[]}}]);
+//# sourceMappingURL=60936.5d9f2fa7.chunk.js.map

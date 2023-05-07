@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89615],{989615:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"adolescent angst"','"my hair causes me angst"'],t=["anxiety","fear","dread","apprehension","worry","perturbation","foreboding","trepidation","malaise","distress","disquiet","disquietude","unease","uneasiness","inquietude"]}}]);
+//# sourceMappingURL=89615.7612beae.chunk.js.map

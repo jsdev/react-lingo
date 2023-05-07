@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/64162.b4ab7c93.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,6DAEWC,EAAW,E","sources":["definitions/dubbin.js"],"sourcesContent":["export const definitions = [\n  '\"a player dressed in old baggy shorts and dubbined boots\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

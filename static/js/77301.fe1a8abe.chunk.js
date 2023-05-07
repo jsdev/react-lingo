@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77301],{777301:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return s}});var t=['"seisin is the concept which connects the person with the land itself"','"a title based on an older seisin"','"Richard Fitzhugh did not take seisin of his lands until 1480"'],s=[]}}]);
+//# sourceMappingURL=77301.fe1a8abe.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27638],{427638:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return o}});var a=['"the evening meal"','"a perfectly cooked meal"'],o=["repast","snack","collation","refection","something to eat","khana","repast","snack","collation","refection","something to eat","khana"]}}]);
-//# sourceMappingURL=27638.136c443d.chunk.js.map

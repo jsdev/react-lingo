@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/99570.f3e3ab7f.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,2BACA,gCAEWC,EAAW,E","sources":["definitions/outate.js"],"sourcesContent":["export const definitions = [\n  '\"frequent power outages\"',\n  '\"a planned refueling outage\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

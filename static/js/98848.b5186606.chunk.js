@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[98848],{698848:function(a,e,n){n.r(e),n.d(e,{definitions:function(){return s},synonyms:function(){return c}});var s=['"the royal palace"'],c=["castle","mansion","stately home","ch\xe2teau","palazzo","alcazar","seraglio","royal/official residence","schloss"]}}]);
+//# sourceMappingURL=98848.b5186606.chunk.js.map

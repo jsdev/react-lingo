@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/50831.d1fcbeeb.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,iDAEWC,EAAW,E","sources":["definitions/6/m/ma/mascot.js"],"sourcesContent":["export const definitions = [\n  '\"the squadron\\'s mascot was a young lion cub\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

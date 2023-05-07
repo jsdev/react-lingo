@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/16209.153e6edc.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sCAEWC,EAAW,E","sources":["definitions/6/c/ch/chalet.js"],"sourcesContent":["export const definitions = [\n  '\"he owns a ski chalet in the Alps\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

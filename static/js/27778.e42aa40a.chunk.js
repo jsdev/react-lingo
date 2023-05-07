@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27778],{427778:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he drew his dagger and stabbed the leader"'],i=[]}}]);
-//# sourceMappingURL=27778.e42aa40a.chunk.js.map

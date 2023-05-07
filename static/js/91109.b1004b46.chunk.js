@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91109],{291109:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"at these schools children worked on an abacus to learn basic mathematics"','"some types of abacus have four beads below the bar, and only one above, on each vertical rod"'],s=[]}}]);
+//# sourceMappingURL=91109.b1004b46.chunk.js.map

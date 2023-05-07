@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12387],{512387:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"a dermic remedy"'],t=[]}}]);
+//# sourceMappingURL=12387.e1cb80f8.chunk.js.map

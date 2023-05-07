@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83559],{283559:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a lunar orbiter"'],i=[]}}]);
-//# sourceMappingURL=83559.2c72156f.chunk.js.map

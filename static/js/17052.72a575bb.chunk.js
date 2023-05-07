@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17052],{517052:function(e,o,t){t.r(o),t.d(o,{definitions:function(){return n},synonyms:function(){return i}});var n=['"a neat pile of mowings waiting to be composted"','"mow the lawn a day or two before you go, so it stays looking tidy while you are away"','"they mowed green corn, to give the blades to horses"'],i=["cut","cut down","scythe","shear","trim","crop","clip","cut","cut down","scythe","shear","trim","crop","clip"]}}]);
+//# sourceMappingURL=17052.72a575bb.chunk.js.map

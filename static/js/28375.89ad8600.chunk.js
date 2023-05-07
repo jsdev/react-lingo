@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28375],{28375:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return c}});var a=[],c=["delicacy","dainty","fancy","confection","bonne bouche","luxury","treat","snack","nibble","savoury","appetizer","namkeen","sweetmeat","tasty morsel"]}}]);
+//# sourceMappingURL=28375.89ad8600.chunk.js.map

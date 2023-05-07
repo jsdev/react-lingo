@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12002],{112002:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return a},synonyms:function(){return r}});var a=['"handmade pottery and imaginative ceramics for the table"','"sculpting, drawing, ceramics, and fiber art"','"tableware in ceramic"'],r=["pottery","pots","china","terracotta"]}}]);
+//# sourceMappingURL=12002.dee3656b.chunk.js.map

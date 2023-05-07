@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88947],{588947:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return s},synonyms:function(){return t}});var s=['"Guillen at shortstop made just three miscues in 160 games"','"political miscues that led to resignations"','"he miscued a simple penalty in the sixth minute"','"he won the fourth frame on the pink when O\'Sullivan miscued"','"miscue analysis is a way of listening to children read aloud for diagnostic purposes"'],t=[]}}]);
+//# sourceMappingURL=88947.5993bc7f.chunk.js.map

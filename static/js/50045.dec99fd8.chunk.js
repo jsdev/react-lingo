@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50045],{250045:function(s,n,e){e.r(n),e.d(n,{definitions:function(){return r},synonyms:function(){return u}});var r=['"I look like a frumpy mess"','"frumpy, shapeless dresses"'],u=["dowdy","frumpish","unfashionable","old-fashioned","drab","dull","shabby","scruffy","fashionable"]}}]);
+//# sourceMappingURL=50045.dec99fd8.chunk.js.map

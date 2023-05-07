@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/52959.30623498.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sEAEWC,EAAW,E","sources":["definitions/albedo.js"],"sourcesContent":["export const definitions = [\n  '\"the lunar maria have a lower albedo than the surrounding terrain\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

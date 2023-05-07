@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26495],{426495:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return r},synonyms:function(){return c}});var r=[],c=["covering","cover","case","casing","envelope","sleeve","wrapper","tunica","capsule","fascia","neurilemma","epimysium","perimysium","perineurium","sarcolemma","coleoptile","coleorhiza"]}}]);
+//# sourceMappingURL=26495.6fee797c.chunk.js.map

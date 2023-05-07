@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46009],{846009:function(t,i,n){n.r(i),n.d(i,{definitions:function(){return a},synonyms:function(){return e}});var a=[],e=["fanatic","enthusiast","extremist","radical","Young Turk","diehard","activist","militant","bigot","dogmatist","sectarian","partisan","moderate"]}}]);
+//# sourceMappingURL=46009.823566f0.chunk.js.map

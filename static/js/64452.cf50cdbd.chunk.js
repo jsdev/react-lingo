@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64452],{964452:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return a}});var s=['"earnest and callow undergraduates"'],a=["immature","inexperienced","naive","green","raw","unseasoned","untrained","untried","juvenile","adolescent","jejune","innocent","guileless","artless","unworldly","unsophisticated","as green as grass","born yesterday","mature","experienced","sophisticated"]}}]);
-//# sourceMappingURL=64452.cf50cdbd.chunk.js.map

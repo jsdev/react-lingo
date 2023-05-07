@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79277],{879277:function(n,r,o){o.r(r),o.d(r,{definitions:function(){return t},synonyms:function(){return i}});var t=[],i=["auger","(brace and) bit","awl","bradawl","drilling tool","boring tool","rotary tool"]}}]);
+//# sourceMappingURL=79277.72180067.chunk.js.map

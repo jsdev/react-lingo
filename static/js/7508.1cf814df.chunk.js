@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7508],{707508:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he awoke at midday"','"the midday sun"'],i=["noon","high noon","noontide","noontime","noonday","twelve noon","twelve midday","twelve o'clock","twelve hundred","twelve hundred hours","one-two-double-O","midnight"]}}]);
+//# sourceMappingURL=7508.1cf814df.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15712],{615712:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return o},synonyms:function(){return i}});var o=["\"that's salesmanship, you have to gyp people into buying stuff they don't like\""],i=["deceive","trick","dupe","outwit","fool","delude","cheat","take in","bluff","hoax","mislead","misguide","lead on","defraud","double-cross","swindle","gull","finagle","get the better of","cozen","sharp","befool","mulct"]}}]);
-//# sourceMappingURL=15712.5b6859da.chunk.js.map

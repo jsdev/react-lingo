@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71892],{271892:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"a lupine howl"'],u=[]}}]);
-//# sourceMappingURL=71892.bba7f548.chunk.js.map

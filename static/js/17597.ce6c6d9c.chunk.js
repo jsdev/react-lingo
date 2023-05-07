@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17597],{317597:function(c,e,r){r.r(e),r.d(e,{definitions:function(){return n},synonyms:function(){return i}});var n=['"the old-school clique"'],i=["coterie","circle","inner circle","crowd","in-crowd","set","group","pack","band","ring","mob","crew","club","society","fraternity","sorority","fellowship","camp","cartel","cabal","junta","caucus","cell","lobby","push","camarilla"]}}]);
-//# sourceMappingURL=17597.ce6c6d9c.chunk.js.map

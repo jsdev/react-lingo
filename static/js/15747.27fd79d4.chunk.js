@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15747],{915747:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"it\'s absolute piffle to say that violence is ok"'],t=["nonsense","garbage","claptrap","balderdash","blather","blether","moonshine","foolishness","silliness","rubbish"]}}]);
-//# sourceMappingURL=15747.27fd79d4.chunk.js.map

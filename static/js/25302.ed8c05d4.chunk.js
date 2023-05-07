@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[25302],{725302:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"here in 24 whizzo pages is The Story of Monetary Policy"'],r=[]}}]);
-//# sourceMappingURL=25302.ed8c05d4.chunk.js.map

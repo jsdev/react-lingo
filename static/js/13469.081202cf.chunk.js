@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[13469],{213469:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the nave has been ceiled in wood"'],i=["roof","vault","vaulting","plafond","floor"]}}]);
-//# sourceMappingURL=13469.081202cf.chunk.js.map

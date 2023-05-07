@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63798],{363798:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return g},synonyms:function(){return r}});var g=['"Stasia wiggled her toes"','"my tooth was wiggling around"','"they\'re trying to wiggle out of their agreement"','"a slight wiggle of the hips"','"a wiggle on a chart"'],r=["jiggle","wriggle","twitch","flutter","shimmy","joggle","wag","wobble","shake","twist","squirm","writhe","wave","quiver","jerk","bobble"]}}]);
-//# sourceMappingURL=63798.93ce4096.chunk.js.map

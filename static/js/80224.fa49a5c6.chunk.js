@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80224],{80224:function(n,r,t){t.r(r),t.d(r,{definitions:function(){return a},synonyms:function(){return e}});var a=['"the Indian landmass rifted from Madagascar about 90 million years ago"','"in the Cretaceous two microcontinents were rifted off northern Africa and drifted northwards towards Eurasia"'],e=[]}}]);
+//# sourceMappingURL=80224.fa49a5c6.chunk.js.map

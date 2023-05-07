@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67214],{767214:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return s},synonyms:function(){return t}});var s=['"builders continue to uglify cities with soulless modern office monstrosities"'],t=[]}}]);
+//# sourceMappingURL=67214.92770223.chunk.js.map

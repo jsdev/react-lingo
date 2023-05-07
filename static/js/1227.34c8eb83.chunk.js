@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1227],{1227:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"Gascon wines"'],t=[]}}]);
-//# sourceMappingURL=1227.34c8eb83.chunk.js.map

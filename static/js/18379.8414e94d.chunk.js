@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18379],{318379:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return s},synonyms:function(){return n}});var s=['"the watches in this range are priced at $14.50"'],n=["put a price on","cost","value","rate","evaluate","assess","estimate","appraise","assay","fix/set the price of"]}}]);
+//# sourceMappingURL=18379.8414e94d.chunk.js.map

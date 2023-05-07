@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35956],{435956:function(i,n,t){t.r(n),t.d(n,{definitions:function(){return e},synonyms:function(){return r}});var e=['"the properties vary in price"','"your skin\'s moisture content varies according to climatic conditions"','"he tried to vary his diet"'],r=[]}}]);
+//# sourceMappingURL=35956.6b074af0.chunk.js.map

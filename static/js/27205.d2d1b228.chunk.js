@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27205],{727205:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return s},synonyms:function(){return n}});var s=['"they should leave for their own safety"','"the survivors were airlifted to safety"','"a safety barrier"','"a safety helmet"'],n=["welfare","well-being","protection","security","harmlessness","lack of side effects","danger"]}}]);
+//# sourceMappingURL=27205.d2d1b228.chunk.js.map

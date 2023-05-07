@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89897],{789897:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return c}});var r=['"the German gun crews kept in their dugouts"'],c=["pit","ditch","trench","cavity","crater","depression","hollow","well","borehole","excavation","shaft","mineshaft","cave","cavern","pothole","chamber","gorge","chasm","canyon","ravine"]}}]);
-//# sourceMappingURL=89897.7303fd43.chunk.js.map

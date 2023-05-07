@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90353],{790353:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=[],t=["dress","dress oneself","get dressed","attire oneself","apparel oneself"]}}]);
+//# sourceMappingURL=90353.bcb79b52.chunk.js.map

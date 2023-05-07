@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26509],{126509:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"Liz tiptoed out of the room"','"he admits he has never been one to tiptoe around controversial issues"'],i=["creep","sneak","slink","slip","slither","slide","glide","sidle","slope","edge","pussyfoot","pad","prowl","move furtively"]}}]);
-//# sourceMappingURL=26509.1b7b9295.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42174],{742174:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"a silk crepe blouse"'],s=[]}}]);
+//# sourceMappingURL=42174.8457c621.chunk.js.map

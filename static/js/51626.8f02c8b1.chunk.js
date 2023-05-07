@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51626],{51626:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"our mixed physical and spiritual natures cohere and mature"','"this view does not cohere with their other beliefs"'],r=["stick together","hold together","bind","cling","fuse","be united","form a whole","fall apart","hang together","be consistent"]}}]);
-//# sourceMappingURL=51626.8f02c8b1.chunk.js.map

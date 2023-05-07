@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19790],{319790:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return u}});var t=['"he used some bread to sop up the sauce"'],u=[]}}]);
-//# sourceMappingURL=19790.e57d2eb8.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8459],{108459:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return o},synonyms:function(){return c}});var o=['"a narrow pebble beach"','"pebble glasses"'],c=["rock","boulder","cobbles","gravel","scree","concretion","boondie"]}}]);
-//# sourceMappingURL=8459.c808205c.chunk.js.map

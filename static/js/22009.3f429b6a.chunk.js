@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22009],{922009:function(t,n,a){a.r(n),a.d(n,{definitions:function(){return e},synonyms:function(){return r}});var e=['"villas painted in canary yellow"','"a canary waistcoat"'],r=["informant","collaborator","fifth columnist","double agent","spy","infiltrator","whistle-blower","plant","betrayer","traitor","Judas","double-crosser","turncoat","tattletale","intelligencer","beagle"]}}]);
+//# sourceMappingURL=22009.3f429b6a.chunk.js.map

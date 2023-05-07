@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83347],{883347:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a dermal filler for the treatment of wrinkles"','"the epidermal and dermal skin layers"'],i=[]}}]);
-//# sourceMappingURL=83347.d6ae4bb6.chunk.js.map

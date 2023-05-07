@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/22655.5457920a.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kDAEWC,EAAW,E","sources":["definitions/dovish.js"],"sourcesContent":["export const definitions = [\n  '\"a group of influential young dovish advisors\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

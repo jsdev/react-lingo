@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/93723.4ffea669.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,qCACA,yCAEWC,EAAW,E","sources":["definitions/6/b/bu/bushel.js"],"sourcesContent":["export const definitions = [\n  '\"we sold it for a bushel of money\"',\n  '\"packing oysters into bushel baskets\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68188],{668188:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"as its name suggests the Accumulator \u2018accumulates\u2019 by keeping its addend in memory and incrementing by the addend it receives from another transmitting unit"'],s=[]}}]);
+//# sourceMappingURL=68188.dd1f2c66.chunk.js.map

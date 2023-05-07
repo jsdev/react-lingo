@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61370],{461370:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"he is enraged at this revelation of his past amours"'],o=["partner","husband","wife","spouse","lover","significant other","inamorato","inamorata","companion","helpmate","consort","live-in lover","helpmeet"]}}]);
-//# sourceMappingURL=61370.2f456172.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94739],{494739:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return c},synonyms:function(){return t}});var c=['"debeaking is thought to cause chickens chronic pain"'],t=[]}}]);
-//# sourceMappingURL=94739.aed741ef.chunk.js.map

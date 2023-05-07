@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6171],{306171:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=[],i=["trough","feeder","crib","feeding trough","fodder rack"]}}]);
-//# sourceMappingURL=6171.adfc60d5.chunk.js.map

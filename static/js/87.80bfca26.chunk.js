@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87],{100087:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return s}});var t=['"the original manuscript is no longer extant"'],s=["surviving","remaining","abiding","enduring","undestroyed","present","existent","living","alive","still existing","in existence","nonexistent","dead","no longer existing"]}}]);
-//# sourceMappingURL=87.80bfca26.chunk.js.map

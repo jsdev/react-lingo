@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77226],{277226:function(n,o,l){l.r(o),l.d(o,{definitions:function(){return r},synonyms:function(){return e}});var r=[],e=["lout","boor","barbarian","Neanderthal","churl","clown","gawk","hulk","bumpkin","yokel","fool","dolt","dullard","bosthoon","clodpole"]}}]);
+//# sourceMappingURL=77226.630b663f.chunk.js.map

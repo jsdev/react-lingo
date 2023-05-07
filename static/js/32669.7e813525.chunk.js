@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32669],{32669:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return c}});var t=['"they lowered her coffin into the ground"','"the young man was coffined decently"'],c=["box","sarcophagus","casket","cist","wooden overcoat"]}}]);
+//# sourceMappingURL=32669.7e813525.chunk.js.map

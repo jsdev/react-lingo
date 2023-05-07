@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1339],{901339:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=[],t=["numeral","number","figure","integer","cipher","numerical symbol","finger","thumb","toe","extremity"]}}]);
+//# sourceMappingURL=1339.d34d2d6d.chunk.js.map

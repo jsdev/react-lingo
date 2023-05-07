@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1978],{201978:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"a fruit grower"','"a fast grower"','"their last two albums were real growers for me"'],a=["farmer"]}}]);
-//# sourceMappingURL=1978.d5da06bf.chunk.js.map

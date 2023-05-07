@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92353],{892353:function(n,s,a){a.r(s),a.d(s,{definitions:function(){return e},synonyms:function(){return r}});var e=['"the famous Oaxacan pre-Christmas posadas and processions"'],r=[]}}]);
+//# sourceMappingURL=92353.bf1a7b52.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96158],{96158:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return a}});var i=['"the rock massif of Scotland"'],a=["mountain","hill","height","alp","aiguille","serac","crag","tor","inselberg","bluff","scarp","escarpment","eminence","prominence","elevation","ridge","range","sierra","cordillera","ben","law","berg","jebel","mount","puy","Munro"]}}]);
+//# sourceMappingURL=96158.23a57c38.chunk.js.map

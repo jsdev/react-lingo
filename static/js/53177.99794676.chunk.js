@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53177],{653177:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"sexism in language is an offensive reminder of the way the culture sees women"'],t=["chauvinism","discrimination","prejudice","bias","toxic masculinity","machismo","laddishness"]}}]);
+//# sourceMappingURL=53177.99794676.chunk.js.map

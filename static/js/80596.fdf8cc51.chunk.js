@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80596],{480596:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"crispy fried bacon"'],t=["crunchy","brittle","crumbly","breakable","shatterable","friable","frangible","rigid","hard","well done","well cooked","soft"]}}]);
+//# sourceMappingURL=80596.fdf8cc51.chunk.js.map

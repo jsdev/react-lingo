@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10725],{910725:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return c},synonyms:function(){return r}});var c=['"modern math and its arcane notation"'],r=["mysterious","secret","hidden","concealed","covert","clandestine","enigmatic","dark","esoteric","obscure","abstruse","recondite","recherch\xe9","inscrutable","impenetrable","opaque","incomprehensible","cryptic","occult","little known","well known","open"]}}]);
-//# sourceMappingURL=10725.b5e10849.chunk.js.map

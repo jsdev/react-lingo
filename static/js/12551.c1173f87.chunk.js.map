@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/12551.c1173f87.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,oBAEWC,EAAW,E","sources":["definitions/loader.js"],"sourcesContent":["export const definitions = [\n  '\"a front-loader\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

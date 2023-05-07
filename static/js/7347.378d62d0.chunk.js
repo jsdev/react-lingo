@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7347],{807347:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"molten cakes filled with gooey, warm chocolate"'],o=["liquefied","liquid","fluid","melted","flowing","soft"]}}]);
+//# sourceMappingURL=7347.378d62d0.chunk.js.map

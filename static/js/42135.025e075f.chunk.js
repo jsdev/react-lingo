@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42135],{442135:function(e,t,p){p.r(t),p.d(t,{definitions:function(){return n},synonyms:function(){return o}});var n=['"a puppet show"','"he was little more than a puppet of his aides"'],o=["marionette","hand puppet","glove puppet","finger puppet","rod puppet","shadow puppet","pawn","tool","instrument","cat's paw","poodle","creature","hostage","counter","cog","dupe","mouthpiece","minion","figurehead"]}}]);
+//# sourceMappingURL=42135.025e075f.chunk.js.map

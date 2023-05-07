@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[611],{300611:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the restaurant is open during the day"','"the period during which he grew to adulthood"','"the stabbing took place during an argument at a party"'],r=["throughout","through","in","in the course of","throughout the time of","for the time of","in the time of"]}}]);
-//# sourceMappingURL=611.42a9d018.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4591],{804591:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return a}});var r=['"she averted her eyes during the more violent scenes"','"talks failed to avert a rail strike"'],a=["turn away","turn aside","turn to one side","prevent","stop","avoid","stave off","head off","ward off","forestall","preclude","nip in the bud"]}}]);
+//# sourceMappingURL=4591.d78247d2.chunk.js.map

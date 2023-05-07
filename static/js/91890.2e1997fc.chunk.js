@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91890],{391890:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"Tilly had a burger and fries"','"he sometimes schedules business lunches at his favorite burger joint in Manhattan"','"I grilled the burgers for 5 minutes per side"','"homemade black bean burgers and turkey burgers"'],i=[]}}]);
+//# sourceMappingURL=91890.2e1997fc.chunk.js.map

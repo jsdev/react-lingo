@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63398],{963398:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return u}});var r=['"the queen regent of Portugal"'],u=[]}}]);
-//# sourceMappingURL=63398.316d2a40.chunk.js.map

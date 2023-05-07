@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22512],{622512:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return u},synonyms:function(){return i}});var u=['"a drawn-out fluty whistle"'],i=[]}}]);
-//# sourceMappingURL=22512.bec60c65.chunk.js.map

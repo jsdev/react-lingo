@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76608],{376608:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return e},synonyms:function(){return r}});var e=['"he felt the familiar knot contract in his vitals"'],r=[]}}]);
+//# sourceMappingURL=76608.1a39268b.chunk.js.map

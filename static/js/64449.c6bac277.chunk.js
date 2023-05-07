@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64449],{364449:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the traditional argyle design associated with golf"'],r=[]}}]);
-//# sourceMappingURL=64449.c6bac277.chunk.js.map

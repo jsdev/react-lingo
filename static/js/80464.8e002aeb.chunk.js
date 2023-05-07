@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80464],{380464:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return t},synonyms:function(){return c}});var t=['"the reconstruction of escarps at the fortress of Gibraltar"'],c=["rock face","cliff","crag","bluff","height","escarpment","scarp","scar","linn","krantz","steep","cliff face","steep cliff","sheer drop"]}}]);
+//# sourceMappingURL=80464.8e002aeb.chunk.js.map

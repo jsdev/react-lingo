@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88688],{788688:function(n,t,u){u.r(t),u.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"an amoral attitude to sex"'],r=["unprincipled","unethical","unscrupulous","without standards","without morals","without scruples","moral","principled"]}}]);
+//# sourceMappingURL=88688.93595ef1.chunk.js.map

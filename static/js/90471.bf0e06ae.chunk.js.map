@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/90471.bf0e06ae.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gEAEWC,EAAW,E","sources":["definitions/6/d/do/dorser.js"],"sourcesContent":["export const definitions = [\n  '\"Dorset sites are bigger than their pre-Dorset counterparts\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

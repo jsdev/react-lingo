@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38679],{338679:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return a}});var i=['"Ruth came to bat in the fifth inning"','"he batted the flies away"','"she batted her long dark eyelashes at him"'],a=["flutter","quiver","vibrate","tremble","wobble","shiver","shudder","spasm","jerk","twitch","flap","wink","blink","open and shut","nictitate","nictate"]}}]);
+//# sourceMappingURL=38679.88ddf748.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39303],{739303:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return a},synonyms:function(){return e}});var a=['"astral navigation"','"spiritual beings from the astral plane"'],e=[]}}]);
-//# sourceMappingURL=39303.67e5d50b.chunk.js.map

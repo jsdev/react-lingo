@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/43467.9435165f.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sBAEWC,EAAW,E","sources":["definitions/flocky.js"],"sourcesContent":["export const definitions = [\n  '\"flock mattresses\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

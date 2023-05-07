@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63142],{463142:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the intellectuals had been cowed into silence"'],i=["intimidate","daunt","browbeat","bully","badger","dragoon","bludgeon","tyrannize","overawe","awe","dismay","dishearten","unnerve","subdue","scare","terrorize","frighten","petrify"]}}]);
+//# sourceMappingURL=63142.b830e942.chunk.js.map

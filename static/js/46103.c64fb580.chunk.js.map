@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/46103.c64fb580.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,kCAEWC,EAAW,E","sources":["definitions/6/s/sc/schnoz.js"],"sourcesContent":["export const definitions = [\n  '\"my damned schnozz is busted!\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

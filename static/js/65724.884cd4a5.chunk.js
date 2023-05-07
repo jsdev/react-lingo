@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65724],{565724:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"he liked to boast and she would egg him on shamelessly"'],o=["urge","goad","incite","provoke","prick","sting","propel","push","drive","prod","prompt","induce","impel","cheer on","encourage","exhort","stimulate","motivate","galvanize","inspire","stir","incentivize","spur on","act as a stimulus to","act as an incentive to"]}}]);
-//# sourceMappingURL=65724.884cd4a5.chunk.js.map

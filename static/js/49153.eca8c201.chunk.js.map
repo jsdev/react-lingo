@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/49153.eca8c201.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mBAEWC,EAAW,E","sources":["definitions/6/p/pa/packer.js"],"sourcesContent":["export const definitions = [\n  '\"a meat packer\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

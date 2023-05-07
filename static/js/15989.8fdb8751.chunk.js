@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15989],{115989:function(o,r,e){e.r(r),e.d(r,{definitions:function(){return n},synonyms:function(){return t}});var n=['"coveys of actors rushed through the rooms"'],t=["flock","skein","bevy","swarm","cloud","knot","cluster","flying group","group","gang","troop","troupe","party","company","band","body","crowd","pack","army","herd","flock","bevy","drove","horde","galaxy","assemblage","gathering","knot","cluster"]}}]);
+//# sourceMappingURL=15989.8fdb8751.chunk.js.map

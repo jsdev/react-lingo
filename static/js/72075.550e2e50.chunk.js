@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72075],{172075:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"he tunneled under the fence"','"the insect tunnels its way out of the plant"'],t=["underpass","hole","burrow","shaft","gallery","subway","mine","sap","underground passage","subterranean passage","dig","burrow","excavate","mine","bore","drill","dig one's way"]}}]);
+//# sourceMappingURL=72075.550e2e50.chunk.js.map

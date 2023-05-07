@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89148],{389148:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return t},synonyms:function(){return a}});var t=['"a theatrically effective orator"'],a=["speaker","speech-maker","lecturer","declaimer","rhetorician","demagogue","rhetor","public speaker"]}}]);
+//# sourceMappingURL=89148.575a38f9.chunk.js.map

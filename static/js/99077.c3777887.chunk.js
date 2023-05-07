@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99077],{599077:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return r},synonyms:function(){return e}});var r=['"floral chintz curtains"','"a sofa upholstered in chintz"'],e=["printed material/cloth/fabric","patterned material/cloth/fabric"]}}]);
-//# sourceMappingURL=99077.c3777887.chunk.js.map

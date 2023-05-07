@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[29318],{29318:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return i}});var o=['"she will liaise with teachers across the country"'],i=["cooperate","collaborate","communicate","intercommunicate","network","interface","link up","hook up","work together","exchange information"]}}]);
-//# sourceMappingURL=29318.8b749c54.chunk.js.map

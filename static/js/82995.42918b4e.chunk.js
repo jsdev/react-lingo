@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82995],{882995:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return s},synonyms:function(){return a}});var s=['"a member of the landed gentry"','"a New Orleans family of Creole gentry"'],a=["high society","the establishment","the upper classes","the upper middle class","the privileged classes","the wealthy","the elite","the haut monde","the county set","the smart set","bhadralok"]}}]);
+//# sourceMappingURL=82995.42918b4e.chunk.js.map

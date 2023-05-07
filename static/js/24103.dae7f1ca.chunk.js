@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24103],{124103:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return r},synonyms:function(){return c}});var r=['"a teaspoon of ground cloves"','"rub a dish with a crushed clove of garlic"'],c=[]}}]);
+//# sourceMappingURL=24103.dae7f1ca.chunk.js.map

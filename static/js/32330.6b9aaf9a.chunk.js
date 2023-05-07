@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32330],{532330:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=[],t=["admirer","beau","wooer","boyfriend","sweetheart","lover","inamorato","escort","swain"]}}]);
+//# sourceMappingURL=32330.6b9aaf9a.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34892],{934892:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return a}});var r=['"a cr\xe8me de menthe frapp\xe9"','"a battement frapp\xe9"'],a=[]}}]);
+//# sourceMappingURL=34892.9874aad7.chunk.js.map

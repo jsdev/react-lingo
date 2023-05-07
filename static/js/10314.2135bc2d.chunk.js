@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10314],{110314:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return a},synonyms:function(){return t}});var a=['"they had run away\u2014the cowards!"'],t=["weakling","namby-pamby","mouse","poltroon","craven","recreant","caitiff","hero"]}}]);
+//# sourceMappingURL=10314.2135bc2d.chunk.js.map

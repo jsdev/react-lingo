@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[69613],{69613:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return i},synonyms:function(){return o}});var i=['"a druggy haze"','"the druggy world of rock and roll"'],o=["abuser","user","viper","narcotist","morphinist","morphiomaniac","etheromaniac"]}}]);
+//# sourceMappingURL=69613.3128b1e4.chunk.js.map

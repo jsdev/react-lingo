@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/71892.bba7f548.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mBAEWC,EAAW,E","sources":["definitions/lupine.js"],"sourcesContent":["export const definitions = [\n  '\"a lupine howl\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

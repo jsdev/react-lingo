@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/8935.8e7d49ee.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,8BACA,gBAEWC,EAAW,E","sources":["definitions/6/o/op/opioid.js"],"sourcesContent":["export const definitions = [\n  '\"opioids other than heroin\"',\n  '\"opioid use\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

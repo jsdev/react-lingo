@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64910],{264910:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return i},synonyms:function(){return a}});var i=['"Diana passed the test with aplomb"'],a=["poise","self-assurance","assurance","self-possession","self-confidence","calmness","composure","collectedness","presence of mind","level-headedness","sangfroid","equilibrium","equanimity","nerve","nonchalance","savoir faire","savoir vivre","gaucheness"]}}]);
+//# sourceMappingURL=64910.5b7d5009.chunk.js.map

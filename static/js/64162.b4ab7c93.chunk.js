@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64162],{664162:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a player dressed in old baggy shorts and dubbined boots"'],t=[]}}]);
-//# sourceMappingURL=64162.b4ab7c93.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89655],{989655:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return l}});var e=['"pliant willow stems"','"an economy pliant to political will"'],l=[]}}]);
-//# sourceMappingURL=89655.ffaa9136.chunk.js.map

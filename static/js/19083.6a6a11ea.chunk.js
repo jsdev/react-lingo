@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19083],{519083:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return t},synonyms:function(){return a}});var t=['"almost overnight the Arctic was denuded of animals"'],a=["divest","strip","clear","deprive","bereave","rob","bare","uncover","expose","deforest","defoliate","despoil","lay bare","make bare","cover"]}}]);
+//# sourceMappingURL=19083.6a6a11ea.chunk.js.map

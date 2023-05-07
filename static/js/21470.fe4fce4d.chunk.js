@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21470],{821470:function(n,i,r){r.r(i),r.d(i,{definitions:function(){return e},synonyms:function(){return t}});var e=['"anyone would get pneumonia living in the drafty old house"','"fix plastic foam strips around drafty windows"'],t=["chilly","cold","fresh","crisp","refreshing","invigorating","bracing","brisk","unheated","chill","warm","hot"]}}]);
-//# sourceMappingURL=21470.fe4fce4d.chunk.js.map

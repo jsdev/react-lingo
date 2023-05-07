@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58575],{58575:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=[],s=["stand","base","holder","support","stay","prop","brace","rack","hook","frame","shelf","bracket","trestle","plinth","pedestal","foundation","bed","foot","substructure"]}}]);
+//# sourceMappingURL=58575.fe76bdf4.chunk.js.map

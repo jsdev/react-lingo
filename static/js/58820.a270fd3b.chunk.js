@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58820],{658820:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"Donald hefted another pair of sandbags from the stack"','"Eileen hefted the gun in her hand"'],r=["lift","raise","heave","hoist","haul","manhandle","carry","cart","lug","tote","upheave","lift up","raise up","put down"]}}]);
+//# sourceMappingURL=58820.a270fd3b.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93305],{93305:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return o}});var c=[],o=["thicket","grove","wood","coppice","stand","clump","brake","spinney","brush","hurst","holt","boscage"]}}]);
+//# sourceMappingURL=93305.ec2ac748.chunk.js.map

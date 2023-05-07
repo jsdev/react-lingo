@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77953],{277953:function(n,a,t){t.r(a),t.d(a,{definitions:function(){return c},synonyms:function(){return r}});var c=['"a rattan armchair"'],r=["walking stick","cane","staff","malacca","alpenstock","blackthorn","crook","crutch","waddy","ashplant","thumb stick"]}}]);
-//# sourceMappingURL=77953.2c221c2e.chunk.js.map

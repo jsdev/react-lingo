@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4729],{704729:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"no hand his bones shall gather or inhume"'],s=["inter","entomb","sepulcher","lay to rest","consign to the grave","earth up","ensepulcher","inearth","exhume"]}}]);
+//# sourceMappingURL=4729.fdf7b959.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53203],{253203:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"the win landed him the biggest payday of his career"','"his two seasons in Dallas helped him land his first huge payday in the NFL when he signed with the Cardinals"'],t=[]}}]);
+//# sourceMappingURL=53203.6ce696a2.chunk.js.map

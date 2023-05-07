@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8834],{308834:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the argent moon"'],r=["silvery","shining","lustrous","bright","gleaming"]}}]);
-//# sourceMappingURL=8834.5bf7c83e.chunk.js.map

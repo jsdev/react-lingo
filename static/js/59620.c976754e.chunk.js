@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59620],{759620:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"Madame Bovary"','"Madame Eva bent once more over the crystal ball"'],t=[]}}]);
+//# sourceMappingURL=59620.c976754e.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97067],{297067:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"drivers who brake abruptly"'],s=["slow down","slow","decelerate","reduce speed","put on the brakes","hit the brakes","accelerate"]}}]);
+//# sourceMappingURL=97067.6365a259.chunk.js.map

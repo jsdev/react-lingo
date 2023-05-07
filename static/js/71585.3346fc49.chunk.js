@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71585],{271585:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return s},synonyms:function(){return r}});var s=['"a hectic business schedule"'],r=["frantic","frenetic","frenzied","feverish","manic","restless","fast and furious","lively","brisk","bustling","buzzing","vibrant","crowded","very busy","very active","leisurely","quiet"]}}]);
+//# sourceMappingURL=71585.3346fc49.chunk.js.map

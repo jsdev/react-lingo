@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90742],{890742:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"they call the region the armpit of America"'],r=[]}}]);
-//# sourceMappingURL=90742.b78e13b5.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96151],{996151:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return u}});var r=['"a number of factors are adduced to explain the situation"'],u=["quote","reproduce"]}}]);
+//# sourceMappingURL=96151.406663b5.chunk.js.map

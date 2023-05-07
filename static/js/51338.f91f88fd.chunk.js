@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51338],{251338:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the exhibition was juried by a tapestry artist"','"the juried show"'],r=[]}}]);
-//# sourceMappingURL=51338.f91f88fd.chunk.js.map

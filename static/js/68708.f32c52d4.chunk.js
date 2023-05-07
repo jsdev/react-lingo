@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68708],{468708:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"she delivered her homily about the need for patience"'],i=["sermon","lecture","discourse","address","lesson","talk","speech","oration","declamation","preaching","teaching","peroration","allocution","postil"]}}]);
-//# sourceMappingURL=68708.f32c52d4.chunk.js.map

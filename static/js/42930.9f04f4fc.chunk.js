@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42930],{842930:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return r}});var s=['"he took a large swallow of pastis"','"he drank three pastis"'],r=[]}}]);
-//# sourceMappingURL=42930.9f04f4fc.chunk.js.map

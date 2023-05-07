@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56872],{156872:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"too many theorists have deluded the public"'],t=["mislead","deceive","fool","take in","trick","dupe","hoodwink","double-cross","gull","beguile","lead on","cheat","defraud","swindle","cozen","illude"]}}]);
-//# sourceMappingURL=56872.387ac785.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1693],{901693:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"the star R Doradus"'],s=[]}}]);
+//# sourceMappingURL=1693.4d562146.chunk.js.map

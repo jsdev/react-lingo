@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57504],{857504:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return c}});var t=['"a state-of-the-art kitchen with every conceivable gadget"'],c=["appliance","apparatus","instrument","implement","tool","utensil","contrivance","contraption","machine","mechanism","device","convenience","invention","thing","labor-saving device","Heath Robinson device","Rube Goldberg device"]}}]);
+//# sourceMappingURL=57504.687afa23.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89161],{289161:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return a}});var o=['"they outmanned us three to one"','"outgunned and outmanned armies"','"they outmanned their opponents all season long with very convincing victories"','"Mexico controlled the game and ran circles around the outmanned Guatemalan team"'],a=[]}}]);
-//# sourceMappingURL=89161.5de46ed0.chunk.js.map

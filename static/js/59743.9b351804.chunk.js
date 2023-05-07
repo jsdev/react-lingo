@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59743],{243359:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return o}});var r=['"one end of the new rope was reeved through the chain"'],o=[]}}]);
-//# sourceMappingURL=59743.9b351804.chunk.js.map

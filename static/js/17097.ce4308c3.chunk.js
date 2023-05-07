@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17097],{517097:function(n,r,t){t.r(r),t.d(r,{definitions:function(){return e},synonyms:function(){return u}});var e=['"bravos rang out"'],u=[]}}]);
+//# sourceMappingURL=17097.ce4308c3.chunk.js.map

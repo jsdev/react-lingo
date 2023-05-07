@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12167],{312167:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"we sold 385 prints at $10 apiece"'],r=["each","respectively","individually","separately","severally","per item"]}}]);
-//# sourceMappingURL=12167.aa2b6ee2.chunk.js.map

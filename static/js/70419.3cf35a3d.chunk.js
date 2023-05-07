@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70419],{170419:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"a treecreeper spidered head first down the tree trunk"','"a system of tunnels spider through the district"','"when the search engines spider your site they\'ll find all of the pages"'],s=[]}}]);
+//# sourceMappingURL=70419.3cf35a3d.chunk.js.map

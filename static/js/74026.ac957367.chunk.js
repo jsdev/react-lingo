@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74026],{974026:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"always a gadfly, he attacked intellectual orthodoxies"'],r=["nuisance","bother","annoyance","irritation","irritant","vexation","trial","menace","curse","problem","trouble","worry","inconvenience","bore","thorn in one's flesh / side","the bane of 's 's life"]}}]);
-//# sourceMappingURL=74026.ac957367.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63949],{963949:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"Adams paraded several relations to depone that Charlie had been crazy from birth"','"all the witnesses were deponing to the same facts"'],r=[]}}]);
-//# sourceMappingURL=63949.72e74638.chunk.js.map

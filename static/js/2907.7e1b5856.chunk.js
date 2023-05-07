@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2907],{902907:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the director goosed up the star\'s grosses by making him funny"'],r=[]}}]);
+//# sourceMappingURL=2907.7e1b5856.chunk.js.map

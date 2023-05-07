@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89734],{889734:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the star Beta Carinae"'],i=[]}}]);
+//# sourceMappingURL=89734.bc5d6a9e.chunk.js.map

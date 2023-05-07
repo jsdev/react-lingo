@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72008],{472008:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=[],i=["spire","tower","bell tower","minaret","campanile","church tower"]}}]);
-//# sourceMappingURL=72008.4f8495a0.chunk.js.map

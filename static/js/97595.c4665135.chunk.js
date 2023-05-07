@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97595],{497595:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"a beaded evening bag"','"beaded chiffon dresses"','"I beaded the jacket by hand"','"seashells beaded into belts"','"his face was beaded with perspiration"'],i=[]}}]);
+//# sourceMappingURL=97595.c4665135.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/92292.8c8e6075.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sBAEWC,EAAW,E","sources":["definitions/imager.js"],"sourcesContent":["export const definitions = [\n  '\"a thermal imager\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

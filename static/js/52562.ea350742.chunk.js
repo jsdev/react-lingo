@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52562],{452562:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"this video game won\'t appeal to muggles"'],o=[]}}]);
+//# sourceMappingURL=52562.ea350742.chunk.js.map

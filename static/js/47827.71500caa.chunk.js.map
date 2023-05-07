@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/47827.71500caa.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACtB,QACA,IACA,YACA,c","sources":["definitions/6/i/io/iodine.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n  'major',\n  'I',\n  'the Elder',\n  '(the First)',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

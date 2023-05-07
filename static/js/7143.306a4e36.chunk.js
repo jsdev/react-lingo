@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7143],{307143:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return u}});var r=['"transfer the baguette to a well-floured couche"'],u=[]}}]);
+//# sourceMappingURL=7143.306a4e36.chunk.js.map

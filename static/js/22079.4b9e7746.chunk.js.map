@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/22079.4b9e7746.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,+BACA,wBAEWC,EAAW,E","sources":["definitions/racism.js"],"sourcesContent":["export const definitions = [\n  '\"a program to combat racism\"',\n  '\"theories of racism\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

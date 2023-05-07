@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/30585.054845fa.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,wDACA,wBAEWC,EAAW,E","sources":["definitions/6/h/ha/hauler.js"],"sourcesContent":["export const definitions = [\n  '\"private haulers collect the bagged or bundled waste\"',\n  '\"a three-ton hauler\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

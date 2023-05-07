@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/22512.bec60c65.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,+BAEWC,EAAW,E","sources":["definitions/flutey.js"],"sourcesContent":["export const definitions = [\n  '\"a drawn-out fluty whistle\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81906],{581906:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return o}});var s=['"everyone will fall over like a row of dominoes"'],o=["disguise","veil","false face","stocking mask","fancy dress","visor","vizard"]}}]);
+//# sourceMappingURL=81906.f8830b21.chunk.js.map

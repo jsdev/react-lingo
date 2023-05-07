@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[25303],{25303:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return u}});var c=['"place the panel face up before cutting"'],u=[]}}]);
-//# sourceMappingURL=25303.9992101d.chunk.js.map

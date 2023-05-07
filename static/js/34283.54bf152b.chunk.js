@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34283],{234283:function(e,_,n){n.r(_),n.d(_,{definitions:function(){return t},synonyms:function(){return r}});var t=['"______ health insurance"','"______ malpractice"','"______ surgery"','"______ councils"'],r=["tooth","million dollar smile","root canal","gum disease","dentistry","oral surgery","alveolar","odontic","toothed","dentist","braces","dentures","cavities","floss"]}}]);
-//# sourceMappingURL=34283.54bf152b.chunk.js.map

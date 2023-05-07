@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7852],{988121:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return n},synonyms:function(){return o}});var n=['"generally, debtors must negotiate with each creditor separately"','"debtor countries"'],o=["borrower","mortgagor","bankrupt","insolvent","defaulter","bankrupt person","creditor"]}}]);
-//# sourceMappingURL=7852.c0b22cb9.chunk.js.map

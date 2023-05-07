@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99803],{899803:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"velour curtains"'],u=[]}}]);
-//# sourceMappingURL=99803.0445a343.chunk.js.map

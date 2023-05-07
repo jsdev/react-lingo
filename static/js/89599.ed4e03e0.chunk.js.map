@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/89599.ed4e03e0.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,8DAEWC,EAAW,E","sources":["definitions/debone.js"],"sourcesContent":["export const definitions = [\n  '\"she\\'d get up every morning and help us debone a chicken\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

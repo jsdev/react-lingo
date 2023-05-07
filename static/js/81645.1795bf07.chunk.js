@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81645],{981645:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"he enameled the back of the case in the rococo style"'],i=["lacquer","lac","shellac","japan","glaze","polish","oil","resin","wax","varnish","lacquer","veneer","coat","stain","wax","shellac","glaze","gloss","polish","burnish","put a finish on","give a shine to","smooth off"]}}]);
-//# sourceMappingURL=81645.1795bf07.chunk.js.map

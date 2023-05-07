@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65153],{265153:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"they eat far too much starch"','"crisp linen, stiff with starch"','"the starch in her voice"','"starch your collar to keep it straight and stiff"','"Domenge starched Geddami in the first"'],r=[]}}]);
-//# sourceMappingURL=65153.85c71b40.chunk.js.map

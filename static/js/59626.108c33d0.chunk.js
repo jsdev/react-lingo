@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59626],{559626:function(t,e,i){i.r(e),i.d(e,{definitions:function(){return a},synonyms:function(){return n}});var a=['"reporters accosted him in the street"','"he was accosted by a thief, demanding his money or his life"'],n=["speak to","talk to","hail","address","approach","waylay","detain","stop","halt","grab","catch","confront","importune","solicit","call to","shout to","initiate a discussion with","take aside"]}}]);
+//# sourceMappingURL=59626.108c33d0.chunk.js.map

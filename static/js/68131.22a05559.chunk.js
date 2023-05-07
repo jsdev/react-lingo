@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68131],{268131:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the tug blew its klaxon three times"'],r=[]}}]);
+//# sourceMappingURL=68131.22a05559.chunk.js.map

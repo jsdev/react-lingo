@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80271],{180271:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"auditions were held in all major metros of the country"'],u=["subway","underground railway"]}}]);
+//# sourceMappingURL=80271.3e036245.chunk.js.map

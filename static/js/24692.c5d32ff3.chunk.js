@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24692],{524692:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return l},synonyms:function(){return o}});var l=['"I get drunk, follow the pretty broads, and make a fool of myself"'],o=["lady","female","girl","person","lass","lassie","wife","colleen","Frau","Signora","Se\xf1ora","maid","maiden","damsel","demoiselle","gentlewoman","bitch","adult female"]}}]);
-//# sourceMappingURL=24692.c5d32ff3.chunk.js.map

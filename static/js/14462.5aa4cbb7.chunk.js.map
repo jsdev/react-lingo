@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/14462.5aa4cbb7.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,oCACA,iDAEWC,EAAW,E","sources":["definitions/whaled.js"],"sourcesContent":["export const definitions = [\n  '\"Dad came upstairs and whaled me\"',\n  '\"they whaled at the water with their paddles\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

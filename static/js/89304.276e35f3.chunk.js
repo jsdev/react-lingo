@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89304],{989304:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"he\'s got to get his head down to buck"','"she bucked them off if they tried to get on her back"','"the boat began to buck in the water"','"the shares bucked the market trend"'],o=["resist","oppose","contradict","defy","go against","kick against","fight (against)"]}}]);
+//# sourceMappingURL=89304.276e35f3.chunk.js.map

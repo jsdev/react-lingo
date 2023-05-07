@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/73273.863d8e3a.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kBAEWC,EAAW,E","sources":["definitions/6/i/in/insect.js"],"sourcesContent":["export const definitions = [\n  '\"insect pests\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

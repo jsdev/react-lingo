@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[69201],{769201:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return r},synonyms:function(){return e}});var r=['"he writhed in agony on the ground"','"a snake writhing its body"','"she bit her lip, writhing in suppressed fury"'],e=["squirm","wriggle","thrash","flounder","flail","toss","twitch","twist","roll","jiggle","wiggle","jerk","jolt","toss and turn","twist and turn"]}}]);
+//# sourceMappingURL=69201.8eb8f669.chunk.js.map

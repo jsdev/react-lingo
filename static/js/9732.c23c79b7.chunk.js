@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9732],{909732:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return s}});var o=[],s=["roost","nest box","nesting box","birdhouse"]}}]);
+//# sourceMappingURL=9732.c23c79b7.chunk.js.map

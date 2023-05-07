@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28949],{128949:function(e,a,r){r.r(a),r.d(a,{definitions:function(){return l},synonyms:function(){return n}});var l=['"acres of arable land"','"open arable fields"','"arable crops"','"arable farming"','"vast areas of arable and pasture"'],n=["fertile","productive","fecund","fruitful","lush","barren","farmable","cultivable","cultivatable","plowable","tillable","fertile","productive","fruitful","fecund","lush","infertile"]}}]);
+//# sourceMappingURL=28949.3c2632b6.chunk.js.map

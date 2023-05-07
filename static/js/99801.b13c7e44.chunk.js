@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99801],{299801:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"the economic sovereignty you claim to defend is a chimera"','"the sheeplike goat chimera"'],a=["illusion","fantasy","delusion","dream","fancy","phantom","mirage","ignis fatuus","figment of the imagination"]}}]);
+//# sourceMappingURL=99801.b13c7e44.chunk.js.map

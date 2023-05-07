@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48653],{348653:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return _}});var t=['""You can\'t trust him," said Jacob ______"','"I wondered ______ if I was wasting my time"','"a figure silhouetted ______ against the trees"'],_=["grimly","coldly","gloomy","depressing","sinister","forbidden"]}}]);
+//# sourceMappingURL=48653.b6c4c1aa.chunk.js.map

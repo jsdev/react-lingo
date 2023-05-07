@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1393],{501393:function(_,e,n){n.r(e),n.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"Here\'s a ______ for your troubles"','"fewer things cost less than a ______"','"a ______ saved, is a ______ earned"'],s=["currency","monetary","paper"]}}]);
-//# sourceMappingURL=1393.035d5d83.chunk.js.map

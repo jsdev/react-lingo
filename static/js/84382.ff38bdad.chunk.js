@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84382],{589534:function(a,n,t){t.r(n),t.d(n,{definitions:function(){return e},synonyms:function(){return o}});var e=['"he admitted that he preferred recording ballads to his trademark funk"','"a slow piano ballad"','"a traditional Irish folk ballad"'],o=["song","folk song","shanty","ditty","canzone","poem","tale","saga"]}}]);
+//# sourceMappingURL=84382.ff38bdad.chunk.js.map

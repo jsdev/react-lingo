@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12147],{412147:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the copious reverb on this recording helps to create the feeling of space"','"there are 16 effects available, including a number of reverbs"'],i=[]}}]);
-//# sourceMappingURL=12147.76c050ea.chunk.js.map

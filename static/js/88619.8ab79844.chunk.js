@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88619],{288619:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return o}});var r=['"I do not care a groat"'],o=[]}}]);
-//# sourceMappingURL=88619.8ab79844.chunk.js.map

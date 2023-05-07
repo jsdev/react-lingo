@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88840],{788840:function(t,e,r){r.r(e),r.d(e,{definitions:function(){return n},synonyms:function(){return s}});var n=['"spread the mixture over the pastry"','"brightly colored cakes and pastries"'],s=["tart","tartlet","pie","pasty","patty","turnover","slice"]}}]);
-//# sourceMappingURL=88840.2dcc8e2a.chunk.js.map

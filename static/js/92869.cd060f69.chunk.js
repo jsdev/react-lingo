@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92869],{792869:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"adobe houses"'],u=[]}}]);
+//# sourceMappingURL=92869.cd060f69.chunk.js.map

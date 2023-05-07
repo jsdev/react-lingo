@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33897],{833897:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return i}});var r=['"race to cure ______"','"addition by substraction, if can trade the ______ of the team for peanuts'],i=["terminal","capricorn","killer"]}}]);
+//# sourceMappingURL=33897.7b6b0601.chunk.js.map

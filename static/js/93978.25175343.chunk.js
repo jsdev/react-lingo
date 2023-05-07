@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93978],{993978:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"Lassie had been dognapped by a shady businessman"'],i=[]}}]);
+//# sourceMappingURL=93978.25175343.chunk.js.map

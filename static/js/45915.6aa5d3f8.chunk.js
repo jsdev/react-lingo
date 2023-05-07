@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45915],{345915:function(n,s,e){e.r(s),e.d(s,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the actor injects his customary humor and pathos into the role"'],i=["poignancy","tragedy","sadness","pitifulness","piteousness","pitiableness","plaintiveness","sorrowfulness"]}}]);
+//# sourceMappingURL=45915.6aa5d3f8.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88276],{588276:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"authors of great renown"'],r=["fame","distinction","eminence","preeminence","prominence","repute","reputation","prestige","acclaim","celebrity","note","notability","mark","consequence","standing","stature","account","glory","illustriousness","obscurity","anonymity"]}}]);
+//# sourceMappingURL=88276.527bdbe1.chunk.js.map

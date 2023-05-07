@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78644],{278644:function(t,o,e){e.r(o),e.d(o,{definitions:function(){return s},synonyms:function(){return n}});var s=['"the scanty portions of food doled out to them"'],n=["allocate","allot","apportion","assign","distribute","dispense","hand out","give out","pass out","issue","disburse","deal out","share out","mete out","divide up","pass around"]}}]);
+//# sourceMappingURL=78644.e4b2adbc.chunk.js.map

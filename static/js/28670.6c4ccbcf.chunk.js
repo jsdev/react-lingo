@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28670],{328670:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the sergeant gave them leave to rest while officers went in search of billets"','"he didn\'t belong to the regiment billeted at the hotel"'],r=["quarters","rooms","accommodation","lodging","housing","barracks","cantonment","living quarters","casern","accommodate","quarter","put up","lodge","house","station","garrison"]}}]);
+//# sourceMappingURL=28670.6c4ccbcf.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52903],{752903:function(e,t,o){o.r(t),o.d(t,{definitions:function(){return s},synonyms:function(){return a}});var s=['"this was the type of material that they effused about"'],a=["discharge","release","pour out","send forth","throw out","void","vent","issue","leak","ooze","shed","excrete","disgorge","secrete","eject","spout","belch","emanate","radiate","exhale","ejaculate","exude","eruct","give out/off","give vent to","spew out","absorb"]}}]);
-//# sourceMappingURL=52903.f3c1e86b.chunk.js.map

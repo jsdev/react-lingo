@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/83976.bc58eb03.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kBACA,4DAEWC,EAAW,E","sources":["definitions/6/s/sc/sconce.js"],"sourcesContent":["export const definitions = [\n  '\"a wall sconce\"',\n  '\"the sconces burning in the passage provided some light\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

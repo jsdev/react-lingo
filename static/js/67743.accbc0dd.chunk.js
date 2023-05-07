@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67743],{767743:function(i,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"the royal palace (some pedants would say the ex-royal palace)"'],s=["dogmatist","purist","literalist","formalist","doctrinaire","precisionist","perfectionist","quibbler","hair-splitter","casuist","sophist","fault-finder","caviller","carper","pettifogger","precisian","Dryasdust"]}}]);
+//# sourceMappingURL=67743.accbc0dd.chunk.js.map

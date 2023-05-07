@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[570],{900570:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return o}});var n=['"don\'t let him see you loafing around with your hands in your pockets"'],o=["laze","lounge","loll","do nothing","idle","twiddle one's thumbs","sit on 's 's hands","dawdle","dally","take things easy","be idle","shirk one's duties","waste time","fritter away time","kill time","while away the time","work","toil"]}}]);
-//# sourceMappingURL=570.829b99a9.chunk.js.map

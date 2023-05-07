@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64544],{901989:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return o}});var s=['"the machines fell into disuse with the advent of computers"'],o=["nonuse","nonemployment","neglect","abandonment","desertion","cessation","discontinuance","obsolescence","desuetude","lack of use","use","employment"]}}]);
-//# sourceMappingURL=64544.d8c3d12f.chunk.js.map

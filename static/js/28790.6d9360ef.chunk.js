@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28790],{828790:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"he had a pimple at the corner of his mouth"','"I can see the hut down there, just a tiny pimple"'],i=["spot","pustule","blackhead","boil","swelling","eruption","carbuncle","wen","cyst","abscess","blister","acne","comedo","papule","bleb","blain","whelk","plook"]}}]);
-//# sourceMappingURL=28790.6d9360ef.chunk.js.map

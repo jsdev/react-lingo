@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8929],{208929:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return o}});var e=['"trumpet mutes with different ______s"','"a voice high in pitch but rich in ______"'],o=["tone","sound","voice","color","tone color","tonality","resonance","ring","sound quality","voice quality"]}}]);
+//# sourceMappingURL=8929.4ff2929c.chunk.js.map

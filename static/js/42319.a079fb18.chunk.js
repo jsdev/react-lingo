@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42319],{935340:function(n,u,e){e.r(u),e.d(u,{definitions:function(){return i},synonyms:function(){return s}});var i=['"doughy white bread"','"a soft, doughy pizza base"','"a pasty, doughy, chubby white kid from the suburbs"','"sagging, doughy skin"'],s=[]}}]);
+//# sourceMappingURL=42319.a079fb18.chunk.js.map

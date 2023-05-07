@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72034],{272034:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return u}});var r=['"sugars that can be harmful to the teeth" \xb7 [more]'],u=[]}}]);
+//# sourceMappingURL=72034.8cf81223.chunk.js.map

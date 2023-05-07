@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/78085.6313613b.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mDAEWC,EAAW,E","sources":["definitions/dammit.js"],"sourcesContent":["export const definitions = [\n  '\"Stop, Ruth, dammit. I said stop it, right now\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

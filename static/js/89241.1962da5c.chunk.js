@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89241],{89241:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"murky light filters through the vertical louvers of the window blinds"','"louver doors"'],t=["screen","blind","venetian blind","curtain","shade","awning","canopy","jalousie","roller blind","persiennes"]}}]);
-//# sourceMappingURL=89241.1962da5c.chunk.js.map

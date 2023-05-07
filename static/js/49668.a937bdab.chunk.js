@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49668],{149668:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"delicious aromas wafting from the bakery"','"an assortment of bakery goods"','"a table overflowing with homemade bakery and wine"'],r=[]}}]);
+//# sourceMappingURL=49668.a937bdab.chunk.js.map

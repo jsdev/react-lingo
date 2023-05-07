@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32299],{132299:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return n},synonyms:function(){return a}});var n=['"the other boys reveled in baiting him about his love of literature"','"people who bait badgers"','"she baited a trap with carrots and corn"'],a=["taunt","goad","provoke","pick on","torment","torture","persecute","badger","plague","harry","harass","hound","tease","annoy","irritate","get someone's back up"]}}]);
+//# sourceMappingURL=32299.b47dd47d.chunk.js.map

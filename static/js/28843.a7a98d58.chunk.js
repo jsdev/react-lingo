@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28843],{128843:function(s,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"beneath the apparent loving concern she had glimpsed spite and sadism"'],t=["schadenfreude","callousness","barbarity","bestiality","perversion","viciousness","brutality","cruelty","savagery","fiendishness","cold-bloodedness","inhumanity","ruthlessness","heartlessness","mercilessness","pitilessness"]}}]);
+//# sourceMappingURL=28843.a7a98d58.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68204],{868204:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"this hybrid produces beautiful corymbs of white, pink-budded flowers"'],t=[]}}]);
+//# sourceMappingURL=68204.236b2da7.chunk.js.map

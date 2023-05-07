@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43165],{943165:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"I came across her avidly reading a magazine"'],r=[]}}]);
+//# sourceMappingURL=43165.8dae2920.chunk.js.map

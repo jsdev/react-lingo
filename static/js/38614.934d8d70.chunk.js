@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38614],{838614:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return u},synonyms:function(){return c}});var u=['"cloggy mud"'],c=["sticky","gummy","glue-like","gluey","adhesive","tacky","adhering","adherent","sticking","clinging","treacly","syrupy","glutinous","gelatinous","thick","viscid","pasty","mucous","mucoid","mucilaginous","jelly-like","slimy","viscoid","watery"]}}]);
+//# sourceMappingURL=38614.934d8d70.chunk.js.map

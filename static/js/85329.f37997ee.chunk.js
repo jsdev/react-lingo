@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[85329],{785329:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return a},synonyms:function(){return t}});var a=['"Rosemary had decided that all men were rotters"'],t=["scoundrel","rogue","villain","wretch","reprobate","cad","blackguard","dastard","vagabond","knave","varlet"]}}]);
-//# sourceMappingURL=85329.f37997ee.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31301],{731301:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return l}});var s=[],l=["young lady","girl","miss","maid","maiden","demoiselle","lass","lassie","colleen","mademoiselle","signorina","se\xf1orita","Fr\xe4ulein","wench","young woman"]}}]);
+//# sourceMappingURL=31301.a6a1c19b.chunk.js.map

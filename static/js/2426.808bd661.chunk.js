@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2426],{602426:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"he finished with a birdie two on the 18th"','"she wound up birdieing the hole from 20 feet"'],o=[]}}]);
-//# sourceMappingURL=2426.808bd661.chunk.js.map

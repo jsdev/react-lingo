@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78085],{578085:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return e},synonyms:function(){return o}});var e=['"Stop, Ruth, dammit. I said stop it, right now"'],o=[]}}]);
-//# sourceMappingURL=78085.6313613b.chunk.js.map

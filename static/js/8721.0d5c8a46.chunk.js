@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8721],{308721:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"the great ape and human clade"'],r=[]}}]);
+//# sourceMappingURL=8721.0d5c8a46.chunk.js.map

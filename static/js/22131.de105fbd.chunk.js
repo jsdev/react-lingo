@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22131],{822131:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"tax has been deducted from the payments"'],r=["subtract","take away","take from","take off","withdraw","abstract","remove","debit","dock","discount","add"]}}]);
+//# sourceMappingURL=22131.de105fbd.chunk.js.map

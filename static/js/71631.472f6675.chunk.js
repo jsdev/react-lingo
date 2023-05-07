@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71631],{271631:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return n},synonyms:function(){return i}});var n=['"haunch of caribou meat"'],i=["buttocks","thighs","hips","hindquarters","bottom","rump","rear","rear end","backside","seat","derri\xe8re","Sitzfleisch","fundament","posterior","nates","breech","side","loin","quarter","thigh"]}}]);
+//# sourceMappingURL=71631.472f6675.chunk.js.map

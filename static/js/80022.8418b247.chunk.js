@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80022],{280022:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"time is passed by doing jigsaws"','"help the police put all the pieces of the jigsaw together"'],s=[]}}]);
+//# sourceMappingURL=80022.8418b247.chunk.js.map

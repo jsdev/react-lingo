@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7760],{307760:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"blocky granite"'],r=[]}}]);
+//# sourceMappingURL=7760.102af482.chunk.js.map

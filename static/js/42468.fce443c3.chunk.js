@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42468],{742468:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"he dandled his son on his knee"','"dandling the halter rope, he gently urged the pony\'s head up"'],t=["bounce","jiggle","ride","dance","toss","pet","rock","hug","cradle","fondle","cuddle","caress"]}}]);
+//# sourceMappingURL=42468.fce443c3.chunk.js.map

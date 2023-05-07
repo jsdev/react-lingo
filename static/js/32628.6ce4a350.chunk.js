@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32628],{32628:function(e,t,o){o.r(t),o.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"she was really bummed out that she never got to meet you"','"a lot of people were bummed about not being able to dance"','"they tried to bum money off us"','"she bummed a cigarette from me"','"I bummed a ride into town with him"'],r=["scrounge","beg","borrow"]}}]);
-//# sourceMappingURL=32628.6ce4a350.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[13284],{613284:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return f},synonyms:function(){return i}});var f=['"I smiled feebly"','"many, from fear, cried out feebly"','"he feebly attempted to defend the challenge"','"Plan D, a feebly disguised version of Plan C"'],i=[]}}]);
-//# sourceMappingURL=13284.0c22bec5.chunk.js.map

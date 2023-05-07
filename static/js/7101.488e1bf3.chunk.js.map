@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/7101.488e1bf3.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,mBACA,wBAEWC,EAAW,E","sources":["definitions/6/a/an/angora.js"],"sourcesContent":["export const definitions = [\n  '\"angora rabbits\"',\n  '\"an angora cardigan\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

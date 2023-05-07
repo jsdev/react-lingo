@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66198],{166198:function(e,r,s){s.r(r),s.d(r,{definitions:function(){return n},synonyms:function(){return t}});var n=['"his clothes are infested with vermin"','"the vermin who ransacked her house"'],t=["rabble","riffraff","refuse","garbage","trash","good-for-nothing(s)","undesirable(s)","the lowest of the low","dastard(s)","despicable person/people","the dregs of society","trog(s)"]}}]);
+//# sourceMappingURL=66198.8c8e9247.chunk.js.map

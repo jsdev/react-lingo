@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93325],{93325:function(n,s,e){e.r(s),e.d(s,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a passel of journalists"'],i=[]}}]);
+//# sourceMappingURL=93325.1818bde2.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6534],{206534:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a Gallic shrug"','"the Gallic retreat from Delphi"'],i=[]}}]);
+//# sourceMappingURL=6534.56083aa7.chunk.js.map

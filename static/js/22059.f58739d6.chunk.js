@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22059],{722059:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return i}});var o=['"the editor of The New York Times"','"a sports editor"','"you will be able to use the editor to make any changes you want"'],i=[]}}]);
+//# sourceMappingURL=22059.f58739d6.chunk.js.map

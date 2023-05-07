@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23817],{723817:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"the bill will be presented for a preliminary reading at the plenum on Wednesday"','"so long as things move simultaneously into each other\'s places, motion is possible in a plenum"'],t=[]}}]);
-//# sourceMappingURL=23817.a4148313.chunk.js.map

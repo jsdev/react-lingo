@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54103],{954103:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the southern pampas of Argentina"'],r=["grassland","flatland","lowland","pasture","meadowland","prairie","savannah","steppe","tableland","tundra","campo","llano","vega","veld","pediplain","champaign","open country"]}}]);
+//# sourceMappingURL=54103.b0175b7a.chunk.js.map

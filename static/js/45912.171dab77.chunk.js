@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45912],{245912:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"The answer hit me. "Eureka!" I cried"','"there weren\'t many eurekas but science is moving steadily"'],t=[]}}]);
-//# sourceMappingURL=45912.171dab77.chunk.js.map

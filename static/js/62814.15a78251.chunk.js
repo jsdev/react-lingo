@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62814],{462814:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"she busied herself with her new home"'],s=["occupy","involve","engage","concern","employ","absorb","engross","immerse","preoccupy","interest","entertain","distract","divert","amuse","beguile"]}}]);
-//# sourceMappingURL=62814.15a78251.chunk.js.map

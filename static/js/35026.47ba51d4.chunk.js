@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35026],{535026:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"he received a salary of $29,000"','"a 15 percent salary increase"','"the Chinese system\u2014salary the doctor and stop his pay when you get ill"'],s=["pay","earnings","remuneration","fee(s)","emolument(s)","stipend","honorarium","hire","wages","wage","payment","earned income","take-home pay","gross pay","net pay"]}}]);
-//# sourceMappingURL=35026.47ba51d4.chunk.js.map

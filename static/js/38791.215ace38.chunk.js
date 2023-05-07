@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38791],{738791:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return u}});var s=['"unsexy knee-length skirts"','"she found him utterly unsexy"'],u=[]}}]);
+//# sourceMappingURL=38791.215ace38.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/92686.e54f9dda.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mDAEWC,EAAW,E","sources":["definitions/gimmes.js"],"sourcesContent":["export const definitions = [\n  '\"the kick would hardly be a gimme in that wind\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

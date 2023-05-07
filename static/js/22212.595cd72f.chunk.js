@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22212],{222212:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return a},synonyms:function(){return t}});var a=['"alpine and subalpine habitats"','"the major Alpine ski venues"','"an alpine ski team"','"a collection of alpines and dwarf bulbs"'],t=["hilly","craggy","rocky","high","steep","precipitous","upland","highland","flat"]}}]);
+//# sourceMappingURL=22212.595cd72f.chunk.js.map

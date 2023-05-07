@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50085],{850085:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"I caddied for him until the end of 1979"'],r=[]}}]);
-//# sourceMappingURL=50085.9acd9450.chunk.js.map

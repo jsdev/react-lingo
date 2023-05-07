@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68266],{968266:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the grandfather clock in the next room chimed"','"the clock chimed eight"'],r=["ring","peal","toll","sound","ding","dong","clang","boom","resound","reverberate","tinkle","jingle","jangle","knell","strike","indicate","mark","tintinnabulate"]}}]);
-//# sourceMappingURL=68266.8ce82ea7.chunk.js.map

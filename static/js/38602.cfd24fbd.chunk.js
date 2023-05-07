@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38602],{538602:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return i}});var o=['"no generation has the right to pollute the planet"','"the planets are presently influencing you in a positive way"'],i=["satellite","moon","star","heavenly body","orb","earth","globe","sphere"]}}]);
+//# sourceMappingURL=38602.cfd24fbd.chunk.js.map

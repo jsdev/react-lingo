@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[14158],{314158:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"I sat sipping coffee"','"she sipped at her tea"','"she took a sip of the red wine"'],i=["drink","taste","sample","sup","drink slowly","mouthful","swallow","drink","drop","dram","nip","taste","sup"]}}]);
+//# sourceMappingURL=14158.327cfbdb.chunk.js.map

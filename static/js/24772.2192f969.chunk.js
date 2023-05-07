@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24772],{409966:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"most arrows are fletched with 3- to 5-inch feathers"','"a four-fletch arrow"'],o=[]}}]);
+//# sourceMappingURL=24772.2192f969.chunk.js.map

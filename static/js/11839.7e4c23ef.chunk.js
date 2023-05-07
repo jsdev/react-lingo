@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[11839],{211839:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"I rewound the film and stopped it"','"my player\'s got a fast forward and rewind"'],i=[]}}]);
+//# sourceMappingURL=11839.7e4c23ef.chunk.js.map

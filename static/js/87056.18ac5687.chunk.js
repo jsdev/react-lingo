@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87056],{403507:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"G\'day cobbers!"'],t=["man","my friend"]}}]);
+//# sourceMappingURL=87056.18ac5687.chunk.js.map

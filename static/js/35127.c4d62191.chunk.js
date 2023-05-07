@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35127],{735127:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"he was dubbed a dangerous sexual sadist by the judge at his trial"'],u=[]}}]);
+//# sourceMappingURL=35127.c4d62191.chunk.js.map

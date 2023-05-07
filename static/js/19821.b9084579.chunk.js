@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19821],{819821:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return u},synonyms:function(){return r}});var u=['"frequent power outages"','"a planned refueling outage"'],r=[]}}]);
+//# sourceMappingURL=19821.b9084579.chunk.js.map

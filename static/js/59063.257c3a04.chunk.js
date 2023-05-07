@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59063],{59063:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the botany of North America"'],i=[]}}]);
+//# sourceMappingURL=59063.257c3a04.chunk.js.map

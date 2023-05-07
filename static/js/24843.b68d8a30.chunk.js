@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24843],{24843:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"melt three ounces of butter in a large frying pan"','"Robin summoned up every ounce of strength"'],i=["particle","scrap","bit","speck","iota","whit","jot","trace","atom","shred","crumb","fragment","grain","drop","spot","mite","tittle","modicum","scantling","scruple","jot or tittle","stim"]}}]);
+//# sourceMappingURL=24843.b68d8a30.chunk.js.map

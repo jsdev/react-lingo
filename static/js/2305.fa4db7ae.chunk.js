@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2305],{702305:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return a}});var i=['"adenoidal facies are characterized by an open mouth gape"','"a sedimentary investigation of the area led to the postulation of five distinct facies"'],a=[]}}]);
+//# sourceMappingURL=2305.fa4db7ae.chunk.js.map

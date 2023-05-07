@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3373],{403373:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return r}});var s=['"a stag\'s antlers"','"combs made of antler"'],r=[]}}]);
-//# sourceMappingURL=3373.501ed15e.chunk.js.map

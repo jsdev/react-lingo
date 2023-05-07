@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65379],{165379:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"he began to coil up the heavy ropes"','"he coiled a lock of her hair around his finger"','"smoke coiled lazily toward the ceiling"'],r=["wind","loop","twist","curl","curve","bend","twine","entwine","snake","spiral","corkscrew","wreathe","meander","convolute"]}}]);
+//# sourceMappingURL=65379.1cd8723f.chunk.js.map

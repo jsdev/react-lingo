@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82141],{882141:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"sleep deprivation became a frequent topic of conversation"'],o=["subject","subject matter","theme","issue","matter","point","talking point","question","concern","argument","discussion","thesis","text","concept","field","area","keynote","leitmotif"]}}]);
+//# sourceMappingURL=82141.57d6b751.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/41139.8d6be7e2.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kBACA,kBACA,uBAEWC,EAAW,E","sources":["definitions/6/m/mu/musted.js"],"sourcesContent":["export const definitions = [\n  '\"Dijon mustard\"',\n  '\"mustard sauce\"',\n  '\"a mustard sweater\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

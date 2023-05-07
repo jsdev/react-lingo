@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43272],{43272:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return i},synonyms:function(){return s}});var i=[],s=["worship","prayers","vespers","prayer meeting","religious worship","religious observance","church service"]}}]);
-//# sourceMappingURL=43272.2f7976f9.chunk.js.map

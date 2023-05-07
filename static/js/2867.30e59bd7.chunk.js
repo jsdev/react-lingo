@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2867],{2867:function(e,a,r){r.r(a),r.d(a,{definitions:function(){return t},synonyms:function(){return n}});var t=['"they ambled along the riverbank"','"he ambled into the foyer"'],n=["stroll","saunter","wander","meander","ramble","dawdle","promenade","walk","putter","roam","traipse","stretch one's legs","take the air","perambulate","peregrinate","go for a walk","take a walk","get some exercise","get some air","stravaig","stride"]}}]);
+//# sourceMappingURL=2867.30e59bd7.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/30465.e9984bf2.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,oEAEWC,EAAW,E","sources":["definitions/goosed.js"],"sourcesContent":["export const definitions = [\n  '\"the director goosed up the star\\'s grosses by making him funny\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

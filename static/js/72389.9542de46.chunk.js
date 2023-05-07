@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72389],{672389:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return a},synonyms:function(){return t}});var a=[],t=["banner","standard","ensign","pennant","pennon","banderole","streamer","jack","bunting","colors","symbol","emblem","representation","figure","image","pendant","burgee","vexillum","gonfalon","labarum"]}}]);
+//# sourceMappingURL=72389.9542de46.chunk.js.map

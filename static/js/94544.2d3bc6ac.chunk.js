@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94544],{794544:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return r},synonyms:function(){return a}});var r=['"jubilee celebrations"','"cherries jubilee"'],a=["anniversary","commemoration","celebration","festival","gala","carnival","jamboree","feast day","holiday","festivities","revelry"]}}]);
+//# sourceMappingURL=94544.2d3bc6ac.chunk.js.map

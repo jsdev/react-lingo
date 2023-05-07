@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78466],{578466:function(n,e,c){c.r(e),c.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"people were dancing the cancan"','"cancan dancers"'],r=[]}}]);
+//# sourceMappingURL=78466.120de1dd.chunk.js.map

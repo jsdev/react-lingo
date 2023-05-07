@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78605],{278605:function(e,s,a){a.r(s),a.d(s,{definitions:function(){return n},synonyms:function(){return d}});var n=['"the thin-sodded slope of the grassland"','"underneath the sod was a layer of humus"','"the stadium has been sodded"','"the stadium has been sodded"'],d=["turf","greenery","green","lawn","field","pasture","meadow","grassland","grasslands","veld","sward","mead","lea","blades of grass"]}}]);
-//# sourceMappingURL=78605.7eb5a194.chunk.js.map

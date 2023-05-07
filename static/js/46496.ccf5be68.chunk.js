@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46496],{546496:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"Robert balled up his napkin and threw it onto his plate"','"she balled her fist so that the nails dug into her palms"','"the fishing nets eventually ball up and sink"'],s=[]}}]);
+//# sourceMappingURL=46496.ccf5be68.chunk.js.map

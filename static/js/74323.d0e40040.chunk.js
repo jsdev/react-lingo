@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74323],{74323:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"Dennis didn\'t drink it, he degusted it"'],r=[]}}]);
+//# sourceMappingURL=74323.d0e40040.chunk.js.map

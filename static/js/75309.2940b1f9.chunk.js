@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75309],{275309:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the advent of television"'],i=["arrival","appearance","emergence","materialization","surfacing","occurrence","dawn","origin","birth","rise","development","approach","coming","looming","nearing","advance","departure","disappearance"]}}]);
-//# sourceMappingURL=75309.2940b1f9.chunk.js.map

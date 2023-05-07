@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/83559.2c72156f.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,qBAEWC,EAAW,E","sources":["definitions/orbier.js"],"sourcesContent":["export const definitions = [\n  '\"a lunar orbiter\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9683],{609683:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the doctor said apnea occurred because of obstruction and narrowing of the trachea"'],o=[]}}]);
+//# sourceMappingURL=9683.aece3a23.chunk.js.map

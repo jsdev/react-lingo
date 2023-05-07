@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91990],{91990:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"we\'re going to have to work doubly hard"','"doubly mutant cells"'],a=["especially","extra","twice as","as \u2026 again","in double measure","in two ways","for two","even more"]}}]);
+//# sourceMappingURL=91990.de612a1d.chunk.js.map

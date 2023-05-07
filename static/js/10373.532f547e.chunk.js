@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10373],{510373:function(e,r,s){s.r(r),s.d(r,{definitions:function(){return t},synonyms:function(){return i}});var t=['"they giggled at some private joke"','"I got a fit of the giggles"'],i=["titter","snigger","snicker","tee-hee","chuckle","chortle","smirk","sneer","simper","give a half-suppressed laugh","titter","snigger","snicker","tee-hee","chuckle","chortle","smirk","sneer","simper","half-suppressed laugh"]}}]);
-//# sourceMappingURL=10373.532f547e.chunk.js.map

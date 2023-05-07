@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31198],{331198:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"she\'s phobic about spiders"','"treatment for phobic anxiety"','"a snake phobic"','"I\'m arachnophobic"'],o=[]}}]);
+//# sourceMappingURL=31198.551e75ef.chunk.js.map

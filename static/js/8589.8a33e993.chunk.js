@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8589],{308589:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return o},synonyms:function(){return a}});var o=['"objections will be made if the framer of the law can be absolutely proved to have meant one thing"','"the Framers would have a hard time recognizing the modern presidency"','"in a frame shop or gallery framers work normal shop hours"'],a=[]}}]);
-//# sourceMappingURL=8589.8a33e993.chunk.js.map

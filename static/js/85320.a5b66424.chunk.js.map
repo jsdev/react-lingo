@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/85320.a5b66424.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sCACA,wBAEWC,EAAW,E","sources":["definitions/6/p/pa/paella.js"],"sourcesContent":["export const definitions = [\n  '\"they make paella almost every day\"',\n  '\"enjoy your paellas\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

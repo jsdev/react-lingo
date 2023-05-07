@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78418],{883975:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"both men are aggressive self-promoters and catnip for the media"','"biotech stocks have become catnip to investors this year"'],i=[]}}]);
+//# sourceMappingURL=78418.ee578f8a.chunk.js.map

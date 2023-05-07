@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42579],{442579:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return a},synonyms:function(){return r}});var a=['"many healthcare providers already utilize portals through which a patient can access test results"'],r=["doorway","gateway","entrance","way out","exit","egress","opening","door","gate","threshold","entryway","way in"]}}]);
-//# sourceMappingURL=42579.d4d1768b.chunk.js.map

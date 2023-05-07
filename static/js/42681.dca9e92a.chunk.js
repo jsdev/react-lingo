@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42681],{42681:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return t},synonyms:function(){return i}});var t=['"she was the highest bidder for this rare portrait"','"his government\'s preferred bidder for the contract"'],i=[]}}]);
+//# sourceMappingURL=42681.dca9e92a.chunk.js.map

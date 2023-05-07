@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41014],{341014:function(e,r,o){o.r(r),o.d(r,{definitions:function(){return t},synonyms:function(){return i}});var t=['"there are a number of celebrity cameos"','"he played numerous cameo roles"','"cameos of street life"','"a cameo brooch"'],i=["description","portrait","vignette","profile","portrayal","depiction","potted biography","embossed","relief","relievo","ribbed","die-stamped","thermographed","engraved"]}}]);
+//# sourceMappingURL=41014.f0ce269c.chunk.js.map

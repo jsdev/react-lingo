@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97570],{97570:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a loaf of bread"','"two loaves in the oven"'],i=[]}}]);
-//# sourceMappingURL=97570.781b2309.chunk.js.map

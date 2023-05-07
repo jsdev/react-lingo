@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47490],{147490:function(t,e,a){a.r(e),a.d(e,{definitions:function(){return n},synonyms:function(){return s}});var n=['"a stratum of flint"','"thin strata of air"','"members of other social strata"','"allocation of sample units to strata"'],s=["layer","vein","seam","lode","bed","stratification","thickness","sheet","lamina","level","class","echelon","rank","grade","station","gradation","group","set","bracket","caste","estate","sphere"]}}]);
-//# sourceMappingURL=47490.049080f0.chunk.js.map

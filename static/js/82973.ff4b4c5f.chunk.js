@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82973],{882973:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return r},synonyms:function(){return a}});var r=['"drug use impairs job performance"'],a=["damage","harm","diminish","reduce","weaken","lessen","decrease","blunt","impede","hinder","mar","spoil","disable","undermine","compromise","threaten","vitiate","improve","enhance"]}}]);
+//# sourceMappingURL=82973.ff4b4c5f.chunk.js.map

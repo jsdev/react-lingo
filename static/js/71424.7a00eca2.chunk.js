@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71424],{971424:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return i}});var o=['"he sprang from the ice in a swift, frisky curvet"'],i=["leap","jump","spring","bounce","hop","vault","hurdle","skip","bob","dance","prance","romp","caper","cavort","sport","frisk","frolic","gambol","gallop","hurtle","rollick","capriole","leap","jump","spring","bounce","hop","vault","hurdle","capriole"]}}]);
-//# sourceMappingURL=71424.7a00eca2.chunk.js.map

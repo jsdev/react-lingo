@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82299],{782299:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"phyllo pastry"','"phyllotaxis"'],r=[]}}]);
-//# sourceMappingURL=82299.b10ab0e9.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31190],{631190:function(e,a,n){n.r(a),n.d(a,{definitions:function(){return o},synonyms:function(){return r}});var o=['"a final goodbye"'],r=["farewell","adieu","hooray","au revoir","ciao","adios","sayonara","vale","check you","auf Wiedersehen","hello","farewell"]}}]);
-//# sourceMappingURL=31190.da6121d7.chunk.js.map

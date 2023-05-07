@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12054],{512054:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"a good daube of boeuf with fresh noodles"'],u=[]}}]);
+//# sourceMappingURL=12054.392514bc.chunk.js.map

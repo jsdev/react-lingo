@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80068],{680068:function(n,c,e){e.r(c),e.d(c,{definitions:function(){return s},synonyms:function(){return a}});var s=['"a small brass casket containing four black opals"'],a=["box","chest","case","container","receptacle","coffer","trunk","crate","pyxis","coffin","box","sarcophagus","cist"]}}]);
-//# sourceMappingURL=80068.6aaecc48.chunk.js.map

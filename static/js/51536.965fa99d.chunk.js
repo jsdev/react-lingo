@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51536],{751536:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"you can learn how to dehorn a bull calf"'],t=[]}}]);
+//# sourceMappingURL=51536.965fa99d.chunk.js.map

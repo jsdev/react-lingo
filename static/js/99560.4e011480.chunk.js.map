@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/99560.4e011480.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,oDAEWC,EAAW,E","sources":["definitions/bougie.js"],"sourcesContent":["export const definitions = [\n  '\"the candlelit cocktail party was pretty bougie\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35415],{35415:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return u},synonyms:function(){return t}});var u=['"uphill walking is a great calorie-burner"','"the hob has four gas burners"','"the figures carried small incense burners"','"he bought a burner to get in touch with Shapiro"','"one national security reporter suggested using burner phones"','"Mama pulled out a burner and shot a man down"',,],t=[]}}]);
+//# sourceMappingURL=35415.50b31504.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31866],{331866:function(e,s,t){t.r(s),t.d(s,{definitions:function(){return n},synonyms:function(){return i}});var n=['"a curious bittersweetness that cloyed her senses"','"the first sip gives a malty taste that never cloys"'],i=["pall","become sickening","become nauseating","become distasteful","become tedious","become tiresome","be excessive"]}}]);
+//# sourceMappingURL=31866.343edf75.chunk.js.map

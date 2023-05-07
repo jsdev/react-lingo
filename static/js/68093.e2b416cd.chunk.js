@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68093],{568093:function(e,a,n){n.r(a),n.d(a,{definitions:function(){return r},synonyms:function(){return i}});var r=['"he had a rakish, debonair look"','"a rakish Chevrolet"'],i=["dashing","debonair","sporty","jaunty","devil-may-care","breezy","stylish","fashionable","dapper","spruce","raffish","disreputable","louche"]}}]);
+//# sourceMappingURL=68093.e2b416cd.chunk.js.map

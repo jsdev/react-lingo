@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52959],{452959:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"the lunar maria have a lower albedo than the surrounding terrain"'],a=[]}}]);
-//# sourceMappingURL=52959.30623498.chunk.js.map

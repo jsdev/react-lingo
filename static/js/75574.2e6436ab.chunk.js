@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75574],{975574:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"he talks fondly of his grandfather"','"things I fondly recall from my childhood"','"they fondly believed the cheers were for them"'],o=[]}}]);
+//# sourceMappingURL=75574.2e6436ab.chunk.js.map

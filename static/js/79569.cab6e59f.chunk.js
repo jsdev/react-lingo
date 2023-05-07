@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79569],{79569:function(s,n,e){e.r(n),e.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=[],a=["star system","solar system","constellation","cluster","spiral galaxy","Seyfert galaxy","stars","heavens"]}}]);
-//# sourceMappingURL=79569.cab6e59f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21287],{221287:function(n,s,r){r.r(s),r.d(s,{definitions:function(){return e},synonyms:function(){return t}});var e=['"long strands of high cirrus stretched across the eastern sky"','"cirrus clouds"'],t=[]}}]);
+//# sourceMappingURL=21287.2450cc18.chunk.js.map

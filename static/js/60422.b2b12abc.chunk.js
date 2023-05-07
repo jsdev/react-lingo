@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60422],{960422:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"I\'m not going to naysay anything he does"'],o=[]}}]);
-//# sourceMappingURL=60422.b2b12abc.chunk.js.map

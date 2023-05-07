@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/70969.781b7bcc.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,uFAEWC,EAAW,E","sources":["definitions/decoct.js"],"sourcesContent":["export const definitions = [\n  '\"young red oaken leaves decocted in wine make an excellent gargle for a sore mouth\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

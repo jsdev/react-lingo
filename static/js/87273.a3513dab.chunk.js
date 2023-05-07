@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87273],{487273:function(e,n,u){u.r(n),u.d(n,{definitions:function(){return t},synonyms:function(){return l}});var t=['"the bugle sounded the charge"','"a bugle call"','"the piercing bugle of adult bulls"','"he bugled a warning"'],l=[]}}]);
+//# sourceMappingURL=87273.a3513dab.chunk.js.map

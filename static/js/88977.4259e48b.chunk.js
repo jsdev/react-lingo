@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88977],{288977:function(t,e,o){o.r(e),o.d(e,{definitions:function(){return i},synonyms:function(){return n}});var i=['"the built-in footies with grips will allow your little one to explore without fear of slipping"','"ballet-themed footie pajamas"','"I buy a ton of footies to try to prevent blisters"'],n=[]}}]);
+//# sourceMappingURL=88977.4259e48b.chunk.js.map

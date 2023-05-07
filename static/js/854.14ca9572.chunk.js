@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[854],{900854:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"workers had been gulled into inflicting poverty and deprivation upon themselves"'],t=["swindle","defraud","cheat","trick","hoodwink","hoax","dupe","take in","mislead","delude","fool","outwit","misguide","lead on","inveigle","seduce","ensnare","entrap","beguile","double-cross","cozen","sharp","mulct"]}}]);
-//# sourceMappingURL=854.14ca9572.chunk.js.map

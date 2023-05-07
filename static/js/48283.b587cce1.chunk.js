@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48283],{248283:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return u}});var r=['"they talk a lot of bunkum about their products"'],u=["balderdash","gibberish","claptrap","blarney","guff","blather","blether","rubbish","sense"]}}]);
+//# sourceMappingURL=48283.b587cce1.chunk.js.map

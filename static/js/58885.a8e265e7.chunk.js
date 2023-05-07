@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58885],{958885:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return i},synonyms:function(){return l}});var i=[],l=["lady","female","girl","person","lass","lassie","wife","colleen","Frau","Signora","Se\xf1ora","maid","maiden","damsel","demoiselle","gentlewoman","bitch","adult female"]}}]);
+//# sourceMappingURL=58885.a8e265e7.chunk.js.map

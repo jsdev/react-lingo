@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40927],{440927:function(a,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"a meadow ready for cutting"','"143 acres of meadow and pasture"','"a pleasant campsite in a meadow, complete with sparkling stream"'],r=["field","pasture","paddock","pastureland","grassland","lea","mead","water meadow","bawn","field","pasture","paddock","pastureland","grassland","lea","mead","water meadow","bawn"]}}]);
+//# sourceMappingURL=40927.e233b053.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91283],{491283:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return c},synonyms:function(){return o}});var c=['"low yields for cereal crops"','"a bowl of cereal"','"a cereal box"'],o=["cereal crops"]}}]);
+//# sourceMappingURL=91283.88b4ac41.chunk.js.map

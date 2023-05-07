@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87984],{887984:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return o},synonyms:function(){return t}});var o=['"the decline of etymology as a linguistic discipline"','"the etymology of the word "devil""'],t=["derivation","development","origin","source","word history"]}}]);
+//# sourceMappingURL=87984.300fb2ca.chunk.js.map

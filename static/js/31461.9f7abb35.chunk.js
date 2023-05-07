@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31461],{831461:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"a curie of any radioactive element disintegrates at the same rate as 1 gram of natural radium"'],r=[]}}]);
+//# sourceMappingURL=31461.9f7abb35.chunk.js.map

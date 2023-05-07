@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27344],{727344:function(n,r,a){a.r(r),a.d(r,{definitions:function(){return e},synonyms:function(){return t}});var e=[],t=["agriculturalist","agronomist","smallholder","grazier","farmhand","countryman","crofter","rancher","yeoman","husbandman","son/daughter of the soil"]}}]);
+//# sourceMappingURL=27344.0718a1d3.chunk.js.map

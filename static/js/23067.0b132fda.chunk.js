@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23067],{723067:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return s},synonyms:function(){return t}});var s=['"we observe the Sabbath as God has commanded"','"sabbath candles"','"sabbath law"'],t=[]}}]);
-//# sourceMappingURL=23067.0b132fda.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94270],{994270:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return c},synonyms:function(){return t}});var c=['"prohibitions on all dancing and dicing"','"dice the peppers"'],t=["court","risk","make light of","dice with","not be afraid of","treat frivolously","chop","cut up","slice","cube","mince","carve","divide","hash"]}}]);
+//# sourceMappingURL=94270.4f0a9d72.chunk.js.map

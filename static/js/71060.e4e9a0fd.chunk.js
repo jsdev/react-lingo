@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71060],{671060:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return t},synonyms:function(){return s}});var t=['"tourists in halter tops and shorts"','"the horse stops running and agrees to being haltered"','"the Chicago bomb-throwers who were haltered for practicing their principles"'],s=["harness","bridle","headstall","head collar","chase-halter"]}}]);
+//# sourceMappingURL=71060.e4e9a0fd.chunk.js.map

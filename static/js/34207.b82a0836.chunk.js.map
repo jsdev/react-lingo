@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/34207.b82a0836.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gDAEWC,EAAW,E","sources":["definitions/crikey.js"],"sourcesContent":["export const definitions = [\n  '\"Crikey! I never thought I\\'d see you again\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

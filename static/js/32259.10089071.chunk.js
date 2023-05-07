@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32259],{32259:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return r},synonyms:function(){return o}});var r=['"her eyes were closed and she looked very serene"','"serene certainty"','"His Serene Highness"','"not a cloud obscured the deep serene"'],o=["cloudless","unclouded","clear","bright","sunny","cloudy","stormy"]}}]);
-//# sourceMappingURL=32259.10089071.chunk.js.map

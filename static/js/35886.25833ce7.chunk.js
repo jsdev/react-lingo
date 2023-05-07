@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35886],{435886:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"soon the cab would be nearing State Street"','"lunchtime neared"'],t=["approach","draw near/nearer to","get near/nearer to","get close/closer to","come toward","move toward","advance toward","close in on","verge on","border on","get close to","approximate to"]}}]);
+//# sourceMappingURL=35886.25833ce7.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87161],{431773:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return a},synonyms:function(){return t}});var a=['"marques such as Bentley, Ferrari, or Porsche"'],t=["make","line","label","type","kind","sort","variety","trade name","trademark","proprietary name","logo","chop"]}}]);
+//# sourceMappingURL=87161.5f700585.chunk.js.map

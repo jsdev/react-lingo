@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68363],{668363:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return i},synonyms:function(){return t}});var i=['"students making aliyah"','"I was called up for an aliyah"'],t=[]}}]);
+//# sourceMappingURL=68363.e3467dcc.chunk.js.map

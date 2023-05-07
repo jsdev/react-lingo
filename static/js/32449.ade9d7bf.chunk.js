@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32449],{532449:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"a world overrun by zombies"','"a horde of mindless zombies craving brains"'],o=[]}}]);
-//# sourceMappingURL=32449.ade9d7bf.chunk.js.map

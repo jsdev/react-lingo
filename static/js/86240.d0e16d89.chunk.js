@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86240],{986240:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return s},synonyms:function(){return t}});var s=['"he speaks in a whiny, childish voice"','"my PC suddenly emits this horrible whiny noise"','"a nasal, whiny singer"','"without wanting to sound whiny, it\'s quite hard work"'],t=[]}}]);
-//# sourceMappingURL=86240.d0e16d89.chunk.js.map

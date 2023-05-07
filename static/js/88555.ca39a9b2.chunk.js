@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88555],{88555:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return o}});var r=['"the bear lolloped along the path"'],o=["stride","run","bound"]}}]);
-//# sourceMappingURL=88555.ca39a9b2.chunk.js.map

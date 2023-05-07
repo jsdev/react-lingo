@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39745],{439745:function(n,i,s){s.r(i),s.d(i,{definitions:function(){return e},synonyms:function(){return g}});var e=['"a group of giggly girls"','"he was giggly and gossipy"'],g=[]}}]);
+//# sourceMappingURL=39745.8ee67430.chunk.js.map

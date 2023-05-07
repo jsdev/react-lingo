@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[25938],{525938:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return a}});var s=['"gay-bashers"','"a woman basher"','"theory-basher"','"animal rights bashers"'],a=[]}}]);
-//# sourceMappingURL=25938.37025f06.chunk.js.map

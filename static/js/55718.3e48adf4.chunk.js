@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55718],{355718:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return a},synonyms:function(){return c}});var a=['"monetary and fiscal policy"','"the domestic fiscal crisis"','"the budget deficit for fiscal 1996"'],c=["tax","budgetary","revenue","financial","economic","monetary","money","pecuniary","capital","financial","monetary","pecuniary","budgetary","commercial","trade","mercantile"]}}]);
-//# sourceMappingURL=55718.3e48adf4.chunk.js.map

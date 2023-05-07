@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34176],{834176:function(n,i,c){c.r(i),c.d(i,{definitions:function(){return e},synonyms:function(){return r}});var e=[],r=["rich in calcium"]}}]);
+//# sourceMappingURL=34176.cdea3c91.chunk.js.map

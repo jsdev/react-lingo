@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56996],{956996:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he sows a mixture of grasses and legumes"','"the new diet is high in fruit, vegetables, and legumes"'],i=["pod","shell","husk","hull","case","sheath","pericarp","exocarp","integument","seed case"]}}]);
+//# sourceMappingURL=56996.5ab834f9.chunk.js.map

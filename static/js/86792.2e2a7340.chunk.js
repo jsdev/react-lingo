@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86792],{386792:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return u},synonyms:function(){return r}});var u=[],r=["cloak","wrap","mantle","cape","kaftan","wrapper","djellaba","muumuu","dishdasha","kanzu"]}}]);
+//# sourceMappingURL=86792.2e2a7340.chunk.js.map

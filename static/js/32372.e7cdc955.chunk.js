@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32372],{632372:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return c}});var s=['"can you give credence to this ordure?"'],c=["excrement","excreta","dung","manure","muck","droppings","feces","stools","cowpats","guano","night soil","sewage","dirt","filth","jakes","doings","scat","feculence","egesta"]}}]);
+//# sourceMappingURL=32372.e7cdc955.chunk.js.map

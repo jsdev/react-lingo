@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[14378],{514378:function(n,i,o){o.r(i),o.d(i,{definitions:function(){return t},synonyms:function(){return e}});var t=[],e=["union","merger","fusion","fusing","amalgamation","integration","coalition","junction","combination","consolidation","confederation","federation","synthesis","joining","marrying","marriage"]}}]);
+//# sourceMappingURL=14378.d46263c8.chunk.js.map

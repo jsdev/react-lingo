@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94466],{194466:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the winning eight was coxed by a woman"','"he once coxed for Harvard"'],r=[]}}]);
+//# sourceMappingURL=94466.359ca501.chunk.js.map

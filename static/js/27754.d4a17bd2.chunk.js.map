@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/27754.d4a17bd2.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACtB,QACA,WACA,cACA,Y","sources":["definitions/eyries.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n  'roost',\n  'nest box',\n  'nesting box',\n  'birdhouse',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

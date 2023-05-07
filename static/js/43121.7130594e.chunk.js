@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43121],{243121:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"youths luged in a reckless style"'],u=[]}}]);
+//# sourceMappingURL=43121.7130594e.chunk.js.map

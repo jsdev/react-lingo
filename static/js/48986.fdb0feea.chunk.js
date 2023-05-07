@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48986],{648986:function(e,r,i){i.r(r),i.d(r,{definitions:function(){return n},synonyms:function(){return s}});var n=[],s=["hairy","shaggy","bushy","hair-covered","long-haired","woolly","furry","fleecy","fuzzy","bearded","unshaven","unshorn","bewhiskered","stubbly","bristly","pappose","hispid","crinite","pileous","crinigerous","hairless","short-haired"]}}]);
+//# sourceMappingURL=48986.fdb0feea.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83445],{183445:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return s},synonyms:function(){return t}});var s=['"the fetid water of the marsh"'],t=["stinking","smelly","foul-smelling","evil-smelling","malodorous","reeking","pungent","acrid","high","rank","foul","unpleasant","nasty","noxious","fresh","noisome","mephitic","miasmic","miasmal","olid","stinking to high heaven","fragrant"]}}]);
-//# sourceMappingURL=83445.a3b31182.chunk.js.map

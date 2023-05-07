@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[361],{361:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return r}});var t=['"his letter plunged her into abject misery"','"abject poverty"','"an abject apology"'],r=["obsequious","groveling","crawling","creeping","fawning","toadyish","servile","cringing","sniveling","ingratiating","toadying","sycophantic","submissive","craven","humiliating","proud"]}}]);
-//# sourceMappingURL=361.680375ec.chunk.js.map

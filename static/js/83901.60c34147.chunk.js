@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83901],{783901:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"her fingers moved deftly, quickly parting the grass"','"Lizzy deftly weaves her way through the crowd"','"he has deftly handled the flak he\'s received"',"\"the s's 's writers deftly balance humor and grief\""],s=[]}}]);
-//# sourceMappingURL=83901.60c34147.chunk.js.map

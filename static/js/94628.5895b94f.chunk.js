@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94628],{294628:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"they would very likely start dunning you for payment of your taxes"','"she received two dunning letters from the bank"'],s=["importune","solicit","petition","press","pressurize","plague","pester","nag","harass","hound","badger","beset","mither"]}}]);
+//# sourceMappingURL=94628.5895b94f.chunk.js.map

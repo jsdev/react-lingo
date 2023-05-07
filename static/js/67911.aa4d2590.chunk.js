@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67911],{467911:function(e,t,o){o.r(t),o.d(t,{definitions:function(){return n},synonyms:function(){return a}});var n=['"a doctored die having two deuces"','"a deuce for the hat-check girl"','"the Swede pegged him back to deuce from 40-love"','"a marathon game that went to eleven deuces"','"how the deuce are we to make a profit?"','"what the deuce are you trying to do?"'],a=[]}}]);
+//# sourceMappingURL=67911.aa4d2590.chunk.js.map

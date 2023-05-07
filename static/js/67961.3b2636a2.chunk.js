@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67961],{567961:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"as the eggs are being pipped the female clucks"','"you were just pipped for the prize"','"he pipped one of our fellows through the head yesterday"'],i=[]}}]);
+//# sourceMappingURL=67961.3b2636a2.chunk.js.map

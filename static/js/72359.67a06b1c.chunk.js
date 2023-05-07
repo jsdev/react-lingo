@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72359],{172359:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return a},synonyms:function(){return t}});var a=['"all of our products are naturally low in carbs"','"consumers are really watching their carb intake"'],t=[]}}]);
-//# sourceMappingURL=72359.67a06b1c.chunk.js.map

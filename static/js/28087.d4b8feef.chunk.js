@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28087],{728087:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=[],r=["sculpture","figure","effigy","statuette","figurine","idol","carving","bronze","representation","likeness","image","graven image","model","bust","head"]}}]);
-//# sourceMappingURL=28087.d4b8feef.chunk.js.map

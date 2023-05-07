@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67666],{967666:function(e,c,n){n.r(c),n.d(c,{definitions:function(){return t},synonyms:function(){return a}});var t=[],a=["space","chamber","hollow","hole","pocket","pouch","orifice","aperture","socket","gap","crater","pit","cutting","concavity","lacuna","sac","alveolus","ampulla","archenteron","bulla","bursa","lumen","orbit","sinus","ventricle","vesicle","calyx","cyst","geode","vug"]}}]);
+//# sourceMappingURL=67666.032fca3f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[73843],{773843:function(e,o,r){r.r(o),r.d(o,{definitions:function(){return n},synonyms:function(){return t}});var n=['"the mare gamboled toward her"','"the two of them run off to the woods for a gambol together"'],t=["frolic","frisk","cavort","caper","skip","dance","romp","prance","leap","hop","jump","spring","bound","bounce","play","sport","rollick","curvet","capriole","jump","bound","bounce","prance","leap","spring","skip"]}}]);
+//# sourceMappingURL=73843.2c5a1dcd.chunk.js.map

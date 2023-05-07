@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44134],{244134:function(_,e,n){n.r(e),n.d(e,{definitions:function(){return r},synonyms:function(){return a}});var r=['"we are ______ beings"','"crayfish are heavy ______ crustaceans"','"the narrow ______ hangar"','"a medium ______ Cabernet"','"he ______ forth the traditional Prussian remedy for all ills"','"an era when automobiles were ______ over wooden frames"'],a=[]}}]);
-//# sourceMappingURL=44134.b2ce1c09.chunk.js.map

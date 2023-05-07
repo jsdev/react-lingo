@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50993],{350993:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"we set off into the jungle"','"the lakes are hidden in dense jungle"','"the garden was a jungle of bluebells"','"it\'s a jungle out there"'],i=["wilderness","wilds","the bush","tropical forest","(tropical) rainforest","complexity","confusion","complication","mess","chaos","labyrinth","maze","tangle","snarl","web"]}}]);
+//# sourceMappingURL=50993.08c3955c.chunk.js.map

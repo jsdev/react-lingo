@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18819],{318819:function(n,t,a){a.r(t),a.d(t,{definitions:function(){return e},synonyms:function(){return i}});var e=['"the internal organs"','"the male organ"','"the central organs of administration and business"','"an article in the official organ of the Salvation Army"'],i=[]}}]);
-//# sourceMappingURL=18819.59a0b475.chunk.js.map

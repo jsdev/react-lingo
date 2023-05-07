@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19923],{219923:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"lemon rind and sundry herbs"','"a drugstore selling magazines, newspapers, and sundries"'],r=["various","varied","miscellaneous","assorted","mixed","diverse","diversified","motley","random","several","numerous","many","manifold","multifarious","multitudinous","legion","divers","farraginous"]}}]);
-//# sourceMappingURL=19923.5b41e71e.chunk.js.map

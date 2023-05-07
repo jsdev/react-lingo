@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3028],{803028:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return r}});var s=[],r=["sliver","shiver","chip","shard","needle","fragment","piece","bit","shred","spell","spillikin","shaving","paring","matchwood","flinders","skelf","spall"]}}]);
+//# sourceMappingURL=3028.d52f0b6f.chunk.js.map

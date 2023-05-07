@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50272],{650272:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"mummified bodies were entombed in the pyramids of Egypt"','"many people died, most entombed in collapsed buildings"'],o=["inter","bury","inhume","sepulcher","place in a tomb","lay to rest","consign to the grave"]}}]);
+//# sourceMappingURL=50272.51b16a64.chunk.js.map

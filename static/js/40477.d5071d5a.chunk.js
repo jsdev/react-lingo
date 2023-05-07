@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40477],{740477:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return s}});var o=[],s=["supervisor","controller","regisseur","producer","choreographer"]}}]);
-//# sourceMappingURL=40477.d5071d5a.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86224],{286224:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return c}});var t=['"peel and core the pears"'],c=[]}}]);
-//# sourceMappingURL=86224.baee1456.chunk.js.map

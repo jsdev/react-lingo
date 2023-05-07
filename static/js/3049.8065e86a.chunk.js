@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3049],{403049:function(n,e,c){c.r(e),c.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"the Colombian drug cartels"'],o=["gang","syndicate","mob","band","organization","confederation","confederacy","federation","union","association","circle","society","combine","consortium","alliance","league","cabal","cell","coterie","crew","junta"]}}]);
+//# sourceMappingURL=3049.8065e86a.chunk.js.map

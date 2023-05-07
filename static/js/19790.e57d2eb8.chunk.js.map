@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/19790.e57d2eb8.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,4CAEWC,EAAW,E","sources":["definitions/sopped.js"],"sourcesContent":["export const definitions = [\n  '\"he used some bread to sop up the sauce\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

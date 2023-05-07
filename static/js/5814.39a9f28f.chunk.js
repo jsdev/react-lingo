@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5814],{605814:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"coins bearing the effigy of Maria Theresa of Austria"','"the senator was burned in effigy"'],r=["statue","statuette","carving","sculpture","graven image","model","dummy","figure","figurine","guy","likeness","representation","image","bust","head"]}}]);
-//# sourceMappingURL=5814.39a9f28f.chunk.js.map

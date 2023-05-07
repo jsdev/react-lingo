@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44140],{244140:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"an ampoule of epinephrine"'],t=[]}}]);
+//# sourceMappingURL=44140.fc72d7d0.chunk.js.map

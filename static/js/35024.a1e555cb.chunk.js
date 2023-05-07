@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35024],{235024:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return i}});var r=['"his recent visit to Britain"','"a recent edition of the newspaper"'],i=["new","late","current","fresh","modern","contemporary","present-day","up to date","up to the minute","latter-day","latter","neoteric","immediate","the latest","not long past","occurring/appearing recently","just gone","old","former"]}}]);
+//# sourceMappingURL=35024.a1e555cb.chunk.js.map

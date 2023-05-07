@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94708],{594708:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"the room was about eleven feet wide"','"eighteen schools were founded, eleven of them in Los Angeles"','"the eldest is only eleven"','"she often worked until eleven at night"'],s=[]}}]);
+//# sourceMappingURL=94708.80eb3e6d.chunk.js.map

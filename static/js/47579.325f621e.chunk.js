@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47579],{247579:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return o},synonyms:function(){return t}});var o=[],t=["cover","covering","rug","afghan","quilt","eiderdown","duvet","bedcover","bedspread","throw-over","bedclothes","throw","spread","kaross","serape","coverlet","counterpane"]}}]);
+//# sourceMappingURL=47579.325f621e.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42085],{542085:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return o}});var i=['"they jibed, and the boat turned over"','"the skipper was hit by a jibing boom"','"the verdict does not jibe with the medical evidence"','"some cynics in the media might gibe"'],o=["jeer","taunt","mock","scoff","sneer"]}}]);
+//# sourceMappingURL=42085.3c47854e.chunk.js.map

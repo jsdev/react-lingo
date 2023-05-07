@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/18747.f2f995b5.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,2BACA,gBACA,kBAEWC,EAAW,E","sources":["definitions/6/h/he/hetero.js"],"sourcesContent":["export const definitions = [\n  '\"hetero and gay couples\"',\n  '\"heteropolar\"',\n  '\"heterosexual\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

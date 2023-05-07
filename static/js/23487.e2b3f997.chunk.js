@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23487],{23487:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return a},synonyms:function(){return s}});var a=['"the corpse of a man lay there"','"why are we perpetually trying to revive the corpse of cursive, anyway?"'],s=["body","cadaver","carcass","skeleton","remains","relics","corse","dead body"]}}]);
-//# sourceMappingURL=23487.e2b3f997.chunk.js.map

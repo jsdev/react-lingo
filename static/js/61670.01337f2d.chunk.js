@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61670],{761670:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return r},synonyms:function(){return o}});var r=[],o=["informant","collaborator","fifth columnist","double agent","spy","infiltrator","whistle-blower","plant","betrayer","traitor","Judas","double-crosser","turncoat","tattletale","intelligencer"]}}]);
+//# sourceMappingURL=61670.01337f2d.chunk.js.map

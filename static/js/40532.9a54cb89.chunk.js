@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40532],{540532:function(a,n,e){e.r(n),e.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a landscape slowly abraded by a fine, stinging dust"'],t=["wear","erode","corrode","eat away at","scour","rasp","strip","flay","wear away/down","scrape away","gnaw away at","bite into"]}}]);
-//# sourceMappingURL=40532.9a54cb89.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42723],{542723:function(i,n,s){s.r(n),s.d(n,{definitions:function(){return e},synonyms:function(){return t}});var e=['"violas divisi"','"divisi passages"'],t=[]}}]);
+//# sourceMappingURL=42723.85a183cc.chunk.js.map

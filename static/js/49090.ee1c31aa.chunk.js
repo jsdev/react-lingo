@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49090],{549090:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=[],t=["file","binder","ring binder","portfolio","document case","envelope","sleeve","jacket","wrapper","wallet"]}}]);
+//# sourceMappingURL=49090.ee1c31aa.chunk.js.map

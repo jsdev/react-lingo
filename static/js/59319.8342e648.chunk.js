@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59319],{159319:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the World Bank refused to fund the project"','"government-funded research"'],o=["finance","back","capitalize","sponsor","subsidize","underwrite","endow","support","float","maintain","pay for","provide finance/capital for","put up the money for","be a patron of"]}}]);
-//# sourceMappingURL=59319.8342e648.chunk.js.map

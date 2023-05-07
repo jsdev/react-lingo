@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57681],{557681:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"pubs owned by regional brewers"'],s=[]}}]);
-//# sourceMappingURL=57681.c37f72c8.chunk.js.map

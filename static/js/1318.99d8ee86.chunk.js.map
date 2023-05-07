@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/1318.99d8ee86.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,6DAEWC,EAAW,E","sources":["definitions/outfly.js"],"sourcesContent":["export const definitions = [\n  '\"a high-powered combat aircraft that can outfly anything\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

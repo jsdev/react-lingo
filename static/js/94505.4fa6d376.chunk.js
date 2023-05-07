@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94505],{94505:function(e,o,r){r.r(o),r.d(o,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the sound of horses\' hooves on the cobbles"','"the mayor cobbled together a budget"','"it had a tarnished brass knocker showing a pixie cobbling shoes"'],i=["scribble","improvise","devise","contrive","prepare roughly/hastily","make roughly/hastily","put together roughly/hastily","rig (up)","patch together","jerry-build"]}}]);
+//# sourceMappingURL=94505.4fa6d376.chunk.js.map

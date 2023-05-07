@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15333],{915333:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return t},synonyms:function(){return a}});var t=[],a=["ruler","sovereign","king","monarch","potentate","lord","overlord","khan","tsar","kaiser","imperator","autarch","ethnarch"]}}]);
+//# sourceMappingURL=15333.5ccffee2.chunk.js.map

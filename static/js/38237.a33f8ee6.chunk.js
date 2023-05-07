@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38237],{338237:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"a bratty little boy who threw his ice cream on the floor"','"they have the brattiest children"'],i=[]}}]);
-//# sourceMappingURL=38237.a33f8ee6.chunk.js.map

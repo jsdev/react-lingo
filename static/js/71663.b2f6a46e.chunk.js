@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71663],{271663:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"if you want to be a real mensch, try to help get her into counseling and treatment"'],i=[]}}]);
-//# sourceMappingURL=71663.b2f6a46e.chunk.js.map

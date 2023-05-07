@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3507],{203507:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return l},synonyms:function(){return o}});var l=['"he lobbed the ball over their heads"','"the two New Yorkers have traded barbs and lobbed personal insults at one another"'],o=["throw","toss","fling","pitch","shy","hurl","pelt","sling","loft","cast","flip","launch","propel","impel","bowl","let fly with"]}}]);
+//# sourceMappingURL=3507.49e67199.chunk.js.map

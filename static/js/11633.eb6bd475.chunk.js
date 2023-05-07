@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[11633],{611633:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"more than a dozen rioters have been arrested"','"the rioters opened up prisons and released those in them"'],s=[]}}]);
+//# sourceMappingURL=11633.eb6bd475.chunk.js.map

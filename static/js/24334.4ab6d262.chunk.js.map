@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/24334.4ab6d262.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,qDAEWC,EAAW,E","sources":["definitions/pensee.js"],"sourcesContent":["export const definitions = [\n  '\"an unpretentious collection of comic pensées\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

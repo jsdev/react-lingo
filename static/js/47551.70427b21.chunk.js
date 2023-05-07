@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47551],{947551:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return a},synonyms:function(){return t}});var a=['"as long as a man was unfree he had no access to justice"'],t=[]}}]);
+//# sourceMappingURL=47551.70427b21.chunk.js.map

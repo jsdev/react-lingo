@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/27390.830b1632.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sCAEWC,EAAW,E","sources":["definitions/6/b/ba/barman.js"],"sourcesContent":["export const definitions = [\n  '\"the barman refused to serve them\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

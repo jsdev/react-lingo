@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34246],{534246:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"suede shoes"'],u=[]}}]);
+//# sourceMappingURL=34246.fa35b9c1.chunk.js.map

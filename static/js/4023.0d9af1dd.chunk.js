@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4023],{604023:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return o},synonyms:function(){return r}});var o=['"a raffle ticket"','"a charity raffle"','"a work that will be raffled off for a fine arts scholarship"','"the raffle of the yard below"'],r=["lottery","sweepstake","sweep","ballot","Instants","lotto","tote","(prize) draw","tombola","numbers game/pool/racket","pakapoo"]}}]);
-//# sourceMappingURL=4023.0d9af1dd.chunk.js.map

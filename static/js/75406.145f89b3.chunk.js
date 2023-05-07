@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75406],{375406:function(n,t,r){r.r(t),r.d(t,{definitions:function(){return e},synonyms:function(){return o}});var e=['"dextrorotatory"'],o=[]}}]);
+//# sourceMappingURL=75406.145f89b3.chunk.js.map

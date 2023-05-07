@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15743],{515743:function(n,i,o){o.r(i),o.d(i,{definitions:function(){return a},synonyms:function(){return t}});var a=['"the company is facing a lawsuit and calls for a government buyout of the utility"'],t=["purchase","acquisition","buying","coup","merger","amalgamation","incorporation","combination","gaining of control","change of ownership"]}}]);
+//# sourceMappingURL=15743.14b6682b.chunk.js.map

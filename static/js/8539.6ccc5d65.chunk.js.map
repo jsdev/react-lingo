@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/8539.6ccc5d65.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,wDAEWC,EAAW,E","sources":["definitions/axeman.js"],"sourcesContent":["export const definitions = [\n  '\"he was like an axeman at work in a tangled thicket\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

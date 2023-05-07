@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[85742],{85742:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return s},synonyms:function(){return u}});var s=['"he put the house up for sale to spite his family"'],u=["upset","hurt","wound","distress","injure","annoy","irritate","vex","displease","provoke","gall","peeve","pique","offend","put out","thwart","foil","frustrate","please"]}}]);
+//# sourceMappingURL=85742.6ab3c6a1.chunk.js.map

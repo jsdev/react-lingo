@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/92624.04ef4a0c.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,kBACA,qDAEWC,EAAW,E","sources":["definitions/madame.js"],"sourcesContent":["export const definitions = [\n  '\"Madame Bovary\"',\n  '\"Madame Eva bent once more over the crystal ball\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

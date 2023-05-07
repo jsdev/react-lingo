@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50379],{550379:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"rapidly growing populations in the favelas of the great urban centers"'],i=[]}}]);
+//# sourceMappingURL=50379.f8d092fd.chunk.js.map

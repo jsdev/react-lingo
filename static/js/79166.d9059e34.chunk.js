@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79166],{279166:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return i}});var c=['"a cheese omelet"'],i=[]}}]);
-//# sourceMappingURL=79166.d9059e34.chunk.js.map

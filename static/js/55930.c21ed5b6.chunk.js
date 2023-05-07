@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55930],{255930:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return t},synonyms:function(){return u}});var t=['"a Harvard alumnus"','"a mixture of news about the University and articles by alumni"','"a Royal Ballet alumnus"'],u=[]}}]);
+//# sourceMappingURL=55930.c21ed5b6.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4106],{504106:function(e,o,n){n.r(o),n.d(o,{definitions:function(){return t},synonyms:function(){return l}});var t=['"he could only gaze at her in astonishment"'],l=["stare","look","gape","goggle","peer","leer","ogle","eye","contemplate","survey","scan","study","behold","look fixedly","look vacantly","take a good look"]}}]);
+//# sourceMappingURL=4106.e2b9a00d.chunk.js.map

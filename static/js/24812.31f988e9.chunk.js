@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24812],{24812:function(n,o,i){i.r(o),i.d(o,{definitions:function(){return r},synonyms:function(){return s}});var r=['"atonal music may be written by obscuring tonal structures or by ignoring conventional harmonies altogether"'],s=["inharmonious","disharmonious","discordant","tuneless","off-key","cacophonous","harsh","strident","grating","jarring","unmelodious","harmonious"]}}]);
+//# sourceMappingURL=24812.31f988e9.chunk.js.map

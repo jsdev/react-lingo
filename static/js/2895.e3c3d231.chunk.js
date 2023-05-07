@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2895],{802895:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return i}});var c=['"they were luted with a heavy coating of calcined chalk and eggshells"'],i=[]}}]);
+//# sourceMappingURL=2895.e3c3d231.chunk.js.map

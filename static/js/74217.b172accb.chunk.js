@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74217],{574217:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return i}});var o=['"the lowing of cattle"'],i=["moo","bellow"]}}]);
+//# sourceMappingURL=74217.b172accb.chunk.js.map

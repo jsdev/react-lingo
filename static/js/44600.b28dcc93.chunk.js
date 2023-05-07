@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44600],{844600:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"tall-masted ocean racers"','"a car that every top racer wants to drive"',"\"he's Britain's No. 1 downhill racer\""],a=["sportswoman","sportsman","sportsperson","runner","player","gymnast","competitor","contestant","contender","games player","team member"]}}]);
+//# sourceMappingURL=44600.b28dcc93.chunk.js.map

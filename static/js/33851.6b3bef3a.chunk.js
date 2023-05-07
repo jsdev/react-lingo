@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33851],{533851:function(e,l,n){n.r(l),n.d(l,{definitions:function(){return a},synonyms:function(){return o}});var a=['"the Thames Valley"','"the valley floor"'],o=["dale","vale","hollow","depression","hole","basin","gully","gorge","pass","ravine","canyon","rift","gap","combe","dene","glen","strath","nullah","kloof","vega","wadi","dell","dingle","slade","clough"]}}]);
+//# sourceMappingURL=33851.6b3bef3a.chunk.js.map

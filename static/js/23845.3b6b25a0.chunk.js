@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23845],{423845:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return a}});var o=['"newly rich consumers eager to flaunt their prosperity"'],a=["show off","parade","exhibit","flourish","brandish","wave","dangle","vaunt","display ostentatiously","draw attention to","make a (great) show of","put on show","put on display","exult in","brag about","crow about","hide","be modest about"]}}]);
+//# sourceMappingURL=23845.3b6b25a0.chunk.js.map

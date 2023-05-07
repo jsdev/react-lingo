@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[11484],{511484:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return a},synonyms:function(){return o}});var a=['"they may delate my slackness to my patron"','"they deliberated together on delating her as a witch"'],o=["inform","tell","give away","betray","denounce","sell out","be a Judas to","protect","keep quiet about"]}}]);
-//# sourceMappingURL=11484.a9a0e6f9.chunk.js.map

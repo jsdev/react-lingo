@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/65603.09f87dfb.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,6BACA,0BAEWC,EAAW,E","sources":["definitions/6/a/ac/acinar.js"],"sourcesContent":["export const definitions = [\n  '\"pancreatic acinar tissue\"',\n  '\"the acinar lung zone\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

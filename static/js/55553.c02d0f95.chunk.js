@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55553],{255553:function(e,a,n){n.r(a),n.d(a,{definitions:function(){return t},synonyms:function(){return i}});var t=['"take a gander at that luggage"','"Paulie gandered at shelves full of coffee paraphernalia"'],i=["glance","observation","view","examination","study","inspection","scan","survey","sight","peep","peek","glimpse","gaze","stare","gape","ogle"]}}]);
-//# sourceMappingURL=55553.c02d0f95.chunk.js.map

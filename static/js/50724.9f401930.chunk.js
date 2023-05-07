@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50724],{750724:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return s}});var t=['"amidst this criticism, at least she still has a few people in her corner"'],s=[]}}]);
-//# sourceMappingURL=50724.9f401930.chunk.js.map

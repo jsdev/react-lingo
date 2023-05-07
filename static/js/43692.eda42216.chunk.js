@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43692],{743692:function(i,s,e){e.r(s),e.d(s,{definitions:function(){return l},synonyms:function(){return n}});var l=['"carnal desire"'],n=["sexual","sensual","erotic","lustful","lascivious","libidinous","lecherous","licentious","lewd","prurient","salacious","coarse","gross","lubricious","venereal","physical","bodily","corporeal","fleshly","animal","spiritual"]}}]);
+//# sourceMappingURL=43692.eda42216.chunk.js.map

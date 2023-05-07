@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15817],{215817:function(e,c,i){i.r(c),i.d(c,{definitions:function(){return n},synonyms:function(){return a}});var n=['"his trousers were of striped calico"','"muslins and calicos became the fashionable fabrics"','"ribbon can give plain calico a decorative edge"','"a calico dress"','"Lena shooed a big calico cat off the counter"'],a=[]}}]);
+//# sourceMappingURL=15817.3f53313b.chunk.js.map

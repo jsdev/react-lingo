@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64831],{964831:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"singers chanted dirges"','"the wind howled dirges around the chimney"'],i=["elegy","lament","requiem","dead march","keen","coronach","threnody","monody","funeral song/chant","burial hymn","threnode"]}}]);
+//# sourceMappingURL=64831.c342aaae.chunk.js.map

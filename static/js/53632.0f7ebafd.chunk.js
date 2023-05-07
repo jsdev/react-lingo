@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53632],{553632:function(n,o,t){t.r(o),t.d(o,{definitions:function(){return e},synonyms:function(){return a}});var e=['"a cargo of cotton and wheat"','"an Indian hammock woven in colored cottons"','"a white cotton blouse"','"a cotton reel"'],a=["thread","wool","fiber","filament","strand","ply","cord","twine","string","line"]}}]);
+//# sourceMappingURL=53632.0f7ebafd.chunk.js.map

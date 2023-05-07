@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43178],{643178:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"they were unwilling to imbrue their hands in his blood"'],r=[]}}]);
-//# sourceMappingURL=43178.db621ac6.chunk.js.map

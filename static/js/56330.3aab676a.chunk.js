@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56330],{356330:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"a plankton feeder"','"the automatic sheet feeder holds up to 10 sheets of paper"','"a feeder school for Florida State University"'],a=["manger","feed box","crib","feeding container","fodder rack","headwater","branch","side stream","creek","influent","confluent"]}}]);
-//# sourceMappingURL=56330.3aab676a.chunk.js.map

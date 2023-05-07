@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51573],{751573:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"she craned forward to look more clearly"','"craning their necks to get a glimpse of the president"','"the wheelhouse module is craned into position on the hull"'],r=[]}}]);
+//# sourceMappingURL=51573.ad520575.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3248],{303248:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return a},synonyms:function(){return s}});var a=['"Bob did not fight back for the fifteen minutes that the half-dozen men pummeled him"','"he has been pummeled by the reviewers"'],s=["pound","buffet","belabor","thrash","beat up","abuse","hit","strike","beat","smack","assault","attack","thump","lash","rain blows on","aim blows at"]}}]);
-//# sourceMappingURL=3248.8bdbcf28.chunk.js.map

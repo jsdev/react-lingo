@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26369],{726369:function(n,t,o){o.r(t),o.d(t,{definitions:function(){return e},synonyms:function(){return r}});var e=[],r=["knobbly","knotty","knotted","gnarly","lumpy","bumpy","nodular","rough","twisted","bent","crooked","distorted","contorted","knurled","nodulous"]}}]);
-//# sourceMappingURL=26369.425c77db.chunk.js.map

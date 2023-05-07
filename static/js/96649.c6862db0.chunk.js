@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96649],{231680:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"she began to hem a border"','"Jane, if any one is about, come to the foot of the stairs and hem"'],r=["edge","border","trim","bind","fringe","put a hem on"]}}]);
+//# sourceMappingURL=96649.c6862db0.chunk.js.map

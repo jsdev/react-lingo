@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81766],{881766:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"he broke down and sobbed like a child"','"he sobbed himself to sleep"','""I thought they\'d killed you," he sobbed weakly"'],s=["weep","cry","shed tears","snivel","whimper","whine","howl","mewl","bawl","greet"]}}]);
-//# sourceMappingURL=81766.fd4bc26f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40425],{740425:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return r}});var s=['"the door was wedged open"','"I wedged the bags into the back seat"'],r=["squeeze","cram","jam","crush","pack","thrust","ram","force","push","stow"]}}]);
+//# sourceMappingURL=40425.1d8ece9f.chunk.js.map

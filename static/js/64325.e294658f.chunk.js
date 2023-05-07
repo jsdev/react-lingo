@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64325],{164325:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return c},synonyms:function(){return t}});var c=[],t=["backbone","spinal column","vertebral column","vertebrae","back","rachis"]}}]);
+//# sourceMappingURL=64325.e294658f.chunk.js.map

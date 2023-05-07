@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48818],{848818:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the most direct route is via Los Angeles"','"the many routes to a healthier diet will be described"','"all lines of communication were routed through Atlanta"'],r=["direct","send","convey","dispatch","forward"]}}]);
+//# sourceMappingURL=48818.bdd1b1a6.chunk.js.map

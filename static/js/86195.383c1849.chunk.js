@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86195],{286195:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"the baby\'s talcumed skin"'],s=[]}}]);
-//# sourceMappingURL=86195.383c1849.chunk.js.map

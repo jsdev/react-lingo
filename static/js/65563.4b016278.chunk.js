@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65563],{165563:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"the hill figure is a naked man brandishing a club and displaying a huge phallus"','"the building was a monumental steel and glass phallus"','"three wooden painted phalluses"'],s=[]}}]);
-//# sourceMappingURL=65563.4b016278.chunk.js.map

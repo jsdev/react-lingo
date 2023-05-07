@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28095],{228095:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return c},synonyms:function(){return i}});var c=['"tinned fruit"','"a pair of tinned copper conductors"','"the copper pans are tinned inside"'],i=["conserve","bottle","can","pot","chill","freeze","freeze-dry","quick-freeze","dry","desiccate","dehydrate","cure","smoke","kipper","salt","pickle","marinate","souse","corn","jelly","candy","embalm","mummify","consume","use"]}}]);
-//# sourceMappingURL=28095.06a945db.chunk.js.map

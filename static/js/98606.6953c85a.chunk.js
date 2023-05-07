@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[98606],{898606:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return s}});var i=[],s=["political science","statecraft","statesmanship","polity"]}}]);
+//# sourceMappingURL=98606.6953c85a.chunk.js.map

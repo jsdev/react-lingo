@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53708],{553708:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return o}});var r=['"the proceeds from the raffle help to defray the expenses of the evening"'],o=["cover","meet","square","settle","clear","discharge","liquidate","pay (for)","foot the bill for"]}}]);
-//# sourceMappingURL=53708.b62c3c1b.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35981],{235981:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return r},synonyms:function(){return a}});var r=['"the house has retained many original features including original plaster coving, decorative arched recesses, and three fireplaces"'],a=[]}}]);
+//# sourceMappingURL=35981.bf5cfa73.chunk.js.map

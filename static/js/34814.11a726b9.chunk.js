@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34814],{234814:function(n,r,i){i.r(r),i.d(r,{definitions:function(){return o},synonyms:function(){return t}});var o=['"a bottle of brandy"','"apricot brandy"','"four large brandies"'],t=["liquor","strong drink","gin","vodka","whiskey","rum","strong liquor"]}}]);
+//# sourceMappingURL=34814.11a726b9.chunk.js.map

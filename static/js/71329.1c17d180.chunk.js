@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71329],{171329:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"vendors can badge their products \u2018certified\u2019"'],i=[]}}]);
-//# sourceMappingURL=71329.1c17d180.chunk.js.map

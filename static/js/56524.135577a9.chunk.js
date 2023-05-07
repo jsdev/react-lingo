@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56524],{956524:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return r}});var e=['"a gratin of sole fillets"','"a gratin dish"'],r=[]}}]);
-//# sourceMappingURL=56524.135577a9.chunk.js.map

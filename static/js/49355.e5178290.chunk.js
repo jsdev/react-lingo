@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49355],{868796:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the very early stalks may not have quite enough natural pectin to set properly"','"two common types of soluble fiber are pectins and gums"'],r=[]}}]);
+//# sourceMappingURL=49355.e5178290.chunk.js.map

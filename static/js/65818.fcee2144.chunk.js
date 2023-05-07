@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65818],{865818:function(n,t,u){u.r(t),u.d(t,{definitions:function(){return c},synonyms:function(){return e}});var c=['"a cotton cloqu\xe9 suit"'],e=[]}}]);
+//# sourceMappingURL=65818.fcee2144.chunk.js.map

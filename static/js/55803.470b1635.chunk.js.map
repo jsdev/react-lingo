@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/55803.470b1635.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,iDAEWC,EAAW,E","sources":["definitions/6/b/bo/bodega.js"],"sourcesContent":["export const definitions = [\n  '\"we have filled up almost half of our bodega\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

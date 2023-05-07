@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/85052.1bfc5804.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gEAEWC,EAAW,E","sources":["definitions/choric.js"],"sourcesContent":["export const definitions = [\n  '\"he is a choric commentator speaking with the wisdom of age\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

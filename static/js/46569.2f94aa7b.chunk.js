@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46569],{46569:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"she\'s a distant cousin"','"the new motorbikes are not proving as popular as their four-wheeled cousins"','"the Russians and their Slavic cousins"'],s=["relative","relation","next of kin","uncle","nephew","blood relation/relative","family member","one's own flesh and blood"]}}]);
+//# sourceMappingURL=46569.2f94aa7b.chunk.js.map

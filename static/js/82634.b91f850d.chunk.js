@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82634],{682634:function(e,l,u){u.r(l),u.d(l,{definitions:function(){return n},synonyms:function(){return o}});var n=['"a furled umbrella"','"he shouted to the crew to furl sails"','"the smoke furled dreamily from the dragon\'s blue nostrils"'],o=["wind up","wind","coil","fold","curl","twist","fold (up)","coil (up)","bundle up","unroll","roll out"]}}]);
-//# sourceMappingURL=82634.b91f850d.chunk.js.map

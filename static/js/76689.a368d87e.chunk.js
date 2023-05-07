@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76689],{576689:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return o}});var r=['"you\'ll need to be a good putter to break par"','"the putter of an old airplane"','"barges puttered slowly through the water"','"early morning is the best time of the day to putter around in the garden"','"the duck putters on the surface of the pond"'],o=[]}}]);
-//# sourceMappingURL=76689.a368d87e.chunk.js.map

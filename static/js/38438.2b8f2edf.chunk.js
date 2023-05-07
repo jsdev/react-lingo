@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38438],{838438:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return r}});var c=['"acetyl chloride"','"an acetyl group"'],r=[]}}]);
+//# sourceMappingURL=38438.2b8f2edf.chunk.js.map

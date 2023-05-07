@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/8721.0d5c8a46.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,mCAEWC,EAAW,E","sources":["definitions/6/c/cl/clades.js"],"sourcesContent":["export const definitions = [\n  '\"the great ape and human clade\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

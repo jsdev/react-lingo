@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70837],{870837:function(n,o,i){i.r(o),i.d(o,{definitions:function(){return r},synonyms:function(){return t}});var r=[],t=["rot","rotting","corrosion","corroding","decomposition","cavities","holes","cariosity"]}}]);
-//# sourceMappingURL=70837.0fdd9d15.chunk.js.map

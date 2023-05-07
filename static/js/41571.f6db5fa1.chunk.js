@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41571],{41571:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"a dentil frieze"'],r=[]}}]);
+//# sourceMappingURL=41571.f6db5fa1.chunk.js.map

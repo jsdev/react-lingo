@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83613],{583613:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return i},synonyms:function(){return a}});var i=[],a=["error","mistake","miscalculation","fallacy","slip","oversight","fault","blunder","gaffe","defect","flaw","slip of the pen","literal","corrigendum","slip of the tongue","lapsus calami","lapsus linguae","typographical error","printer's error"]}}]);
+//# sourceMappingURL=83613.dfc20b2d.chunk.js.map

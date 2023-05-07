@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20063],{220063:function(n,t,u){u.r(t),u.d(t,{definitions:function(){return o},synonyms:function(){return e}});var o=['"don\'t make such a pother!"'],e=["commotion","uproar","outcry","disturbance","hubbub","hurly-burly","fuss","upset","tumult","brouhaha","palaver","to-do","turmoil","tempest","agitation","pandemonium","confusion","stir","excitement","scandal","sensation"]}}]);
+//# sourceMappingURL=20063.107d765f.chunk.js.map

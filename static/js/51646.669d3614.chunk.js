@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51646],{851646:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return t}});var o=['"a motley collection of social misfits"'],t=["nonconformist","eccentric","maverick","individualist","deviant","exception","outsider","outlier","fish out of water","square peg in a round hole","round peg in a square hole"]}}]);
-//# sourceMappingURL=51646.669d3614.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52997],{52997:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"we debarked from our cruise ship for a day of fun"','"the ship would simply sail into the harbor, dock, and begin debarking troops"','"the timber was then debarked and treated with insecticide"'],t=["get off","leave","detrain","land","arrive","deplane","step off","go ashore","alight from","embark"]}}]);
+//# sourceMappingURL=52997.d178cb2c.chunk.js.map

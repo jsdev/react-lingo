@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79201],{879201:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"sacral horns of a Minoan type"','"the first and second sacral vertebrae"'],a=[]}}]);
+//# sourceMappingURL=79201.7681b394.chunk.js.map

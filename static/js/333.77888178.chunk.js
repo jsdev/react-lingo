@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[333],{900333:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"he looked behind him to see if anyone was earwigging"','"he was so sure to be earwigged in private that what he heard or said openly went for little"'],o=[]}}]);
+//# sourceMappingURL=333.77888178.chunk.js.map

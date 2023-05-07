@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40188],{440188:function(n,o,t){t.r(o),t.d(o,{definitions:function(){return e},synonyms:function(){return i}});var e=["\"whether it's flicking through Facebook, giggling at lolcats, or snooping on shopping sites, there's always something to pull your attention away from work\"",'"if you refuse to talk to your stockbroker in anything but LOLcat speak (I can haz dividend?) then you\'ve got problems"'],i=[]}}]);
+//# sourceMappingURL=40188.dbced7a8.chunk.js.map

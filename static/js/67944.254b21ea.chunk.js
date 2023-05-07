@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67944],{367944:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"Orford Ness"'],t=[]}}]);
+//# sourceMappingURL=67944.254b21ea.chunk.js.map

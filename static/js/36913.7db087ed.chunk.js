@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36913],{636913:function(n,t,s){s.r(t),s.d(t,{definitions:function(){return i},synonyms:function(){return e}});var i=['"this is not a commodious alley, or a gainly street, but it has class"'],e=[]}}]);
+//# sourceMappingURL=36913.7db087ed.chunk.js.map

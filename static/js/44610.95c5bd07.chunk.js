@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44610],{744610:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=[],t=["dishes","pots","crocks","plates","bowls","cups","saucers","pottery","china","porcelain","earthenware","stoneware","tableware","dinner service","tea service","dinnerware","delph"]}}]);
+//# sourceMappingURL=44610.95c5bd07.chunk.js.map

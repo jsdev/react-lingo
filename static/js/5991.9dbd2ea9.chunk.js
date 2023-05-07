@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5991],{805991:function(e,o,s){s.r(o),s.d(o,{definitions:function(){return n},synonyms:function(){return r}});var n=['"she sought solace in her religion"','"the soundlessness of nature impressed and solaced her"','"I solaced myself with a slab of chocolate"'],r=["comfort","consolation","cheer","support","relief","comfort","console","cheer","support","relieve","soothe","calm","give solace to"]}}]);
+//# sourceMappingURL=5991.9dbd2ea9.chunk.js.map

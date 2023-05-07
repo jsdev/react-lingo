@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/24103.dae7f1ca.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gCACA,+CAEWC,EAAW,E","sources":["definitions/6/c/cl/cloves.js"],"sourcesContent":["export const definitions = [\n  '\"a teaspoon of ground cloves\"',\n  '\"rub a dish with a crushed clove of garlic\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

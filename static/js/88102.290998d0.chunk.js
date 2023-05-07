@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88102],{888102:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return a}});var o=['"he talked to the players singly and in groups"'],a=["one by one","individually","separately","by oneself","on one's own","apart","independently","seriatim","severally","one at a time","one after the other","together","simultaneously"]}}]);
+//# sourceMappingURL=88102.290998d0.chunk.js.map

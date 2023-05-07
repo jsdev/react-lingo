@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/31727.6ce772c0.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,+BACA,gDAEWC,EAAW,E","sources":["definitions/6/z/zo/zombie.js"],"sourcesContent":["export const definitions = [\n  '\"a world overrun by zombies\"',\n  '\"a horde of mindless zombies craving brains\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

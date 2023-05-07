@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26293],{426293:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"some of the rival machines were no better than lash-ups"'],s=[]}}]);
+//# sourceMappingURL=26293.4adf2d4c.chunk.js.map

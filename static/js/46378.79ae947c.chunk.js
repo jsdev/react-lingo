@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46378],{246378:function(i,e,s){s.r(e),s.d(e,{definitions:function(){return n},synonyms:function(){return h}});var n=['"he had an impish look about him"'],h=["mischievous","naughty","wicked","devilish","rascally","roguish","prankish","playful","waggish","mischief-making","troublemaking","sportive","elfin","elfish","elvish","pixieish","puckish","arch","full of mischief","elflike","pixie-like"]}}]);
+//# sourceMappingURL=46378.79ae947c.chunk.js.map

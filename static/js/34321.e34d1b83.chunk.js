@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34321],{534321:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the aortic valve"'],r=[]}}]);
+//# sourceMappingURL=34321.e34d1b83.chunk.js.map

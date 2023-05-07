@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55408],{55408:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"the band has been kind of off the radar these past few years"'],s=[]}}]);
-//# sourceMappingURL=55408.47fd815a.chunk.js.map

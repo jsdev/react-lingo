@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4728],{104728:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return r}});var s=['"a simple commodity economy is merely the embryo of a capitalist economy"'],r=["fetus","fertilized egg","unborn child/baby","germ","nucleus","seed","root","source","rudiments","basics","beginning","start","basis","mainspring","rudimentary version"]}}]);
+//# sourceMappingURL=4728.9e233ba5.chunk.js.map

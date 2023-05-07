@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4715],{204715:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return i}});var c=['"phasic and tonic stretch reflexes"'],i=[]}}]);
-//# sourceMappingURL=4715.14575f27.chunk.js.map

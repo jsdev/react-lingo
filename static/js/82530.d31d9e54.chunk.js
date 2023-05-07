@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82530],{847175:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"long-limbed"','"long-limbed"'],i=["arm","leg","wing","extremity","appendage","protuberance","projection","member","branch","bough","arm","leg","wing","extremity","appendage","protuberance","projection","member","branch","bough"]}}]);
-//# sourceMappingURL=82530.d31d9e54.chunk.js.map

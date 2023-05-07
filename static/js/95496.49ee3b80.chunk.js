@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[95496],{695496:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"Howard\'s rich family had disowned him because of his marriage"'],o=["reject","cast off","cast aside","abandon","repudiate","renounce","deny","turn one's back on","wash 's 's hands of","disinherit","forsake","have nothing more to do with","end relations with","cut off (without a penny)","acknowledge"]}}]);
+//# sourceMappingURL=95496.49ee3b80.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38043],{238043:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return l},synonyms:function(){return o}});var l=['"lastly, I would like to thank my parents"'],o=["finally","in conclusion","last","ultimately","in fine","last but not least","to conclude","in closing","to sum up","to end","in drawing things to a close","in winding up","firstly"]}}]);
-//# sourceMappingURL=38043.5f92389e.chunk.js.map

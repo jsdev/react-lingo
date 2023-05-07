@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4320],{4320:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return o},synonyms:function(){return t}});var o=['"if one folds his arms, so does the other; if one crosses his legs, ditto"'],t=["repetition","duplication","replication","rerun","duplicate","replica","copy","echo"]}}]);
-//# sourceMappingURL=4320.0625b04b.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19420],{819420:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"people often assume that any white squirrel is an albino"','"an albino tiger"'],s=["snowy","gray","silver","silvery","hoary","grizzled","snowy white"]}}]);
-//# sourceMappingURL=19420.3d5b2a04.chunk.js.map

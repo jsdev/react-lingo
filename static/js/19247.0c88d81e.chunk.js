@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19247],{119247:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return r}});var s=['"flock mattresses"'],r=[]}}]);
+//# sourceMappingURL=19247.0c88d81e.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72047],{772047:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return i}});var s=['"each segment has a white setose patch under its distal end"'],i=[]}}]);
-//# sourceMappingURL=72047.a0244067.chunk.js.map

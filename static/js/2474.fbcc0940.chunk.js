@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[2474],{702474:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return u},synonyms:function(){return c}});var u=['"the review was conducted thusly"'],c=[]}}]);
+//# sourceMappingURL=2474.fbcc0940.chunk.js.map

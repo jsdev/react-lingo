@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60279],{60279:function(i,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"lordly titles"','"they were putting on lordly airs"'],r=["noble","aristocratic","princely","kingly","regal","royal","imperial","courtly","stately","magnificent","majestic","grand","august","lofty","exalted","dignified","imposing","impressive","lowly"]}}]);
-//# sourceMappingURL=60279.a10d5563.chunk.js.map

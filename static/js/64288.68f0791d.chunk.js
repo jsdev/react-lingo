@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64288],{664288:function(e,n,c){c.r(n),c.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"the cattle egrets hatched and reared two chicks"','"cuckoo chicks"','"dozens of fluffy, chirruping chicks hatched out"','"she\'s a great - looking chick"'],s=["young lady","girl","lass","lassie","colleen","maid","maiden","damsel","nymph","wench","young woman","slip of a girl"]}}]);
-//# sourceMappingURL=64288.68f0791d.chunk.js.map

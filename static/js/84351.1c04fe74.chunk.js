@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84351],{84351:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"his epic poem has passages of almost embarrassing bathos"','"a nice balance between the colloquial, which might have led to bathos, and an over-polished style"'],t=["anticlimax","letdown","disappointment","disillusionment","mawkishness","sentimentality"]}}]);
+//# sourceMappingURL=84351.1c04fe74.chunk.js.map

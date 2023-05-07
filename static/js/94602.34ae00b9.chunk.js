@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94602],{894602:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"when we first met, he was a pistol, full of ideals and a natural leader"'],i=["revolver","gun","handgun","side arm","six-shooter","thirty-eight","derringer","Browning automatic","Colt","Luger","automatic pistol","Webley"]}}]);
+//# sourceMappingURL=94602.34ae00b9.chunk.js.map

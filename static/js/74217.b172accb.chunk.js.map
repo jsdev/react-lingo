@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/74217.b172accb.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,0BAEWC,EAAW,CACtB,MACA,S","sources":["definitions/6/l/lo/lowing.js"],"sourcesContent":["export const definitions = [\n  '\"the lowing of cattle\"',\n];\nexport const synonyms = [\n  'moo',\n  'bellow',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/31258.db88f4d4.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,E","sources":["definitions/mammal.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

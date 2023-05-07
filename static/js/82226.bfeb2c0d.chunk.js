@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82226],{382226:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return a}});var t=['"the festival ends with a grand finale"'],a=["climax","culmination","end","ending","finish","close","conclusion","termination","resolution","denouement","epilogue","coda","peroration","last act","final scene","final curtain","beginning"]}}]);
+//# sourceMappingURL=82226.bfeb2c0d.chunk.js.map

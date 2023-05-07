@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97167],{697167:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return i}});var o=['"it has to be laundered immediately in case of cooties and is then tossed directly into the ironing basket."','"I\'ve been exposed to every cootie out there"','"he would run around the playground and chase me around and I thought he had cooties"'],i=[]}}]);
+//# sourceMappingURL=97167.472c210b.chunk.js.map

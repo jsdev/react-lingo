@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41731],{141731:function(e,l,i){i.r(l),i.d(l,{definitions:function(){return n},synonyms:function(){return t}});var n=['"I would have gladly paid for it"','"she offered me a lift and I gladly accepted"'],t=["with pleasure","happily","cheerfully","willingly","readily","eagerly","freely","with good grace","ungrudgingly","fain","lief","without hesitation","without reluctance","reluctantly","unwillingly"]}}]);
-//# sourceMappingURL=41731.a30cd6a5.chunk.js.map

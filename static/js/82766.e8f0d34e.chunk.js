@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82766],{382766:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"roasted potatoes"','"the meal comes with rice or potato"','"leek and potato soup"'],r=[]}}]);
-//# sourceMappingURL=82766.e8f0d34e.chunk.js.map

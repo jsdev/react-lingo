@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76881],{276881:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"she put the carton of milk back in the fridge"'],r=[]}}]);
-//# sourceMappingURL=76881.c59baf7a.chunk.js.map

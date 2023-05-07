@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70556],{570556:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"Tom had finally badgered her into going"','"journalists badgered him about the deals"','"his daughter was always badgering him to let her join"'],r=["pester","harass","bother","plague","torment","hound","nag","chivvy","harry","keep on at","go on at","keep after","importune","annoy","trouble","harp on at","mither"]}}]);
-//# sourceMappingURL=70556.328a2c60.chunk.js.map

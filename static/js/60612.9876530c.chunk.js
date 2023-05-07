@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60612],{860612:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the bistro offers a more relaxed setting for dining"'],i=[]}}]);
+//# sourceMappingURL=60612.9876530c.chunk.js.map

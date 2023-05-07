@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76944],{276944:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"he managed to escape from his captors two nights later"'],a=["jailer","guard","incarcerator","custodian","keeper","enslaver","detainer"]}}]);
+//# sourceMappingURL=76944.e38c449e.chunk.js.map

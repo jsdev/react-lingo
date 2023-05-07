@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38212],{538212:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a bamboo serving tray"'],i=[]}}]);
+//# sourceMappingURL=38212.bc83cc17.chunk.js.map

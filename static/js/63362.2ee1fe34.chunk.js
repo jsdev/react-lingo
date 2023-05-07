@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63362],{763362:function(a,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return g}});var t=[],g=["suitcase","case","portmanteau","grip","overnight bag","overnighter","flight bag","Gladstone bag","carpet bag","backpack","rucksack","knapsack","haversack","kitbag","duffel bag","satchel","luggage","baggage","holdall","carryall","traveling bag"]}}]);
-//# sourceMappingURL=63362.2ee1fe34.chunk.js.map

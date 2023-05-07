@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10057],{810057:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return a},synonyms:function(){return o}});var a=['"his handmade Italian loafers"'],o=["idler","layabout","good-for-nothing","ne'er -do -well","do-nothing","lounger","shirker","sluggard","slug","laggard","slugabed","malingerer"]}}]);
+//# sourceMappingURL=10057.2416a233.chunk.js.map

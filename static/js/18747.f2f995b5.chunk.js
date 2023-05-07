@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18747],{118747:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return o}});var t=['"hetero and gay couples"','"heteropolar"','"heterosexual"'],o=[]}}]);
+//# sourceMappingURL=18747.f2f995b5.chunk.js.map

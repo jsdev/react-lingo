@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81850],{281850:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"an international delict"'],o=["infringement","contravention","breach","violation","transgression","breaking","neglect","dereliction","nonobservance","noncompliance","contumacy","failure to observe"]}}]);
+//# sourceMappingURL=81850.c5679f68.chunk.js.map

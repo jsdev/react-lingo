@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9212],{909212:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return i}});var c=['"an unpretentious collection of comic pens\xe9es"'],i=[]}}]);
+//# sourceMappingURL=9212.a60756eb.chunk.js.map

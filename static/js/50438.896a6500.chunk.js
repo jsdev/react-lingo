@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50438],{850438:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return u}});var t=['"equine infectious anemia"','"her somewhat equine features"','"they compared the behavior of humans and equines"'],u=[]}}]);
-//# sourceMappingURL=50438.896a6500.chunk.js.map

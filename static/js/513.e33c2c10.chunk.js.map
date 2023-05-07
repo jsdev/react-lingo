@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/513.e33c2c10.chunk.js","mappings":"gMAAO,IAAMA,EAAc,CACzB,uCAEWC,EAAW,E","sources":["definitions/gating.js"],"sourcesContent":["export const definitions = [\n  '\"he was gated for the rest of term\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

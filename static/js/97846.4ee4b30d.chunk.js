@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97846],{797846:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['""You haven\'t contributed much, this evening." "How could I have ?" "Touch\xe9.I do go on.""'],u=[]}}]);
+//# sourceMappingURL=97846.4ee4b30d.chunk.js.map

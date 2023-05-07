@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6177],{106177:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return u}});var r=['"the unbridled goondas roughed up the peasants and murdered them very often"'],u=[]}}]);
-//# sourceMappingURL=6177.f96f8e3e.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61300],{761300:function(e,a,n){n.r(a),n.d(a,{definitions:function(){return t},synonyms:function(){return s}});var t=['"the musical had the audience dancing in the aisles"','"I spend much of my time at the shops, wandering through the aisles"','"the tiled roof over the south aisle"'],s=["passage","passageway","corridor","gangway","walkway","path","lane","alley"]}}]);
+//# sourceMappingURL=61300.c085066a.chunk.js.map

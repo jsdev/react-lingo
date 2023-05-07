@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96967],{396967:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return o},synonyms:function(){return t}});var o=['"he catered a lunch for 20 people"','"they are planning another catered affair"','"my mother helped to cater for the party"'],t=["feed","serve","regale","provision","victual","provide food for","cook for","wine and dine","provide for"]}}]);
+//# sourceMappingURL=96967.85bca639.chunk.js.map

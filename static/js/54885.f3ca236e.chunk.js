@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54885],{54885:function(e,r,a){a.r(r),a.d(r,{definitions:function(){return o},synonyms:function(){return n}});var o=['"a haven for wildlife"','"a haven in times of trouble"'],n=["refuge","retreat","shelter","sanctuary","asylum","harbor","oasis","sanctum","place of safety","place of security","port in a storm","anchorage","harbor","port","mooring","roads","cove","inlet","bay","fjord","moorage","roadstead","harborage","hithe"]}}]);
+//# sourceMappingURL=54885.f3ca236e.chunk.js.map

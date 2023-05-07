@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74609],{874609:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"they had to run the gauntlet of television cameras"'],r=[]}}]);
+//# sourceMappingURL=74609.706ec413.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/53661.c187bc50.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kBACA,mBACA,sBAEWC,EAAW,E","sources":["definitions/choral.js"],"sourcesContent":["export const definitions = [\n  '\"a choral work\"',\n  '\"choral singing\"',\n  '\"a choral scholar\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

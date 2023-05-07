@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43855],{543855:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"he learned how to chine a whole sheep"'],o=[]}}]);
-//# sourceMappingURL=43855.00dec505.chunk.js.map

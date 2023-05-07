@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48556],{348556:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return l},synonyms:function(){return a}});var l=['"the juice of seven lemons"','"garnish with a slice of lemon"','"lemon juice"','"a port and lemon"','"lemon tea"','"a lemon T-shirt"','"lemon yellow"','"car-makers cannot afford to create lemons"'],a=["yellowish","yellowy","lemony","amber","gold","golden","blond","fair","flaxen","light brown"]}}]);
+//# sourceMappingURL=48556.a1e313c1.chunk.js.map

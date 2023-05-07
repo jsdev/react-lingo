@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49945],{807567:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"she gently broke the news to her mom"','"a gently humorous account"','"gently pat your skin dry"','"palm trees swayed gently in the breeze"','"a gently undulating landscape"','"the lawn slopes gently to the river"'],s=[]}}]);
+//# sourceMappingURL=49945.e8f93b70.chunk.js.map

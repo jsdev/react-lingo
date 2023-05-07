@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65990],{265990:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return t},synonyms:function(){return a}});var t=['"the atomic nucleus"','"atomic hydrogen"','"a society made up of atomic individuals pursuing private interests"','"the atomic age required a new way of political thinking"','"atomic weapons"'],a=[]}}]);
+//# sourceMappingURL=65990.c47f30a2.chunk.js.map

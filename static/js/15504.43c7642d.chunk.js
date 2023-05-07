@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15504],{515504:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"the distal end of the tibia"','"axons distal to the injury will degenerate"','"the distal zone"'],s=[]}}]);
+//# sourceMappingURL=15504.43c7642d.chunk.js.map

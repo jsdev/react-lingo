@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94391],{794391:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"every single song on the album is a certified banger"','"bangers and beans"','"they\'ve only got an old banger"','"these fireworks are no longer bangers but more like explosives"'],s=["automobile","motor","machine","motor car","horseless carriage"]}}]);
-//# sourceMappingURL=94391.fdb51a91.chunk.js.map

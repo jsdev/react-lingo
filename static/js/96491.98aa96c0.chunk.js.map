@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/96491.98aa96c0.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,yBACA,kCAEWC,EAAW,E","sources":["definitions/6/p/po/potage.js"],"sourcesContent":["export const definitions = [\n  '\"coarse, spicy potage\"',\n  '\"recipes for soups or potages\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

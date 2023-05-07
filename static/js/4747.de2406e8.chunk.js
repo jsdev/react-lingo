@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4747],{304747:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"he was gated for the rest of term"'],s=[]}}]);
+//# sourceMappingURL=4747.de2406e8.chunk.js.map

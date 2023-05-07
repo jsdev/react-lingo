@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40408],{40408:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"they dyked the marshland along the rivers to provide pasture in summer"','"the fertility of those dyked lands was unrivalled"'],i=[]}}]);
+//# sourceMappingURL=40408.5b934415.chunk.js.map

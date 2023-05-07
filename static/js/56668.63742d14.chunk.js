@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56668],{356668:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return c}});var t=['"herbed rack of lamb"'],c=[]}}]);
+//# sourceMappingURL=56668.63742d14.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77926],{977926:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"she reached into the bodice of her dress and pulled out a handkerchief"','"she pairs her cropped blazer with a matching bodice"'],t=[]}}]);
+//# sourceMappingURL=77926.face883a.chunk.js.map

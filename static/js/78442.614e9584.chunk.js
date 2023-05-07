@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[78442],{678442:function(e,t,c){c.r(t),c.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"manufacturers are cagey about the recipes they use to create a wine"'],r=["secretive","guarded","noncommittal","tight-lipped","reticent","cautious","circumspect","chary","wary","careful","evasive","elusive","equivocal","discreet","frank","open"]}}]);
+//# sourceMappingURL=78442.614e9584.chunk.js.map

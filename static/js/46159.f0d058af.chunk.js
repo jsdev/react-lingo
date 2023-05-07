@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46159],{446159:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=[],o=["present","introduce","front","anchor","announce","comp\xe8re","be the presenter of"]}}]);
+//# sourceMappingURL=46159.f0d058af.chunk.js.map

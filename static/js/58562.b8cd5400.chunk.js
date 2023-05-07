@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58562],{756148:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"two or three nights a week we were gigging"','"12-string guitar, mint condition, never gigged"'],r=[]}}]);
+//# sourceMappingURL=58562.b8cd5400.chunk.js.map

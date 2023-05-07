@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46055],{446055:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return i}});var r=['"the uterine artery was ligated"','"we ligated these proteins to create three triangular nanostructures"'],i=[]}}]);
+//# sourceMappingURL=46055.09526df2.chunk.js.map

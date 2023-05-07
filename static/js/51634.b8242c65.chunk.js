@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51634],{451634:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return o},synonyms:function(){return r}});var o=['"both countries were due to ratify the treaty by the end of the year"'],r=["confirm","approve","sanction","endorse","accept","affirm","uphold","corroborate","authorize","formalize","certify","validate","recognize","sign","countersign","agree to","consent to","assent to","put one's name to","reject","revoke"]}}]);
+//# sourceMappingURL=51634.b8242c65.chunk.js.map

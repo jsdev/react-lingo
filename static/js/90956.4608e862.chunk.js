@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[90956],{890956:function(n,u,e){e.r(u),e.d(u,{definitions:function(){return l},synonyms:function(){return o}});var l=[],o=["canyon","gully","pass","defile","couloir","chasm","abyss","gulf","chine","bunny","gill","gulch","coulee","flume","arroyo","barranca","nullah","kloof","deep narrow valley","clough","thrutch","cleuch","heugh","quebrada","khud","sloot","donga","khor"]}}]);
+//# sourceMappingURL=90956.4608e862.chunk.js.map

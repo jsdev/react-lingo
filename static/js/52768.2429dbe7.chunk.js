@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52768],{552768:function(n,t,a){a.r(t),a.d(t,{definitions:function(){return e},synonyms:function(){return i}});var e=['"I always take a latish train to work"','"Margaret came in latish"'],i=[]}}]);
+//# sourceMappingURL=52768.2429dbe7.chunk.js.map

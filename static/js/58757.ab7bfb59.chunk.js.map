@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/58757.ab7bfb59.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,+CACA,0BAEWC,EAAW,E","sources":["definitions/6/c/ca/causal.js"],"sourcesContent":["export const definitions = [\n  '\"the causal factors associated with illness\"',\n  '\"a causal conjunction\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

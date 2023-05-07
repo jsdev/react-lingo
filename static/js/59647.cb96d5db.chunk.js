@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59647],{859647:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return o}});var i=['"I like to gamify parts of my life to keep things fun"','"to really gamify the process, you\'d need to equip the cameras with guns"'],o=[]}}]);
-//# sourceMappingURL=59647.cb96d5db.chunk.js.map

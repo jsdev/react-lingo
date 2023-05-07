@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80247],{380247:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the uppermost windows"','"her father was uppermost in her mind"'],r=["highest","loftiest","top","topmost","predominant","to the fore","foremost","dominant","preponderant","principal","leading","greatest","chief","main","paramount","major","furthest up","most elevated","most important","of greatest importance"]}}]);
-//# sourceMappingURL=80247.7347273c.chunk.js.map

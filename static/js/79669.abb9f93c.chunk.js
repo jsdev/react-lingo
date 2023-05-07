@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79669],{479669:function(e,_,n){n.r(_),n.d(_,{definitions:function(){return t},synonyms:function(){return a}});var t=['"He nodded ______ and walked away."','"She clenched her teeth ______ and endured the pain."','"He fought ______ to the last breath."','"She smiled ______ and said nothing."','"He stared ______ at the mess."'],a=["ghastly","repellent","sinister"]}}]);
+//# sourceMappingURL=79669.abb9f93c.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31403],{831403:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"all you need is matcha, boiling water, a milk of your choice, and honey"','"matcha cookies"','"models were spotted sipping bright green matcha"'],t=[]}}]);
+//# sourceMappingURL=31403.e6676cff.chunk.js.map

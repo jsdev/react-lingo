@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49153],{249153:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return c}});var r=['"a meat packer"'],c=[]}}]);
+//# sourceMappingURL=49153.eca8c201.chunk.js.map

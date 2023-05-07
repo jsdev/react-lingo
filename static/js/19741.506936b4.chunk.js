@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19741],{219741:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"part of the road has been coned off"'],r=[]}}]);
-//# sourceMappingURL=19741.506936b4.chunk.js.map

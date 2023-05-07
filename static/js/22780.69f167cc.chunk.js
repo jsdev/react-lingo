@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22780],{122780:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"he never hogged the limelight"'],r=["monopolize","keep to oneself","dominate","take over","corner","control","share"]}}]);
-//# sourceMappingURL=22780.69f167cc.chunk.js.map

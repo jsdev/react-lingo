@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/8125.6fe3401d.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,0CAEWC,EAAW,E","sources":["definitions/covens.js"],"sourcesContent":["export const definitions = [\n  '\"covens of militants within the party\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

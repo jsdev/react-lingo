@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12966],{112966:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"Blimey! How on earth did she say that to you without a blush?"'],o=[]}}]);
-//# sourceMappingURL=12966.ba0ab565.chunk.js.map

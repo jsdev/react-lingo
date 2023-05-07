@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[29489],{429489:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=[],r=["part","piece","bit","constituent","element","ingredient","unit","item","section","portion","integrant","craft","probe","section","detachable compartment"]}}]);
-//# sourceMappingURL=29489.46a7d56e.chunk.js.map

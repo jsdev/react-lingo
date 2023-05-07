@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39154],{139154:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"she couponed and budgeted to feed her family of six"'],r=["voucher","chit","docket","stamp","order","IOU","credit note","form","entry form","tear-off slip","application form"]}}]);
-//# sourceMappingURL=39154.8ba467ee.chunk.js.map

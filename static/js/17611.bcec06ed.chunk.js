@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[17611],{817611:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=[],a=["pirate","marauder","raider","freebooter","plunderer","cutthroat","privateer","bandit","robber","desperado","adventurer","swashbuckler","corsair","sea rover"]}}]);
+//# sourceMappingURL=17611.bcec06ed.chunk.js.map

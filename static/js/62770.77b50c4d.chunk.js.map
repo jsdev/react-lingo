@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/62770.77b50c4d.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,2BAEWC,EAAW,E","sources":["definitions/phenom.js"],"sourcesContent":["export const definitions = [\n  '\"the newest pop phenom\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

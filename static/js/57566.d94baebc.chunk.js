@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57566],{757566:function(o,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return e}});var i=['"spoked wheels with outside volute springs"'],e=["loop","twist","turn","curl","hoop","roll","ring","twirl","gyre","whorl","scroll","curlicue","convolution","spiral","helix","corkscrew","volution"]}}]);
-//# sourceMappingURL=57566.d94baebc.chunk.js.map

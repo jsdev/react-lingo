@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/39303.67e5d50b.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sBACA,4CAEWC,EAAW,E","sources":["definitions/astral.js"],"sourcesContent":["export const definitions = [\n  '\"astral navigation\"',\n  '\"spiritual beings from the astral plane\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

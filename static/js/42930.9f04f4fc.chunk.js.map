@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/42930.9f04f4fc.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,sCACA,2BAEWC,EAAW,E","sources":["definitions/pastis.js"],"sourcesContent":["export const definitions = [\n  '\"he took a large swallow of pastis\"',\n  '\"he drank three pastis\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

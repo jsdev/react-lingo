@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94241],{594241:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return r},synonyms:function(){return a}});var r=['"I was a pretty good hitter in baseball"','"the hardest hitter of a squash ball in the world"'],a=[]}}]);
+//# sourceMappingURL=94241.fd2843a3.chunk.js.map

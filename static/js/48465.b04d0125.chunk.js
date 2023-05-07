@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48465],{748465:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a die-cast aluminum loudspeaker chassis"'],t=["shape","form","fashion","model","work","construct","frame","make","create","configure","manufacture","design","sculpt","sculpture","throw","forge","cast","stamp","print","impress","emboss","deboss","engrave","etch"]}}]);
+//# sourceMappingURL=48465.b04d0125.chunk.js.map

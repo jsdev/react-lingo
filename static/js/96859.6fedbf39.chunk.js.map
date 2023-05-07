@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/96859.6fedbf39.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,wFAEWC,EAAW,E","sources":["definitions/muckle.js"],"sourcesContent":["export const definitions = [\n  '\"she had a great big elephant … that\\'s one of those mickle beasts from Africa\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

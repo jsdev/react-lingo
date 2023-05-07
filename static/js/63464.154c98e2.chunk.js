@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63464],{63464:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return a},synonyms:function(){return t}});var a=[],t=["traveling salesman","street trader","barrow boy","higgler","hawker","chapman","packman","huckster","crier","colporteur","door-to-door salesman"]}}]);
-//# sourceMappingURL=63464.154c98e2.chunk.js.map

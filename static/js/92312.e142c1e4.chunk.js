@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92312],{892312:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=[],u=["rug","runner","carpet","drugget","doormat","hearthrug","bath mat","rag rug","scatter rug","bearskin","sheepskin","dhurrie","numdah","kilim","flokati","floorcloth","welcome mat","Soumak"]}}]);
+//# sourceMappingURL=92312.e142c1e4.chunk.js.map

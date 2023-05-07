@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[158],{400158:function(e,t,o){o.r(t),o.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"he had court orders to evict the trespassers from three camps"'],s=["expel","eject","oust","remove","dislodge","turn out","put out","force out","throw out","drum out","drive out","dispossess","expropriate","defenestrate","out","throw out on the streets","throw out on one's ear","admit"]}}]);
+//# sourceMappingURL=158.0b4a4549.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/56984.77fd70d7.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,gDAEWC,EAAW,E","sources":["definitions/6/d/de/decile.js"],"sourcesContent":["export const definitions = [\n  '\"the lowest income decile of the population\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

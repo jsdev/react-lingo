@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/89655.ffaa9136.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,wBACA,yCAEWC,EAAW,E","sources":["definitions/pliant.js"],"sourcesContent":["export const definitions = [\n  '\"pliant willow stems\"',\n  '\"an economy pliant to political will\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

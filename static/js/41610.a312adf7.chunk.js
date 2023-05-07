@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41610],{441610:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"stand here awhile"'],i=["for a moment","for a while","for a short time","for a little while"]}}]);
+//# sourceMappingURL=41610.a312adf7.chunk.js.map

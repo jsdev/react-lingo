@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66142],{166142:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return i},synonyms:function(){return l}});var i=['"misplaced faith in political utopias has led to ruin"','"a romantic vision of Utopia"'],l=["paradise","heaven","Eden","Shangri-La","Elysium","the Elysian Fields","idyll","nirvana","bliss","Arcadia","Arcady","ideal place","heaven on earth","Garden of Eden","Happy Valley","seventh heaven","Erewhon","hell on earth"]}}]);
-//# sourceMappingURL=66142.d8175c17.chunk.js.map

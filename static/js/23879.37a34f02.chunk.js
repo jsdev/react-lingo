@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23879],{323879:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"it was the season\'s first goal, and a corker"','"the album was not only a corker, but a hit - laden masterpiece"'],r=[]}}]);
+//# sourceMappingURL=23879.37a34f02.chunk.js.map

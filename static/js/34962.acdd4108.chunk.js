@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34962],{434962:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"his father was a garrulous old man who chattered like a magpie"','"he would carry these documents home to appease his secretive magpie instinct"'],i=[]}}]);
+//# sourceMappingURL=34962.acdd4108.chunk.js.map

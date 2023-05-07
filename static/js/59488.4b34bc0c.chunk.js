@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59488],{259488:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"he kept the man\'s airway clear and blood circulating"','"British Airways"'],i=["tube","channel","passage","canal","vessel","conduit","culvert","pipe","pipeline","outlet","inlet","flue","shaft","vent","ductus","ductule","vas","trachea"]}}]);
-//# sourceMappingURL=59488.4b34bc0c.chunk.js.map

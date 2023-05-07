@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38464],{438464:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"she thought he would become a ballet dancer"'],s=["danseur","danseuse","terpsichorean"]}}]);
-//# sourceMappingURL=38464.024b6d60.chunk.js.map

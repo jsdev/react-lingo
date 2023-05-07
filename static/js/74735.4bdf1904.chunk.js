@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74735],{574735:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=['"denary numbers"'],u=[]}}]);
+//# sourceMappingURL=74735.4bdf1904.chunk.js.map

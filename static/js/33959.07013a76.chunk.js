@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33959],{33959:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the kick would hardly be a gimme in that wind"'],r=[]}}]);
+//# sourceMappingURL=33959.07013a76.chunk.js.map

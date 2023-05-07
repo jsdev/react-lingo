@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54475],{54475:function(n,t,a){a.r(t),a.d(t,{definitions:function(){return e},synonyms:function(){return o}});var e=['"he waylaid me on the stairs"'],o=["ambush","hold up","attack","assail","rob","trap","entrap","accost","detain","intercept","importune","lie in wait for","lay a trap for","take aside","stop and talk to","pounce on","swoop down on"]}}]);
+//# sourceMappingURL=54475.d4181bb9.chunk.js.map

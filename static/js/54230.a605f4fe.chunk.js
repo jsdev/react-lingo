@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54230],{254230:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"Dad came upstairs and whaled me"','"they whaled at the water with their paddles"'],i=[]}}]);
+//# sourceMappingURL=54230.a605f4fe.chunk.js.map

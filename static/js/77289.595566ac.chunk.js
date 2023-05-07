@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77289],{577289:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"the industrial revolution created a new moneyed class"','"a moneyed lifestyle"'],t=["rich","wealthy","affluent","cash rich","well-to-do","well off","prosperous","in clover","opulent","with deep pockets","of means","of substance","penniless","poor","impoverished"]}}]);
+//# sourceMappingURL=77289.595566ac.chunk.js.map

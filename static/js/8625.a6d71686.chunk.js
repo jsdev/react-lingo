@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8625],{508625:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return t},synonyms:function(){return u}});var t=['"that wine after dinner must have fuddled me"','"through the fuddle of wine he heard some of the conversation"'],u=["muddle","daze","stupefy","befuddle","bewilder","confuse","perplex","baffle","obscure","bedim","becloud","obfuscate","debauch","bacchanal","bacchanalia","wassail","potation","drinking bout"]}}]);
-//# sourceMappingURL=8625.a6d71686.chunk.js.map

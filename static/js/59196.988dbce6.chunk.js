@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59196],{259196:function(e,s,t){t.r(s),t.d(s,{definitions:function(){return n},synonyms:function(){return i}});var n=['"they used special tools to emboss the leather"','"the silverware is embossed with falcons"','"a dull gold casing with the logo embossed on the front"'],i=["imprint","print","stamp","mark","engrave","deboss","punch","etch","carve","inscribe","cut","chisel"]}}]);
+//# sourceMappingURL=59196.988dbce6.chunk.js.map

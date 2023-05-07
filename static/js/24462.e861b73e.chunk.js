@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24462],{724462:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"carrying a high sea, we were badly pooped"'],t=[]}}]);
-//# sourceMappingURL=24462.e861b73e.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[524],{600524:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return o},synonyms:function(){return i}});var o=['"the written consent of each of the parties hereto"','"hereto is appended an estimate of the cost"'],i=[]}}]);
+//# sourceMappingURL=524.cdb455a9.chunk.js.map

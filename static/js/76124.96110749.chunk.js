@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76124],{976124:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return o},synonyms:function(){return a}});var o=[],a=["cattleman","cowhand","cowherd","herder","herdsman","drover","stockman","rancher","gaucho","ranchero","vaquero","buckaroo","herd","llanero"]}}]);
+//# sourceMappingURL=76124.96110749.chunk.js.map

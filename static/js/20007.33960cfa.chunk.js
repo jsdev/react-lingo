@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20007],{120007:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"an armada of destroyers, minesweepers, and gunboats"'],s=["fleet","flotilla","squadron","navy","naval force","(naval) task force"]}}]);
+//# sourceMappingURL=20007.33960cfa.chunk.js.map

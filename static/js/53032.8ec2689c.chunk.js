@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53032],{553032:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return l}});var i=['"tax dodgers"'],l=["notice","announcement","bulletin","commercial","promotion","blurb","write-up","display","poster","leaflet","pamphlet","flyer","bill","handbill","handout","circular","brochure","sign","placard","folder","affiche"]}}]);
+//# sourceMappingURL=53032.8ec2689c.chunk.js.map

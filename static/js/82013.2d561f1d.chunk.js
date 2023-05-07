@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82013],{382013:function(n,e,c){c.r(e),c.d(e,{definitions:function(){return t},synonyms:function(){return u}});var t=[],u=["cow","bull","bullock","calf","ox","beef","neat"]}}]);
+//# sourceMappingURL=82013.2d561f1d.chunk.js.map

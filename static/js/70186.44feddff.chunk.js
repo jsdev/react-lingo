@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70186],{770186:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return a}});var s=['"he liked his steak rare"','"a salmon steak"','"braising steak"','"steak and kidney pie"'],a=[]}}]);
-//# sourceMappingURL=70186.44feddff.chunk.js.map

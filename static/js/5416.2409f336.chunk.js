@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5416],{605416:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=['"encouraging students to parrot back information"'],r=["repeat","echo","repeat mindlessly","repeat mechanically","say again"]}}]);
+//# sourceMappingURL=5416.2409f336.chunk.js.map

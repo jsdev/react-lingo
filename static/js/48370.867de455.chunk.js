@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48370],{748370:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return a}});var i=['"a globe-trotting financial pundit"'],a=["expert","authority","adviser","specialist","consultant","doyen","master","mentor","guru","sage","savant","member of a think tank","member of a policy unit"]}}]);
+//# sourceMappingURL=48370.867de455.chunk.js.map

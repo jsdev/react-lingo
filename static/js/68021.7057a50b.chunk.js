@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68021],{768021:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return c}});var r=['"he eats whenever he can cadge a meal"','"they cadge, but timidly"'],c=["scrounge","beg","borrow"]}}]);
-//# sourceMappingURL=68021.7057a50b.chunk.js.map

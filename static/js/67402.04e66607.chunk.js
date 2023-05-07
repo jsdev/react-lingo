@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67402],{867402:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=[],i=["kitchenette","cookhouse","bakehouse","scullery","cookery","cooking area","kitchen-diner","page proof","galley proof","pull","slip","revise","trial print"]}}]);
-//# sourceMappingURL=67402.04e66607.chunk.js.map

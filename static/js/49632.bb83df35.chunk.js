@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[49632],{349632:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return s}});var i=['"the changes must not be allowed to stymie new medical treatments"'],s=["impede","hamper","hinder","obstruct","inhibit","frustrate","thwart","foil","spoil","stall","shackle","fetter","stop","check","block","cripple","handicap","scotch","interfere with","assist","help"]}}]);
+//# sourceMappingURL=49632.bb83df35.chunk.js.map

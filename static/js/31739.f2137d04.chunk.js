@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31739],{231739:function(t,o,n){n.r(o),n.d(o,{definitions:function(){return e},synonyms:function(){return u}});var e=['"the mother\u2013child dyad"'],u=["pair","duo","duology","twosome","match","doublets","twins","brace","span","yoke","two","two of a kind","duplet","doubleton","twain","set of two","duad"]}}]);
+//# sourceMappingURL=31739.f2137d04.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72885],{272885:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"he was a fearsome rapper, with a distinctively gruff, meandering style"'],t=[]}}]);
+//# sourceMappingURL=72885.e8ff7759.chunk.js.map

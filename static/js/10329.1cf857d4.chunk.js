@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10329],{910329:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"a bonnet with pinked edging"','"I pinked the edge of the fabric"','"Bernstein pinked him in the arm"','"April pinked the earth with flowers"','"the car was inclined to pink slightly in accelerating from a low engine speed"'],r=[]}}]);
+//# sourceMappingURL=10329.1cf857d4.chunk.js.map

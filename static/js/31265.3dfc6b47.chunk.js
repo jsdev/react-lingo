@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31265],{31265:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=[],s=["tax","tariff","toll","excise","duty","fee","imposition","exaction","assessment","tithe","payment","mulct","taxation","customs","dues"]}}]);
+//# sourceMappingURL=31265.3dfc6b47.chunk.js.map

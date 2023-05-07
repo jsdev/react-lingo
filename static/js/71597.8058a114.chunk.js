@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71597],{471597:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"satin dresses trimmed with pearls and sequins"'],t=[]}}]);
+//# sourceMappingURL=71597.8058a114.chunk.js.map

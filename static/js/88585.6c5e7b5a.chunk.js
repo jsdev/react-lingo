@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[88585],{188585:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"the poles are spaced 3 feet apart"'],r=["separate","place","position","arrange","line up","range","order","array","dispose","lay out","deploy","locate","settle","situate","set","stand","station","place at intervals"]}}]);
+//# sourceMappingURL=88585.6c5e7b5a.chunk.js.map

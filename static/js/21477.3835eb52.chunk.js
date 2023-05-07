@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21477],{521477:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return a},synonyms:function(){return o}});var a=['"everybody got up on stage for the final encore"','"it was Louis who shouted "Bravo! Encore!""','"several arias were encored"'],o=["replay","repeat","repetition","curtain call","repeat performance","extra performance","additional performance"]}}]);
-//# sourceMappingURL=21477.3835eb52.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45647],{245647:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"issuers of mortgage-backed bonds"','"write down the monthly interest rate your card issuer charges"'],s=[]}}]);
-//# sourceMappingURL=45647.ad1e2353.chunk.js.map

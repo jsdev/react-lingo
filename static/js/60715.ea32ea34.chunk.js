@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60715],{460715:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"her dress is of the whitest fabric, all eyeleted, embroidered, sashed"'],t=["hole","opening","aperture","gap","slit","slot","crevice","chink","crack","perforation","interstice"]}}]);
+//# sourceMappingURL=60715.ea32ea34.chunk.js.map

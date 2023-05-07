@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70170],{870170:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return o}});var n=['"well, it\'s either mousetraps or a good mouser"'],o=["feline","tom","tomcat","tabby","tortoiseshell","calico","house cat","wild cat","alley cat","grimalkin","Tiddles","Tibbles"]}}]);
+//# sourceMappingURL=70170.93038fa0.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87631],{287631:function(e,r,o){o.r(r),o.d(r,{definitions:function(){return n},synonyms:function(){return a}});var n=['"it was no use bemoaning her lot"'],a=["lament","bewail","deplore","mourn","complain about","express regret about","grieve over","express sorrow about","sorrow for","sigh over","cry over","weep over","shed tears over","wail over","keen over","beat one's breast about","plain over","applaud"]}}]);
-//# sourceMappingURL=87631.7c8b4cc3.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62366],{562366:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"wide eyes and big, horsey teeth"','"the horsey fraternity"'],i=[]}}]);
+//# sourceMappingURL=62366.71441633.chunk.js.map

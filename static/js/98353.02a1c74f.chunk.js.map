@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/98353.02a1c74f.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,8DAEWC,EAAW,E","sources":["definitions/6/s/sh/shalom.js"],"sourcesContent":["export const definitions = [\n  '\"\\\"I\\'ll be waiting for your call.\\\" \\\"Au revoir.\\\" \\\"Shalom.\\\"\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

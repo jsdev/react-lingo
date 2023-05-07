@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86679],{886679:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return o}});var s=['"in principle any shoe can be resoled, but track shoes are done less frequently than road or cross-country shoes"'],o=[]}}]);
+//# sourceMappingURL=86679.f0102da9.chunk.js.map

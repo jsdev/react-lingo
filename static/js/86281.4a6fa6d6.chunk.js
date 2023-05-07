@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86281],{486281:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"they say they cave for the adventure, challenge, and physical exercise"','"he caved because his position had become untenable"','"she finally caved in the face of his persistence"'],s=["collapse","fall in","give","give way","crumble","crumple","disintegrate","subside","fall down","sag","slump","hold up"]}}]);
-//# sourceMappingURL=86281.4a6fa6d6.chunk.js.map

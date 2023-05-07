@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65324],{665324:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"oil was leaking from the gasket between the drive flange and the hub"'],r=[]}}]);
+//# sourceMappingURL=65324.76dcc6d1.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70456],{70456:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return o},synonyms:function(){return a}});var o=['"he had his hair cut at the local barber\'s"','"his hair was neatly barbered"'],a=["cut","clip","trim","snip","shear","shave","pare","prune","fleece","lop","dock","remove","detach","cut off","hack off","take off","shorten","tonsure","cut short","chop off","make shorter","cut shorter","cut into a bob"]}}]);
-//# sourceMappingURL=70456.b271ee9b.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20487],{820487:function(n,e,c){c.r(e),c.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"the Wiccan services are planned in connection with the phases of the moon"','"some Wiccans practice in covens, some solo"'],o=[]}}]);
-//# sourceMappingURL=20487.b75a457d.chunk.js.map

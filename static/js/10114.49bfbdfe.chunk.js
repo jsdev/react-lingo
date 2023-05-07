@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10114],{510114:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return c}});var t=[],c=["clerk","bank clerk","teller","banker","treasurer","bursar","accountant","bookkeeper","controller","bank teller"]}}]);
-//# sourceMappingURL=10114.49bfbdfe.chunk.js.map

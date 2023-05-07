@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55096],{455096:function(n,r,t){t.r(r),t.d(r,{definitions:function(){return e},synonyms:function(){return a}});var e=[],a=["esophagus","throat","pharynx","crop","craw","maw","throttle","gorge","weasand","gula"]}}]);
-//# sourceMappingURL=55096.eed1c7d6.chunk.js.map

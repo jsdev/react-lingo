@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1890],{701890:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"the bookcase contained an assortment of old prayer books, missals, and devotional pamphlets"','"Christian influence on Viking art is demonstrated by the illuminated missals and gold reliquaries"'],t=[]}}]);
+//# sourceMappingURL=1890.ed40e165.chunk.js.map

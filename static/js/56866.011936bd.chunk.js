@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56866],{956866:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"flawed crystals"','"a flawed hero"','"the computer game was flawed by poor programming"'],i=["unsound","defective","faulty","distorted","inaccurate","incorrect","erroneous","imprecise","fallacious","wrong","impaired","weak","invalid","sound"]}}]);
-//# sourceMappingURL=56866.011936bd.chunk.js.map

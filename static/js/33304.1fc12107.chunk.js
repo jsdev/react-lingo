@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33304],{833304:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"she jobbed as a waitress until her first role in a movie"','"his game plan is to buy in then job the shares on at a profit"','"he was jobbed by the Justice Department"','"if left unfettered he would job"','"he prepared to job the huge brute"','"immediately job a penknife into the throat"'],o=[]}}]);
+//# sourceMappingURL=33304.1fc12107.chunk.js.map

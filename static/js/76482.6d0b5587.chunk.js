@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76482],{276482:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return o},synonyms:function(){return s}});var o=['"she was a dynamo in London politics"'],s=[]}}]);
+//# sourceMappingURL=76482.6d0b5587.chunk.js.map

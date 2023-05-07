@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60493],{460493:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return i}});var s=['"a smile crossed her face, but this unexpected lenity was short-lived"'],i=[]}}]);
+//# sourceMappingURL=60493.90557c27.chunk.js.map

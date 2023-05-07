@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19377],{719377:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return o},synonyms:function(){return s}});var o=['"a slobby tourist blithely tosses his candy wrapper onto the floor"'],s=[]}}]);
+//# sourceMappingURL=19377.a60813b5.chunk.js.map

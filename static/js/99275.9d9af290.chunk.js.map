@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/99275.9d9af290.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,qFAEWC,EAAW,E","sources":["definitions/unstep.js"],"sourcesContent":["export const definitions = [\n  '\"they went into the marsh grass to unstep their masts and dismantle their cannon\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

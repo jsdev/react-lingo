@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44734],{444734:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=['"the gaslit streets of Victorian London"','"in the first episode, Karen Valentine is being gaslighted by her husband"','"we are being gaslit about our health on a grand scale by these people"'],s=[]}}]);
-//# sourceMappingURL=44734.ae170525.chunk.js.map

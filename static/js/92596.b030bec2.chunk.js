@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92596],{761857:function(n,s,e){e.r(s),e.d(s,{definitions:function(){return u},synonyms:function(){return a}});var u=['"the marshy ground toward the sea"'],a=["boggy","swampy","muddy","squelchy","soggy","waterlogged","oozy","squashy","miry","fenny","mossy","paludal","quaggy","claggy","paludine","marish","uliginous","dry","firm"]}}]);
-//# sourceMappingURL=92596.b030bec2.chunk.js.map

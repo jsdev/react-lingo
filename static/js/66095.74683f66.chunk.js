@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66095],{466095:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"he answers questions cagily"','"she cagily avoids admitting her age"'],t=[]}}]);
-//# sourceMappingURL=66095.74683f66.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76351],{576351:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"cosmic matter"','"the song is a masterpiece of cosmic proportions"'],s=["extraterrestrial","heavenly","celestial","extramundane","otherworldly","in space","from space"]}}]);
+//# sourceMappingURL=76351.0e06abca.chunk.js.map

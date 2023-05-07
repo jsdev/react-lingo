@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/72318.ca1795c0.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,oBACA,6CAEWC,EAAW,E","sources":["definitions/6/m/ma/matzah.js"],"sourcesContent":["export const definitions = [\n  '\"a box of matzos\"',\n  '\"it crumbled like a piece of stale matzo\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

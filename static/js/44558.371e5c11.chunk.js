@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44558],{644558:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"a dower house"','"he was so short of money that he could not even dower his sister"'],t=[]}}]);
+//# sourceMappingURL=44558.371e5c11.chunk.js.map

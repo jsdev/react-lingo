@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21331],{621331:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return o},synonyms:function(){return a}});var o=['"bankers are appalled at the economic incompetence of some officials"'],a=["horrify","shock","dismay","outrage","scandalize","alarm","make someone's blood run cold","make some's 's hair stand on end","disgust","repel","revolt","sicken","nauseate","offend","distress greatly"]}}]);
-//# sourceMappingURL=21331.a5b0372a.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96066],{396066:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return i}});var r=['"after three days of training, the rookies were totally bushed"','"her hair bushed out like a halo"'],i=["exhausted","worn out","weary","fatigued","spent","drained","enfeebled","enervated","run down","etiolated","tired (out)","energetic","perky"]}}]);
+//# sourceMappingURL=96066.57207cae.chunk.js.map

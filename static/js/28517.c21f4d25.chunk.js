@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28517],{928517:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"the dark cavern of the main performance hall"','"rouses me from the cavern of sleep"'],t=["grotto","hollow","cavity","gallery","tunnel","dugout","large cave","underground chamber"]}}]);
-//# sourceMappingURL=28517.c21f4d25.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79493],{753708:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=[],r=["abbey","cloister","monastery","friary","convent","nunnery","cenobium","religious house","religious community","cenoby","beguinage"]}}]);
-//# sourceMappingURL=79493.ae5bc500.chunk.js.map

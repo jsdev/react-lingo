@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52843],{852843:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"a mare in estrus"'],i=[]}}]);
+//# sourceMappingURL=52843.1dc0ac68.chunk.js.map

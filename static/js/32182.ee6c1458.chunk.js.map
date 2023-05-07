@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/32182.ee6c1458.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,oBAEWC,EAAW,E","sources":["definitions/dextro.js"],"sourcesContent":["export const definitions = [\n  '\"dextrorotatory\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

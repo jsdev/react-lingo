@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81964],{81964:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"having trouble, dearie?"'],t=[]}}]);
-//# sourceMappingURL=81964.70f35582.chunk.js.map

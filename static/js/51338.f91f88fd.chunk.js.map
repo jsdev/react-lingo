@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/51338.f91f88fd.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mDACA,qBAEWC,EAAW,E","sources":["definitions/juried.js"],"sourcesContent":["export const definitions = [\n  '\"the exhibition was juried by a tapestry artist\"',\n  '\"the juried show\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

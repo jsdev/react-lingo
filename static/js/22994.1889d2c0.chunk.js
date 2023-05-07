@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[22994],{622994:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"as children we sleighed on big drifts in the winter"'],r=[]}}]);
+//# sourceMappingURL=22994.1889d2c0.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87046],{987046:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return o}});var a=['"a ______ of 450 milligrams a day"','"there are recommendations about ______ for elderly patients"'],o=["amount","number","total","aggregate","sum","quota","group","size","mass","weight","volume","bulk","load","consignment","expanse","extent","length","area","quantum","proportion","portion","part","dose"]}}]);
-//# sourceMappingURL=87046.d0c89a4a.chunk.js.map

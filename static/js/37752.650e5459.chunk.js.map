@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/37752.650e5459.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,4CAEWC,EAAW,E","sources":["definitions/6/f/fa/faceup.js"],"sourcesContent":["export const definitions = [\n  '\"place the panel face up before cutting\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

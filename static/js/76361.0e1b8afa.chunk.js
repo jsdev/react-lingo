@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76361],{376361:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return h},synonyms:function(){return i}});var h=['"he was barely scathed"','"the pine tree scathed by lightning-fire"','"it was cheering to hear that you had got through winter and diphtheria without scathe"'],i=["hurt","wound","harm","damage","disable","maim","mutilate","deform","mangle","crush","shatter","smash","break","do mischief to","heal"]}}]);
+//# sourceMappingURL=76361.0e1b8afa.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80544],{580544:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"the geography teacher was a real ______"','"She had such potent breath, we called her the ______ lady"'],r=[]}}]);
+//# sourceMappingURL=80544.4febd169.chunk.js.map

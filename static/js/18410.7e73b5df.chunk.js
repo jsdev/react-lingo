@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18410],{218410:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return a},synonyms:function(){return c}});var a=['"we went to a bar and had some cognac"','"a good range of cognacs"'],c=[]}}]);
-//# sourceMappingURL=18410.7e73b5df.chunk.js.map

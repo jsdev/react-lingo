@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52778],{752778:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return s}});var a=['"accidents can happen to the unwary traveler"','"hidden traps for the unwary"'],s=["incautious","careless","thoughtless","unthinking","heedless","inattentive","unobservant","off-guard","absentminded","unwatchful","off one's guard"]}}]);
-//# sourceMappingURL=52778.5dc8e9f8.chunk.js.map

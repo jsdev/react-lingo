@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21279],{621279:function(i,r,e){e.r(r),e.d(r,{definitions:function(){return t},synonyms:function(){return n}});var t=[],n=["recluse","solitary","loner","ascetic","anchorite","anchoress","eremite","stylite","solitudinarian","hikikomori","pillarist","pillar hermit","pillar saint","recluse","solitary","loner","ascetic","anchorite","anchoress","eremite","stylite","solitudinarian","hikikomori","pillarist","pillar hermit","pillar saint"]}}]);
-//# sourceMappingURL=21279.35ec09e5.chunk.js.map

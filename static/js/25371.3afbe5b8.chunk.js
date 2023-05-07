@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[25371],{325371:function(e,n,c){c.r(n),c.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"bugs and spiders conceal themselves in crannies of the bark"'],r=["chink","crack","crevice","slit","split","fissure","rift","cleft","opening","gap","aperture","cavity","hole","hollow","niche","corner","recess","bay","booth","alcove","nook","interstice"]}}]);
-//# sourceMappingURL=25371.3afbe5b8.chunk.js.map

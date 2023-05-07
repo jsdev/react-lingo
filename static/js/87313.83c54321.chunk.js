@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87313],{587313:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return s}});var r=['"the jagged edges gashed their fingers"','"soothing her jagged nerves"','"she jagged herself in the mouth"'],s=["spiky","spiked","barbed","snaggy","nicked","pointed","ragged","craggy","rough","uneven","irregular","broken","serrated","sawtooth","toothed","notched","indented","denticulate","saw-edged","smooth"]}}]);
+//# sourceMappingURL=87313.83c54321.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37793],{937793:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return r}});var a=["\"we're given a retcon for Wilf's absence from Donna's wedding in \u2018The Runaway Bride\u2019: he had Spanish Flu\"",'"I think fans get more upset when characters act blatantly out of established type, or when things get retconned"'],r=[]}}]);
+//# sourceMappingURL=37793.46563318.chunk.js.map

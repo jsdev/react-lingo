@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[69390],{469390:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"the results of the survey are appended to this chapter"'],o=["add","attach","affix","adjoin","include","subjoin","conjoin","put in/on"]}}]);
-//# sourceMappingURL=69390.09f4a683.chunk.js.map

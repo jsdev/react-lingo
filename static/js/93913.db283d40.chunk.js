@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93913],{793913:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return a},synonyms:function(){return o}});var a=['"we were deafened by the explosion"','"the roar of the water deafened them"','"the noise deafened him to Ron\'s approach"'],o=["make deaf","make temporarily deaf","cause to be hard of hearing","deprive of hearing","impair someone's hearing","burst some's 's eardrums"]}}]);
-//# sourceMappingURL=93913.db283d40.chunk.js.map

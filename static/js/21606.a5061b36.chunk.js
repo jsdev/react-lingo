@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21606],{921606:function(e,r,a){a.r(r),a.d(r,{definitions:function(){return n},synonyms:function(){return i}});var n=[],i=["burglar","thief","housebreaker","cat burglar","mugger","shoplifter","stealer","pilferer","raider","looter","plunderer","pillager","marauder","bandit","brigand","pirate","highwayman","dacoit","holdupper","tea leaf","sneak thief"]}}]);
+//# sourceMappingURL=21606.a5061b36.chunk.js.map

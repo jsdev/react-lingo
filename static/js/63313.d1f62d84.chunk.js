@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63313],{463313:function(n,t,u){u.r(t),u.d(t,{definitions:function(){return o},synonyms:function(){return e}});var o=['"listen, pumpkin, I thought you ought to know"'],e=[]}}]);
-//# sourceMappingURL=63313.d1f62d84.chunk.js.map

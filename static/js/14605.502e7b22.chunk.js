@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[14605],{914605:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return l}});var i=['"tomcatting all night and sleeping until afternoon"'],l=["feline","tom","tabby","tortoiseshell","calico","mouser","house cat","wild cat","alley cat","grimalkin","Tiddles","Tibbles"]}}]);
-//# sourceMappingURL=14605.502e7b22.chunk.js.map

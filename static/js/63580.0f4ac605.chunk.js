@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63580],{263580:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return c}});var t=[],c=["sedan chair","palanquin","stretcher","portable bed/couch"]}}]);
+//# sourceMappingURL=63580.0f4ac605.chunk.js.map

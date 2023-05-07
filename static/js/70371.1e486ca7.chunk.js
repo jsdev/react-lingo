@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70371],{70371:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"there is no denying that there\'s a certain relief when all the emmets go home"'],r=[]}}]);
-//# sourceMappingURL=70371.1e486ca7.chunk.js.map

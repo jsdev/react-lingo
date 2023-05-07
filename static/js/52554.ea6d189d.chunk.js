@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52554],{252554:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"an old josser"'],t=[]}}]);
-//# sourceMappingURL=52554.ea6d189d.chunk.js.map

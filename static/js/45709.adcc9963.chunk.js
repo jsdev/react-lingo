@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45709],{545709:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"we shan\'t have time to frivol"'],r=[]}}]);
+//# sourceMappingURL=45709.adcc9963.chunk.js.map

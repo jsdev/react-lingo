@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80857],{280857:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the drug allows you to control emesis"'],r=[]}}]);
+//# sourceMappingURL=80857.5205785b.chunk.js.map

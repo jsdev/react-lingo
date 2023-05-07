@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55071],{555071:function(e,o,n){n.r(o),n.d(o,{definitions:function(){return l},synonyms:function(){return r}});var l=['"she glowered at him suspiciously"','"his father\'s glowering face"','"the angry glower on the face of the policeman"'],r=["scowl","glare","frown","lour","stare angrily","look daggers","give a someone black look","pull a face","glout","glunch","smile","grin","scowl","glare","frown","angry stare","black look"]}}]);
+//# sourceMappingURL=55071.d94fb198.chunk.js.map

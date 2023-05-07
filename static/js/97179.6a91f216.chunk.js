@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97179],{897179:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"a catchy recruiting slogan"'],i=["memorable","unforgettable","appealing","captivating","snappy","popular","singable","melodious","melodic","tuneful","with instant appeal","forgettable"]}}]);
-//# sourceMappingURL=97179.6a91f216.chunk.js.map

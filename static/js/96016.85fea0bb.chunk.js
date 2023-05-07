@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96016],{796016:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return l},synonyms:function(){return r}});var l=['"I trudged up the stairs"','"she trudged through blinding snow"','"he began the long trudge back"'],r=["plod","tramp","plow","slog","footslog","toil","trek","clump","clomp","lumber","drag oneself","walk heavily","walk slowly","sprauchle","traik","skip","trip"]}}]);
-//# sourceMappingURL=96016.85fea0bb.chunk.js.map

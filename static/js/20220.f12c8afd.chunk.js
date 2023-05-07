@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20220],{20220:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return c}});var e=['"a point along a cline of activity"'],c=[]}}]);
-//# sourceMappingURL=20220.f12c8afd.chunk.js.map

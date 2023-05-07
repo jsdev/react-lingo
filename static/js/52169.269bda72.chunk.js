@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52169],{752169:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return i},synonyms:function(){return t}});var i=['"marble graved with exquisite flower, human and animal forms"','"the times are graven on my memory"'],t=[]}}]);
+//# sourceMappingURL=52169.269bda72.chunk.js.map

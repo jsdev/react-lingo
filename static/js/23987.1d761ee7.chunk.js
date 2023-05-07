@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23987],{602261:function(n,s,e){e.r(s),e.d(s,{definitions:function(){return t},synonyms:function(){return o}});var t=['"he\'s no toothless old gasser sunning himself in the park"','"that story you wrote for me is a gasser!"'],o=[]}}]);
+//# sourceMappingURL=23987.1d761ee7.chunk.js.map

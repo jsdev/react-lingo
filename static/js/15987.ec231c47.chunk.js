@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15987],{715987:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return t}});var o=['"almond cookies"'],t=[]}}]);
-//# sourceMappingURL=15987.ec231c47.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12385],{212385:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the world of faerie"','"faerie dragons"'],r=["sprite","pixie","elf","imp","brownie","puck","dwarf","gnome","goblin","hobgoblin","troll","kelpie","leprechaun","Sidhe","peri","fay","nix","nixie","hob","elfin","pishogue","tokoloshe"]}}]);
-//# sourceMappingURL=12385.9b06194f.chunk.js.map

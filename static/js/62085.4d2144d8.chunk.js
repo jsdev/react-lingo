@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[62085],{962085:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return i},synonyms:function(){return s}});var i=['"a gang of masked gunmen"'],s=["bandit","gangster","terrorist","gunfighter","sniper","assassin","murderer","killer","liquidator","armed robber","holdup man"]}}]);
+//# sourceMappingURL=62085.4d2144d8.chunk.js.map

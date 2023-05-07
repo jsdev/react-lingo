@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/60422.b2b12abc.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,+CAEWC,EAAW,E","sources":["definitions/naysay.js"],"sourcesContent":["export const definitions = [\n  '\"I\\'m not going to naysay anything he does\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[84140],{84140:function(a,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"later he eloped with one of the maids"'],r=["slip away","run away to marry","run off/away together","sneak off","steal away","run off/away with a lover"]}}]);
+//# sourceMappingURL=84140.23232366.chunk.js.map

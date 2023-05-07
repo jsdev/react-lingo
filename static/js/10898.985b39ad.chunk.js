@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10898],{910898:function(n,o,i){i.r(o),i.d(o,{definitions:function(){return r},synonyms:function(){return t}});var r=['"clonal propagation"','"clonal organisms"'],t=[]}}]);
-//# sourceMappingURL=10898.985b39ad.chunk.js.map

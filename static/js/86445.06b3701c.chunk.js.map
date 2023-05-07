@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/86445.06b3701c.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,yBAEWC,EAAW,E","sources":["definitions/crapes.js"],"sourcesContent":["export const definitions = [\n  '\"a silk crepe blouse\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

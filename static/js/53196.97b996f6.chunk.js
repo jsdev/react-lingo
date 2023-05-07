@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53196],{453196:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return s},synonyms:function(){return o}});var s=['"twenty or thirty years ago"','"twenty of us stood and waited"','"a twenty-foot aerial"','"he\'s in his late twenties"',"'s 's about twenty\""],o=["score"]}}]);
-//# sourceMappingURL=53196.97b996f6.chunk.js.map

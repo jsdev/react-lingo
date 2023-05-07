@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42222],{42222:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return r},synonyms:function(){return u}});var r=['"goodbye, Granny"','"Granny Vera"','"an oversized granny cardigan"'],u=["babushka","bubbie","abuela","nonna","ouma"]}}]);
+//# sourceMappingURL=42222.9e5afd35.chunk.js.map

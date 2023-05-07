@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63014],{563014:function(t,e,r){r.r(e),r.d(e,{definitions:function(){return n},synonyms:function(){return i}});var n=[],i=["flagpole","flagstaff","pole","post","rod","support","upright","aerial","transmitter","barrier","wicket","wicket gate","lychgate","turnstile","port","moon gate","five-barred gate","kissing gate"]}}]);
-//# sourceMappingURL=63014.3e925074.chunk.js.map

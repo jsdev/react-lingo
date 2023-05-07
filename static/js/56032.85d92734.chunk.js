@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56032],{156032:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"the rules have not been altered one jot or tittle since"'],o=["bit","scrap","shred","speck","iota","particle","ounce","whit","jot","atom","crumb","morsel","fragment","grain","drop","hint","touch","trace","suggestion","whisper","suspicion","scintilla","spot","mite","modicum","tiny amount","jot or tittle","stim"]}}]);
+//# sourceMappingURL=56032.85d92734.chunk.js.map

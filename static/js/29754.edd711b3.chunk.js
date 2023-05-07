@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[29754],{929754:function(n,e,s){s.r(e),s.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"many of these molecules are phenols"'],o=[]}}]);
+//# sourceMappingURL=29754.edd711b3.chunk.js.map

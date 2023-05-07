@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[14361],{614361:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"we just cannot afford it"','"the possibility cannot be excluded"','"she cannot walk unaided"'],o=["impeded","undoable"]}}]);
+//# sourceMappingURL=14361.cb0eeec4.chunk.js.map

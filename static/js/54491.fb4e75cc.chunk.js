@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54491],{254491:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return i},synonyms:function(){return o}});var i=['"he bared his chest to show his scar"'],o=["uncover","strip","undress","unclothe","denude","unveil","unmask","expose","reveal","display","exhibit","lay bare","expose to view","put on display","put on show","cover"]}}]);
+//# sourceMappingURL=54491.fb4e75cc.chunk.js.map

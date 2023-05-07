@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/24185.f679cc1c.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,yDAEWC,EAAW,E","sources":["definitions/bistro.js"],"sourcesContent":["export const definitions = [\n  '\"the bistro offers a more relaxed setting for dining\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

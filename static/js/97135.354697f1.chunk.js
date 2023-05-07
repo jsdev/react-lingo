@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97135],{697135:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return a},synonyms:function(){return o}});var a=['"all the ensigns of our greatness"','"a copy of Ensign Smith\'s report"'],o=["flag","standard","color (s)","jack","banner","pennant","pennon","streamer","banderole","pendant","burgee","vexillum","gonfalon","guidon","labarum"]}}]);
+//# sourceMappingURL=97135.354697f1.chunk.js.map

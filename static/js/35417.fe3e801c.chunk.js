@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35417],{735417:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"her only ornament was a simple pearl choker"'],i=["neckband","ruff","gorget","bertha","Vandyke","rebato","rope","cord","line","guy","wire","chain","hawser","stay","bridle","topping lift","piece of cordage"]}}]);
+//# sourceMappingURL=35417.fe3e801c.chunk.js.map

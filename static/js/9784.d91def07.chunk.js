@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9784],{809784:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return i}});var o=['"so Abdulmelik went away to his house, whither he found that the money had foregone him"'],i=[]}}]);
-//# sourceMappingURL=9784.d91def07.chunk.js.map

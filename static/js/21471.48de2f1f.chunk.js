@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21471],{221471:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"where you been, honey chile?"'],t=[]}}]);
-//# sourceMappingURL=21471.48de2f1f.chunk.js.map

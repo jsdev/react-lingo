@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31598],{731598:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return u},synonyms:function(){return c}});var u=['"a pork cutlet"','"nut cutlets"'],c=[]}}]);
+//# sourceMappingURL=31598.4da92c8d.chunk.js.map

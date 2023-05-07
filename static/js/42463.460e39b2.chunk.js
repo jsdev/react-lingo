@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42463],{42463:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"bluesy guitar riffs"','"the music has gotten warmer and bluesier"'],i=[]}}]);
-//# sourceMappingURL=42463.460e39b2.chunk.js.map

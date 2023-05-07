@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16733],{816733:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"there was a brief hiatus in the war with France"'],t=["pause","break","interval","interruption","suspension","intermission","interlude","gap","lacuna","lull","rest","respite","breathing space","time out","recess","surcease","opening","aperture","cavity","hole","gap","cleft","breach","fissure","foramen"]}}]);
+//# sourceMappingURL=16733.17365dce.chunk.js.map

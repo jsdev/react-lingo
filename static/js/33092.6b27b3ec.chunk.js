@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33092],{833092:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he bungeed 111 meters from the bridge over the Victoria Falls"'],i=[]}}]);
+//# sourceMappingURL=33092.6b27b3ec.chunk.js.map

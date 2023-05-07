@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24853],{924853:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return s}});var o=['"dodos do enter the events, they just never make the finals"'],s=["conservative","traditionalist","conformist","museum piece","fossil","dinosaur","troglodyte","fogy"]}}]);
+//# sourceMappingURL=24853.a3f433e4.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4844],{704844:function(e,n,l){l.r(n),l.d(n,{definitions:function(){return o},synonyms:function(){return t}});var o=['"he is solely responsible for any debts the company may incur"','"people are appointed solely on the basis of merit"'],t=["only","simply","just","merely","uniquely","exclusively","entirely","completely","absolutely","totally","wholly","alone","no more than","to the exclusion of everything/everyone else"]}}]);
+//# sourceMappingURL=4844.fc3438db.chunk.js.map

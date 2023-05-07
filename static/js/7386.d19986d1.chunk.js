@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7386],{507386:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return c},synonyms:function(){return t}});var c=['"a white silk taffeta dress with corded French lace bodice"','"beneath her fingers she felt his corded muscle"','"corded and cordless phones"','"a corded waistband"','"you will need to cord the blind"','"a corded curtain track"'],t=[]}}]);
-//# sourceMappingURL=7386.d19986d1.chunk.js.map

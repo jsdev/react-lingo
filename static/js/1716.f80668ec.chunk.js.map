@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/1716.f80668ec.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,eACA,iBACA,cACA,iBAEWC,EAAW,E","sources":["definitions/monger.js"],"sourcesContent":["export const definitions = [\n  '\"fishmonger\"',\n  '\"cheesemonger\"',\n  '\"warmonger\"',\n  '\"rumormonger\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

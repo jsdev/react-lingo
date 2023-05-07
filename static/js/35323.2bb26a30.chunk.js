@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[35323],{935323:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return c}});var i=['"the cedars are festooned with lichen"','"rocks covered with gold lichens"','"patients with oral lichen planus"'],c=[]}}]);
+//# sourceMappingURL=35323.2bb26a30.chunk.js.map

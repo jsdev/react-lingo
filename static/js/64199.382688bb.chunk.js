@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64199],{564199:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the government still has a myopic attitude to public spending"'],r=["short-sighted","nearsighted","purblind","farsighted","unimaginative","uncreative","unadventurous","narrow-minded","small-minded","short-term","narrow","insular","parochial","provincial","lacking foresight","farsighted"]}}]);
+//# sourceMappingURL=64199.382688bb.chunk.js.map

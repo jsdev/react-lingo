@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54449],{254449:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return s}});var t=['"McCloy\'s little dropsy for services rendered"'],s=["gratuity","baksheesh","bonus","present","gift","reward","inducement","pourboire","smalls","little extra","bit extra","bonsella"]}}]);
-//# sourceMappingURL=54449.baeec318.chunk.js.map

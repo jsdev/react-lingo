@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91465],{691465:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"a patient suffering from acute coryza"'],i=[]}}]);
-//# sourceMappingURL=91465.1123b86d.chunk.js.map

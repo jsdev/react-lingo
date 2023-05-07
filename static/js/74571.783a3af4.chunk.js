@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74571],{974571:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return u},synonyms:function(){return i}});var u=['"I could have seen him this morning but I funked it"','"we\'re bringing back the old Motown sound and funking it up"','"funked - up songs"'],i=["avoid","evade","dodge","escape from","run away from","balk at","flinch from","wuss out"]}}]);
+//# sourceMappingURL=74571.783a3af4.chunk.js.map

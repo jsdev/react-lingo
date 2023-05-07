@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/35217.9bb39ef7.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,yDAEWC,EAAW,E","sources":["definitions/sleigh.js"],"sourcesContent":["export const definitions = [\n  '\"as children we sleighed on big drifts in the winter\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

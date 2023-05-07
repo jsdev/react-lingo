@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/29428.f4ac3861.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,gDAEWC,EAAW,E","sources":["definitions/6/t/ta/tamper.js"],"sourcesContent":["export const definitions = [\n  '\"someone tampered with the brakes on my car\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

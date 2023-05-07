@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53661],{653661:function(n,r,c){c.r(r),c.d(r,{definitions:function(){return o},synonyms:function(){return a}});var o=['"a choral work"','"choral singing"','"a choral scholar"'],a=[]}}]);
-//# sourceMappingURL=53661.c187bc50.chunk.js.map

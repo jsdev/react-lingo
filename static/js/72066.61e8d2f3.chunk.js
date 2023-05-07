@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72066],{772066:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return u},synonyms:function(){return r}});var u=['""I\'ve warned you before, you young hoyden.""'],r=[]}}]);
+//# sourceMappingURL=72066.61e8d2f3.chunk.js.map

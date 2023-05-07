@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[50527],{50527:function(a,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the dining room looks out to a small patio"','"a patio table and chairs"'],o=["terrace","courtyard","veranda","loggia","court","plaza","quadrangle","quad","cloister","sun deck","deck","porch","sleepout","stoep","lanai","peristyle"]}}]);
-//# sourceMappingURL=50527.c67d1d88.chunk.js.map

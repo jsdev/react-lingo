@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60710],{360710:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return c}});var t=['"a mental health clinic"','"we\'re now holding regular clinics"','"a ski clinic"'],c=["health center","surgery","medical center","outpatients' department","doctor's","polyclinic"]}}]);
+//# sourceMappingURL=60710.d8a388b1.chunk.js.map

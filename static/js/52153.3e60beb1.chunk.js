@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52153],{652153:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return u}});var r=['"bulgar wheat"'],u=[]}}]);
-//# sourceMappingURL=52153.3e60beb1.chunk.js.map

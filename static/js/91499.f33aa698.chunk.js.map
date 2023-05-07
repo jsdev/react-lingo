@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/91499.f33aa698.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mBACA,oCAEWC,EAAW,E","sources":["definitions/gallic.js"],"sourcesContent":["export const definitions = [\n  '\"a Gallic shrug\"',\n  '\"the Gallic retreat from Delphi\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

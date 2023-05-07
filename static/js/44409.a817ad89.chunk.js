@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[44409],{544409:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return u},synonyms:function(){return o}});var u=['"you must be prepared to deworm your dog regularly"'],o=[]}}]);
+//# sourceMappingURL=44409.a817ad89.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75876],{775876:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"what we really need in this circumstance is to make smart decisions in the best interest of student safety\u2014not simply make changes that win political points for optics"'],s=["eyeball","orb","globe","organ of sight"]}}]);
+//# sourceMappingURL=75876.c8c61a71.chunk.js.map

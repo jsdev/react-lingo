@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86400],{186400:function(n,e,o){o.r(e),o.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"they both derive from the same etymon"'],i=["origin","etymology","source","root","provenance","fountainhead","wellspring","origination","beginning","foundation","basis","cause","ancestry","descent","genealogy","development","evolution","extraction"]}}]);
+//# sourceMappingURL=86400.8fc3809e.chunk.js.map

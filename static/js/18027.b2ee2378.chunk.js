@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18027],{718027:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return r}});var a=['"a themed party"','"a golf-themed business park"','"the amusement park will be themed as a Caribbean pirate stronghold"'],r=[]}}]);
+//# sourceMappingURL=18027.b2ee2378.chunk.js.map

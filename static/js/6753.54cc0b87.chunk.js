@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[6753],{106753:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"a schema of scientific reasoning"'],t=["plot","outline","storyline","framework","structure","scheme","plan","layout","screenplay","script","synopsis","summary","precis","diegesis","arrangement","system","organization","configuration","pattern","format","layout","disposition"]}}]);
+//# sourceMappingURL=6753.54cc0b87.chunk.js.map

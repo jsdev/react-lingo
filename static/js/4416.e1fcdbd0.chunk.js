@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[4416],{804416:function(n,r,e){e.r(r),e.d(r,{definitions:function(){return i},synonyms:function(){return o}});var i=['""I\'ll be waiting for your call." "Au revoir." "Shalom.""'],o=[]}}]);
-//# sourceMappingURL=4416.e1fcdbd0.chunk.js.map

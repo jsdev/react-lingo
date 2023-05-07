@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48248],{248248:function(l,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"Derek looked at her coldly"','"a coldly contemptuous tone"'],r=["sternly","grimly","dourly","disapprovingly","somberly","gravely","seriously","stiffly","coolly","frostily","icily","genially"]}}]);
-//# sourceMappingURL=48248.3121106a.chunk.js.map

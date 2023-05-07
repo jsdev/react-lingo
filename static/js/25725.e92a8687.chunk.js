@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[25725],{825725:function(e,n,d){d.r(n),d.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"they were unwashed and unkempt"'],t=["untidy","messy","scruffy","disordered","disheveled","disarranged","rumpled","windblown","bedraggled","shabby","slovenly","shaggy","tousled","uncombed","knotted","matted","ungroomed","in a mess","messed up","tidy","neat"]}}]);
+//# sourceMappingURL=25725.e92a8687.chunk.js.map

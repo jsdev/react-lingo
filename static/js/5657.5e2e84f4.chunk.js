@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5657],{505657:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the wooden carvings were almost obliterated by cobwebs"','"white cobwebs of frost"'],i=["silk","gauze","tissue","chiffon","thistledown","down","feather","spider's web","silky substance","Japanese silk"]}}]);
+//# sourceMappingURL=5657.5e2e84f4.chunk.js.map

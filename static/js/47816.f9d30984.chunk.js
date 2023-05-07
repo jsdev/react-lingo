@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47816],{647816:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=[],t=["pulley","hoist","block and tackle","crane","winch","davit","windlass","system of pulleys","hoisting gear"]}}]);
+//# sourceMappingURL=47816.f9d30984.chunk.js.map

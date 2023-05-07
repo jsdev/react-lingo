@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89164],{689164:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return a}});var r=['"I kept her off the wind and sailing free until I had the anchor catted"'],a=["lathered","trounced","strapped","lashed","welted","flogged","slashed"]}}]);
+//# sourceMappingURL=89164.1256ba43.chunk.js.map

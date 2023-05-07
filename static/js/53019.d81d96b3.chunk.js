@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[53019],{353019:function(r,n,a){a.r(n),a.d(n,{definitions:function(){return e},synonyms:function(){return o}});var e=['"a dorsal view of the body"','"the dorsal aorta"'],o=["rear","hind","back","hinder","rearward","caudal","posticous","anterior","front"]}}]);
+//# sourceMappingURL=53019.d81d96b3.chunk.js.map

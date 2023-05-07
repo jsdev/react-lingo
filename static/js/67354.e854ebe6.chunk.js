@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[67354],{67354:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return s},synonyms:function(){return i}});var s=['"lemon posset glazed with a sugar caramel"','"bless its little heart, it\'s possetting again"'],i=[]}}]);
+//# sourceMappingURL=67354.e854ebe6.chunk.js.map

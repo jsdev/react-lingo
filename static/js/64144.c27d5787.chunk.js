@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64144],{564144:function(i,n,e){e.r(n),e.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"heliotropic"','"psychotropic"'],t=["restorative","tonic","invigorating","bracing","energizing","restoring","reviving","refreshing","vitalizing","revitalizing","vivifying","revivifying","analeptic","sedative"]}}]);
-//# sourceMappingURL=64144.c27d5787.chunk.js.map

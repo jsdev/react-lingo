@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37482],{337482:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return o}});var r=['"visits to Father Christmas\'s grotto"'],o=["cave","cavern","cavity","hollow","recess","alcove","tunnel","pothole","underground chamber"]}}]);
+//# sourceMappingURL=37482.70311f4c.chunk.js.map

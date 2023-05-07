@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89599],{789599:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"she\'d get up every morning and help us debone a chicken"'],t=[]}}]);
-//# sourceMappingURL=89599.ed4e03e0.chunk.js.map

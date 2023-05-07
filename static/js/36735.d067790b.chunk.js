@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[36735],{336735:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return r},synonyms:function(){return a}});var r=['"they brought us tomatoes from their garden"','"a sunroom looks out over the vegetable garden"','"botanical gardens"','"Madison Square Garden"','"she wrote books, kept journals, and gardened"'],a=["plot","lawn","park","estate","grounds","yard","garth","piece of land"]}}]);
+//# sourceMappingURL=36735.d067790b.chunk.js.map

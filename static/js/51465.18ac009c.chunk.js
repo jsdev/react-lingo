@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[51465],{851465:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=[],r=["pamper","spoil","overindulge","coddle","mollycoddle","cosset","nanny","nursemaid","mother","baby","pet","spoon-feed","overparent","humor","wait on someone hand and foot","kill someone with kindness","feather-bed","cocker","pander to","cater to someone's every whim","wrap in cotton wool"]}}]);
-//# sourceMappingURL=51465.18ac009c.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72266],{472266:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return i}});var s=['"this gives both cantus and bass above each other"'],i=[]}}]);
+//# sourceMappingURL=72266.5c0a680e.chunk.js.map

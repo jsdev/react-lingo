@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[38880],{338880:function(n,s,t){t.r(s),t.d(s,{definitions:function(){return u},synonyms:function(){return e}});var u=['"the squadron\'s mascot was a young lion cub"'],e=[]}}]);
-//# sourceMappingURL=38880.fe7929b0.chunk.js.map

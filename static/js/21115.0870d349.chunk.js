@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21115],{821115:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return t},synonyms:function(){return a}});var t=[],a=["bower","alcove","grotto","recess","pergola","gazebo","summer house","shelter","hideaway","retreat","sanctuary","shady place"]}}]);
+//# sourceMappingURL=21115.0870d349.chunk.js.map

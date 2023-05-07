@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/31219.9a258dd0.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,6EAEWC,EAAW,E","sources":["definitions/anomie.js"],"sourcesContent":["export const definitions = [\n  '\"the theory that high-rise architecture leads to anomie in the residents\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

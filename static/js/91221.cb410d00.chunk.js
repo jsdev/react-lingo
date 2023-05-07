@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91221],{491221:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return r},synonyms:function(){return a}});var r=['"he looked a bit like a roadie for a heavy metal band"','"Peter\'s a roadie making his first foray into mountain biking"','"Norm used to roadie for Ten Years After"'],a=[]}}]);
-//# sourceMappingURL=91221.cb410d00.chunk.js.map

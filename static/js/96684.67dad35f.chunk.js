@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96684],{96684:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"music industry bigwigs"'],r=["VIP","notable","notability","personage","dignitary","grandee","panjandrum","celebrity","magnate","mogul","important person","nobody","nonentity"]}}]);
-//# sourceMappingURL=96684.67dad35f.chunk.js.map

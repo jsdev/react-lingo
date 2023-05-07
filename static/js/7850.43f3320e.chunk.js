@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7850],{907850:function(e,s,n){n.r(s),n.d(s,{definitions:function(){return t},synonyms:function(){return o}});var t=['"the representatives were greeted coolly"','"passengers were able to deal with the possible threat coolly and calmly"','"she was coolly detached"','"she was coolly dressed down in cut-off jean shorts"'],o=["breezily"]}}]);
+//# sourceMappingURL=7850.43f3320e.chunk.js.map

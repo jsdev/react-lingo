@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37325],{537325:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"she ______ed the toast"'],i=["fat","oil","lard","suet","margarine","dripping","cooking oil","animal fat","cover","coat","layer","daub","smother"]}}]);
-//# sourceMappingURL=37325.deb886ea.chunk.js.map

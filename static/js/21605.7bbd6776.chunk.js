@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21605],{21605:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return u}});var i=['"what\'s all this guyver about the going being tough ? "'],u=[]}}]);
+//# sourceMappingURL=21605.7bbd6776.chunk.js.map

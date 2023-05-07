@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1446],{301446:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"the river trickles away in a thousand little armlets in the Kalahari Basin"'],r=["inlet","creek","bight","fjord","estuary","sound","bay","cove","firth","frith","ria","fleet","arm of the sea","voe"]}}]);
+//# sourceMappingURL=1446.e3b74df9.chunk.js.map

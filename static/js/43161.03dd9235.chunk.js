@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43161],{343161:function(e,t,u){u.r(t),u.d(t,{definitions:function(){return c},synonyms:function(){return l}});var c=['"cut away the tiles with a broad-bladed steel chisel"','"carefully chisel out a groove for the hinge"','"he\'s chiseled me out of my dues"'],l=["cut","carve","shape","fashion","form","chip","hammer","sculpt","sculpture","model","whittle","rough-hew","swindle","defraud","cheat","fleece","gull"]}}]);
-//# sourceMappingURL=43161.03dd9235.chunk.js.map

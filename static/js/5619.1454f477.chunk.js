@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[5619],{5619:function(e,t,s){s.r(t),s.d(t,{definitions:function(){return i},synonyms:function(){return n}});var i=['"an incompetent tennis player, he mishit the shot"','"Perdita mishit wildly"','"after a further mishit, his third attempt proved successful"'],n=["mishandle","mismanage","mess up","make a mess of","bungle","botch","miss","fumble"]}}]);
-//# sourceMappingURL=5619.1454f477.chunk.js.map

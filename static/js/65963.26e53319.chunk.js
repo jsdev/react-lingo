@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[65963],{465963:function(n,s,e){e.r(s),e.d(s,{definitions:function(){return t},synonyms:function(){return i}});var t=['"the NBA has its share of tsuris these days"'],i=[]}}]);
+//# sourceMappingURL=65963.26e53319.chunk.js.map

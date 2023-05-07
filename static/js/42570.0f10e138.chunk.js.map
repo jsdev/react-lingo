@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/42570.0f10e138.chunk.js","mappings":"iMAAO,IAAMA,EAAc,CACzB,gCACA,yCAEWC,EAAW,E","sources":["definitions/6/c/ca/cagily.js"],"sourcesContent":["export const definitions = [\n  '\"he answers questions cagily\"',\n  '\"she cagily avoids admitting her age\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

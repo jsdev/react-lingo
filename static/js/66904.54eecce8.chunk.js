@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66904],{66904:function(r,e,n){n.r(e),n.d(e,{definitions:function(){return o},synonyms:function(){return t}});var o=['"he was a keen walker"'],t=["hiker","rambler","wayfarer","traveler","roamer","rover","footslogger","pedestrian","stroller","tramper","person on foot","foot traveler"]}}]);
-//# sourceMappingURL=66904.54eecce8.chunk.js.map

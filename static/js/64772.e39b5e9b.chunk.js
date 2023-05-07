@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[64772],{564772:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"a special advice line was swamped by hundreds of callers"','"the bailiff was a frequent caller"','"a barn dance with a persuasive caller"'],r=["comer","entrant","newcomer","visitor","guest","immigrant","visitant","new boy","new girl","incomer"]}}]);
+//# sourceMappingURL=64772.e39b5e9b.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27209],{427209:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return c}});var s=['"to keep the peace, she nodded meekly and smiled"','"we should not meekly accept this fate"'],c=[]}}]);
+//# sourceMappingURL=27209.c851330d.chunk.js.map

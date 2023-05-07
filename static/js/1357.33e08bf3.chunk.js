@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1357],{601357:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return c}});var t=[],c=["stopper","stop","plug","bung","peg","spile","seal","cap","top","lid","cover","covering","stopple","valve","spout","stopcock","cock","spile","faucet"]}}]);
-//# sourceMappingURL=1357.33e08bf3.chunk.js.map

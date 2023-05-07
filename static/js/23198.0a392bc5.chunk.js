@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23198],{23198:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"in all your quarrels I will be your knight"','"he was knighted for his services to industry"'],r=["chevalier","cavalier","cavalryman","horseman","equestrian","gallant","champion","paladin","banneret","knight errant","lord","noble","nobleman","confer/bestow a knighthood on","invest with a knighthood"]}}]);
-//# sourceMappingURL=23198.0a392bc5.chunk.js.map

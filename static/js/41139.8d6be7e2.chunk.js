@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41139],{841139:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"Dijon mustard"','"mustard sauce"','"a mustard sweater"'],s=[]}}]);
+//# sourceMappingURL=41139.8d6be7e2.chunk.js.map

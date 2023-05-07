@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32324],{132324:function(e,n,u){u.r(n),u.d(n,{definitions:function(){return r},synonyms:function(){return o}});var r=['"this car guzzles gas"','"we guzzle our beer and devour our pizza"'],o=["gulp","bolt","wolf","devour","gobble (up)","eat greedily","eat hungrily","cram oneself with","stuff oneself with","gourmandize on"]}}]);
+//# sourceMappingURL=32324.80e481df.chunk.js.map

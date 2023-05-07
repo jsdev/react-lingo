@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99209],{299209:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return u}});var r=['"invert the mousse onto a serving plate"'],u=["upturn","upend","turn around","reverse","transpose","turn upside down","turn inside out","turn back to front","flip (over)"]}}]);
+//# sourceMappingURL=99209.e11914c6.chunk.js.map

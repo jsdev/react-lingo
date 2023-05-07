@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9314],{609314:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"the newest pop phenom"'],o=[]}}]);
+//# sourceMappingURL=9314.e3b40dad.chunk.js.map

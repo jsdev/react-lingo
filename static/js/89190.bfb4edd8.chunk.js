@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89190],{689190:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return s}});var t=['"population estimates extrapolated from the 1981 census"','"census data"'],s=["poll","review","investigation","inquiry","study","probe","questionnaire","opinion poll","sampling","cross-examination","quiz","research"]}}]);
-//# sourceMappingURL=89190.bfb4edd8.chunk.js.map

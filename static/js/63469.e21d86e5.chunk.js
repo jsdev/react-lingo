@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63469],{863469:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"the tree has a good crop of berries in winter"','"the winter months"','"he seemed a hundred winters old"','"a winter apple"','"birds wintering in the Caribbean"'],t=[]}}]);
+//# sourceMappingURL=63469.e21d86e5.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71762],{771762:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return i},synonyms:function(){return r}});var i=['"Lambda Tauri"','"lambda phage"'],r=[]}}]);
+//# sourceMappingURL=71762.48087910.chunk.js.map

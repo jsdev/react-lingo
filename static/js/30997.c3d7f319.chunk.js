@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[30997],{830997:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"two little canary birds were encaged in her window"'],t=[]}}]);
+//# sourceMappingURL=30997.c3d7f319.chunk.js.map

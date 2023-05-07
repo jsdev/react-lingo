@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68813],{68813:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return r}});var i=['"they slashed down the undergrowth for tinder"','"he lit it with a tinder"'],r=[]}}]);
+//# sourceMappingURL=68813.19323ef8.chunk.js.map

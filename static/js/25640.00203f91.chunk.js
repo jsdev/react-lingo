@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[25640],{625640:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"I dyed my hair blond"','"it\'s good material\u2014it should dye well"'],o=["color","tint","pigment","stain","wash","color-wash","tinge","shade"]}}]);
-//# sourceMappingURL=25640.00203f91.chunk.js.map

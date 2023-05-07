@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45872],{445872:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return i}});var r=['"Elizabeth\'s dowry was to be $45, 000 in diamonds"'],i=["(marriage) portion","dot","marriage settlement","tocher"]}}]);
+//# sourceMappingURL=45872.9e36082f.chunk.js.map

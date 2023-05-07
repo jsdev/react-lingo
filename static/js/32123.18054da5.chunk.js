@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32123],{232123:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return s},synonyms:function(){return i}});var s=['"Swift left the company to his eldest son, Charles"','"he was the eldest of the three"'],i=["oldest","first","firstborn","big","biggest","most grown up","youngest","littlest"]}}]);
+//# sourceMappingURL=32123.18054da5.chunk.js.map

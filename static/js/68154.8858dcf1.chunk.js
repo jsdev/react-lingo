@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[68154],{568154:function(t,e,i){i.r(e),i.d(e,{definitions:function(){return n},synonyms:function(){return c}});var n=[],c=["voucher","token","ticket","document","certificate","chit","slip","stub","counterfoil","receipt","docket","detachable portion","authorization","license","pass","voucher","ticket","warrant","document","certification","passport","visa","triptyque","laissez-passer","firman"]}}]);
-//# sourceMappingURL=68154.8858dcf1.chunk.js.map

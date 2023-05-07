@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[55783],{455783:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return o},synonyms:function(){return i}});var o=['"the dining room adjoins a small library"'],i=["neighbor","abut","join","conjoin","touch","meet","be next to","be adjacent to","border (on)","verge on","butt up against","butt up to","bound on","be contiguous with","be connected to","communicate with","link up with","extend as far as","extend to","connect with/to"]}}]);
+//# sourceMappingURL=55783.27b706ba.chunk.js.map

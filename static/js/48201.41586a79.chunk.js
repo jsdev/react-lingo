@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48201],{648201:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"an energetic probie at a firehouse in lower Manhattan"','"a job that in the end draws no distinction between probie and veteran"'],i=["trainee","novice","apprentice","learner","beginner","tyro","neophyte","inexperienced worker","new recruit"]}}]);
-//# sourceMappingURL=48201.41586a79.chunk.js.map

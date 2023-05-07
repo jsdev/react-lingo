@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[3477],{403477:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return o}});var a=['"the song became the anthem for hippie activists"','"the crowd stood and sang the national anthem"','"we decided that the match would not have the anthems of either country as a prelude"'],o=["hymn","song","chorale","psalm","paean","plainsong","chant","canticle","song of praise"]}}]);
+//# sourceMappingURL=3477.4dac7d32.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93599],{493599:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return i},synonyms:function(){return o}});var i=['"he ceded control of the company to his brother"'],o=["surrender","concede","relinquish","yield","give up","hand over","turn over","give over","make over","transfer","bequeath","grant","remit","renounce","resign","abandon","forgo","sacrifice","waive","forsake","part with","deliver up","keep","gain"]}}]);
+//# sourceMappingURL=93599.aee9829b.chunk.js.map

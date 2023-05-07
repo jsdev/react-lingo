@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9500],{409500:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=['"a mixture of olive oil and balsam"','"a hair conditioner with protein and balsams"'],o=["ointment","lotion","cream","salve","liniment","embrocation","rub","gel","emollient","unguent","moisturizer","pomade","pomatum","demulcent","humectant","unction","astringent","irritant"]}}]);
+//# sourceMappingURL=9500.7bd49021.chunk.js.map

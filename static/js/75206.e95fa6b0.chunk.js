@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75206],{575206:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return r}});var e=['"a papal visit"'],r=[]}}]);
+//# sourceMappingURL=75206.e95fa6b0.chunk.js.map

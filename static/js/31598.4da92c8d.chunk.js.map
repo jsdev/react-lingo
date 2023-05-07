@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/31598.4da92c8d.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kBACA,iBAEWC,EAAW,E","sources":["definitions/6/c/cu/cutlet.js"],"sourcesContent":["export const definitions = [\n  '\"a pork cutlet\"',\n  '\"nut cutlets\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

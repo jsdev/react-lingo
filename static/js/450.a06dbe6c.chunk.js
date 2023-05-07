@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[450],{800450:function(n,s,a){a.r(s),a.d(s,{definitions:function(){return r},synonyms:function(){return i}});var r=['"a burlap sack"','"a burlap shirt"','"fabrics ranging from hessians to burlaps"'],i=["hessian","sacking","hopsack","gunny","hopsacking","t\u0101t","poldavy","stramin","sugarsack"]}}]);
+//# sourceMappingURL=450.a06dbe6c.chunk.js.map

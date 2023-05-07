@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8199],{808199:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return c}});var i=['"we encamped for the night by the side of a river"'],c=["bivouac","pitch tents","set up camp","pitch camp","outspan"]}}]);
+//# sourceMappingURL=8199.95d3c9a1.chunk.js.map

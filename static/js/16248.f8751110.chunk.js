@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16248],{216248:function(t,n,e){e.r(n),e.d(n,{definitions:function(){return o},synonyms:function(){return r}});var o=['"a tall, sturdy six-footer"','"he nodded and started to footer with his watch"'],r=[]}}]);
-//# sourceMappingURL=16248.f8751110.chunk.js.map

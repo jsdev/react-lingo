@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61413],{561413:function(r,n,e){e.r(n),e.d(n,{definitions:function(){return i},synonyms:function(){return s}});var i=[],s=["keeper","incarcerator","captor","sentry","detainer","turnkey","prison officer","(prison) warden","(prison) guard","(prison) warder","(prison) wardress"]}}]);
-//# sourceMappingURL=61413.a4d676a0.chunk.js.map

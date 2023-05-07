@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56540],{256540:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"this doesn\'t half get my dander up"','"you can keep your cat free of dander by proper care"','"we\'ll take a bit of a dander and get the fresh air"','"he dandered in to change his coat"'],t=[]}}]);
+//# sourceMappingURL=56540.0520752f.chunk.js.map

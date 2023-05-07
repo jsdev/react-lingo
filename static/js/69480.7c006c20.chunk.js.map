@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/69480.7c006c20.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mDAEWC,EAAW,E","sources":["definitions/6/f/fr/fridge.js"],"sourcesContent":["export const definitions = [\n  '\"she put the carton of milk back in the fridge\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

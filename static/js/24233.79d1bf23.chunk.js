@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24233],{724233:function(n,i,t){t.r(i),t.d(i,{definitions:function(){return e},synonyms:function(){return r}});var e=['"a pianist with a dicky heart"'],r=["unsound","unsteady","unreliable","weak","frail","infirm","unhealthy","ailing","poorly","sickly","sick","shaky","fluttery","fluttering","trembling","robust"]}}]);
-//# sourceMappingURL=24233.79d1bf23.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[72477],{772477:function(e,r,i){i.r(r),i.d(r,{definitions:function(){return n},synonyms:function(){return t}});var n=['"their wings gyrate through the water like paddle wheels"','"strippers gyrated to rock music on a low stage"'],t=["rotate","revolve","circle","spiral","turn around","whirl","pirouette","twirl","swirl","spin","swivel","move in circles","go round in circles","wheel around"]}}]);
+//# sourceMappingURL=72477.215525e3.chunk.js.map

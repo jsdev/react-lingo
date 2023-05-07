@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[98057],{398057:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"she is extremely flirty and vivacious"','"dates full of flirty banter"'],r=[]}}]);
+//# sourceMappingURL=98057.e83dda28.chunk.js.map

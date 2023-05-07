@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[37328],{337328:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return o},synonyms:function(){return s}});var o=['"my father coopered casks and barrels for the ships"','"he worked most of his life coopering for a brewery"'],s=[]}}]);
+//# sourceMappingURL=37328.8854ba10.chunk.js.map

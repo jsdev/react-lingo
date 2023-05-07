@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[21373],{221373:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return s},synonyms:function(){return o}});var s=['"our courier was a fount of knowledge"'],o=["source","fountainhead","well head","wellspring","well","reservoir","fund","mass","mine","repository","jet","spray","spout","spurt","well","cascade"]}}]);
+//# sourceMappingURL=21373.d1a1a3c9.chunk.js.map

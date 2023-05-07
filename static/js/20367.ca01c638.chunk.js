@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20367],{520367:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a pair of denims"'],t=[]}}]);
-//# sourceMappingURL=20367.ca01c638.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94891],{394891:function(o,e,n){n.r(e),n.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"you may have to get someone to co-sign your loan if you do not have a previous credit history"','"see if your parents will co-sign for you"','"he is joined by a host of musical artists who co-signed an open letter to the US Congress"','"I co-sign all the advice on this thread"'],i=[]}}]);
-//# sourceMappingURL=94891.0083d21a.chunk.js.map

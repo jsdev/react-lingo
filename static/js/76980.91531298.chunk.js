@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76980],{176980:function(n,o,i){i.r(o),i.d(o,{definitions:function(){return t},synonyms:function(){return r}});var t=['"indoor sports"','"the national indoor champion"'],r=[]}}]);
+//# sourceMappingURL=76980.91531298.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[87967],{987967:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['""it goes without saying" is calqued on French "cela va sans dire""'],t=[]}}]);
+//# sourceMappingURL=87967.8f20eb5e.chunk.js.map

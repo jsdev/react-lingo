@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27543],{427543:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return u},synonyms:function(){return c}});var u=['"a convex lens"'],c=["cambered","rounded","bulging","swelling","protuberant","curvilinear","gibbous","curved outward","outcurved","concave"]}}]);
+//# sourceMappingURL=27543.7c51057c.chunk.js.map

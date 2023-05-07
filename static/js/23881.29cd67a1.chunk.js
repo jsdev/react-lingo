@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23881],{623881:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return o},synonyms:function(){return a}});var o=['"from admission through delivery, a doula stayed at her assigned patient\'s side"','"my mother-in-law hired a postpartum doula to help me for a couple of weeks"'],a=[]}}]);
-//# sourceMappingURL=23881.29cd67a1.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26158],{826158:function(n,c,t){t.r(c),t.d(c,{definitions:function(){return e},synonyms:function(){return i}});var e=[],i=["stick","rod","staff","wand","bar","truncheon","club","cudgel","bludgeon","stick","bat","mace","nightstick","blackjack","shillelagh"]}}]);
+//# sourceMappingURL=26158.ec4a7693.chunk.js.map

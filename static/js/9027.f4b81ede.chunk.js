@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9027],{109027:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return a},synonyms:function(){return i}});var a=['"relations between the English state and the papacy"','"a papacy in decline"','"during the papacy of Pope John"'],i=[]}}]);
+//# sourceMappingURL=9027.f4b81ede.chunk.js.map

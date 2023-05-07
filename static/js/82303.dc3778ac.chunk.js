@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[82303],{282303:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return s},synonyms:function(){return r}});var s=['"he is chiefly famous for his love poetry"','"poetry and fire are nicely balanced in the music"','"the music department is housed in a building that is pure poetry"'],r=["poems","verse","verses","versification","rhymes","rhyming","balladry","poesy","metrical composition","rhythmical composition","penillion","Parnassus"]}}]);
-//# sourceMappingURL=82303.dc3778ac.chunk.js.map

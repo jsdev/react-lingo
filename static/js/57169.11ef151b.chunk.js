@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57169],{957169:function(e,n,c){c.r(n),c.d(n,{definitions:function(){return a},synonyms:function(){return u}});var a=[],u=["briar (pipe)","meerschaum","churchwarden","calabash","calumet","chibouk","hookah","narghile","hubble-bubble","bong","chillum","tobacco pipe","clay pipe","cutty","dudeen","calean"]}}]);
-//# sourceMappingURL=57169.11ef151b.chunk.js.map

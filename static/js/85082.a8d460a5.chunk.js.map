@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/85082.a8d460a5.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACtB,OACA,QACA,S","sources":["definitions/6/u/un/unguis.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n  'nail',\n  'talon',\n  'pounce',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[73158],{373158:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"in the Web 2.0 era, every public institution has already been transformed into a glocal enterprise"'],r=[]}}]);
+//# sourceMappingURL=73158.2ffdf955.chunk.js.map

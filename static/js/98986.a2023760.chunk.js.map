@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/98986.a2023760.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kBACA,qBAEWC,EAAW,E","sources":["definitions/divisi.js"],"sourcesContent":["export const definitions = [\n  '\"violas divisi\"',\n  '\"divisi passages\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

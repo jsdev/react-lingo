@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32852],{132852:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return a},synonyms:function(){return n}});var a=['"they shrieked and gibbered as flames surrounded them"'],n=["prattle","rattle on","chatter","babble","ramble","drivel","jabber","patter","gabble","bumble","burble","twitter","go on","run on","mutter","mumble","maunder","prate","bleat","cackle","slabber","clack","twaddle","twattle"]}}]);
-//# sourceMappingURL=32852.72267328.chunk.js.map

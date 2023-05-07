@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54120],{954120:function(e,n,u){u.r(n),u.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"she was short and cuddly"'],t=["huggable","cuddlesome","plump","curvaceous","rounded","buxom","soft","warm","attractive","endearing","lovable"]}}]);
+//# sourceMappingURL=54120.44476f8f.chunk.js.map

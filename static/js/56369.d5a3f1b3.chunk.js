@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56369],{456369:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return c}});var r=['"her criticism appeared in the form of screeds in a local film magazine"'],c=[]}}]);
+//# sourceMappingURL=56369.d5a3f1b3.chunk.js.map

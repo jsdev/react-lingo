@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41377],{994030:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return a},synonyms:function(){return t}});var a=['"his good friend delivered a brief eulogy"'],t=["accolade","panegyric","paean","encomium","tribute","testimonial","compliment","commendation","praise","acclaim","acclamation","raving","homage","plaudits","bouquets","extolment","laudation","eulogium","speech of praise","attack"]}}]);
-//# sourceMappingURL=41377.276c0988.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47945],{747945:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return i}});var a=['"he had to pacify angry spectators"','"the general pacified northern Italy"'],i=["placate","appease","calm","conciliate","propitiate","assuage","mollify","soothe","tranquillize","content","still","silence","relax","compose","quieten","quiet","calm down","provoke","enrage","inflame"]}}]);
-//# sourceMappingURL=47945.2285b5d8.chunk.js.map

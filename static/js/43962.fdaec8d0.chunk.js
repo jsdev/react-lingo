@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43962],{343962:function(e,o,n){n.r(o),n.d(o,{definitions:function(){return t},synonyms:function(){return i}});var t=['"do not think to cozen your contemporaries"','"he was able to cozen a profit"'],i=["deceive","delude","hoodwink","mislead","take in","dupe","fool","double-cross","cheat","defraud","swindle","outwit","outmaneuver","catch out","gull","hoax","bamboozle","beguile","entrap","chicane","sell","illude"]}}]);
+//# sourceMappingURL=43962.fdaec8d0.chunk.js.map

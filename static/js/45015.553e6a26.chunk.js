@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[45015],{485875:function(t,n,o){o.r(n),o.d(n,{definitions:function(){return e},synonyms:function(){return r}});var e=['"they bunk together in the dormitory"','"he bunked off school all week"'],r=["skip","avoid","shirk","bag","play truant from","truant from","stay away from","not go to","be absent from","abstain from","hop the wag from"]}}]);
+//# sourceMappingURL=45015.553e6a26.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[41751],{841751:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return o}});var r=[],o=["garrison","camp","encampment","depot","billet","quarters","fort","cantonment","guardhouse","cuartel","lobster box"]}}]);
+//# sourceMappingURL=41751.3c8a1b28.chunk.js.map

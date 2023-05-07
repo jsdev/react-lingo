@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/6904.654d4df2.chunk.js","mappings":"iMAAO,IAAMA,EAAc,GAEdC,EAAW,CACtB,SACA,iBACA,cACA,e","sources":["definitions/6/f/fo/foetus.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n  'embryo',\n  'fertilized egg',\n  'unborn baby',\n  'unborn child',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

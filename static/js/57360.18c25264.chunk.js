@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[57360],{957360:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return s},synonyms:function(){return a}});var s=['"she had a great big elephant \u2026 that\'s one of those mickle beasts from Africa"'],a=[]}}]);
+//# sourceMappingURL=57360.18c25264.chunk.js.map

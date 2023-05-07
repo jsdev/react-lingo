@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[52578],{252578:function(n,t,r){r.r(t),r.d(t,{definitions:function(){return e},synonyms:function(){return i}});var e=['"the old canard that LA is a cultural wasteland"'],i=["report","story","whisper","speculation","information","word","news","bruit","piece of gossip","on dit","hard facts"]}}]);
-//# sourceMappingURL=52578.c69c3966.chunk.js.map

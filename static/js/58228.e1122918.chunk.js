@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[58228],{958228:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"he used to walk for hours up and down the gridded streets of New York"','"traditional gridded windows"','"the fen is gridded by intersecting dykes"'],r=[]}}]);
+//# sourceMappingURL=58228.e1122918.chunk.js.map

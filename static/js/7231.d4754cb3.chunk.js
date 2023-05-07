@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7231],{107231:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=['"a wooded valley"'],t=["forested","afforested","tree-covered","woody","sylvan","bosky","timbered","tree-clad"]}}]);
+//# sourceMappingURL=7231.d4754cb3.chunk.js.map

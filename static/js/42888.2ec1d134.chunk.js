@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42888],{642888:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return a}});var i=[],a=["cannabis cigarette","marijuana cigarette","zol"]}}]);
+//# sourceMappingURL=42888.2ec1d134.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[48603],{648603:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return a},synonyms:function(){return o}});var a=['"the bandit produced a weapon and demanded money"'],o=["robber","raider","mugger","brigand","freebooter","outlaw","desperado","hijacker","plunderer","pillager","looter","marauder","gangster","gunman","criminal","crook","thief","holdupper","rustler","highwayman","footpad","reaver","cateran","mosstrooper","snaphance"]}}]);
+//# sourceMappingURL=48603.e211bbae.chunk.js.map

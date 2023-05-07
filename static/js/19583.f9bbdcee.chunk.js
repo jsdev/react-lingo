@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[19583],{419583:function(e,o,n){n.r(o),n.d(o,{definitions:function(){return t},synonyms:function(){return r}});var t=['"famous people just love being pampered"'],r=["spoil","indulge","overindulge","cosset","mollycoddle","coddle","baby","pet","wait on someone hand and foot","overparent","humor","feather-bed","cocker","cater to someone's every whim","pander to","wrap in cotton wool"]}}]);
+//# sourceMappingURL=19583.f9bbdcee.chunk.js.map

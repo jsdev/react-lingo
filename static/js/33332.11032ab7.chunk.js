@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[33332],{533332:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return r},synonyms:function(){return t}});var r=[],t=["envoy","emissary","agent","ambassador","representative","commissioner","commissary","delegate","proxy","surrogate","deputy","spokesperson","plenipotentiary","messenger","depute"]}}]);
-//# sourceMappingURL=33332.11032ab7.chunk.js.map

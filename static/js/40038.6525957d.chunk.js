@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40038],{40038:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=[],o=["hollow","indentation","dent","dint","cavity","concavity","dip","pit","hole","pothole","sink","sinkhole","excavation","trough","crater","valley","basin","bowl","lacuna","protuberance"]}}]);
-//# sourceMappingURL=40038.6525957d.chunk.js.map

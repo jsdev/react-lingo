@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92276],{392276:function(n,a,e){e.r(a),e.d(a,{definitions:function(){return i},synonyms:function(){return r}});var i=['"a mixture of wool, alpaca, and silk"','"an alpaca jersey"'],r=[]}}]);
+//# sourceMappingURL=92276.0a12ec44.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/89580.7d23dab1.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,oCACA,2BAEWC,EAAW,E","sources":["definitions/horsey.js"],"sourcesContent":["export const definitions = [\n  '\"wide eyes and big, horsey teeth\"',\n  '\"the horsey fraternity\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

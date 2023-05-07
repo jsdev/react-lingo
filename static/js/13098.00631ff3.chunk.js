@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[13098],{413098:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return t},synonyms:function(){return c}});var t=['"bantam hockey"'],c=["tiny","small","little","petite","minute","miniature","mini","minuscule","microscopic","nanoscopic","small-scale","compact","pocket","toy","midget","undersized","short","stubby","elfin","dwarfish","dwarf","pygmy","Lilliputian","wee","homuncular","enormous"]}}]);
+//# sourceMappingURL=13098.00631ff3.chunk.js.map

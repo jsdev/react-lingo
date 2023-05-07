@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[74636],{274636:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return l}});var i=['"her collab with Eminem is not at all surprising"','"the ad is a nice little collab between Hollywood studios and Apple"','"Adam also wants to collab with Ed Sheeran who is his labelmate"'],l=[]}}]);
-//# sourceMappingURL=74636.90fc2f74.chunk.js.map

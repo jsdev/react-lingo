@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[79376],{979376:function(i,n,t){t.r(n),t.d(n,{definitions:function(){return e},synonyms:function(){return s}});var e=['"the result of such fiscal laxity is a budget deficit"','"laxity of discipline"','"over-stretching can result in joint laxity"'],s=[]}}]);
+//# sourceMappingURL=79376.ba436c63.chunk.js.map

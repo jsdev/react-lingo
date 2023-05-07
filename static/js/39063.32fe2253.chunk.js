@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[39063],{39063:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return c},synonyms:function(){return a}});var c=['"each was encased in a plastic shrink-wrap"'],a=["surround","cover","enfold","enwrap","blanket","swathe","swaddle","wrap (up)","engulf","encircle","encompass","cocoon","sheathe","enclose","cloak","conceal","hide","obscure","cover (up)","screen","shield","mask","veil","shroud","mantle","enshroud","obnubilate"]}}]);
-//# sourceMappingURL=39063.32fe2253.chunk.js.map

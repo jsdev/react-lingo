@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24174],{924174:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return i},synonyms:function(){return t}});var i=['"his skin felt cold and clammy"','"the clammy atmosphere of the cave"'],t=["moist","damp","sweaty","perspiring","sweating","sticky","slimy","slippery","slick","dry","damp","dank","wet","moisture-laden","humid","close","muggy","heavy","steamy","claggy"]}}]);
-//# sourceMappingURL=24174.80216765.chunk.js.map

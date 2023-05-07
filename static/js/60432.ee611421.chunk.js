@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60432],{260432:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"a small shtetl in Belarus where Jay\'s ancestors lived"','"childhood was shtetl life transplanted, Brooklyn colored by Old World reverberations"','"the transformation of gay literature, its emergence from the shtetl, continues apace"'],s=[]}}]);
+//# sourceMappingURL=60432.ee611421.chunk.js.map

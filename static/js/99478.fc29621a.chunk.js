@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99478],{599478:function(e,o,n){n.r(o),n.d(o,{definitions:function(){return t},synonyms:function(){return r}});var t=['"he was convicted of trying to extort $1 million from a developer"'],r=["force","extract","exact","coerce","wring","wrest","screw","squeeze","milk","rack","obtain by force","obtain by threat(s)","blackmail someone for","worm something out of someone"]}}]);
-//# sourceMappingURL=99478.fc29621a.chunk.js.map

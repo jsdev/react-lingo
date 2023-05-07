@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31508],{331508:function(e,n,u){u.r(n),u.d(n,{definitions:function(){return r},synonyms:function(){return o}});var r=['"the cafe was engulfed in flames"','"Europe might be engulfed by war"','"the toad can engulf nestling birds"'],o=["inundate","flood","deluge","immerse","swamp","wash out","submerge","bury","envelop","snow under","overtake","overwhelm","overrun","swallow up"]}}]);
+//# sourceMappingURL=31508.a4661c92.chunk.js.map

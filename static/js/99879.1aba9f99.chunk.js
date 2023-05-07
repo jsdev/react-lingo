@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[99879],{699879:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return c}});var r=['"railroads engirdled this tract of country"'],c=["surround","circle","ring","encompass","encircle","circumscribe","border","bound","edge","skirt","fringe","hem","line","flank","confine","close in","shut in","hem in","lock in","lock up","cut off","gird","girdle","engird","fence in","wall in","hedge in"]}}]);
+//# sourceMappingURL=99879.1aba9f99.chunk.js.map

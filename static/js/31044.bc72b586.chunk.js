@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31044],{31044:function(n,i,e){e.r(i),e.d(i,{definitions:function(){return r},synonyms:function(){return t}});var r=[],t=["girdle","sash","strap","cummerbund","waistband","band","girth","obi","zone","baldric","cincture","ceinture","cingulum"]}}]);
+//# sourceMappingURL=31044.bc72b586.chunk.js.map

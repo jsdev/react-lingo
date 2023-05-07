@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[94255],{294255:function(e,t,r){r.r(t),r.d(t,{definitions:function(){return n},synonyms:function(){return i}});var n=['"the disease is mainly vectored by mosquitoes"','"at least five of these viruses are vectored by mites"','"two Hurricanes were vectored towards the Stukas"'],i=["value","index","indicator","measure","norm","order","quantity","number","figure"]}}]);
+//# sourceMappingURL=94255.4afcf6d0.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/61742.c2a9da11.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,mBAEWC,EAAW,E","sources":["definitions/childe.js"],"sourcesContent":["export const definitions = [\n  '\"Childe Harold\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

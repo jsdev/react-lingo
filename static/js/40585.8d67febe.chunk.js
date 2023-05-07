@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[40585],{240585:function(t,e,n){n.r(e),n.d(e,{definitions:function(){return i},synonyms:function(){return a}});var i=['"the axiom that supply equals demand"'],a=["dictum","truism","principle","proposition","postulate","maxim","saying","adage","aphorism","apothegm","gnome","accepted truth","general truth"]}}]);
+//# sourceMappingURL=40585.8d67febe.chunk.js.map

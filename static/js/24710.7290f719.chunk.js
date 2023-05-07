@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[24710],{724710:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"sutures are removed on the 5th to 7th day after the operation"','"the small incision was sutured"'],o=["join","stitching","joint","junction","closure","line","join","joint","intersection","link","bond","weld","seam","coupling","connection","union","juncture","brace","bracket","hinge","commissure","synapse"]}}]);
+//# sourceMappingURL=24710.7290f719.chunk.js.map

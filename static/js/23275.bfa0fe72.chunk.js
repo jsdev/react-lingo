@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[23275],{523275:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return c},synonyms:function(){return r}});var c=['"the cold beer at the pub was nectar"','"peach nectar"'],r=[]}}]);
+//# sourceMappingURL=23275.bfa0fe72.chunk.js.map

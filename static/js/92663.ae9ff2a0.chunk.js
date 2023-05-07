@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92663],{292663:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return r}});var i=['"thinly bedded carbonate mudstones"'],r=[]}}]);
+//# sourceMappingURL=92663.ae9ff2a0.chunk.js.map

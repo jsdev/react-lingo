@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[75486],{875486:function(n,e,a){a.r(e),a.d(e,{definitions:function(){return r},synonyms:function(){return t}});var r=['"the rear window of the car was smashed by vandals"'],t=["hooligan","hoodlum","thug","lout","delinquent","ruffian","rowdy","troublemaker","tearaway"]}}]);
+//# sourceMappingURL=75486.37272058.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32751],{132751:function(n,s,i){i.r(s),i.d(s,{definitions:function(){return e},synonyms:function(){return o}});var e=['"I don\'t like her dissing my friends"','"a campaign of forum postings and emails dissing the company"','"maybe you should stop dissing psychics and discover that part of yourself"'],o=[]}}]);
+//# sourceMappingURL=32751.d172195b.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61911],{461911:function(n,o,e){e.r(o),e.d(o,{definitions:function(){return t},synonyms:function(){return i}});var t=['"bifold doors open onto the garden patio"'],i=[]}}]);
-//# sourceMappingURL=61911.eaaf3883.chunk.js.map

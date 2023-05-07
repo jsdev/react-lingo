@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80573],{880573:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"hand tools for deburring holes in metal"'],i=[]}}]);
-//# sourceMappingURL=80573.0fb7f655.chunk.js.map

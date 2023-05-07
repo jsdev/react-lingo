@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86382],{686382:function(e,r,t){t.r(r),t.d(r,{definitions:function(){return i},synonyms:function(){return n}});var i=[],n=["web","crisscross","grid","lattice","net","matrix","mesh","webbing","tracery","trellis","webwork","meshwork","latticework","openwork","filigree","fretwork","reticulum","plexus","rete","reticulation","reticule","graticule"]}}]);
+//# sourceMappingURL=86382.e70841d0.chunk.js.map

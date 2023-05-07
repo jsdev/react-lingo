@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[28063],{628063:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return r}});var o=['"they still force the peasants to do corv\xe9e"'],r=[]}}]);
+//# sourceMappingURL=28063.a01410fb.chunk.js.map

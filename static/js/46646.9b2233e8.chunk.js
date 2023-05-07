@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46646],{146646:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"if breathing stops, there is no oxygen getting to the brain and the cells begin to die"','"hydrogen and carbon in the fuel combine with the oxygen in the air to form carbon dioxide and water"','"an oxygen supply"'],o=[]}}]);
+//# sourceMappingURL=46646.9b2233e8.chunk.js.map

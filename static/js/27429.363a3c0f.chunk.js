@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27429],{427429:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"four scenes had been frescoed on the wall"'],t=[]}}]);
+//# sourceMappingURL=27429.363a3c0f.chunk.js.map

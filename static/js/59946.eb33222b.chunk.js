@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[59946],{859946:function(e,i,n){n.r(i),n.d(i,{definitions:function(){return r},synonyms:function(){return u}});var r=['"the turbid estuary"','"a turbid piece of cin\xe9ma v\xe9rit\xe9"'],u=["murky","muddy","thick","opaque","cloudy","clouded","riled","roily","roiled","feculent","clear"]}}]);
+//# sourceMappingURL=59946.eb33222b.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[42865],{842865:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"a dance troupe"','"a troupe of singers"'],s=["group","company","band","ensemble","set","cast"]}}]);
+//# sourceMappingURL=42865.f76e9bd7.chunk.js.map

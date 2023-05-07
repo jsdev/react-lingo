@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83907],{83907:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return o},synonyms:function(){return i}});var o=[],i=["put (down)","place","lay (down)","set (down)","unload","rest","settle","sit","drop","let fall","throw down","posit","fling down","pick up"]}}]);
+//# sourceMappingURL=83907.a6f88de3.chunk.js.map

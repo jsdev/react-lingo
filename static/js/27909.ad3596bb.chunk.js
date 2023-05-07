@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[27909],{327909:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return o},synonyms:function(){return t}});var o=['"an ovary formed from the infolded carpel"'],t=[]}}]);
-//# sourceMappingURL=27909.ad3596bb.chunk.js.map

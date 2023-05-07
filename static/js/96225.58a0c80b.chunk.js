@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[96225],{396225:function(i,r,n){n.r(r),n.d(r,{definitions:function(){return e},synonyms:function(){return t}});var e=['"northern boreal forest"'],t=["chilly","cool","freezing","icy","snowy","icy-cold","glacial","wintry","crisp","frosty","frigid","bitter","biting","piercing","numbing","sharp","raw","polar","arctic","Siberian","chill","hyperborean","hibernal","gelid","brumal","bitterly cold","hiemal","hot"]}}]);
+//# sourceMappingURL=96225.58a0c80b.chunk.js.map

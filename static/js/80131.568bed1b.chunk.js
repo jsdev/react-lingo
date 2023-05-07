@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[80131],{980131:function(n,o,t){t.r(o),t.d(o,{definitions:function(){return e},synonyms:function(){return c}});var e=['"a tomato picker"','"hand-held computers tell the pickers how much of what product has to go to which loading dock"','"banjo pickers"'],c=[]}}]);
-//# sourceMappingURL=80131.568bed1b.chunk.js.map

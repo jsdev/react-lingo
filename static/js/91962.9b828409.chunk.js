@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[91962],{791962:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"he indites the wondrous tale of Our Lord"'],i=["write","create","devise","make up","think up","frame","formulate","fashion","produce","originate","invent","contrive","concoct","pen","author","draft","rhyme","sing","verse"]}}]);
-//# sourceMappingURL=91962.9b828409.chunk.js.map

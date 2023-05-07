@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[76610],{876610:function(i,e,n){n.r(e),n.d(e,{definitions:function(){return s},synonyms:function(){return c}});var s=['"she\'s become very choosy about food"'],c=["fussy","finicky","overfastidious","faddish","dainty","exacting","demanding","discriminating","discerning","selective","nice","overnice","finical","over-particular","difficult/hard to please","indiscriminate","easy to please"]}}]);
+//# sourceMappingURL=76610.b59432bf.chunk.js.map

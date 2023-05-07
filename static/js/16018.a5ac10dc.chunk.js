@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[16018],{216018:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return a}});var t=['"the journal has filled a lacuna in Middle Eastern studies"'],a=["gap","space","absence","lack","deficiency","blank","continuity","hollow","indentation","dent","dint","cavity","concavity","dip","pit","hole","pothole","sink","sinkhole","excavation","trough","crater","valley","basin","bowl","fossa","protuberance"]}}]);
+//# sourceMappingURL=16018.a5ac10dc.chunk.js.map

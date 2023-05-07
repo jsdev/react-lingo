@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[11078],{511078:function(t,r,e){e.r(r),e.d(r,{definitions:function(){return n},synonyms:function(){return o}});var n=['"we went astray but a man redirected us"','"he was led astray by boozy colleagues"'],o=["off target","wide","awry","off course","off track","adrift","wide of the mark","off the right track","into wrongdoing","into error","into sin","into iniquity","away from the straight and narrow","away from the path of righteousness"]}}]);
-//# sourceMappingURL=11078.0561b6c6.chunk.js.map

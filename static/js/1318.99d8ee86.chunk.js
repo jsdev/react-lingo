@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1318],{301318:function(n,t,a){a.r(t),a.d(t,{definitions:function(){return e},synonyms:function(){return i}});var e=['"a high-powered combat aircraft that can outfly anything"'],i=[]}}]);
-//# sourceMappingURL=1318.99d8ee86.chunk.js.map

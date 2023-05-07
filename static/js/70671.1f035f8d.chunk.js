@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70671],{670671:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return i},synonyms:function(){return o}});var i=[],o=["poison","bane","toxicant"]}}]);
-//# sourceMappingURL=70671.1f035f8d.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[86073],{686073:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return a},synonyms:function(){return t}});var a=['"a picture featuring a gamine young model"','"a short, gamine haircut"','"a long-legged, short-haired gamine"','"I left school and fell in with some gamines"'],t=["boyish","elfin","waifish","waiflike"]}}]);
-//# sourceMappingURL=86073.0aa093b9.chunk.js.map

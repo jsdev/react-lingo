@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[54234],{354234:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return s},synonyms:function(){return t}});var s=['"a short-sleeved madras shirt"'],t=[]}}]);
+//# sourceMappingURL=54234.84136cd8.chunk.js.map

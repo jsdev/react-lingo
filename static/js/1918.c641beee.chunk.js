@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[1918],{901918:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return r}});var i=['"she kibitzed with friends"'],r=["interfere","butt in","intrude","intervene","interlope","pry","poke","nose","busybody","interpose","obtrude","thrust","intermeddle","mind one's own business"]}}]);
-//# sourceMappingURL=1918.c641beee.chunk.js.map

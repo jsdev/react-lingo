@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[34110],{734110:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return s},synonyms:function(){return u}});var s=['"a sumptuous repast"'],u=["meal","feast","banquet","snack","collation","refection"]}}]);
+//# sourceMappingURL=34110.c7533f36.chunk.js.map

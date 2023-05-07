@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/68003.645d8266.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,uCACA,uCAEWC,EAAW,E","sources":["definitions/6/a/ad/adsorb.js"],"sourcesContent":["export const definitions = [\n  '\"the dye is adsorbed onto the fiber\"',\n  '\"charcoal will not adsorb nitrates\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

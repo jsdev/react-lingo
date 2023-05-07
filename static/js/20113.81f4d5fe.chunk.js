@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[20113],{420113:function(i,t,e){e.r(t),e.d(t,{definitions:function(){return n},synonyms:function(){return o}});var n=['"to me there is only one kind of rock, namely, loud rock"'],o=["that is","specifically","in other words","viz.","sc.","videlicet","scilicet","that is to say","to be specific","to wit","id est"]}}]);
+//# sourceMappingURL=20113.81f4d5fe.chunk.js.map

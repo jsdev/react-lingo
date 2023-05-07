@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8125],{808125:function(n,t,i){i.r(t),i.d(t,{definitions:function(){return e},synonyms:function(){return r}});var e=['"covens of militants within the party"'],r=[]}}]);
-//# sourceMappingURL=8125.6fe3401d.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26032],{26032:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return i},synonyms:function(){return o}});var i=['"they were wearin\' fly clothes"','"she\'s fly enough not to get done out of it"'],o=["shrewd","sharp","astute","acute","canny","worldly-wise","knowing","clever","sharp-witted","quick-witted","wily","nimble-witted","naive"]}}]);
+//# sourceMappingURL=26032.59e3f6c8.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[46848],{646848:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return a},synonyms:function(){return o}});var a=['"some uncontrollable honkers blared their horns"','"sometimes the honkers need a second attempt at landing"','"it was plump and by all appearances a healthy honker"',"\"I know I've got a decent size honker, but to make comments like that, I think it 's uncalled for\""],o=[]}}]);
+//# sourceMappingURL=46848.686713ec.chunk.js.map

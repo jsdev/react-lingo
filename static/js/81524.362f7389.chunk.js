@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81524],{381524:function(e,n,i){i.r(n),i.d(n,{definitions:function(){return s},synonyms:function(){return t}});var s=['"this printer is a doddle to set up and use"'],t=["child's play","five-finger exercise","gift","walkover","nothing","sinecure","gravy train","easy task","easy job"]}}]);
+//# sourceMappingURL=81524.362f7389.chunk.js.map

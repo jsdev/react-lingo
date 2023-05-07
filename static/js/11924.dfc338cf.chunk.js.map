@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/11924.dfc338cf.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,iCACA,2CAEWC,EAAW,E","sources":["definitions/6/s/sk/skiing.js"],"sourcesContent":["export const definitions = [\n  '\"they skied down the mountain\"',\n  '\"spring snow is not always easy to ski\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

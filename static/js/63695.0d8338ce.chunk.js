@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[63695],{663695:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return o}});var i=['"a box of matzos"','"it crumbled like a piece of stale matzo"'],o=[]}}]);
-//# sourceMappingURL=63695.0d8338ce.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[10654],{710654:function(e,n,a){a.r(n),a.d(n,{definitions:function(){return r},synonyms:function(){return i}});var r=['"he calls the media ravening wolves"','"he\'s the archetypal wolf in Armani threads"'],i=["womanizer","Casanova","Romeo","Don Juan","Lothario","flirt","ladies' man","playboy","philanderer","seducer","rake","rou\xe9","libertine","debauchee"]}}]);
+//# sourceMappingURL=10654.c3e41953.chunk.js.map

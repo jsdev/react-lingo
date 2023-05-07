@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81456],{281456:function(e,r,n){n.r(r),n.d(r,{definitions:function(){return o},synonyms:function(){return f}});var o=['"he covets time for exercise and fishing"'],f=["desire","crave","want","fancy","be consumed with desire for","have one's heart set on","wish for","long for","yearn for","dream of","aspire to","hanker for","hanker after","hunger after/for","thirst for","ache for","burn for","pant for"]}}]);
+//# sourceMappingURL=81456.bd45dda0.chunk.js.map

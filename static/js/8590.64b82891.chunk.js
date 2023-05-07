@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[8590],{808590:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return o},synonyms:function(){return r}});var o=['"the actor declined to press charges against the biter"','"if your child is a biter, you need to make sure that the toys you buy do not have loose parts"'],r=[]}}]);
-//# sourceMappingURL=8590.64b82891.chunk.js.map

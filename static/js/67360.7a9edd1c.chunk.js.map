@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/67360.7a9edd1c.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,yBACA,uCAEWC,EAAW,E","sources":["definitions/biopsy.js"],"sourcesContent":["export const definitions = [\n  '\"a bone marrow biopsy\"',\n  '\"cirrhosis was confirmed by biopsy\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

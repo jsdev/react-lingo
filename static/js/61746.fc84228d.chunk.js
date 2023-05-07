@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[61746],{761746:function(e,t,i){i.r(t),i.d(t,{definitions:function(){return n},synonyms:function(){return h}});var n=['"eighty miles north"','"a buffet for eighty"','"eighty of the nurses fled"','"his grandmother was in her eighties"','"he was over eighty at the time"','"roaring down the highway doing eighty"'],h=[]}}]);
+//# sourceMappingURL=61746.fc84228d.chunk.js.map

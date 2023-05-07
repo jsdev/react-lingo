@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[70975],{670975:function(n,r,t){t.r(r),t.d(r,{definitions:function(){return e},synonyms:function(){return u}});var e=[],u=["breast","body","torso","trunk","sternum","upper body"]}}]);
+//# sourceMappingURL=70975.657c9f44.chunk.js.map

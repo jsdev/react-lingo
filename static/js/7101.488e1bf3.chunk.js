@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[7101],{307101:function(n,a,r){r.r(a),r.d(a,{definitions:function(){return i},synonyms:function(){return t}});var i=['"angora rabbits"','"an angora cardigan"'],t=[]}}]);
+//# sourceMappingURL=7101.488e1bf3.chunk.js.map

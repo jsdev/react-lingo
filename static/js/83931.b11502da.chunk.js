@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[83931],{739664:function(e,n,t){t.r(n),t.d(n,{definitions:function(){return r},synonyms:function(){return h}});var r=['"the crackling blaze on the hearth"','"they were sitting around the hearth"','"he left hearth and home to train in Denmark"'],h=[]}}]);
+//# sourceMappingURL=83931.b11502da.chunk.js.map

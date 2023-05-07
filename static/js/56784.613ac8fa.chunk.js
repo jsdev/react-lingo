@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[56784],{356784:function(n,t,o){o.r(t),o.d(t,{definitions:function(){return e},synonyms:function(){return i}});var e=['"he\'s naught but a worthless fool"'],i=["nothing","nought","nil","zero","nowt","nothing at all"]}}]);
+//# sourceMappingURL=56784.613ac8fa.chunk.js.map

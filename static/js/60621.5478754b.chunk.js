@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[60621],{160621:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return t},synonyms:function(){return r}});var t=['"the key words are in italics"'],r=[]}}]);
+//# sourceMappingURL=60621.5478754b.chunk.js.map

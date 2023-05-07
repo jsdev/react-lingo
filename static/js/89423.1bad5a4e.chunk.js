@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89423],{389423:function(n,i,o){o.r(i),o.d(i,{definitions:function(){return u},synonyms:function(){return e}});var u=['"a group of influential young dovish advisors"'],e=[]}}]);
+//# sourceMappingURL=89423.1bad5a4e.chunk.js.map

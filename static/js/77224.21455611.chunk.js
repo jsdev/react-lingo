@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[77224],{284342:function(e,r,u){u.r(r),u.d(r,{definitions:function(){return n},synonyms:function(){return s}});var n=['"he was hoovering the stairs"','"hoover up all the dust"','"he hoovered up three slices of cake"'],s=["vacuum cleaner","brush","clean","scrub","wipe","mop","dust","scour","scrape","rake","buff","vacuum","hoover"]}}]);
+//# sourceMappingURL=77224.21455611.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[31213],{431213:function(n,t,e){e.r(t),e.d(t,{definitions:function(){return s},synonyms:function(){return a}});var s=['"the main function of pectorals is to adduct the arms"','"a stable, covalent adduct of enzyme and substrate DNA results"'],a=[]}}]);
+//# sourceMappingURL=31213.5808e00a.chunk.js.map

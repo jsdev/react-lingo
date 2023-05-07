@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[18226],{218226:function(n,a,i){i.r(a),i.d(a,{definitions:function(){return e},synonyms:function(){return t}});var e=['"his tail began to wag"','"the dog went out, wagging its tail"','"she wagged a finger at Elinor"','"this is a small island, and tongues are beginning to wag"','"he began hanging out with bad people and wagging school"'],t=[]}}]);
-//# sourceMappingURL=18226.0ad0e60b.chunk.js.map

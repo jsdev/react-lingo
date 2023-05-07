@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[12481],{812481:function(n,c,a){a.r(c),a.d(c,{definitions:function(){return e},synonyms:function(){return i}});var e=['"a celiac child"'],i=["enteric","duodenal","gastric","ventral","stomach","abdominal","visceral","stomachic","gastroenteric","stomachical"]}}]);
-//# sourceMappingURL=12481.b137006b.chunk.js.map

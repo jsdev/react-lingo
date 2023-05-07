@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[13085],{913085:function(e,n,r){r.r(n),r.d(n,{definitions:function(){return a},synonyms:function(){return o}});var a=['"I\'ve never used a bow and arrow"','"his ability to launch an arrow accurately"','"we drove in the main gate and followed a series of arrows"','"you can use the up and down arrow keys"'],o=["shaft","bolt","dart","reed","quarrel","pointer","indicator","marker","needle","hand","index"]}}]);
-//# sourceMappingURL=13085.155a58ff.chunk.js.map

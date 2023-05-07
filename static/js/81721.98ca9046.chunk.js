@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[81721],{681721:function(n,e,r){r.r(e),r.d(e,{definitions:function(){return t},synonyms:function(){return i}});var t=['"bright and red uprose the morning sun"'],i=[]}}]);
-//# sourceMappingURL=81721.98ca9046.chunk.js.map

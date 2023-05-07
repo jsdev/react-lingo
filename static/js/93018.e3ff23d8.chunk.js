@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[93018],{593018:function(n,e,u){u.r(e),u.d(e,{definitions:function(){return o},synonyms:function(){return s}});var o=[],s=["bouquet","bunch","spray","nosegay","corsage","buttonhole","boutonni\xe8re","tussie-mussie","bunch of flowers"]}}]);
+//# sourceMappingURL=93018.e3ff23d8.chunk.js.map

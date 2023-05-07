@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[47614],{147614:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return r},synonyms:function(){return s}});var r=['"hackers can break in with speed dialers"'],s=[]}}]);
+//# sourceMappingURL=47614.1a6d3643.chunk.js.map

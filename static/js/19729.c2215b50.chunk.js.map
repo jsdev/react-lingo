@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/19729.c2215b50.chunk.js","mappings":"kMAAO,IAAMA,EAAc,GAEdC,EAAW,CACtB,oBACA,aACA,gBACA,S","sources":["definitions/civics.js"],"sourcesContent":["export const definitions = [\n];\nexport const synonyms = [\n  'political science',\n  'statecraft',\n  'statesmanship',\n  'polity',\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

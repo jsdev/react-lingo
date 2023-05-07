@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/10680.32ceb8ba.chunk.js","mappings":"kMAAO,IAAMA,EAAc,CACzB,kBAEWC,EAAW,E","sources":["definitions/6/g/ga/gascon.js"],"sourcesContent":["export const definitions = [\n  '\"Gascon wines\"',\n];\nexport const synonyms = [\n];"],"names":["definitions","synonyms"],"sourceRoot":""}

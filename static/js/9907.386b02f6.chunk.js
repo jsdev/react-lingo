@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[9907],{109907:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return i},synonyms:function(){return s}});var i=['"slip herbs under the skin and baste the chicken constantly"','"keep any remaining sauce ready for basting"'],s=[]}}]);
+//# sourceMappingURL=9907.386b02f6.chunk.js.map

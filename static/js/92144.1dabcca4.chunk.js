@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[92144],{592144:function(n,e,i){i.r(e),i.d(e,{definitions:function(){return o},synonyms:function(){return t}});var o=['"they baled a lot of good hay"','"most baling and field work have been finished"'],t=[]}}]);
+//# sourceMappingURL=92144.1dabcca4.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[89070],{689070:function(e,t,n){n.r(t),n.d(t,{definitions:function(){return r},synonyms:function(){return s}});var r=['"a motion to recuse the prosecutor"','"the Justice Department demanded that he recuse himself from the case"'],s=[]}}]);
-//# sourceMappingURL=89070.ea0f0d57.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[66566],{366566:function(e,n,s){s.r(n),s.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=["",'"the search results are biased by the specific queries used"','"common sense biases me against these theories"[more]New content will be added above the current area of focus upon selection'],i=[]}}]);
-//# sourceMappingURL=66566.8c95d07b.chunk.js.map

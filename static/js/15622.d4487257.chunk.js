@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[15622],{415622:function(n,e,t){t.r(e),t.d(e,{definitions:function(){return o},synonyms:function(){return s}});var o=['"during that week I was heavily doped on downers"','"the thought of the danger his son was in put something of a downer on the situation"','"the Red Sox enter the season on a downer"'],s=[]}}]);
-//# sourceMappingURL=15622.d4487257.chunk.js.map

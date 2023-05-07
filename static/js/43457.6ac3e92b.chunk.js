@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[43457],{143457:function(e,t,a){a.r(t),a.d(t,{definitions:function(){return n},synonyms:function(){return r}});var n=['"the millionaire who disappeared may have been abducted"','"the posterior rectus muscle, which abducts the eye"'],r=["carry off","capture","seize","snatch","hijack","hold to ransom","take as hostage","run off/away with"]}}]);
-//# sourceMappingURL=43457.6ac3e92b.chunk.js.map

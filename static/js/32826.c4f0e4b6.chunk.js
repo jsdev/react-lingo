@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[32826],{732826:function(c,e,r){r.r(e),r.d(e,{definitions:function(){return n},synonyms:function(){return s}});var n=['"rooks cawed in the dark trees"'],s=["screech","squeal","shriek","scream","croak","crow","cluck","clack","cackle","hoot","cry","call"]}}]);
-//# sourceMappingURL=32826.c4f0e4b6.chunk.js.map

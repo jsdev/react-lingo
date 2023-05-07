@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[71680],{271680:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return r}});var t=['"King Solomon\'s great ivory throne"','"the throne room"','"the heir to the throne"','"the king was throned on a rock"'],r=["seat of state","royal seat","sovereignty","rule","command","dominion","sovereign power"]}}]);
+//# sourceMappingURL=71680.352f47a5.chunk.js.map

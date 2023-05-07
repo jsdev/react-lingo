@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[97186],{597186:function(e,n,o){o.r(n),o.d(n,{definitions:function(){return t},synonyms:function(){return i}});var t=['"we hope to encourage as many people as possible to bike to work"','"the terrain is perfect for biking"'],i=[]}}]);
+//# sourceMappingURL=97186.34f8e963.chunk.js.map

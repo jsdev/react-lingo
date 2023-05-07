@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_lingo=self.webpackChunkreact_lingo||[]).push([[26665],{26665:function(e,c,i){i.r(c),i.d(c,{definitions:function(){return n},synonyms:function(){return s}});var n=[],s=["bag","pouch","bladder","blister","bursa","acinus","follicle","cyst","saccule","utricle","vesicle","liposome","vesica","vesicula"]}}]);
-//# sourceMappingURL=26665.097ab25e.chunk.js.map
