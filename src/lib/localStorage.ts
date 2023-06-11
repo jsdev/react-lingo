@@ -64,16 +64,16 @@ export const setStoredComplexityMode = (complexity: string) => {
   }
 };
 
+export const getStoredComplexityMode = () => {
+  return localStorage.getItem(complexityKey);
+};
+
 export const setStoredKeyboardMode = (keyboard: string) => {
   if (keyboard) {
     localStorage.setItem(keyboardKey, keyboard);
   } else {
     localStorage.removeItem(keyboardKey);
   }
-};
-
-export const getStoredComplexityMode = () => {
-  return localStorage.getItem(complexityKey);
 };
 
 export const getStoredKeyboardMode = () => {
