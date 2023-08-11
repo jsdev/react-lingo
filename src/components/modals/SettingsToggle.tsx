@@ -3,7 +3,7 @@ import classnames from 'classnames'
 type Props = {
   settingName: string
   flag: boolean
-  handleFlag: Function
+  handleFlag: (bool: boolean) => void
   description?: string
 }
 
