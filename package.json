@@ -1,6 +1,6 @@
 {
   "name": "react-lingo",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "homepage": "https://jsdev.github.io/react-lingo",
   "scripts": {
@@ -38,7 +38,7 @@
     "react-datepicker": "^4.11.0",
     "react-div-100vh": "^0.7.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^2.1.3",
     "react-tailwindcss-select": "^1.8.5",
     "request": "^2.88.2",
     "typescript": "^4.9.5",
