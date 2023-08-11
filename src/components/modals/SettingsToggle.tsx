@@ -19,6 +19,7 @@ export const SettingsToggle = ({
       'bg-green-400': flag,
     },
   );
+
   const toggleButton = classnames(
     'bg-white w-6 h-6 rounded-full shadow-md transform duration-300 ease-in-out',
     {
@@ -40,8 +41,9 @@ export const SettingsToggle = ({
         </div>
         <div className={toggleHolder}>
           <input
+            checked={flag}
             data-id={camelCase(settingName)}
-            onClick={() => handleFlag(!flag)}
+            onChange={() => handleFlag(!flag)}
             type="checkbox"
             className={toggleButton}
           />
