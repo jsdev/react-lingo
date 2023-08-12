@@ -4,7 +4,7 @@ html.dark {
 
 .switch-card {
   display: grid;
-  grid-template-columns: 1fr 3em;
+  grid-template-columns: 1fr 4em;
 }
 
 .switch-card input[type="checkbox"]:not(:checked) {
@@ -15,4 +15,17 @@ html.dark {
 
 .switch-card input[type="checkbox"]:checked {
   color: green;
+}
+
+@media (max-width: 480px) {
+  .full-screen-dialog {
+    padding: 0
+  }
+
+  .full-screen-dialog-content {
+    min-width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    border-radius: 0;
+  }
 }
