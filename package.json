@@ -1,6 +1,6 @@
 {
   "name": "react-lingo",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "private": true,
   "homepage": "https://jsdev.github.io/react-lingo",
   "scripts": {
@@ -28,6 +28,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@types/ua-parser-js": "latest",
+    "assert": "^2.0.0",
     "classnames": "latest",
     "date-fns": "latest",
     "egoroof-blowfish": "latest",
