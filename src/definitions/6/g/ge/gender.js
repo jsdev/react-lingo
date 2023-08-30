@@ -8,5 +8,4 @@ export const definitions = [
   '"traditional concepts of gender"',
   '"adjectives usually agree with the noun in gender and number"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

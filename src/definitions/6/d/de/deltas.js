@@ -8,5 +8,4 @@ export const definitions = [
   '"the Nile delta"',
   '"a huge delta system developed"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

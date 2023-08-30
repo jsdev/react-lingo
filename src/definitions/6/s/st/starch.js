@@ -5,5 +5,4 @@ export const definitions = [
   '"starch your collar to keep it straight and stiff"',
   '"Domenge starched Geddami in the first"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

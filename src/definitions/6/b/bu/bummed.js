@@ -5,8 +5,4 @@ export const definitions = [
   '"she bummed a cigarette from me"',
   '"I bummed a ride into town with him"',
 ];
-export const synonyms = [
-  'scrounge',
-  'beg',
-  'borrow',
-];
+export const synonyms = ["scrounge", "beg", "borrow"];

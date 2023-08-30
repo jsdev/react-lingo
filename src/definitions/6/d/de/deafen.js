@@ -4,10 +4,10 @@ export const definitions = [
   '"the noise deafened him to Ron\'s approach"',
 ];
 export const synonyms = [
-  'make deaf',
-  'make temporarily deaf',
-  'cause to be hard of hearing',
-  'deprive of hearing',
-  'impair someone\'s hearing',
-  'burst some\'s \'s eardrums',
+  "make deaf",
+  "make temporarily deaf",
+  "cause to be hard of hearing",
+  "deprive of hearing",
+  "impair someone's hearing",
+  "burst some's 's eardrums",
 ];

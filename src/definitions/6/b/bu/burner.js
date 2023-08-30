@@ -7,5 +7,4 @@ export const definitions = [
   '"Mama pulled out a burner and shot a man down"',
   ,
 ];
-export const synonyms = [
-];
+export const synonyms = [];

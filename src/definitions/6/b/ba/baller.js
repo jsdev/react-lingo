@@ -5,5 +5,4 @@ export const definitions = [
   '"this place is baller!"',
   '"he must have some pretty baller pick-up lines to be reeling in all those ladies"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

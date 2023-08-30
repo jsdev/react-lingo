@@ -1,15 +1,15 @@
-import { MAX_CHALLENGES } from '../constants/settings';
+import { MAX_CHALLENGES } from "../constants/settings";
 import {
   GameStats,
   loadStatsFromLocalStorage,
   saveStatsToLocalStorage,
-} from './localStorage';
+} from "./localStorage";
 
 // In stats array elements 0-5 are successes in 1-6 trys
 
 export const addStatsForCompletedGame = (
   gameStats: GameStats,
-  count: number,
+  count: number
 ) => {
   // Count is number of incorrect guesses before end.
   const stats = { ...gameStats };
@@ -52,6 +52,6 @@ const getSuccessRate = (gameStats: GameStats) => {
   const { totalGames, gamesFailed } = gameStats;
 
   return Math.round(
-    (100 * (totalGames - gamesFailed)) / Math.max(totalGames, 1),
+    (100 * (totalGames - gamesFailed)) / Math.max(totalGames, 1)
   );
 };

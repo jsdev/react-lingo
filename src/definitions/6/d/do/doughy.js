@@ -4,5 +4,4 @@ export const definitions = [
   '"a pasty, doughy, chubby white kid from the suburbs"',
   '"sagging, doughy skin"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

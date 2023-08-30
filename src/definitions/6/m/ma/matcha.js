@@ -3,5 +3,4 @@ export const definitions = [
   '"matcha cookies"',
   '"models were spotted sipping bright green matcha"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

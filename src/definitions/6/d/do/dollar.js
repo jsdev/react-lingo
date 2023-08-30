@@ -3,8 +3,4 @@ export const definitions = [
   '"fewer things cost less than a ______"',
   '"a ______ saved, is a ______ earned"',
 ];
-export const synonyms = [
-  'currency',
-  'monetary',
-  'paper',
-];
+export const synonyms = ["currency", "monetary", "paper"];

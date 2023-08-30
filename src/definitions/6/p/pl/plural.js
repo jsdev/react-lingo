@@ -4,5 +4,4 @@ export const definitions = [
   '"a plural society"',
   '"the verb is in the plural"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

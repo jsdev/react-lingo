@@ -4,12 +4,12 @@ export const definitions = [
   '"dilated pupils"',
 ];
 export const synonyms = [
-  'enlarge',
-  'widen',
-  'expand',
-  'distend',
-  'swell',
-  'become larger',
-  'become wider',
-  'contract',
+  "enlarge",
+  "widen",
+  "expand",
+  "distend",
+  "swell",
+  "become larger",
+  "become wider",
+  "contract",
 ];

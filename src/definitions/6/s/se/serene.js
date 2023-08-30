@@ -5,11 +5,11 @@ export const definitions = [
   '"not a cloud obscured the deep serene"',
 ];
 export const synonyms = [
-  'cloudless',
-  'unclouded',
-  'clear',
-  'bright',
-  'sunny',
-  'cloudy',
-  'stormy',
+  "cloudless",
+  "unclouded",
+  "clear",
+  "bright",
+  "sunny",
+  "cloudy",
+  "stormy",
 ];

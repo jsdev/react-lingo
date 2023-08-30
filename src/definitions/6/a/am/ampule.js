@@ -1,5 +1,2 @@
-export const definitions = [
-  '"an ampoule of epinephrine"',
-];
-export const synonyms = [
-];
+export const definitions = ['"an ampoule of epinephrine"'];
+export const synonyms = [];

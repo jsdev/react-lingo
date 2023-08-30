@@ -8,5 +8,4 @@ export const definitions = [
   '"his fumble was recovered on the 6-yard line"',
   '"we are not talking about subtle errors of judgment, but major fumbles"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

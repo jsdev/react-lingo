@@ -3,13 +3,13 @@ export const definitions = [
   '"the sheeplike goat chimera"',
 ];
 export const synonyms = [
-  'illusion',
-  'fantasy',
-  'delusion',
-  'dream',
-  'fancy',
-  'phantom',
-  'mirage',
-  'ignis fatuus',
-  'figment of the imagination',
+  "illusion",
+  "fantasy",
+  "delusion",
+  "dream",
+  "fancy",
+  "phantom",
+  "mirage",
+  "ignis fatuus",
+  "figment of the imagination",
 ];

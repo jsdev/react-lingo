@@ -3,5 +3,4 @@ export const definitions = [
   '"a mixture of news about the University and articles by alumni"',
   '"a Royal Ballet alumnus"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

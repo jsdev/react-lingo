@@ -4,5 +4,4 @@ export const definitions = [
   '"we\'ll take a bit of a dander and get the fresh air"',
   '"he dandered in to change his coat"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

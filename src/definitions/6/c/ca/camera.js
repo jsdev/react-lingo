@@ -5,7 +5,4 @@ export const definitions = [
   '"a photographer\'s ______ flashed"',
   '"a video ______"',
 ];
-export const synonyms = [
-  'recorder',
-  'records a thousand words',
-];
+export const synonyms = ["recorder", "records a thousand words"];

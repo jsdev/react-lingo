@@ -5,5 +5,4 @@ export const definitions = [
   '"the atomic age required a new way of political thinking"',
   '"atomic weapons"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

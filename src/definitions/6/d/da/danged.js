@@ -3,9 +3,4 @@ export const definitions = [
   '"this is the ______est thing I have ever seen"',
   '"Well... I\'ll be ______!"',
 ];
-export const synonyms = [
-  'darned',
-  'blasted',
-  'confounded',
-  'cursed',
-];
+export const synonyms = ["darned", "blasted", "confounded", "cursed"];

@@ -4,12 +4,12 @@ export const definitions = [
   '"in summer they picnicked on the beach"',
 ];
 export const synonyms = [
-  'barbecue',
-  'garden party',
-  'fête champêtre',
-  'clambake',
-  'cookout',
-  'burgoo',
-  'outdoor meal',
-  'al fresco meal',
+  "barbecue",
+  "garden party",
+  "fête champêtre",
+  "clambake",
+  "cookout",
+  "burgoo",
+  "outdoor meal",
+  "al fresco meal",
 ];

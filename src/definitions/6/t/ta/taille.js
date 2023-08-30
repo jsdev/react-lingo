@@ -1,8 +1,2 @@
-export const definitions = [
-];
-export const synonyms = [
-  'liquid',
-  'fluid',
-  'sap',
-  'extract',
-];
+export const definitions = [];
+export const synonyms = ["liquid", "fluid", "sap", "extract"];

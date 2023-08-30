@@ -4,6 +4,4 @@ export const definitions = [
   '"she was coolly detached"',
   '"she was coolly dressed down in cut-off jean shorts"',
 ];
-export const synonyms = [
-  'breezily',
-];
+export const synonyms = ["breezily"];

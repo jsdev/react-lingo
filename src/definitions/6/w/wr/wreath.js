@@ -4,5 +4,4 @@ export const definitions = [
   '"a gold wreath"',
   '"wreaths of mist swirled up into the cold air"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

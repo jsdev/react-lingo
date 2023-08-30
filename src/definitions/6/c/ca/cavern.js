@@ -3,12 +3,12 @@ export const definitions = [
   '"rouses me from the cavern of sleep"',
 ];
 export const synonyms = [
-  'grotto',
-  'hollow',
-  'cavity',
-  'gallery',
-  'tunnel',
-  'dugout',
-  'large cave',
-  'underground chamber',
+  "grotto",
+  "hollow",
+  "cavity",
+  "gallery",
+  "tunnel",
+  "dugout",
+  "large cave",
+  "underground chamber",
 ];

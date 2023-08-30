@@ -5,5 +5,4 @@ export const definitions = [
   '"download speeds of 200 to 300 kilobits per second"',
   '"digital music downloads"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

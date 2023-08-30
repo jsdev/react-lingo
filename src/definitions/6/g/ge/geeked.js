@@ -3,5 +3,4 @@ export const definitions = [
   '"keep it simple or geek out and create multiple playlists on the move"',
   '"I am totally geeking out over this upcoming film"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

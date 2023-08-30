@@ -1,11 +1,9 @@
-export const definitions = [
-  '"anvil clouds"',
-];
+export const definitions = ['"anvil clouds"'];
 export const synonyms = [
-  'mold',
-  'model',
-  'pattern',
-  'form',
-  'matrix',
-  'hobbing foot/boot',
+  "mold",
+  "model",
+  "pattern",
+  "form",
+  "matrix",
+  "hobbing foot/boot",
 ];

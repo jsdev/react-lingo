@@ -6,5 +6,4 @@ export const definitions = [
   '"people who have built up a significant amount of equity in their homes"',
   '"an Equity card"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

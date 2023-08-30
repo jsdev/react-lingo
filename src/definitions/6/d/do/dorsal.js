@@ -3,13 +3,13 @@ export const definitions = [
   '"the dorsal aorta"',
 ];
 export const synonyms = [
-  'rear',
-  'hind',
-  'back',
-  'hinder',
-  'rearward',
-  'caudal',
-  'posticous',
-  'anterior',
-  'front',
+  "rear",
+  "hind",
+  "back",
+  "hinder",
+  "rearward",
+  "caudal",
+  "posticous",
+  "anterior",
+  "front",
 ];

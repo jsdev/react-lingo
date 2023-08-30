@@ -4,5 +4,4 @@ export const definitions = [
   '"the Swede pegged him back to deuce from 40-love"',
   '"a marathon game that went to eleven deuces"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

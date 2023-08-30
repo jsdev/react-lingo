@@ -1,10 +1,10 @@
-import classnames from 'classnames';
+import classnames from "classnames";
 
 type Props = {
-  settingName: string
-  flag: boolean
-  handleFlag: (bool: boolean) => void
-  description?: string
+  settingName: string;
+  flag: boolean;
+  handleFlag: (bool: boolean) => void;
+  description?: string;
 };
 
 export const SettingsToggle = ({
@@ -14,21 +14,21 @@ export const SettingsToggle = ({
   description,
 }: Props) => {
   const toggleHolder = classnames(
-    'w-14 h-8 flex shrink-0 items-center bg-gray-300 rounded-full p-1 duration-300 ease-in-out',
+    "w-14 h-8 flex shrink-0 items-center bg-gray-300 rounded-full p-1 duration-300 ease-in-out",
     {
-      'bg-green-400': flag,
-    },
+      "bg-green-400": flag,
+    }
   );
 
   const toggleButton = classnames(
-    'bg-white w-6 h-6 rounded-full shadow-md transform duration-300 ease-in-out',
+    "bg-white w-6 h-6 rounded-full shadow-md transform duration-300 ease-in-out",
     {
-      'translate-x-6': flag,
-    },
+      "translate-x-6": flag,
+    }
   );
 
   const camelCase = (str: string): string =>
-    str.replace(/ (.)/g, (match) => match.toUpperCase()).replace(/ /g, '');
+    str.replace(/ (.)/g, (match) => match.toUpperCase()).replace(/ /g, "");
 
   return (
     <>

@@ -3,5 +3,4 @@ export const definitions = [
   '"mustard sauce"',
   '"a mustard sweater"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

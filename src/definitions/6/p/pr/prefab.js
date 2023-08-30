@@ -3,5 +3,4 @@ export const definitions = [
   '"prefab housing is a decidedly utilitarian concept"',
   '"many students attend lectures in old prefabs"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

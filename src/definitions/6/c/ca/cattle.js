@@ -9,13 +9,13 @@ export const definitions = [
   '"a drove of ______"',
 ];
 export const synonyms = [
-  'cows',
-  'bovines',
-  'oxen',
-  'bulls',
-  'stock',
-  'livestock',
-  'utterly',
-  'bullish',
-  'kine',
+  "cows",
+  "bovines",
+  "oxen",
+  "bulls",
+  "stock",
+  "livestock",
+  "utterly",
+  "bullish",
+  "kine",
 ];

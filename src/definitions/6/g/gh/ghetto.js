@@ -7,11 +7,11 @@ export const definitions = [
   '"the construction is straight ghetto: uninsulated plywood and strange patchwork solutions to elementary problems"',
 ];
 export const synonyms = [
-  'community',
-  'association',
-  'commune',
-  'settlement',
-  'quarter',
-  'district',
-  'section',
+  "community",
+  "association",
+  "commune",
+  "settlement",
+  "quarter",
+  "district",
+  "section",
 ];

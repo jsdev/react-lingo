@@ -1,5 +1,2 @@
-export const definitions = [
-  '"he strikes me as a decent geezer"',
-];
-export const synonyms = [
-];
+export const definitions = ['"he strikes me as a decent geezer"'];
+export const synonyms = [];

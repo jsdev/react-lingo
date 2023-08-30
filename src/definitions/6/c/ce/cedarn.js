@@ -1,5 +1,2 @@
-export const definitions = [
-  '"a cedarn chest"',
-];
-export const synonyms = [
-];
+export const definitions = ['"a cedarn chest"'];
+export const synonyms = [];

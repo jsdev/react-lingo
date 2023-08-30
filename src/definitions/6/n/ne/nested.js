@@ -7,5 +7,4 @@ export const definitions = [
   '"do not disturb nesting birds"',
   '"solid wood nesting tables"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

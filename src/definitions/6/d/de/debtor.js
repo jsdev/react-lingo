@@ -3,11 +3,11 @@ export const definitions = [
   '"debtor countries"',
 ];
 export const synonyms = [
-  'borrower',
-  'mortgagor',
-  'bankrupt',
-  'insolvent',
-  'defaulter',
-  'bankrupt person',
-  'creditor',
+  "borrower",
+  "mortgagor",
+  "bankrupt",
+  "insolvent",
+  "defaulter",
+  "bankrupt person",
+  "creditor",
 ];

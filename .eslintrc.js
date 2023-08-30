@@ -1,32 +1,37 @@
 module.exports = {
-    extends: [
+    "env": {
+        "browser": true,
+        "es2021": true,
+        jest: true,
+    },
+    "extends": [
         'airbnb-typescript',
         'airbnb/hooks',
         'plugin:@typescript-eslint/recommended',
         'plugin:jest/recommended',
-        // 'plugin:prettier/recommended',
-        'plugin:jsx-a11y/recommended'
+        'plugin:prettier/recommended'
     ],
-    plugins: ['react', '@typescript-eslint', 'jest'],
-    env: {
-        browser: true,
-        es6: true,
-        jest: true,
-    },
-    globals: {
-        Atomics: 'readonly',
-        SharedArrayBuffer: 'readonly',
-    },
-    parser: '@typescript-eslint/parser',
-    parserOptions: {
-        ecmaFeatures: {
-            jsx: true,
-            tsx: true,
-        },
-        ecmaVersion: 2018,
-        sourceType: 'module',
+    "overrides": [
+        {
+            "env": {
+                "node": true
+            },
+            "files": [
+                ".eslintrc.{js,cjs}"
+            ],
+            "parserOptions": {
+                "sourceType": "script"
+            }
+        }
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module",
         project: './tsconfig.json',
     },
+    "plugins": [
+        "react"
+    ],
     rules: {
         'linebreak-style': 'off',
         'import/extensions': 'off',
@@ -41,11 +46,11 @@ module.exports = {
         // '@typescript-eslint/ban-types': 'off',
         'react-hooks/exhaustive-deps': 'off',
 
-        // 'prettier/prettier': [
-        //     'error',
-        //     {
-        //         endOfLine: 'auto',
-        //     },
-        // ],
+        'prettier/prettier': [
+            'error',
+            {
+                endOfLine: 'auto',
+            },
+        ],
     },
 };

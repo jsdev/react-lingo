@@ -5,11 +5,11 @@ export const definitions = [
   '"psychometrics"',
 ];
 export const synonyms = [
-  'maniac',
-  'lunatic',
-  'psychotic',
-  'sociopath',
-  'madman/madwoman',
-  'mad person',
-  'deranged person',
+  "maniac",
+  "lunatic",
+  "psychotic",
+  "sociopath",
+  "madman/madwoman",
+  "mad person",
+  "deranged person",
 ];

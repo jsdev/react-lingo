@@ -1,5 +1,2 @@
-export const definitions = [
-  '"a data logger"',
-];
-export const synonyms = [
-];
+export const definitions = ['"a data logger"'];
+export const synonyms = [];

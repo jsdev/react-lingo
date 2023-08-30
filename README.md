@@ -56,7 +56,7 @@ Note that guesses are validated against both the length of the solution, and pre
 
 - In [.env](.env):
   - Update the title and the description
-  - Set the `REACT_APP_LOCALE_STRING` to your locale
+  - Set the `VITE_LOCALE_STRING` to your locale
 - In [public/index.html](public/index.html):
   - Update the "You need to enable JavaScript" message
   - Update the language attribute in the HTML tag
@@ -87,14 +87,14 @@ This repository includes support for Google Analytics or [Plausible Analytics](h
 To enable Google Analytics:
 
 - Create a Google Analytics 4 property and obtain the measurement ID (of the format `G-XXXXXXXXXX`)
-- In [.env](.env), add `REACT_APP_GOOGLE_MEASUREMENT_ID=G-XXXXXXXXXX`
+- In [.env](.env), add `VITE_GOOGLE_MEASUREMENT_ID=G-XXXXXXXXXX`
 
 Keep in mind that your region might have legislation about obtaining a user's consent before enabling trackers. This is up to downstream repos to implement.
 
 To enable Plausible Analytics:
 
 - Create a new website with Plausible Analytics with a given domain, e.g. `example.app`
-- In [.env](.env), add `REACT_APP_PLAUSIBLE_DOMAIN=example.app`
+- In [.env](.env), add `VITE_PLAUSIBLE_DOMAIN=example.app`
 
 ### Why does sharing of results not work?
 

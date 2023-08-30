@@ -3,10 +3,10 @@ export const definitions = [
   '"a nice balance between the colloquial, which might have led to bathos, and an over-polished style"',
 ];
 export const synonyms = [
-  'anticlimax',
-  'letdown',
-  'disappointment',
-  'disillusionment',
-  'mawkishness',
-  'sentimentality',
+  "anticlimax",
+  "letdown",
+  "disappointment",
+  "disillusionment",
+  "mawkishness",
+  "sentimentality",
 ];

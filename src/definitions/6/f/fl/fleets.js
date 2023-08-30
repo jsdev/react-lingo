@@ -8,12 +8,12 @@ export const definitions = [
   '"the cares of boyhood fleet away"',
 ];
 export const synonyms = [
-  'navy',
-  'armada',
-  'flotilla',
-  'squadron',
-  'convoy',
-  'column',
-  'naval force',
-  '(naval) task force',
+  "navy",
+  "armada",
+  "flotilla",
+  "squadron",
+  "convoy",
+  "column",
+  "naval force",
+  "(naval) task force",
 ];

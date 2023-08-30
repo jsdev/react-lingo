@@ -5,10 +5,4 @@ export const definitions = [
   '"the most lofted club in her bag was a 7-iron"',
   '"he lofted the ball over the infield"',
 ];
-export const synonyms = [
-  'kick',
-  'hit',
-  'throw',
-  'head',
-  'lob',
-];
+export const synonyms = ["kick", "hit", "throw", "head", "lob"];

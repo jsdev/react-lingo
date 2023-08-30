@@ -3,12 +3,12 @@ export const definitions = [
   '"it\'s good material—it should dye well"',
 ];
 export const synonyms = [
-  'color',
-  'tint',
-  'pigment',
-  'stain',
-  'wash',
-  'color-wash',
-  'tinge',
-  'shade',
+  "color",
+  "tint",
+  "pigment",
+  "stain",
+  "wash",
+  "color-wash",
+  "tinge",
+  "shade",
 ];

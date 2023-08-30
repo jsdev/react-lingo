@@ -1,14 +1,13 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'cloak',
-  'wrap',
-  'mantle',
-  'cape',
-  'kaftan',
-  'wrapper',
-  'djellaba',
-  'dolman',
-  'dishdasha',
-  'kanzu',
+  "cloak",
+  "wrap",
+  "mantle",
+  "cape",
+  "kaftan",
+  "wrapper",
+  "djellaba",
+  "dolman",
+  "dishdasha",
+  "kanzu",
 ];

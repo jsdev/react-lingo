@@ -1,10 +1,10 @@
-import { CharStatus } from '../../lib/enums/status';
-import { Cell } from '../grid/Cell';
-import { BaseModal } from './BaseModal';
+import { CharStatus } from "../../lib/enums/status";
+import { Cell } from "../grid/Cell";
+import { BaseModal } from "./BaseModal";
 
 type Props = {
-  isOpen: boolean
-  handleClose: () => void
+  isOpen: boolean;
+  handleClose: () => void;
 };
 
 export const InfoModal = ({ isOpen, handleClose }: Props) => {
@@ -55,12 +55,42 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <div className="mb-1 mt-4 flex justify-center">
-        <Cell value="O" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
-        <Cell value="R" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
-        <Cell value="A" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
-        <Cell value="N" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
-        <Cell isRevealing={true} isCompleted={true} value="G" status={CharStatus.Absent} />
-        <Cell value="E" isRevealing={true} isCompleted={true} status={CharStatus.Absent} />
+        <Cell
+          value="O"
+          isRevealing={true}
+          isCompleted={true}
+          status={CharStatus.Absent}
+        />
+        <Cell
+          value="R"
+          isRevealing={true}
+          isCompleted={true}
+          status={CharStatus.Absent}
+        />
+        <Cell
+          value="A"
+          isRevealing={true}
+          isCompleted={true}
+          status={CharStatus.Absent}
+        />
+        <Cell
+          value="N"
+          isRevealing={true}
+          isCompleted={true}
+          status={CharStatus.Absent}
+        />
+        <Cell
+          isRevealing={true}
+          isCompleted={true}
+          value="G"
+          status={CharStatus.Absent}
+        />
+        <Cell
+          value="E"
+          isRevealing={true}
+          isCompleted={true}
+          status={CharStatus.Absent}
+        />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         None of these letters appear in the word.

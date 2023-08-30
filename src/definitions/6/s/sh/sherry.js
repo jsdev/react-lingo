@@ -3,5 +3,4 @@ export const definitions = [
   '"a sherry glass"',
   '"please pour me a sherry"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

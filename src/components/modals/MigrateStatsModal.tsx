@@ -1,18 +1,17 @@
-import { useState } from 'react';
-
-import { GameStats, StoredGameState } from '../../lib/localStorage';
-import { EmigratePanel } from '../stats/EmigratePanel';
-import { ImmigratePanel } from '../stats/ImmigratePanel';
-import { BaseModal } from './BaseModal';
+import { GameStats, StoredGameState } from "../../lib/localStorage";
+import { EmigratePanel } from "../stats/EmigratePanel";
+import { ImmigratePanel } from "../stats/ImmigratePanel";
+import { BaseModal } from "./BaseModal";
+import { useState } from "react";
 
 type Props = {
-  isOpen: boolean
-  handleClose: () => void
+  isOpen: boolean;
+  handleClose: () => void;
 };
 
 export type MigrationStats = {
-  statistics: GameStats
-  gameState: StoredGameState | null
+  statistics: GameStats;
+  gameState: StoredGameState | null;
 };
 
 export const MigrateStatsModal = ({ isOpen, handleClose }: Props) => {

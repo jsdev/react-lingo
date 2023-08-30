@@ -1,5 +1,2 @@
-export const definitions = [
-  '"Señora Dolores"',
-];
-export const synonyms = [
-];
+export const definitions = ['"Señora Dolores"'];
+export const synonyms = [];

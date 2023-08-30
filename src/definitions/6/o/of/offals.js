@@ -6,12 +6,12 @@ export const definitions = [
   '"gulls pecking at piles of offal from the narwhal hunt"',
 ];
 export const synonyms = [
-  'intestines',
-  'bowels',
-  'guts',
-  'viscera',
-  'chitterlings',
-  'numbles',
-  'internal organs',
-  'vital organs',
+  "intestines",
+  "bowels",
+  "guts",
+  "viscera",
+  "chitterlings",
+  "numbles",
+  "internal organs",
+  "vital organs",
 ];

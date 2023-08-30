@@ -5,10 +5,10 @@ export const definitions = [
   '"there\'s a powerful sports car engine under the bonnet"',
 ];
 export const synonyms = [
-  'tip',
-  'nose cone',
-  'bow',
-  'prow',
-  'front end',
-  'hood',
+  "tip",
+  "nose cone",
+  "bow",
+  "prow",
+  "front end",
+  "hood",
 ];

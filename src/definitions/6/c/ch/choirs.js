@@ -4,8 +4,4 @@ export const definitions = [
   '"it has tall, twin western towers and spires and a long nave and choir"',
   '"a clarinet choir"',
 ];
-export const synonyms = [
-  'singers',
-  'chorus',
-  'chorale',
-];
+export const synonyms = ["singers", "chorus", "chorale"];

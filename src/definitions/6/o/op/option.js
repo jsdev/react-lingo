@@ -7,12 +7,12 @@ export const definitions = [
   '"his second script will have been optioned by the time you read this"',
 ];
 export const synonyms = [
-  'choice',
-  'alternative',
-  'recourse',
-  'possibility',
-  'course of action',
-  'freedom of choice',
-  'power to choose',
-  'right to choose',
+  "choice",
+  "alternative",
+  "recourse",
+  "possibility",
+  "course of action",
+  "freedom of choice",
+  "power to choose",
+  "right to choose",
 ];

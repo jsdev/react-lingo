@@ -1,17 +1,17 @@
-const gameStateKey = 'gameState';
-const archiveGameStateKey = 'archiveGameState';
-const highContrastKey = 'highContrast';
-const complexityKey = 'complexity';
-const keyboardKey = 'keyboard';
+const gameStateKey = "gameState";
+const archiveGameStateKey = "archiveGameState";
+const highContrastKey = "highContrast";
+const complexityKey = "complexity";
+const keyboardKey = "keyboard";
 
 export type StoredGameState = {
-  guesses: string[]
-  solution: string
+  guesses: string[];
+  solution: string;
 };
 
 export const saveGameStateToLocalStorage = (
   isLatestGame: boolean,
-  gameState: StoredGameState,
+  gameState: StoredGameState
 ) => {
   const key = isLatestGame ? gameStateKey : archiveGameStateKey;
   localStorage.setItem(key, JSON.stringify(gameState));
@@ -23,15 +23,15 @@ export const loadGameStateFromLocalStorage = (isLatestGame: boolean) => {
   return state ? (JSON.parse(state) as StoredGameState) : null;
 };
 
-const gameStatKey = 'gameStats';
+const gameStatKey = "gameStats";
 
 export type GameStats = {
-  winDistribution: number[]
-  gamesFailed: number
-  currentStreak: number
-  bestStreak: number
-  totalGames: number
-  successRate: number
+  winDistribution: number[];
+  gamesFailed: number;
+  currentStreak: number;
+  bestStreak: number;
+  totalGames: number;
+  successRate: number;
 };
 
 export const saveStatsToLocalStorage = (gameStats: GameStats) => {
@@ -45,7 +45,7 @@ export const loadStatsFromLocalStorage = () => {
 
 export const setStoredIsHighContrastMode = (bool: boolean) => {
   if (bool) {
-    localStorage.setItem(highContrastKey, '1');
+    localStorage.setItem(highContrastKey, "1");
   } else {
     localStorage.removeItem(highContrastKey);
   }
@@ -53,7 +53,7 @@ export const setStoredIsHighContrastMode = (bool: boolean) => {
 
 export const getStoredIsHighContrastMode = () => {
   const highContrast = localStorage.getItem(highContrastKey);
-  return highContrast === '1';
+  return highContrast === "1";
 };
 
 export const setStoredComplexityMode = (complexity: string) => {

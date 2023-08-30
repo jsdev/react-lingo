@@ -3,11 +3,11 @@ export const definitions = [
   '"an albino tiger"',
 ];
 export const synonyms = [
-  'snowy',
-  'gray',
-  'silver',
-  'silvery',
-  'hoary',
-  'grizzled',
-  'snowy white',
+  "snowy",
+  "gray",
+  "silver",
+  "silvery",
+  "hoary",
+  "grizzled",
+  "snowy white",
 ];

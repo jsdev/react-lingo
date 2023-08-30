@@ -6,5 +6,4 @@ export const definitions = [
   '"he was over eighty at the time"',
   '"roaring down the highway doing eighty"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

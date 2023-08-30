@@ -5,5 +5,4 @@ export const definitions = [
   '"the Circus Maximus"',
   '"Piccadilly Circus"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

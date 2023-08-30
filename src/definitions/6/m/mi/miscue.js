@@ -5,5 +5,4 @@ export const definitions = [
   '"he won the fourth frame on the pink when O\'Sullivan miscued"',
   '"miscue analysis is a way of listening to children read aloud for diagnostic purposes"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

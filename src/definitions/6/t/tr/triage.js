@@ -4,5 +4,4 @@ export const definitions = [
   '"a system of educational triage that allows a few students to get help while the needs of others are neglected"',
   '"victims were triaged by paramedics before being transported to hospitals"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

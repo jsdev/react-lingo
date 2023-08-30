@@ -4,5 +4,4 @@ export const definitions = [
   '"Okay, once a juicer, always a juicer"',
   '"some deadbeat juicer"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

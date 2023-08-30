@@ -7,12 +7,12 @@ export const definitions = [
   '"the kids head straight for the midway"',
 ];
 export const synonyms = [
-  'halfway',
-  'equidistant',
-  'betwixt and between',
-  'part way',
-  'in the middle',
-  'at the mid point',
-  'in the center',
-  'at some point',
+  "halfway",
+  "equidistant",
+  "betwixt and between",
+  "part way",
+  "in the middle",
+  "at the mid point",
+  "in the center",
+  "at some point",
 ];

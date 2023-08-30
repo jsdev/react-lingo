@@ -3,6 +3,4 @@ export const definitions = [
   '"a bowl of cereal"',
   '"a cereal box"',
 ];
-export const synonyms = [
-  'cereal crops',
-];
+export const synonyms = ["cereal crops"];

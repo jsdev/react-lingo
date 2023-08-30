@@ -4,7 +4,7 @@ export const definitions = [
   '"he eagled the last to share fourth place"',
 ];
 export const synonyms = [
-  'big birds',
-  'feathery mascot',
-  'symbols for US patriotism',
+  "big birds",
+  "feathery mascot",
+  "symbols for US patriotism",
 ];

@@ -6,5 +6,4 @@ export const definitions = [
   '"towns and cities must have the latitude to zone real property in the best interest of all"',
   '"the land is zoned for housing"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

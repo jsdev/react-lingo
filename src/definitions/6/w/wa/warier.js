@@ -3,9 +3,9 @@ export const definitions = [
   '"when you return to downward dog after the first round, add warrior poses I and II"',
 ];
 export const synonyms = [
-  'fighter',
-  'soldier',
-  'serviceman',
-  'combatant',
-  'fighting man',
+  "fighter",
+  "soldier",
+  "serviceman",
+  "combatant",
+  "fighting man",
 ];

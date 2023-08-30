@@ -1,5 +1,2 @@
-export const definitions = [
-  '"the aortic valve"',
-];
-export const synonyms = [
-];
+export const definitions = ['"the aortic valve"'];
+export const synonyms = [];

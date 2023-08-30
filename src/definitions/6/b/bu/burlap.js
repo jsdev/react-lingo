@@ -4,13 +4,13 @@ export const definitions = [
   '"fabrics ranging from hessians to burlaps"',
 ];
 export const synonyms = [
-  'hessian',
-  'sacking',
-  'hopsack',
-  'gunny',
-  'hopsacking',
-  'tāt',
-  'poldavy',
-  'stramin',
-  'sugarsack',
+  "hessian",
+  "sacking",
+  "hopsack",
+  "gunny",
+  "hopsacking",
+  "tāt",
+  "poldavy",
+  "stramin",
+  "sugarsack",
 ];

@@ -3,5 +3,4 @@ export const definitions = [
   '"you were just pipped for the prize"',
   '"he pipped one of our fellows through the head yesterday"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -7,5 +7,4 @@ export const definitions = [
   '"kids related to him because he was so anti-establishment"',
   '"various versions of the chilling story have been related by the locals"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

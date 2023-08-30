@@ -3,5 +3,4 @@ export const definitions = [
   '"sabbath candles"',
   '"sabbath law"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

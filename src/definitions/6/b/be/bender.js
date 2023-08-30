@@ -3,11 +3,11 @@ export const definitions = [
   '"he went off on a self-destructive bender"',
 ];
 export const synonyms = [
-  'debauch',
-  'bacchanal',
-  'bacchanalia',
-  'wassail',
-  'fuddle',
-  'potation',
-  'drinking bout',
+  "debauch",
+  "bacchanal",
+  "bacchanalia",
+  "wassail",
+  "fuddle",
+  "potation",
+  "drinking bout",
 ];

@@ -19,7 +19,7 @@ html.dark {
 
 @media (max-width: 480px) {
   .full-screen-dialog {
-    padding: 0
+    padding: 0;
   }
 
   .full-screen-dialog-content {

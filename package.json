@@ -4,13 +4,13 @@
   "private": true,
   "homepage": "https://jsdev.github.io/react-lingo",
   "scripts": {
-    "build": "react-scripts build",
-    "eject": "react-scripts eject",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview",
     "fix": "prettier --write src",
     "lint": "prettier --check src",
     "eslint:fix": "eslint --fix src",
     "eslint": "eslint src",
-    "start": "react-scripts start",
     "test": "react-scripts test",
     "prepare": "husky install",
     "predeploy": "npm run build",
@@ -38,7 +38,6 @@
     "react-datepicker": "latest",
     "react-div-100vh": "latest",
     "react-dom": "latest",
-    "react-scripts": "^5.0.1",
     "react-tailwindcss-select": "latest",
     "request": "latest",
     "typescript": "latest",
@@ -64,6 +63,7 @@
     "@types/react-datepicker": "latest",
     "@typescript-eslint/eslint-plugin": "latest",
     "@typescript-eslint/parser": "latest",
+    "@vitejs/plugin-react": "^4.0.4",
     "autoprefixer": "latest",
     "cheerio": "latest",
     "eslint": "^7.1.0",
@@ -82,7 +82,10 @@
     "postcss": "latest",
     "prettier": "latest",
     "prettier-plugin-tailwindcss": "latest",
-    "tailwindcss": "latest"
+    "tailwindcss": "latest",
+    "vite": "^4.4.9",
+    "vite-plugin-svgr": "^3.2.0",
+    "vite-tsconfig-paths": "^4.2.0"
   },
   "lint-staged": {
     "src/*.{ts,tsx,js,jsx,css,md}": "prettier --write"

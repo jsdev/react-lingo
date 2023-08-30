@@ -8,9 +8,4 @@ export const definitions = [
   '"my father helped puddle the iron that has braced this city\'s rising towers"',
   '"open - hearth steelmaking eventually eliminated puddling altogether"',
 ];
-export const synonyms = [
-  'pool',
-  'spill',
-  'splash',
-  'plash',
-];
+export const synonyms = ["pool", "spill", "splash", "plash"];

@@ -3,12 +3,12 @@ export const definitions = [
   '"technology can be the downfall of cheating spouses"',
 ];
 export const synonyms = [
-  'husband',
-  'wife',
-  'partner',
-  'mate',
-  'consort',
-  'lady',
-  'helpmate',
-  'helpmeet',
+  "husband",
+  "wife",
+  "partner",
+  "mate",
+  "consort",
+  "lady",
+  "helpmate",
+  "helpmeet",
 ];

@@ -1,19 +1,18 @@
-import { BookmarkSquareIcon } from '@heroicons/react/24/outline';
-import { useState } from 'react';
-
-import { decrypt } from '../../lib/encryption';
+import { decrypt } from "../../lib/encryption";
 import {
   saveGameStateToLocalStorage,
   saveStatsToLocalStorage,
-} from '../../lib/localStorage';
-import { MigrationStats } from '../modals/MigrateStatsModal';
+} from "../../lib/localStorage";
+import { MigrationStats } from "../modals/MigrateStatsModal";
+import { BookmarkSquareIcon } from "@heroicons/react/24/outline";
+import { useState } from "react";
 
 export const ImmigratePanel = () => {
   const [isSaveButtonEnabled, setIsSaveButtonEnabled] = useState(false);
 
   const textareaClassNames = {
-    valid: ['bg-gray-100', 'dark:bg-gray-700'],
-    invalid: ['bg-red-400', 'dark:bg-red-900'],
+    valid: ["bg-gray-100", "dark:bg-gray-700"],
+    invalid: ["bg-red-400", "dark:bg-red-900"],
   };
   const allClassNames = [
     ...textareaClassNames.valid,
@@ -31,12 +30,16 @@ export const ImmigratePanel = () => {
       const text = textarea.value;
 
       try {
-        const migrationStats = JSON.parse(decrypt(text) ?? '') as MigrationStats;
+        const migrationStats = JSON.parse(
+          decrypt(text) ?? ""
+        ) as MigrationStats;
         if (
           !migrationStats ||
           (!migrationStats.gameState && !migrationStats.statistics)
         ) {
-          textareaClassNames.invalid.forEach((cn) => textarea.classList.add(cn));
+          textareaClassNames.invalid.forEach((cn) =>
+            textarea.classList.add(cn)
+          );
           return;
         }
 
@@ -50,16 +53,16 @@ export const ImmigratePanel = () => {
 
   const handleSaveButton = () => {
     const textarea = document.getElementById(
-      'immigration-code',
+      "immigration-code"
     ) as HTMLInputElement;
     if (
       textarea &&
       window.confirm(
-        'Are you sure you want to override the statistics on this device? This action is not reversable.',
+        "Are you sure you want to override the statistics on this device? This action is not reversable."
       )
     ) {
       const migrationStats = JSON.parse(
-        decrypt(textarea.value) ?? '',
+        decrypt(textarea.value) ?? ""
       ) as MigrationStats;
       if (!migrationStats) return;
 
@@ -71,7 +74,7 @@ export const ImmigratePanel = () => {
         saveStatsToLocalStorage(migrationStats.statistics);
       }
 
-      alert('The site will now reload.');
+      alert("The site will now reload.");
 
       window.location.reload();
     }

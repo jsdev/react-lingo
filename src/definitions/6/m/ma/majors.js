@@ -5,9 +5,4 @@ export const definitions = [
   '"South was anxious to mention his four-card major and bid one spade"',
   '"I was trying to decide if I should major in drama or English"',
 ];
-export const synonyms = [
-  'study',
-  'do',
-  'take',
-  'major in',
-];
+export const synonyms = ["study", "do", "take", "major in"];

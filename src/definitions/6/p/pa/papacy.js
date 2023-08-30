@@ -3,5 +3,4 @@ export const definitions = [
   '"a papacy in decline"',
   '"during the papacy of Pope John"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

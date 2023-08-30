@@ -4,13 +4,13 @@ export const definitions = [
   '"two Hurricanes were vectored towards the Stukas"',
 ];
 export const synonyms = [
-  'value',
-  'index',
-  'indicator',
-  'measure',
-  'norm',
-  'order',
-  'quantity',
-  'number',
-  'figure',
+  "value",
+  "index",
+  "indicator",
+  "measure",
+  "norm",
+  "order",
+  "quantity",
+  "number",
+  "figure",
 ];

@@ -10,5 +10,4 @@ export const definitions = [
   '"the town\'s new high - tech power plant is expected to go online this month"',
   '"the company has additional production capacity coming online later this year"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

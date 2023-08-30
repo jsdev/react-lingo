@@ -10,5 +10,4 @@ export const definitions = [
   '"his strong features formed into a smile of pleasure"',
   '"the role of the news media in forming public opinion"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

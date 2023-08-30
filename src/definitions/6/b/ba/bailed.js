@@ -6,5 +6,4 @@ export const definitions = [
   '"I couldn\'t handle the crowds, so I bailed"',
   '"he looks a little like the other guy that bailed on me"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

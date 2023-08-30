@@ -4,5 +4,4 @@ export const definitions = [
   '"theory-basher"',
   '"animal rights bashers"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

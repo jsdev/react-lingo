@@ -4,10 +4,4 @@ export const definitions = [
   '"the verdict does not jibe with the medical evidence"',
   '"some cynics in the media might gibe"',
 ];
-export const synonyms = [
-  'jeer',
-  'taunt',
-  'mock',
-  'scoff',
-  'sneer',
-];
+export const synonyms = ["jeer", "taunt", "mock", "scoff", "sneer"];

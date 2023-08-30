@@ -1,18 +1,18 @@
-import { GameStats } from '../../lib/localStorage';
-import { Progress } from './Progress';
+import { GameStats } from "../../lib/localStorage";
+import { Progress } from "./Progress";
 
 type Props = {
-  gameStats: GameStats
-  isLatestGame: boolean
-  isGameWon: boolean
-  numberOfGuessesMade: number
+  gameStats: GameStats;
+  isLatestGame: boolean;
+  isGameWon: boolean;
+  numberOfGuessesMade: number;
 };
 
 const isCurrentDayStatRow = (
   isLatestGame: boolean,
   isGameWon: boolean,
   numberOfGuessesMade: number,
-  i: number,
+  i: number
 ) => {
   return isLatestGame && isGameWon && numberOfGuessesMade === i + 1;
 };
@@ -36,7 +36,7 @@ export const Histogram = ({
             isLatestGame,
             isGameWon,
             numberOfGuessesMade,
-            i,
+            i
           )}
           size={90 * (value / maxValue)}
           label={String(value)}

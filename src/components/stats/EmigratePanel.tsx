@@ -1,15 +1,14 @@
-import { DocumentDuplicateIcon } from '@heroicons/react/24/outline';
-import { useState } from 'react';
-
-import { copyTextToClipboard } from '../../lib/clipboard';
-import { encrypt } from '../../lib/encryption';
-import { loadGameStateFromLocalStorage } from '../../lib/localStorage';
-import { loadStats } from '../../lib/stats';
-import { MigrationStats } from '../modals/MigrateStatsModal';
+import { copyTextToClipboard } from "../../lib/clipboard";
+import { encrypt } from "../../lib/encryption";
+import { loadGameStateFromLocalStorage } from "../../lib/localStorage";
+import { loadStats } from "../../lib/stats";
+import { MigrationStats } from "../modals/MigrateStatsModal";
+import { DocumentDuplicateIcon } from "@heroicons/react/24/outline";
+import { useState } from "react";
 
 export const EmigratePanel = () => {
   const [isCopyButtonEnabled, setIsCopyButtonEnabled] = useState(true);
-  const [copyButtonText, setCopyButtonText] = useState('Copy');
+  const [copyButtonText, setCopyButtonText] = useState("Copy");
   const stats = loadStats();
   const gameState = loadGameStateFromLocalStorage(true);
 
@@ -22,7 +21,7 @@ export const EmigratePanel = () => {
 
   const copyEmigrationCodeToClipboard = () => {
     copyTextToClipboard(emigrationCode);
-    setCopyButtonText('Copied!');
+    setCopyButtonText("Copied!");
     setIsCopyButtonEnabled(false);
   };
 

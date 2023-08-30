@@ -1,13 +1,12 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'fiber',
-  'thread',
-  'strand',
-  'tendril',
-  'string',
-  'wire',
-  'cable',
-  'cord',
-  'fibril',
+  "fiber",
+  "thread",
+  "strand",
+  "tendril",
+  "string",
+  "wire",
+  "cable",
+  "cord",
+  "fibril",
 ];

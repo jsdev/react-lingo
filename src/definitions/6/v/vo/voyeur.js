@@ -3,5 +3,4 @@ export const definitions = [
   '"a voyeur of death"',
   '"murder trials make us voyeurs"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

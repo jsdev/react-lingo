@@ -3,5 +3,4 @@ export const definitions = [
   '"I\'ve been exposed to every cootie out there"',
   '"he would run around the playground and chase me around and I thought he had cooties"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

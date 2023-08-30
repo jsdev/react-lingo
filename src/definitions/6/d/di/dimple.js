@@ -4,13 +4,13 @@ export const definitions = [
   '"the water ruffled and dimpled"',
 ];
 export const synonyms = [
-  'indentation',
-  'concavity',
-  'depression',
-  'hollow',
-  'cleft',
-  'dent',
-  'dint',
-  'dip',
-  'pit',
+  "indentation",
+  "concavity",
+  "depression",
+  "hollow",
+  "cleft",
+  "dent",
+  "dint",
+  "dip",
+  "pit",
 ];

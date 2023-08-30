@@ -3,5 +3,4 @@ export const definitions = [
   '"the thought of the danger his son was in put something of a downer on the situation"',
   '"the Red Sox enter the season on a downer"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

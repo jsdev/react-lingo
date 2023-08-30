@@ -6,10 +6,10 @@ export const definitions = [
   '"the warrior swore he would be avenged on their prince"',
 ];
 export const synonyms = [
-  'requite',
-  'take revenge for',
-  'take vengeance for',
-  'exact retribution for',
-  'pay someone back for',
-  'get even with someone for',
+  "requite",
+  "take revenge for",
+  "take vengeance for",
+  "exact retribution for",
+  "pay someone back for",
+  "get even with someone for",
 ];

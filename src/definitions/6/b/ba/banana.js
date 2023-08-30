@@ -4,5 +4,4 @@ export const definitions = [
   '"I\'ve spent two months in a studio—I must be bananas"',
   '"Roy\'s customers think the council has gone bananas"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -5,5 +5,4 @@ export const definitions = [
   '"this is a small island, and tongues are beginning to wag"',
   '"he began hanging out with bad people and wagging school"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

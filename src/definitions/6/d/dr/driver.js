@@ -5,10 +5,10 @@ export const definitions = [
   '"achieving a monopoly becomes the main ______ of investment"',
 ];
 export const synonyms = [
-  'motorist',
-  'chauffeur',
-  'pilot',
-  'operator',
-  'engineer',
-  'passenger',
+  "motorist",
+  "chauffeur",
+  "pilot",
+  "operator",
+  "engineer",
+  "passenger",
 ];

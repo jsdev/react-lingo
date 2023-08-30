@@ -12,10 +12,10 @@ export const definitions = [
 ];
 
 export const synonyms = [
-  'yearly',
-  'once-a-year',
-  'every twelve months',
-  'yearlong',
-  'twelve-month',
-  'lasting a year',
+  "yearly",
+  "once-a-year",
+  "every twelve months",
+  "yearlong",
+  "twelve-month",
+  "lasting a year",
 ];

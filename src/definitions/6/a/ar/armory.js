@@ -3,10 +3,10 @@ export const definitions = [
   '"his armory of comic routines"',
 ];
 export const synonyms = [
-  'arsenal',
-  'ordnance depot',
-  'magazine',
-  'arms depot',
-  'arms cache',
-  'ammunition dump',
+  "arsenal",
+  "ordnance depot",
+  "magazine",
+  "arms depot",
+  "arms cache",
+  "ammunition dump",
 ];

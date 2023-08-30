@@ -3,7 +3,4 @@ export const definitions = [
   '"lightly oil the pan"',
   '"attempts should not be made to oil individual tanks too rapidly"',
 ];
-export const synonyms = [
-  'lubricate',
-  'grease',
-];
+export const synonyms = ["lubricate", "grease"];

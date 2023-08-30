@@ -4,5 +4,4 @@ export const definitions = [
   '"the image proved hugely popular on Reddit, receiving nearly 30,000 upvotes"',
   '"looking at the upvotes you received, it makes me wonder what happened to critical thinking in our society"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

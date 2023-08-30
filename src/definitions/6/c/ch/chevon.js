@@ -1,18 +1,17 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'line',
-  'band',
-  'strip',
-  'belt',
-  'bar',
-  'swathe',
-  'streak',
-  'striation',
-  'vein',
-  'thread',
-  'flash',
-  'blaze',
-  'marking',
-  'stria',
+  "line",
+  "band",
+  "strip",
+  "belt",
+  "bar",
+  "swathe",
+  "streak",
+  "striation",
+  "vein",
+  "thread",
+  "flash",
+  "blaze",
+  "marking",
+  "stria",
 ];

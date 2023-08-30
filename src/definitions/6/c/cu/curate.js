@@ -4,5 +4,4 @@ export const definitions = [
   '"in past years the festival has been curated by the likes of David Bowie"',
   '"nearly every major news organization is using Twitter’s new lists feature to curate tweets about the earthquake"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

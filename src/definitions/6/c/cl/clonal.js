@@ -1,6 +1,2 @@
-export const definitions = [
-  '"clonal propagation"',
-  '"clonal organisms"',
-];
-export const synonyms = [
-];
+export const definitions = ['"clonal propagation"', '"clonal organisms"'];
+export const synonyms = [];

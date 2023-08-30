@@ -1,5 +1,2 @@
-export const definitions = [
-  '"the great ape and human clade"',
-];
-export const synonyms = [
-];
+export const definitions = ['"the great ape and human clade"'];
+export const synonyms = [];

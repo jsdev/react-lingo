@@ -3,13 +3,13 @@ export const definitions = [
   '"they deliberated together on delating her as a witch"',
 ];
 export const synonyms = [
-  'inform',
-  'tell',
-  'give away',
-  'betray',
-  'denounce',
-  'sell out',
-  'be a Judas to',
-  'protect',
-  'keep quiet about',
+  "inform",
+  "tell",
+  "give away",
+  "betray",
+  "denounce",
+  "sell out",
+  "be a Judas to",
+  "protect",
+  "keep quiet about",
 ];

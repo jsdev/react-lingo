@@ -1,5 +1,2 @@
-export const definitions = [
-  '"flock mattresses"',
-];
-export const synonyms = [
-];
+export const definitions = ['"flock mattresses"'];
+export const synonyms = [];

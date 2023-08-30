@@ -1,10 +1,10 @@
-import classNames from 'classnames';
+import classNames from "classnames";
 
 type Props = {
-  index: number
-  size: number
-  label: string
-  isCurrentDayStatRow: boolean
+  index: number;
+  size: number;
+  label: string;
+  isCurrentDayStatRow: boolean;
 };
 
 export const Progress = ({
@@ -14,8 +14,8 @@ export const Progress = ({
   isCurrentDayStatRow,
 }: Props) => {
   const currentRowClass = classNames(
-    'text-xs font-medium text-blue-100 text-center p-0.5',
-    { 'bg-blue-600': isCurrentDayStatRow, 'bg-gray-600': !isCurrentDayStatRow },
+    "text-xs font-medium text-blue-100 text-center p-0.5",
+    { "bg-blue-600": isCurrentDayStatRow, "bg-gray-600": !isCurrentDayStatRow }
   );
   return (
     <div className="justify-left m-1 flex">

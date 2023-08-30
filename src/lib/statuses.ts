@@ -1,17 +1,19 @@
-import { CharStatus } from './enums/status';
-import { unicodeSplit } from './words';
+import { CharStatus } from "./enums/status";
+import { unicodeSplit } from "./words";
 
 // export type CharStatus = 'absent' | 'present' | 'correct' | 'invalid'
 
 export const getRevealStatus = (
   solution: string,
-  given: string,
+  given: string
 ): CharStatus[] => {
   const charObj: CharStatus[] = [];
   const splitSolution = unicodeSplit(solution);
 
-  unicodeSplit(given).forEach((letter, i) => charObj[i] = letter === splitSolution[i] ?
-    CharStatus.Correct : CharStatus.Absent,
+  unicodeSplit(given).forEach(
+    (letter, i) =>
+      (charObj[i] =
+        letter === splitSolution[i] ? CharStatus.Correct : CharStatus.Absent)
   );
 
   return charObj;
@@ -19,11 +21,11 @@ export const getRevealStatus = (
 
 export const getLetterRevealStatus = (
   solution: string,
-  guess: string,
+  guess: string
 ): CharStatus[] => {
   const given = localStorage.given;
   const splitSolution = unicodeSplit(solution);
-  const splitGiven = given.split('');
+  const splitGiven = given.split("");
 
   const charObj: CharStatus[] = unicodeSplit(guess).map((letter, i) => {
     if (letter === splitSolution[i]) {
@@ -34,7 +36,7 @@ export const getLetterRevealStatus = (
     }
   });
 
-  localStorage.given = splitGiven.join('');
+  localStorage.given = splitGiven.join("");
 
   return charObj;
 };
@@ -42,7 +44,7 @@ export const getLetterRevealStatus = (
 export const getStatuses = (
   solution: string,
   guesses: string[],
-  isWordInWordList: (word: string) => boolean,
+  isWordInWordList: (word: string) => boolean
 ): { [key: string]: CharStatus } => {
   const charObj: { [key: string]: CharStatus } = {};
   const splitSolution = unicodeSplit(solution);
@@ -75,7 +77,7 @@ export const getStatuses = (
 export const getGuessStatuses = (
   solution: string,
   guess: string,
-  validWords: string[],
+  validWords: string[]
 ): CharStatus[] => {
   const splitSolution = unicodeSplit(solution);
   const splitGuess = unicodeSplit(guess);
@@ -83,7 +85,7 @@ export const getGuessStatuses = (
   const solutionCharsTaken = splitSolution.map((_) => false);
 
   const statuses: CharStatus[] = Array.from(Array(guess.length));
-  const given = localStorage.given.split('');
+  const given = localStorage.given.split("");
   const out = JSON.parse(localStorage.out);
 
   if (!validWords.includes(guess.toLocaleLowerCase())) {
@@ -104,7 +106,7 @@ export const getGuessStatuses = (
     }
   });
 
-  localStorage.given = given.join('');
+  localStorage.given = given.join("");
 
   splitGuess.forEach((letter, i) => {
     if (statuses[i]) return;
@@ -117,7 +119,7 @@ export const getGuessStatuses = (
 
     // now we are left with "present"s
     const indexOfPresentChar = splitSolution.findIndex(
-      (x, index) => x === letter && !solutionCharsTaken[index],
+      (x, index) => x === letter && !solutionCharsTaken[index]
     );
 
     if (indexOfPresentChar > -1) {

@@ -5,5 +5,4 @@ export const definitions = [
   '"Ed\'s cheeks purpled"',
   '"the neon was purpling the horizon above the highway"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

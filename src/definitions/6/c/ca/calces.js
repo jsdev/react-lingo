@@ -8,11 +8,11 @@ export const definitions = [
   '"ice calved off a glacier with a loud explosive crumble"',
 ];
 export const synonyms = [
-  'cow',
-  'heifer',
-  'bull',
-  'bullock',
-  'ox',
-  'beef',
-  'neat',
+  "cow",
+  "heifer",
+  "bull",
+  "bullock",
+  "ox",
+  "beef",
+  "neat",
 ];

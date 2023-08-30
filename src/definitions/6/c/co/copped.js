@@ -6,5 +6,4 @@ export const definitions = [
   '"he copped some hash for me"',
   '"I copped an attitude—I acted real tough"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

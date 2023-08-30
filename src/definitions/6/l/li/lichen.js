@@ -3,5 +3,4 @@ export const definitions = [
   '"rocks covered with gold lichens"',
   '"patients with oral lichen planus"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

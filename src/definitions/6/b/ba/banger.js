@@ -5,9 +5,9 @@ export const definitions = [
   '"these fireworks are no longer bangers but more like explosives"',
 ];
 export const synonyms = [
-  'automobile',
-  'motor',
-  'machine',
-  'motor car',
-  'horseless carriage',
+  "automobile",
+  "motor",
+  "machine",
+  "motor car",
+  "horseless carriage",
 ];

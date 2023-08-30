@@ -3,6 +3,4 @@ export const definitions = [
   '"a fast grower"',
   '"their last two albums were real growers for me"',
 ];
-export const synonyms = [
-  'farmer',
-];
+export const synonyms = ["farmer"];

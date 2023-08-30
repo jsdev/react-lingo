@@ -1,5 +1,2 @@
-export const definitions = [
-];
-export const synonyms = [
-  'heels',
-];
+export const definitions = [];
+export const synonyms = ["heels"];

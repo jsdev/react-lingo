@@ -3,5 +3,4 @@ export const definitions = [
   '"the coastline is a frieze of cliffs"',
   '"a wallpaper frieze with chickens on it"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

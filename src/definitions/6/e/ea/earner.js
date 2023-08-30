@@ -3,5 +3,4 @@ export const definitions = [
   '"a wage earner"',
   '"tobacco is a major foreign currency earner"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

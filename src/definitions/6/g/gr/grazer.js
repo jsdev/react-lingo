@@ -6,12 +6,12 @@ export const definitions = [
   '"we grazed up and down the channels"',
 ];
 export const synonyms = [
-  'feed',
-  'eat',
-  'crop',
-  'browse',
-  'ruminate',
-  'pasture',
-  'nibble',
-  'take nourishment',
+  "feed",
+  "eat",
+  "crop",
+  "browse",
+  "ruminate",
+  "pasture",
+  "nibble",
+  "take nourishment",
 ];

@@ -5,5 +5,4 @@ export const definitions = [
   '"a calico dress"',
   '"Lena shooed a big calico cat off the counter"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

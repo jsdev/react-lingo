@@ -1,5 +1,2 @@
-export const definitions = [
-];
-export const synonyms = [
-  'angel',
-];
+export const definitions = [];
+export const synonyms = ["angel"];

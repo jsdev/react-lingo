@@ -3,10 +3,4 @@ export const definitions = [
   '"the many routes to a healthier diet will be described"',
   '"all lines of communication were routed through Atlanta"',
 ];
-export const synonyms = [
-  'direct',
-  'send',
-  'convey',
-  'dispatch',
-  'forward',
-];
+export const synonyms = ["direct", "send", "convey", "dispatch", "forward"];

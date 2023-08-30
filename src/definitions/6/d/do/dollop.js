@@ -4,11 +4,11 @@ export const definitions = [
   '"Chekov stopped him from dolloping sugar into his coffee"',
 ];
 export const synonyms = [
-  'blob',
-  'glob',
-  'lump',
-  'clump',
-  'ball',
-  'mound',
-  'gobbet',
+  "blob",
+  "glob",
+  "lump",
+  "clump",
+  "ball",
+  "mound",
+  "gobbet",
 ];

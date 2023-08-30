@@ -8,10 +8,10 @@ export const definitions = [
   '"folk and ethnic music"',
 ];
 export const synonyms = [
-  'racial',
-  'race-related',
-  'cultural',
-  'national',
-  'tribal',
-  'autochthonous',
+  "racial",
+  "race-related",
+  "cultural",
+  "national",
+  "tribal",
+  "autochthonous",
 ];

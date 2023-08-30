@@ -5,5 +5,4 @@ export const definitions = [
   '"Missy dapped him and left"',
   '"we dapped and forgot all about it"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

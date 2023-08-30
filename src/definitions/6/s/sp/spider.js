@@ -3,5 +3,4 @@ export const definitions = [
   '"a system of tunnels spider through the district"',
   '"when the search engines spider your site they\'ll find all of the pages"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

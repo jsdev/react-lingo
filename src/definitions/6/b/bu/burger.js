@@ -4,5 +4,4 @@ export const definitions = [
   '"I grilled the burgers for 5 minutes per side"',
   '"homemade black bean burgers and turkey burgers"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

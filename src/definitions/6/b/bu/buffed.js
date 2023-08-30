@@ -3,12 +3,12 @@ export const definitions = [
   '"there are cards that\'ll buff your troops"',
 ];
 export const synonyms = [
-  'polish',
-  'burnish',
-  'rub',
-  'smooth',
-  'shine',
-  'wipe',
-  'clean',
-  'rub up',
+  "polish",
+  "burnish",
+  "rub",
+  "smooth",
+  "shine",
+  "wipe",
+  "clean",
+  "rub up",
 ];

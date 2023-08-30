@@ -1,20 +1,22 @@
+import { ENABLE_ARCHIVED_GAMES } from "../constants/settings";
+import {
+  NOT_CONTAINED_MESSAGE,
+  WRONG_SPOT_MESSAGE,
+} from "../constants/strings";
+import { VALID_GUESSES6 } from "../constants/validGuesses";
+import { getWords } from "../constants/wordlist";
+import { getToday } from "./dateutils";
+import { CharStatus } from "./enums/status";
+import { getGuessStatuses } from "./statuses";
 import {
   addDays,
   differenceInDays,
   formatISO,
   parseISO,
   startOfDay,
-} from 'date-fns';
-import { default as GraphemeSplitter } from 'grapheme-splitter';
-import queryString from 'query-string';
-
-import { ENABLE_ARCHIVED_GAMES } from '../constants/settings';
-import { NOT_CONTAINED_MESSAGE, WRONG_SPOT_MESSAGE } from '../constants/strings';
-import { VALID_GUESSES6 } from '../constants/validGuesses';
-import { getWords } from '../constants/wordlist';
-import { getToday } from './dateutils';
-import { getGuessStatuses } from './statuses';
-import { CharStatus } from './enums/status';
+} from "date-fns";
+import { default as GraphemeSplitter } from "grapheme-splitter";
+import queryString from "query-string";
 
 export const firstGameDate = new Date(2022, 0);
 export const periodInDays = 1;
@@ -24,13 +26,14 @@ const buildWordList =
     const lowerCasedWord = localeAwareLowerCase(word);
 
     return (
-      words.includes(lowerCasedWord) ||
-      validGuesses.includes(lowerCasedWord)
+      words.includes(lowerCasedWord) || validGuesses.includes(lowerCasedWord)
     );
   };
 
-
-export const isWordInWordList = buildWordList(getWords(localStorage.complexity), VALID_GUESSES6);
+export const isWordInWordList = buildWordList(
+  getWords(localStorage.complexity),
+  VALID_GUESSES6
+);
 
 export const isWinningWord = (word: string) => {
   return solution === word;
@@ -51,7 +54,10 @@ export const findFirstUnusedReveal = (word: string, guesses: string[]) => {
   const splitGuess = unicodeSplit(guess);
 
   for (let i = 0; i < splitGuess.length; i++) {
-    if (statuses[i] === CharStatus.Correct || statuses[i] === CharStatus.Present) {
+    if (
+      statuses[i] === CharStatus.Correct ||
+      statuses[i] === CharStatus.Present
+    ) {
       lettersLeftArray.push(splitGuess[i]);
     }
     if (statuses[i] === CharStatus.Correct && splitWord[i] !== splitGuess[i]) {
@@ -84,14 +90,14 @@ export const unicodeLength = (word: string) => {
 };
 
 export const localeAwareLowerCase = (text: string) => {
-  return process.env.REACT_APP_LOCALE_STRING
-    ? text.toLocaleLowerCase(process.env.REACT_APP_LOCALE_STRING)
+  return import.meta.env.VITE_LOCALE_STRING
+    ? text.toLocaleLowerCase(import.meta.env.VITE_LOCALE_STRING)
     : text.toLowerCase();
 };
 
 export const localeAwareUpperCase = (text: string) => {
-  return process.env.REACT_APP_LOCALE_STRING
-    ? text.toLocaleUpperCase(process.env.REACT_APP_LOCALE_STRING)
+  return import.meta.env.VITE_LOCALE_STRING
+    ? text.toLocaleUpperCase(import.meta.env.VITE_LOCALE_STRING)
     : text.toUpperCase();
 };
 
@@ -126,7 +132,7 @@ export const getIndex = (gameDate: Date) => {
 
 export const getDay = (index: number, words: string[]) => {
   if (index < 0) {
-    throw new Error('Invalid index');
+    throw new Error("Invalid index");
   }
 
   return localeAwareUpperCase(words[index % words.length]);
@@ -143,21 +149,22 @@ export const getRandomWord = (words: string[]) => {
 // }
 
 export const spaces = (n: number): string => {
-  let result = '';
+  let result = "";
   for (let i = 0; i < n; i++) {
-    result += ' ';
+    result += " ";
   }
 
   return result;
 };
 
 export const merge = (given: string, guess: string): string => {
-  let result = '';
+  let result = "";
 
   for (let i = 0; i < given.length; i++) {
-    result += given[i] === ' ' && guess[i] >= 'A' && guess[i] <= 'Z' ?
-      guess[i] :
-      given[i];
+    result +=
+      given[i] === " " && guess[i] >= "A" && guess[i] <= "Z"
+        ? guess[i]
+        : given[i];
   }
   return result;
 };
@@ -165,17 +172,17 @@ export const merge = (given: string, guess: string): string => {
 export const getSolution = (gameDate: Date) => {
   const index = getIndex(gameDate);
   if (!localStorage.complexity) {
-    localStorage.complexity = 'Elementary';
+    localStorage.complexity = "Elementary";
   }
   const wordOfTheDay = getRandomWord(getWords(localStorage.complexity));
   localStorage.given = wordOfTheDay[0] + spaces(wordOfTheDay.length - 1);
   localStorage.out = JSON.stringify({
-    0: '',
-    1: '',
-    2: '',
-    3: '',
-    4: '',
-    5: '',
+    0: "",
+    1: "",
+    2: "",
+    3: "",
+    4: "",
+    5: "",
   });
 
   return {
@@ -208,13 +215,13 @@ export const getGameDate = () => {
 export const setGameDate = (d: Date) => {
   try {
     if (d < getToday()) {
-      window.location.href = '/?d=' + formatISO(d, { representation: 'date' });
+      window.location.href = "/?d=" + formatISO(d, { representation: "date" });
       return;
     }
   } catch (e) {
     console.error(e);
   }
-  window.location.href = '/';
+  window.location.href = "/";
 };
 
 export const getIsLatestGame = () => {
@@ -222,8 +229,9 @@ export const getIsLatestGame = () => {
     return true;
   }
   const parsed = queryString.parse(window.location.search);
-  return parsed === null || !('d' in parsed);
+  return parsed === null || !("d" in parsed);
 };
 
-export const { solution, solutionGameDate, solutionIndex, given } =
-  getSolution(getGameDate());
+export const { solution, solutionGameDate, solutionIndex, given } = getSolution(
+  getGameDate()
+);

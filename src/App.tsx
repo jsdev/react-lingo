@@ -1,18 +1,19 @@
-import { ClockIcon } from '@heroicons/react/24/outline';
-import { format } from 'date-fns';
-import { default as GraphemeSplitter } from 'grapheme-splitter';
-import { useEffect, useState } from 'react';
-import Div100vh from 'react-div-100vh';
-
-import { AlertContainer } from './components/alerts/AlertContainer';
-import { Grid } from './components/grid/Grid';
-import { DatePickerModal } from './components/modals/DatePickerModal';
-import { HintModal } from './components/modals/HintModal';
-import { InfoModal } from './components/modals/InfoModal';
-import { MigrateStatsModal } from './components/modals/MigrateStatsModal';
-import { SettingsModal, complexityOptions } from './components/modals/SettingsModal';
-import { StatsModal } from './components/modals/StatsModal';
-import { Navbar } from './components/navbar/Navbar';
+import "./App.css";
+import { AlertContainer } from "./components/alerts/AlertContainer";
+import { Grid } from "./components/grid/Grid";
+import { KeyboardAlphabet } from "./components/keyboard/KeyboardAlphabet";
+import { KeyboardQWERTY } from "./components/keyboard/KeyboardQwerty";
+import { KeyboardVowels } from "./components/keyboard/KeyboardVowels";
+import { DatePickerModal } from "./components/modals/DatePickerModal";
+import { HintModal } from "./components/modals/HintModal";
+import { InfoModal } from "./components/modals/InfoModal";
+import { MigrateStatsModal } from "./components/modals/MigrateStatsModal";
+import {
+  SettingsModal,
+  complexityOptions,
+} from "./components/modals/SettingsModal";
+import { StatsModal } from "./components/modals/StatsModal";
+import { Navbar } from "./components/navbar/Navbar";
 import {
   DATE_LOCALE,
   DISCOURAGE_INAPP_BROWSERS,
@@ -20,19 +21,20 @@ import {
   MAX_CHALLENGES,
   REVEAL_TIME_MS,
   WELCOME_INFO_MODAL_MS,
-} from './constants/settings';
+} from "./constants/settings";
 import {
   CORRECT_WORD_MESSAGE,
   DISCOURAGE_INAPP_BROWSER_TEXT,
   GAME_COPIED_MESSAGE,
-  HARD_MODE_ALERT_MESSAGE,
-  // INVALID_WORD,
+  HARD_MODE_ALERT_MESSAGE, // INVALID_WORD,
   // NOT_ENOUGH_LETTERS_MESSAGE,
   SHARE_FAILURE_TEXT,
   WIN_MESSAGES,
-} from './constants/strings';
-import { useAlert } from './context/AlertContext';
-import { isInAppBrowser } from './lib/browser';
+} from "./constants/strings";
+import { possibilities, alphabet } from "./constants/validGuesses";
+import { useAlert } from "./context/AlertContext";
+import { isInAppBrowser } from "./lib/browser";
+import getRandomString from "./lib/getRanomString";
 import {
   getStoredIsHighContrastMode,
   loadGameStateFromLocalStorage,
@@ -42,8 +44,8 @@ import {
   getStoredComplexityMode,
   getStoredKeyboardMode,
   setStoredKeyboardMode,
-} from './lib/localStorage';
-import { addStatsForCompletedGame, loadStats } from './lib/stats';
+} from "./lib/localStorage";
+import { addStatsForCompletedGame, loadStats } from "./lib/stats";
 import {
   // findFirstUnusedReveal,
   getGameDate,
@@ -55,40 +57,40 @@ import {
   solution,
   solutionGameDate,
   unicodeLength,
-} from './lib/words';
-import { possibilities, alphabet } from './constants/validGuesses';
-import { KeyboardAlphabet } from './components/keyboard/KeyboardAlphabet';
-import { KeyboardQWERTY } from './components/keyboard/KeyboardQwerty';
-import { KeyboardVowels } from './components/keyboard/KeyboardVowels';
-import getRandomString from './lib/getRanomString';
-
-import './App.css';
+} from "./lib/words";
+import { ClockIcon } from "@heroicons/react/24/outline";
+import { format } from "date-fns";
+import { default as GraphemeSplitter } from "grapheme-splitter";
+import { useEffect, useState } from "react";
+import Div100vh from "react-div-100vh";
 
 const Keyboards: any = {
-  'ALPHABET': KeyboardAlphabet,
-  'VOWELS': KeyboardVowels,
-  'QWERTY': KeyboardQWERTY,
+  ALPHABET: KeyboardAlphabet,
+  VOWELS: KeyboardVowels,
+  QWERTY: KeyboardQWERTY,
 };
 
 function App() {
   const isLatestGame = getIsLatestGame();
   const gameDate = getGameDate();
   const prefersDarkMode = window.matchMedia(
-    '(prefers-color-scheme: dark)',
+    "(prefers-color-scheme: dark)"
   ).matches;
   const [isFeedbackMode, setIsFeedbackMode] = useState(
-    !!localStorage.getItem('feedbackMode'),
+    !!localStorage.getItem("feedbackMode")
   );
   const [isHardMode, setIsHardMode] = useState(
-    localStorage.getItem('gameMode')
-      ? localStorage.getItem('gameMode') === 'hard'
-      : false,
+    localStorage.getItem("gameMode")
+      ? localStorage.getItem("gameMode") === "hard"
+      : false
   );
 
   const { showError: showErrorAlert, showSuccess: showSuccessAlert } =
     useAlert();
   const defaultHardGuess = localStorage.given;
-  const [currentGuess, setCurrentGuess] = useState(isHardMode ? defaultHardGuess : '');
+  const [currentGuess, setCurrentGuess] = useState(
+    isHardMode ? defaultHardGuess : ""
+  );
   const [isGameWon, setIsGameWon] = useState(false);
   const [isInfoModalOpen, setIsInfoModalOpen] = useState(false);
   const [isHintModalOpen, setIsHintModalOpen] = useState(false);
@@ -99,25 +101,25 @@ function App() {
   const [
     currentRowClass,
     //setCurrentRowClass
-  ] = useState('');
+  ] = useState("");
   const [isGameLost, setIsGameLost] = useState(false);
   const [isDarkMode, setIsDarkMode] = useState(
-    localStorage.getItem('theme')
-      ? localStorage.getItem('theme') === 'dark'
+    localStorage.getItem("theme")
+      ? localStorage.getItem("theme") === "dark"
       : prefersDarkMode
-        ? true
-        : false,
+      ? true
+      : false
   );
   const [complexityMode, setComplexitytMode] = useState(
-    getStoredComplexityMode() || 'Elementary',
+    getStoredComplexityMode() || "Elementary"
   );
 
   const [keyboardMode, setKeyboardMode] = useState(
-    getStoredKeyboardMode() || 'VOWELS',
+    getStoredKeyboardMode() || "VOWELS"
   );
 
   const [isHighContrastMode, setIsHighContrastMode] = useState(
-    getStoredIsHighContrastMode(),
+    getStoredIsHighContrastMode()
   );
   const [isRevealing, setIsRevealing] = useState(false);
   const [guesses, setGuesses] = useState<string[]>(() => {
@@ -142,12 +144,14 @@ function App() {
 
   // const [soltuon, setSolution] = useState(null);
 
-  const [hint, setHint] = useState('');
+  const [hint, setHint] = useState("");
 
   useEffect(() => {
     const lowerCaseSolution = solution.toLowerCase();
     const twoLetter = lowerCaseSolution.slice(0, 2);
-    import(`./definitions/6/${twoLetter[0]}/${twoLetter}/${lowerCaseSolution}`).then((module) => {
+    import(
+      `./definitions/6/${twoLetter[0]}/${twoLetter}/${lowerCaseSolution}`
+    ).then((module) => {
       // const definition = getRandomString(module?.definitions)
       const synonym = getRandomString(module?.synonyms);
 
@@ -176,38 +180,38 @@ function App() {
 
   useEffect(() => {
     if (isDarkMode) {
-      document.documentElement.classList.add('dark');
+      document.documentElement.classList.add("dark");
     } else {
-      document.documentElement.classList.remove('dark');
+      document.documentElement.classList.remove("dark");
     }
 
     if (isHighContrastMode) {
-      document.documentElement.classList.add('high-contrast');
+      document.documentElement.classList.add("high-contrast");
     } else {
-      document.documentElement.classList.remove('high-contrast');
+      document.documentElement.classList.remove("high-contrast");
     }
   }, [isDarkMode, isHighContrastMode]);
 
   const handleDarkMode = (bool: boolean) => {
     setIsDarkMode(bool);
-    localStorage.setItem('theme', bool ? 'dark' : 'light');
+    localStorage.setItem("theme", bool ? "dark" : "light");
   };
 
   const handleHardMode = (bool: boolean) => {
-    if (guesses?.length === 0 || localStorage.getItem('gameMode') === 'hard') {
+    if (guesses?.length === 0 || localStorage.getItem("gameMode") === "hard") {
       setIsHardMode(bool);
-      localStorage.setItem('gameMode', bool ? 'hard' : 'normal');
+      localStorage.setItem("gameMode", bool ? "hard" : "normal");
     } else {
       showErrorAlert(HARD_MODE_ALERT_MESSAGE);
     }
   };
 
   const handleFeedbackMode = (bool: boolean) => {
-    if (localStorage.getItem('feedbackMode')) {
+    if (localStorage.getItem("feedbackMode")) {
       delete localStorage.feedbackMode;
     } else {
       setIsFeedbackMode(bool);
-      localStorage.setItem('feedbackMode', 'true');
+      localStorage.setItem("feedbackMode", "true");
     }
   };
 
@@ -216,7 +220,9 @@ function App() {
     setStoredIsHighContrastMode(bool);
   };
 
-  const handleComplexityMode = (event: React.ChangeEvent<HTMLSelectElement>): void => {
+  const handleComplexityMode = (
+    event: React.ChangeEvent<HTMLSelectElement>
+  ): void => {
     setComplexitytMode(event.target.value);
     setStoredComplexityMode(event.target.value);
   };
@@ -260,8 +266,10 @@ function App() {
 
   const onCharLetter = (value: string) => {
     const given = localStorage.given;
-    const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
-    const splitGiven = given.split('');
+    const guess = isHardMode
+      ? merge(given, currentGuess).replace(" ", value)
+      : currentGuess + value;
+    const splitGiven = given.split("");
     if (
       unicodeLength(guess) <= solution.length &&
       guesses.length < MAX_CHALLENGES &&
@@ -271,24 +279,23 @@ function App() {
       for (let i = 0; i < solution.length; i++) {
         if (guess[i] === solution[i]) splitGiven[i] = solution[i];
       }
-      localStorage.given = splitGiven?.join('');
+      localStorage.given = splitGiven?.join("");
     }
     if (solution === localStorage.given) setIsGameWon(true);
   };
-
 
   const onEnter = () => {
     if (isGameWon || isGameLost || isFeedbackMode) {
       return;
     }
-    const current = document.querySelector('[data-current]');
-    const guess = current ? current.textContent! : '';
+    const current = document.querySelector("[data-current]");
+    const guess = current ? current.textContent! : "";
 
     if (guess && !(unicodeLength(guess) === solution.length)) {
       return;
     }
 
-    if (guess && guess.indexOf(' ') >= 0) {
+    if (guess && guess.indexOf(" ") >= 0) {
       return;
     }
 
@@ -330,7 +337,7 @@ function App() {
       !isGameWon
     ) {
       setGuesses([...guesses, guess]);
-      setCurrentGuess(isHardMode ? localStorage.given : '');
+      setCurrentGuess(isHardMode ? localStorage.given : "");
 
       if (winningWord) {
         if (isLatestGame) {
@@ -355,13 +362,14 @@ function App() {
       setTimeout(() => {
         setIsRevealing(false);
       }, REVEAL_TIME_MS * solution.length);
-
     }
   };
 
   const onChar = (value: string) => {
     const given = localStorage.given;
-    const guess = isHardMode ? merge(given, currentGuess).replace(' ', value) : currentGuess + value;
+    const guess = isHardMode
+      ? merge(given, currentGuess).replace(" ", value)
+      : currentGuess + value;
     if (
       unicodeLength(guess) <= solution.length &&
       guesses.length < MAX_CHALLENGES &&
@@ -370,51 +378,60 @@ function App() {
       setCurrentGuess(guess);
     }
 
-    if (keyboardMode !== 'QWERTY' && guess.length === solution.length) {
+    if (keyboardMode !== "QWERTY" && guess.length === solution.length) {
       setTimeout(onEnter, 2000);
     }
   };
 
-  const doNothing = (): void => {
-  };
+  const doNothing = (): void => {};
 
   const onDelete = () => {
     if (isHardMode) {
       const given = localStorage.given;
-      const guess = currentGuess.split('');
+      const guess = currentGuess.split("");
       for (let i = solution.length - 1; i >= 0; i--) {
-        if (currentGuess[i] !== ' ' && given[i] !== currentGuess[i]) {
-          guess[i] = ' ';
-          setCurrentGuess(guess?.join(''));
+        if (currentGuess[i] !== " " && given[i] !== currentGuess[i]) {
+          guess[i] = " ";
+          setCurrentGuess(guess?.join(""));
 
           return;
         }
       }
     } else {
       setCurrentGuess(
-        new GraphemeSplitter().splitGraphemes(currentGuess).slice(0, -1)?.join(''),
+        new GraphemeSplitter()
+          .splitGraphemes(currentGuess)
+          .slice(0, -1)
+          ?.join("")
       );
     }
   };
 
   const complexity = complexityOptions
-    .filter(o => o.value === localStorage.complexity)
-    .map(o => o.label);
+    .filter((o) => o.value === localStorage.complexity)
+    .map((o) => o.label);
 
   const getText = (o: Element) => o.textContent!.toLowerCase();
-  const absent: Element[] = Array.from(document.querySelectorAll('button.absent'));
-  const present: Element[] = Array.from(document.querySelectorAll('button.present'));
-  const correct: Element[] = Array.from(document.querySelectorAll('button.correct'));
-  const given = localStorage.given.toLowerCase().split('');
+  const absent: Element[] = Array.from(
+    document.querySelectorAll("button.absent")
+  );
+  const present: Element[] = Array.from(
+    document.querySelectorAll("button.present")
+  );
+  const correct: Element[] = Array.from(
+    document.querySelectorAll("button.correct")
+  );
+  const given = localStorage.given.toLowerCase().split("");
   const possibleWords: string[] = alphabet[given[0] as keyof typeof alphabet];
   const possibleGuesses = possibilities(
     possibleWords,
-    absent.map(getText)?.join(''),
+    absent.map(getText)?.join(""),
     JSON.parse(localStorage.out),
     given,
-    present.concat(correct).map(getText));
+    present.concat(correct).map(getText)
+  );
 
-  const probability = (1 / (possibleGuesses?.length) * 100).toFixed(2);
+  const probability = ((1 / possibleGuesses?.length) * 100).toFixed(2);
   const statStyles = {
     width: 350,
   };
@@ -436,18 +453,20 @@ function App() {
         />
 
         {!isLatestGame && (
-
           <div className="flex items-center justify-center">
             <ClockIcon className="h-6 w-6 stroke-gray-600 dark:stroke-gray-300" />
             <p className="text-base text-gray-600 dark:text-gray-300">
-              {format(gameDate, 'd MMMM yyyy', { locale: DATE_LOCALE })}
+              {format(gameDate, "d MMMM yyyy", { locale: DATE_LOCALE })}
             </p>
           </div>
         )}
 
         <main className="mx-auto flex w-full grow flex-col px-1 pt-2 pb-8 sm:px-6 md:max-w-7xl lg:px-8 short:pb-2 short:pt-2">
           <div className="flex grow flex-col justify-center pb-6 short:pb-2">
-            <div style={statStyles} className='flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300'>
+            <div
+              style={statStyles}
+              className="flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300"
+            >
               <span>LEVEL: {complexity}</span>
               <span>ODDS: {probability}%</span>
             </div>

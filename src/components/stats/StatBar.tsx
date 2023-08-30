@@ -3,19 +3,19 @@ import {
   CURRENT_STREAK_TEXT,
   SUCCESS_RATE_TEXT,
   TOTAL_TRIES_TEXT,
-} from '../../constants/strings';
-import { GameStats } from '../../lib/localStorage';
+} from "../../constants/strings";
+import { GameStats } from "../../lib/localStorage";
 
 type Props = {
-  gameStats: GameStats
+  gameStats: GameStats;
 };
 
 const StatItem = ({
   label,
   value,
 }: {
-  label: string
-  value: string | number
+  label: string;
+  value: string | number;
 }) => {
   return (
     <div className="m-1 w-1/4 items-center justify-center dark:text-white">

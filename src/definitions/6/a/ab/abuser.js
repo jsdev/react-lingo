@@ -4,7 +4,4 @@ export const definitions = [
   '"______s often control the victim\'s access to friends and family"',
   '"how much do we know about what makes someone a sexual ______?"',
 ];
-export const synonyms = [
-  'molester',
-  'addict',
-];
+export const synonyms = ["molester", "addict"];

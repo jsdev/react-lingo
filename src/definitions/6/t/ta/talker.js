@@ -5,11 +5,11 @@ export const definitions = [
   '"she\'s quite a talker, conversing and arguing with Henry"',
 ];
 export const synonyms = [
-  'conversationalist',
-  'speaker',
-  'communicator',
-  'chatterer',
-  'chatterbox',
-  'gossip',
-  'someone who is all talk',
+  "conversationalist",
+  "speaker",
+  "communicator",
+  "chatterer",
+  "chatterbox",
+  "gossip",
+  "someone who is all talk",
 ];

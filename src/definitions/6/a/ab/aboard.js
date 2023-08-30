@@ -9,5 +9,4 @@ export const definitions = [
   '"they put their first batter aboard"',
   '"he was aboard for the homers by Grissom and Alfonzo"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

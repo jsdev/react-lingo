@@ -5,11 +5,11 @@ export const definitions = [
   '"the king was throned on a rock"',
 ];
 export const synonyms = [
-  'seat of state',
-  'royal seat',
-  'sovereignty',
-  'rule',
-  'command',
-  'dominion',
-  'sovereign power',
+  "seat of state",
+  "royal seat",
+  "sovereignty",
+  "rule",
+  "command",
+  "dominion",
+  "sovereign power",
 ];

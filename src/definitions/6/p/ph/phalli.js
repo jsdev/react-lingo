@@ -3,5 +3,4 @@ export const definitions = [
   '"the building was a monumental steel and glass phallus"',
   '"three wooden painted phalluses"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

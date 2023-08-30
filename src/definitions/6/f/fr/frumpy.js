@@ -3,13 +3,13 @@ export const definitions = [
   '"frumpy, shapeless dresses"',
 ];
 export const synonyms = [
-  'dowdy',
-  'frumpish',
-  'unfashionable',
-  'old-fashioned',
-  'drab',
-  'dull',
-  'shabby',
-  'scruffy',
-  'fashionable',
+  "dowdy",
+  "frumpish",
+  "unfashionable",
+  "old-fashioned",
+  "drab",
+  "dull",
+  "shabby",
+  "scruffy",
+  "fashionable",
 ];

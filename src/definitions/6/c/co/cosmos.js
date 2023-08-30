@@ -4,13 +4,13 @@ export const definitions = [
   '"the new intellectual cosmos"',
 ];
 export const synonyms = [
-  'macrocosm',
-  'totality',
-  'Creation',
-  '(outer) space',
-  'the heavens',
-  'infinity',
-  'whole world',
-  'the firmament',
-  'all existence',
+  "macrocosm",
+  "totality",
+  "Creation",
+  "(outer) space",
+  "the heavens",
+  "infinity",
+  "whole world",
+  "the firmament",
+  "all existence",
 ];

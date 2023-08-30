@@ -9,12 +9,12 @@ export const definitions = [
   '"He wore earplugs to protect his ear ______ from loud noises."',
 ];
 export const synonyms = [
-  'channels',
-  'watercourses',
-  'waterways',
-  'inland waterways',
-  'ducts',
-  'tubes',
-  'passages',
-  'vessels',
+  "channels",
+  "watercourses",
+  "waterways",
+  "inland waterways",
+  "ducts",
+  "tubes",
+  "passages",
+  "vessels",
 ];

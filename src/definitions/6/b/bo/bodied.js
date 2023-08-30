@@ -6,5 +6,4 @@ export const definitions = [
   '"he ______ forth the traditional Prussian remedy for all ills"',
   '"an era when automobiles were ______ over wooden frames"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

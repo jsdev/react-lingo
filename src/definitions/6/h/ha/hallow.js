@@ -3,5 +3,4 @@ export const definitions = [
   '"the priest hallowed the wine"',
   '"a theater is a sort of church, hallowing the land on which it sits by its very presence"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

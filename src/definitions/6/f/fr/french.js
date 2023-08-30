@@ -5,5 +5,4 @@ export const definitions = [
   '"French lessons"',
   '"the French, they say, live to eat"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

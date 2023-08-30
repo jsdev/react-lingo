@@ -3,5 +3,4 @@ export const definitions = [
   '"a range of prefixes and suffixes can be attached to both verbs and nouns"',
   '"it is mandatory that ‘Limited Liability Partnership/LLP’ is suffixed to the name"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -4,5 +4,4 @@ export const definitions = [
   '"a nasal, whiny singer"',
   '"without wanting to sound whiny, it\'s quite hard work"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

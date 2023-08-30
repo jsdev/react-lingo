@@ -3,5 +3,4 @@ export const definitions = [
   '"in the first episode, Karen Valentine is being gaslighted by her husband"',
   '"we are being gaslit about our health on a grand scale by these people"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

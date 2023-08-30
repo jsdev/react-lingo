@@ -4,13 +4,13 @@ export const definitions = [
   '"at Trebetherick you paddle on Daymer Bay or shrimp off Gully"',
 ];
 export const synonyms = [
-  'little person',
-  'dwarf',
-  'pygmy',
-  'homunculus',
-  'manikin',
-  'Lilliputian',
-  'small person',
-  'short person',
-  'person of restricted growth',
+  "little person",
+  "dwarf",
+  "pygmy",
+  "homunculus",
+  "manikin",
+  "Lilliputian",
+  "small person",
+  "short person",
+  "person of restricted growth",
 ];

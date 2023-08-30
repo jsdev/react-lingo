@@ -5,6 +5,4 @@ export const definitions = [
   '"anyone could do it"',
   '"they are read by anyone who\'s anyone"',
 ];
-export const synonyms = [
-  'anybody',
-];
+export const synonyms = ["anybody"];

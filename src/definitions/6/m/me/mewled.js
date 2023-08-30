@@ -4,12 +4,12 @@ export const definitions = [
   '"a forlorn cat mewled pathetically"',
 ];
 export const synonyms = [
-  'whimper',
-  'cry',
-  'whine',
-  'squall',
-  'pule',
-  'meow',
-  'yowl',
-  'cry',
+  "whimper",
+  "cry",
+  "whine",
+  "squall",
+  "pule",
+  "meow",
+  "yowl",
+  "cry",
 ];

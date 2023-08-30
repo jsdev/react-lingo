@@ -3,5 +3,4 @@ export const definitions = [
   '"things I fondly recall from my childhood"',
   '"they fondly believed the cheers were for them"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

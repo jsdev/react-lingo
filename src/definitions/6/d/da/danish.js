@@ -6,5 +6,4 @@ export const definitions = [
   '"the boys are hoping for a win against the Danish"',
   '"a coffee and a Danish"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

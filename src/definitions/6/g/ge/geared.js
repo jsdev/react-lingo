@@ -4,5 +4,4 @@ export const definitions = [
   '"the program is geared towards families on lower incomes"',
   '"it\'s geared too high for serious off - road use"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

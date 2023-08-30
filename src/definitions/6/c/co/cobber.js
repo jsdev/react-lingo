@@ -1,7 +1,2 @@
-export const definitions = [
-  '"G\'day cobbers!"',
-];
-export const synonyms = [
-  'man',
-  'my friend',
-];
+export const definitions = ['"G\'day cobbers!"'];
+export const synonyms = ["man", "my friend"];

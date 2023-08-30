@@ -3,9 +3,9 @@ export const definitions = [
   '"the young man was coffined decently"',
 ];
 export const synonyms = [
-  'box',
-  'sarcophagus',
-  'casket',
-  'cist',
-  'wooden overcoat',
+  "box",
+  "sarcophagus",
+  "casket",
+  "cist",
+  "wooden overcoat",
 ];

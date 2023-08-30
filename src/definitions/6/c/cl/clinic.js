@@ -4,10 +4,10 @@ export const definitions = [
   '"a ski clinic"',
 ];
 export const synonyms = [
-  'health center',
-  'surgery',
-  'medical center',
-  'outpatients\' department',
-  'doctor\'s',
-  'polyclinic',
+  "health center",
+  "surgery",
+  "medical center",
+  "outpatients' department",
+  "doctor's",
+  "polyclinic",
 ];

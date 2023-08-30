@@ -1,12 +1,10 @@
-export const definitions = [
-  '"power junkies"',
-];
+export const definitions = ['"power junkies"'];
 export const synonyms = [
-  'abuser',
-  'user',
-  'viper',
-  'narcotist',
-  'morphinist',
-  'morphiomaniac',
-  'etheromaniac',
+  "abuser",
+  "user",
+  "viper",
+  "narcotist",
+  "morphinist",
+  "morphiomaniac",
+  "etheromaniac",
 ];

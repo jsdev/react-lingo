@@ -1,6 +1,2 @@
-export const definitions = [
-];
-export const synonyms = [
-  'geek',
-  'dork',
-];
+export const definitions = [];
+export const synonyms = ["geek", "dork"];

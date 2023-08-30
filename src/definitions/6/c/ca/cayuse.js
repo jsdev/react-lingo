@@ -5,5 +5,4 @@ export const definitions = [
   '"leaning forward on their hardy little cayuses they dash down the racecourse like the wind"',
   '"the local Cayuse people staunchly defended their customs"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

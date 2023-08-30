@@ -4,12 +4,12 @@ export const definitions = [
   '"after a further mishit, his third attempt proved successful"',
 ];
 export const synonyms = [
-  'mishandle',
-  'mismanage',
-  'mess up',
-  'make a mess of',
-  'bungle',
-  'botch',
-  'miss',
-  'fumble',
+  "mishandle",
+  "mismanage",
+  "mess up",
+  "make a mess of",
+  "bungle",
+  "botch",
+  "miss",
+  "fumble",
 ];

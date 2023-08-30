@@ -1,5 +1,2 @@
-export const definitions = [
-  '"dextrorotatory"',
-];
-export const synonyms = [
-];
+export const definitions = ['"dextrorotatory"'];
+export const synonyms = [];

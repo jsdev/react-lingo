@@ -3,5 +3,4 @@ export const definitions = [
   '"heteropolar"',
   '"heterosexual"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

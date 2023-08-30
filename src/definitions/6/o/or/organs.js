@@ -4,5 +4,4 @@ export const definitions = [
   '"the central organs of administration and business"',
   '"an article in the official organ of the Salvation Army"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

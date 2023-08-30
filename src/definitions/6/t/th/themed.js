@@ -3,5 +3,4 @@ export const definitions = [
   '"a golf-themed business park"',
   '"the amusement park will be themed as a Caribbean pirate stronghold"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

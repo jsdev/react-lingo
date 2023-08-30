@@ -4,5 +4,4 @@ export const definitions = [
   '"warmonger"',
   '"rumormonger"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

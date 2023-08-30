@@ -1,7 +1,2 @@
-export const definitions = [
-];
-export const synonyms = [
-  'poison',
-  'bane',
-  'toxicant',
-];
+export const definitions = [];
+export const synonyms = ["poison", "bane", "toxicant"];

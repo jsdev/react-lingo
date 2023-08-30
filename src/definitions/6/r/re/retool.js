@@ -5,5 +5,4 @@ export const definitions = [
   '"he likes to retool the old stories to make them relevant for today\'s kids"',
   '"perhaps one can even retool for the afterlife"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

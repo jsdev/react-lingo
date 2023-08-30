@@ -1,17 +1,17 @@
-import { Dialog, Transition } from '@headlessui/react';
-import { XCircleIcon } from '@heroicons/react/24/outline';
-import { Fragment } from 'react';
+import { Dialog, Transition } from "@headlessui/react";
+import { XCircleIcon } from "@heroicons/react/24/outline";
+import { Fragment } from "react";
 
 type Props = {
-  title: string
-  children: React.ReactNode
-  isOpen: boolean
-  handleClose: () => void
+  title: string;
+  children: React.ReactNode;
+  isOpen: boolean;
+  handleClose: () => void;
 };
 
 export const dialogStyles = {
-  display: 'grid',
-  gridTemplateColumns: '1fr 1em',
+  display: "grid",
+  gridTemplateColumns: "1fr 1em",
 };
 
 export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
@@ -61,7 +61,9 @@ export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
                       <XCircleIcon className="h-6 w-6 dark:stroke-white" />
                     </button>
                   </div>
-                  <div className="mt-2 text-gray-900 dark:text-gray-100">{children}</div>
+                  <div className="mt-2 text-gray-900 dark:text-gray-100">
+                    {children}
+                  </div>
                 </div>
               </div>
             </div>

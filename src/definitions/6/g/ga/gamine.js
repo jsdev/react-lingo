@@ -4,9 +4,4 @@ export const definitions = [
   '"a long-legged, short-haired gamine"',
   '"I left school and fell in with some gamines"',
 ];
-export const synonyms = [
-  'boyish',
-  'elfin',
-  'waifish',
-  'waiflike',
-];
+export const synonyms = ["boyish", "elfin", "waifish", "waiflike"];

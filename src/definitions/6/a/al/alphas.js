@@ -6,5 +6,4 @@ export const definitions = [
   '"_____ Centauri"',
   '"an _____ emitter"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

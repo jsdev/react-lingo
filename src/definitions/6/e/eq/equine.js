@@ -3,5 +3,4 @@ export const definitions = [
   '"her somewhat equine features"',
   '"they compared the behavior of humans and equines"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

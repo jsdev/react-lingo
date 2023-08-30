@@ -1,47 +1,46 @@
+import { ALERT_TIME_MS } from "../constants/settings";
 import {
   ReactNode,
   createContext,
   useCallback,
   useContext,
   useState,
-} from 'react';
+} from "react";
 
-import { ALERT_TIME_MS } from '../constants/settings';
-
-type AlertStatus = 'success' | 'error' | undefined;
+type AlertStatus = "success" | "error" | undefined;
 
 type ShowOptions = {
-  persist?: boolean
-  delayMs?: number
-  durationMs?: number
-  onClose?: () => void
+  persist?: boolean;
+  delayMs?: number;
+  durationMs?: number;
+  onClose?: () => void;
 };
 
 type AlertContextValue = {
-  status: AlertStatus
-  message: string | null
-  isVisible: boolean
-  showSuccess: (message: string, options?: ShowOptions) => void
-  showError: (message: string, options?: ShowOptions) => void
+  status: AlertStatus;
+  message: string | null;
+  isVisible: boolean;
+  showSuccess: (message: string, options?: ShowOptions) => void;
+  showError: (message: string, options?: ShowOptions) => void;
 };
 
 export const AlertContext = createContext<AlertContextValue | null>({
-  status: 'success',
+  status: "success",
   message: null,
   isVisible: false,
   showSuccess: () => null,
   showError: () => null,
 });
-AlertContext.displayName = 'AlertContext';
+AlertContext.displayName = "AlertContext";
 
 export const useAlert = () => useContext(AlertContext) as AlertContextValue;
 
 type Props = {
-  children?: ReactNode
+  children?: ReactNode;
 };
 
 export const AlertProvider = ({ children }: Props) => {
-  const [status, setStatus] = useState<AlertStatus>('success');
+  const [status, setStatus] = useState<AlertStatus>("success");
   const [message, setMessage] = useState<string | null>(null);
   const [isVisible, setIsVisible] = useState(false);
 
@@ -69,21 +68,21 @@ export const AlertProvider = ({ children }: Props) => {
         }
       }, delayMs);
     },
-    [setStatus, setMessage, setIsVisible],
+    [setStatus, setMessage, setIsVisible]
   );
 
   const showError = useCallback(
     (newMessage: string, options?: ShowOptions) => {
-      show('error', newMessage, options);
+      show("error", newMessage, options);
     },
-    [show],
+    [show]
   );
 
   const showSuccess = useCallback(
     (newMessage: string, options?: ShowOptions) => {
-      show('success', newMessage, options);
+      show("success", newMessage, options);
     },
-    [show],
+    [show]
   );
 
   return (

@@ -1,5 +1,2 @@
-export const definitions = [
-  '"I gimped over to the door"',
-];
-export const synonyms = [
-];
+export const definitions = ['"I gimped over to the door"'];
+export const synonyms = [];

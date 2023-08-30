@@ -3,12 +3,12 @@ export const definitions = [
   '"she curtsied onto the stage"',
 ];
 export const synonyms = [
-  'bob',
-  'genuflection',
-  'courtesy',
-  'obeisance',
-  'bend the knee',
-  'bob',
-  'genuflect',
-  'drop a curtsy',
+  "bob",
+  "genuflection",
+  "courtesy",
+  "obeisance",
+  "bend the knee",
+  "bob",
+  "genuflect",
+  "drop a curtsy",
 ];

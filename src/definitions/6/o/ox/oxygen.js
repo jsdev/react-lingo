@@ -3,5 +3,4 @@ export const definitions = [
   '"hydrogen and carbon in the fuel combine with the oxygen in the air to form carbon dioxide and water"',
   '"an oxygen supply"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

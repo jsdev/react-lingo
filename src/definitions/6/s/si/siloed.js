@@ -4,5 +4,4 @@ export const definitions = [
   '"most companies have expensive IT systems they have developed over the years, but they are siloed"',
   '"why are so many companies still siloing their SEO and social media marketing?"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

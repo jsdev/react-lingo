@@ -1,12 +1,11 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'platter',
-  'plate',
-  'dish',
-  'tray',
-  'trencher',
-  'charger',
-  'paten',
-  'ashet',
+  "platter",
+  "plate",
+  "dish",
+  "tray",
+  "trencher",
+  "charger",
+  "paten",
+  "ashet",
 ];

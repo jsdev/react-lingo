@@ -9,13 +9,13 @@ export const definitions = [
   '"the animals are finely tuned to life in the desert"',
 ];
 export const synonyms = [
-  'tune up',
-  'adjust (to the correct pitch)',
-  'attune',
-  'adapt',
-  'adjust',
-  'fine-tune',
-  'regulate',
-  'modulate',
-  'calibrate',
+  "tune up",
+  "adjust (to the correct pitch)",
+  "attune",
+  "adapt",
+  "adjust",
+  "fine-tune",
+  "regulate",
+  "modulate",
+  "calibrate",
 ];

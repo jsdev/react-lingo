@@ -10,10 +10,10 @@ export const definitions = [
   '"other Russians gamed at the tables in Monte Carlo"',
 ];
 export const synonyms = [
-  'gamble',
-  'bet',
-  'wager',
-  'place bets',
-  'lay bets',
-  'stake money',
+  "gamble",
+  "bet",
+  "wager",
+  "place bets",
+  "lay bets",
+  "stake money",
 ];

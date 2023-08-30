@@ -6,5 +6,4 @@ export const definitions = [
   '"how the deuce are we to make a profit?"',
   '"what the deuce are you trying to do?"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

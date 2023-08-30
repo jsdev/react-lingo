@@ -1,6 +1,2 @@
-export const definitions = [
-];
-export const synonyms = [
-  'pincer',
-  'nipper',
-];
+export const definitions = [];
+export const synonyms = ["pincer", "nipper"];

@@ -4,11 +4,11 @@ export const definitions = [
   '"four large brandies"',
 ];
 export const synonyms = [
-  'liquor',
-  'strong drink',
-  'gin',
-  'vodka',
-  'whiskey',
-  'rum',
-  'strong liquor',
+  "liquor",
+  "strong drink",
+  "gin",
+  "vodka",
+  "whiskey",
+  "rum",
+  "strong liquor",
 ];

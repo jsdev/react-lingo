@@ -4,11 +4,11 @@ export const definitions = [
   '"the stabbing took place during an argument at a party"',
 ];
 export const synonyms = [
-  'throughout',
-  'through',
-  'in',
-  'in the course of',
-  'throughout the time of',
-  'for the time of',
-  'in the time of',
+  "throughout",
+  "through",
+  "in",
+  "in the course of",
+  "throughout the time of",
+  "for the time of",
+  "in the time of",
 ];

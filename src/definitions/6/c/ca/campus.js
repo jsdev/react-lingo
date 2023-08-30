@@ -4,10 +4,9 @@ export const definitions = [
   '"off ______ frat house',
 ];
 export const synonyms = [
-  'school grounds',
-  'university buildings',
-  'academia',
-  'college grounds',
-  'dormatories',
-
+  "school grounds",
+  "university buildings",
+  "academia",
+  "college grounds",
+  "dormatories",
 ];

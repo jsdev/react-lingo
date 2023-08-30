@@ -6,5 +6,4 @@ export const definitions = [
   '"other players in the line-out may only move when the jumper has touched the ball"',
   '"an Olympic jumper"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

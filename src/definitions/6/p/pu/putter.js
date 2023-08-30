@@ -5,5 +5,4 @@ export const definitions = [
   '"early morning is the best time of the day to putter around in the garden"',
   '"the duck putters on the surface of the pond"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

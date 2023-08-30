@@ -3,5 +3,4 @@ export const definitions = [
   '"mealie pudding"',
   '"they arrive each day to sell mealies"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

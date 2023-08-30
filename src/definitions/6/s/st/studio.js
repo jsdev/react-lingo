@@ -9,11 +9,11 @@ export const definitions = [
   '"all apartments and studios have private facilities"',
 ];
 export const synonyms = [
-  'workshop',
-  'workroom',
-  'atelier',
-  'workplace',
-  'office',
-  'study',
-  'place of work',
+  "workshop",
+  "workroom",
+  "atelier",
+  "workplace",
+  "office",
+  "study",
+  "place of work",
 ];

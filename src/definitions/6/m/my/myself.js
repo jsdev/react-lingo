@@ -5,5 +5,4 @@ export const definitions = [
   '"I wrote it myself"',
   '"myself presented to him a bronze sword"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

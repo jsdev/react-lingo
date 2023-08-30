@@ -6,12 +6,12 @@ export const definitions = [
   '"Barbie doll wives"',
 ];
 export const synonyms = [
-  'barbecue',
-  'garden party',
-  'fête champêtre',
-  'clambake',
-  'cookout',
-  'burgoo',
-  'outdoor meal',
-  'al fresco meal',
+  "barbecue",
+  "garden party",
+  "fête champêtre",
+  "clambake",
+  "cookout",
+  "burgoo",
+  "outdoor meal",
+  "al fresco meal",
 ];

@@ -5,5 +5,4 @@ export const definitions = [
   '"both trainees were expertly mentored by a site supervisor"',
   '"mentoring should be encouraged"[more]New content will be added above the current area of focus upon selection',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

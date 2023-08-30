@@ -1,5 +1,2 @@
-export const definitions = [
-  '"a dentil frieze"',
-];
-export const synonyms = [
-];
+export const definitions = ['"a dentil frieze"'];
+export const synonyms = [];

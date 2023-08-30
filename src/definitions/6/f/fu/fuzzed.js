@@ -4,5 +4,4 @@ export const definitions = [
   '"tiny detail can be enlarged to poster size without fuzzing out"',
   '"her hair fuzzed out uncontrollably in the heat"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

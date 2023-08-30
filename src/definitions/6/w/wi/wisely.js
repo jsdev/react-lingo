@@ -3,5 +3,4 @@ export const definitions = [
   '"she wisely chose not to encourage him"',
   '"they nodded wisely in agreement"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

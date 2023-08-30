@@ -5,5 +5,4 @@ export const definitions = [
   '"there\'s a very blurry line between art and advertising"',
   '"my memories of him are blurry at best"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

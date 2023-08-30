@@ -3,12 +3,12 @@ export const definitions = [
   '"he was the eldest of the three"',
 ];
 export const synonyms = [
-  'oldest',
-  'first',
-  'firstborn',
-  'big',
-  'biggest',
-  'most grown up',
-  'youngest',
-  'littlest',
+  "oldest",
+  "first",
+  "firstborn",
+  "big",
+  "biggest",
+  "most grown up",
+  "youngest",
+  "littlest",
 ];

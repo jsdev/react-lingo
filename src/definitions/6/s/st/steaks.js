@@ -4,5 +4,4 @@ export const definitions = [
   '"braising steak"',
   '"steak and kidney pie"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -7,10 +7,4 @@ export const definitions = [
   '"______d beer"',
   '"the company has also gone into _____ing natural gas"',
 ];
-export const synonyms = [
-  'container',
-  'flask',
-  'carafe',
-  'decanter',
-  'pitcher',
-];
+export const synonyms = ["container", "flask", "carafe", "decanter", "pitcher"];

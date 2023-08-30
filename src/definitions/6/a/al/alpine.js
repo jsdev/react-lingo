@@ -5,13 +5,13 @@ export const definitions = [
   '"a collection of alpines and dwarf bulbs"',
 ];
 export const synonyms = [
-  'hilly',
-  'craggy',
-  'rocky',
-  'high',
-  'steep',
-  'precipitous',
-  'upland',
-  'highland',
-  'flat',
+  "hilly",
+  "craggy",
+  "rocky",
+  "high",
+  "steep",
+  "precipitous",
+  "upland",
+  "highland",
+  "flat",
 ];

@@ -3,11 +3,11 @@ export const definitions = [
   '"the steer ran straight and the header made a good catch"',
 ];
 export const synonyms = [
-  'kick',
-  'hit',
-  'throw',
-  'shot',
-  'fall',
-  'trip',
-  'spill',
+  "kick",
+  "hit",
+  "throw",
+  "shot",
+  "fall",
+  "trip",
+  "spill",
 ];

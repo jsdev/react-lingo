@@ -4,5 +4,4 @@ export const definitions = [
   '"a mastic sealant"',
   '"use a mastic between the joints"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

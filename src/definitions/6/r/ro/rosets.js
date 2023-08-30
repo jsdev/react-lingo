@@ -6,13 +6,13 @@ export const definitions = [
   '"three large round rosettes put together using table cut diamonds set in silvered gold"',
 ];
 export const synonyms = [
-  'ribbon',
-  'badge',
-  'token',
-  'keepsake',
-  'souvenir',
-  'memento',
-  'remembrancer',
-  'token of affection',
-  'token of esteem',
+  "ribbon",
+  "badge",
+  "token",
+  "keepsake",
+  "souvenir",
+  "memento",
+  "remembrancer",
+  "token of affection",
+  "token of esteem",
 ];

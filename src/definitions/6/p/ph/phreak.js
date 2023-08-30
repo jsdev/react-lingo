@@ -3,5 +3,4 @@ export const definitions = [
   '"prosecutors say he engaged in the practice of phreaking"',
   '"the nation\'s most clever cellular phone phreaks"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

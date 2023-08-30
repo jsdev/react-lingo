@@ -5,5 +5,4 @@ export const definitions = [
   '"street traders were hawking costume jewelry"',
   '"he hawked and spat into the flames"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

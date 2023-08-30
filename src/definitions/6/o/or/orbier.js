@@ -1,5 +1,2 @@
-export const definitions = [
-  '"a lunar orbiter"',
-];
-export const synonyms = [
-];
+export const definitions = ['"a lunar orbiter"'];
+export const synonyms = [];

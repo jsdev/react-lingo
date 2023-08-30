@@ -6,9 +6,9 @@ export const definitions = [
   '"neat writers"',
 ];
 export const synonyms = [
-  'author',
-  'wordsmith',
-  'penman',
-  'man/woman of letters',
-  'creative writer',
+  "author",
+  "wordsmith",
+  "penman",
+  "man/woman of letters",
+  "creative writer",
 ];

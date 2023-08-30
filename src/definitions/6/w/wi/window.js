@@ -6,12 +6,12 @@ export const definitions = [
   '"February 15 to March 15 should be the final window for new offers"',
 ];
 export const synonyms = [
-  'casement',
-  'opening',
-  'aperture',
-  'opportunity',
-  'chance',
-  'opening',
-  'suitable/opportune time',
-  'right moment',
+  "casement",
+  "opening",
+  "aperture",
+  "opportunity",
+  "chance",
+  "opening",
+  "suitable/opportune time",
+  "right moment",
 ];

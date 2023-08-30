@@ -6,5 +6,4 @@ export const definitions = [
   '"he prepared to job the huge brute"',
   '"immediately job a penknife into the throat"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

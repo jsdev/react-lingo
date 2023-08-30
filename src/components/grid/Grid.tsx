@@ -1,19 +1,19 @@
-import { MAX_CHALLENGES } from '../../constants/settings';
-import { CompletedRow } from './CompletedRow';
-import { CurrentRow } from './CurrentRow';
-import { EmptyRow } from './EmptyRow';
-import { FeedbackRow } from './FeedbackRow';
-import { HardenedCurrentRow } from './HardenedCurrentRow';
+import { MAX_CHALLENGES } from "../../constants/settings";
+import { CompletedRow } from "./CompletedRow";
+import { CurrentRow } from "./CurrentRow";
+import { EmptyRow } from "./EmptyRow";
+import { FeedbackRow } from "./FeedbackRow";
+import { HardenedCurrentRow } from "./HardenedCurrentRow";
 
 type Props = {
-  solution: string
-  hint: string
-  guesses: string[]
-  currentGuess: string
-  isRevealing?: boolean
-  currentRowClassName: string
-  isHardMode?: boolean
-  isFeedbackMode?: boolean
+  solution: string;
+  hint: string;
+  guesses: string[];
+  currentGuess: string;
+  isRevealing?: boolean;
+  currentRowClassName: string;
+  isHardMode?: boolean;
+  isFeedbackMode?: boolean;
 };
 
 export const Grid = ({
@@ -33,15 +33,17 @@ export const Grid = ({
 
   return (
     <>
-      {isFeedbackMode ?
+      {isFeedbackMode ? (
         <>
-          <FeedbackRow
-            guess={currentGuess}
-            className={currentRowClassName}
-          />
-          <div className="flex mt-2 ml-auto mr-auto justify-between mb-3 dark:text-gray-300">only exact matches will show</div>
-          <div className="flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300">{hint}</div>
-        </> :
+          <FeedbackRow guess={currentGuess} className={currentRowClassName} />
+          <div className="flex mt-2 ml-auto mr-auto justify-between mb-3 dark:text-gray-300">
+            only exact matches will show
+          </div>
+          <div className="flex ml-auto mr-auto justify-between mb-3 dark:text-gray-300">
+            {hint}
+          </div>
+        </>
+      ) : (
         guesses.map((guess, i) => (
           <CompletedRow
             key={i}
@@ -49,21 +51,20 @@ export const Grid = ({
             guess={guess}
             isRevealing={isRevealing && guesses.length - 1 === i}
           />
-        ))}
-      {isFeedbackMode ? '' : guesses.length < MAX_CHALLENGES && (
-        isHardMode ?
-          <HardenedCurrentRow
-            guess={currentGuess}
-            className={currentRowClassName}
-          /> :
-          <CurrentRow
-            guess={currentGuess}
-            className={currentRowClassName}
-          />
+        ))
       )}
-      {isFeedbackMode ? '' : empties.map((_, i) => (
-        <EmptyRow key={i} />
-      ))}
+      {isFeedbackMode
+        ? ""
+        : guesses.length < MAX_CHALLENGES &&
+          (isHardMode ? (
+            <HardenedCurrentRow
+              guess={currentGuess}
+              className={currentRowClassName}
+            />
+          ) : (
+            <CurrentRow guess={currentGuess} className={currentRowClassName} />
+          ))}
+      {isFeedbackMode ? "" : empties.map((_, i) => <EmptyRow key={i} />)}
     </>
   );
 };

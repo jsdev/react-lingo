@@ -1,5 +1,2 @@
-export const definitions = [
-  '"having trouble, dearie?"',
-];
-export const synonyms = [
-];
+export const definitions = ['"having trouble, dearie?"'];
+export const synonyms = [];

@@ -4,5 +4,4 @@ export const definitions = [
   '"they outmanned their opponents all season long with very convincing victories"',
   '"Mexico controlled the game and ran circles around the outmanned Guatemalan team"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

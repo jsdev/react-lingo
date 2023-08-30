@@ -3,5 +3,4 @@ export const definitions = [
   '"a beachy dress and handbag"',
   '"she\'s gone blonde, with tousled, beachy waves"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

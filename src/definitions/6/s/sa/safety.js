@@ -5,11 +5,11 @@ export const definitions = [
   '"a safety helmet"',
 ];
 export const synonyms = [
-  'welfare',
-  'well-being',
-  'protection',
-  'security',
-  'harmlessness',
-  'lack of side effects',
-  'danger',
+  "welfare",
+  "well-being",
+  "protection",
+  "security",
+  "harmlessness",
+  "lack of side effects",
+  "danger",
 ];

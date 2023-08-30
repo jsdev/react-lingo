@@ -4,11 +4,11 @@ export const definitions = [
   '"the kernels of this fruit the Arabs bray in a mortar"',
 ];
 export const synonyms = [
-  'neigh',
-  'whinny',
-  'hee-haw',
-  'hinny',
-  'roar',
-  'bellow',
-  'trumpet',
+  "neigh",
+  "whinny",
+  "hee-haw",
+  "hinny",
+  "roar",
+  "bellow",
+  "trumpet",
 ];

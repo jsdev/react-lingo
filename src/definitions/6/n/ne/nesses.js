@@ -1,5 +1,2 @@
-export const definitions = [
-  '"Orford Ness"',
-];
-export const synonyms = [
-];
+export const definitions = ['"Orford Ness"'];
+export const synonyms = [];

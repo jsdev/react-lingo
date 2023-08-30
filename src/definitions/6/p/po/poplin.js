@@ -3,5 +3,4 @@ export const definitions = [
   '"a worn black poplin skirt"',
   '"the selection includes gabardines, poplins, and lawns"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

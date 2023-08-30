@@ -3,12 +3,12 @@ export const definitions = [
   '"the posterior rectus muscle, which abducts the eye"',
 ];
 export const synonyms = [
-  'carry off',
-  'capture',
-  'seize',
-  'snatch',
-  'hijack',
-  'hold to ransom',
-  'take as hostage',
-  'run off/away with',
+  "carry off",
+  "capture",
+  "seize",
+  "snatch",
+  "hijack",
+  "hold to ransom",
+  "take as hostage",
+  "run off/away with",
 ];

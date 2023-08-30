@@ -3,12 +3,12 @@ export const definitions = [
   '"doubly mutant cells"',
 ];
 export const synonyms = [
-  'especially',
-  'extra',
-  'twice as',
-  'as … again',
-  'in double measure',
-  'in two ways',
-  'for two',
-  'even more',
+  "especially",
+  "extra",
+  "twice as",
+  "as … again",
+  "in double measure",
+  "in two ways",
+  "for two",
+  "even more",
 ];

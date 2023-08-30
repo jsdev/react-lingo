@@ -7,10 +7,10 @@ export const definitions = [
   '"I bought a beater and drove that for a few years"',
 ];
 export const synonyms = [
-  'blender',
-  'food processor',
-  'liquidizer',
-  'stirrer',
-  'churn',
-  'whisk',
+  "blender",
+  "food processor",
+  "liquidizer",
+  "stirrer",
+  "churn",
+  "whisk",
 ];

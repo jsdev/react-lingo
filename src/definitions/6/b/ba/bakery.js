@@ -3,5 +3,4 @@ export const definitions = [
   '"an assortment of bakery goods"',
   '"a table overflowing with homemade bakery and wine"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

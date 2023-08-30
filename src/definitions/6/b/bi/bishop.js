@@ -1,10 +1,9 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'prelate',
-  'diocesan',
-  'metropolitan',
-  'suffragan',
-  'coadjutor',
-  'exarch',
+  "prelate",
+  "diocesan",
+  "metropolitan",
+  "suffragan",
+  "coadjutor",
+  "exarch",
 ];

@@ -4,5 +4,4 @@ export const definitions = [
   '"a snake phobic"',
   '"I\'m arachnophobic"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

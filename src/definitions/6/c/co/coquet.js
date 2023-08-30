@@ -3,9 +3,9 @@ export const definitions = [
   '"for a while he coquetted with engineering"',
 ];
 export const synonyms = [
-  'womanize',
-  'flirt',
-  'have affairs/an affair',
-  'trifle/toy/dally with someone\'s affections',
-  'be a carpet knight',
+  "womanize",
+  "flirt",
+  "have affairs/an affair",
+  "trifle/toy/dally with someone's affections",
+  "be a carpet knight",
 ];

@@ -3,5 +3,4 @@ export const definitions = [
   '"traditional gridded windows"',
   '"the fen is gridded by intersecting dykes"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

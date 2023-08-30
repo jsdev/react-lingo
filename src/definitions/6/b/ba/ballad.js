@@ -4,12 +4,12 @@ export const definitions = [
   '"a traditional Irish folk ballad"',
 ];
 export const synonyms = [
-  'song',
-  'folk song',
-  'shanty',
-  'ditty',
-  'canzone',
-  'poem',
-  'tale',
-  'saga',
+  "song",
+  "folk song",
+  "shanty",
+  "ditty",
+  "canzone",
+  "poem",
+  "tale",
+  "saga",
 ];

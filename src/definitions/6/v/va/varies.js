@@ -3,5 +3,4 @@ export const definitions = [
   '"your skin\'s moisture content varies according to climatic conditions"',
   '"he tried to vary his diet"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

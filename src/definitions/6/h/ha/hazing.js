@@ -4,5 +4,4 @@ export const definitions = [
   '"rookies were mercilessly hazed"',
   '"he hazed them on and they clambered up through the rocks"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

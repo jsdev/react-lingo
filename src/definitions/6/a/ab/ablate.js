@@ -3,5 +3,4 @@ export const definitions = [
   '"drying winds slowly ablate away the ice"',
   '"the laser beam can ablate solid rock from seven metres away"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

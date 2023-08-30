@@ -4,12 +4,12 @@ export const definitions = [
   '"the Russians and their Slavic cousins"',
 ];
 export const synonyms = [
-  'relative',
-  'relation',
-  'next of kin',
-  'uncle',
-  'nephew',
-  'blood relation/relative',
-  'family member',
-  'one\'s own flesh and blood',
+  "relative",
+  "relation",
+  "next of kin",
+  "uncle",
+  "nephew",
+  "blood relation/relative",
+  "family member",
+  "one's own flesh and blood",
 ];

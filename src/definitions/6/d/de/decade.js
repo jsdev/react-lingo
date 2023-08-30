@@ -4,12 +4,12 @@ export const definitions = [
   '"a local priest led the mourners in a decade of the rosary"',
 ];
 export const synonyms = [
-  'age',
-  'time',
-  'period',
-  'era',
-  'epoch',
-  'century',
-  'year',
-  'stage',
+  "age",
+  "time",
+  "period",
+  "era",
+  "epoch",
+  "century",
+  "year",
+  "stage",
 ];

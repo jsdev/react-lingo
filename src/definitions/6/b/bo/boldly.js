@@ -4,5 +4,4 @@ export const definitions = [
   '"thieves who boldly robbed the wounded and helpless passengers"',
   '"I grabbed a couple of boldly patterned fabric samples"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

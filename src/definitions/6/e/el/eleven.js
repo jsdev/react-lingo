@@ -4,5 +4,4 @@ export const definitions = [
   '"the eldest is only eleven"',
   '"she often worked until eleven at night"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -4,12 +4,12 @@ export const definitions = [
   '"funked - up songs"',
 ];
 export const synonyms = [
-  'avoid',
-  'evade',
-  'dodge',
-  'escape from',
-  'run away from',
-  'balk at',
-  'flinch from',
-  'wuss out',
+  "avoid",
+  "evade",
+  "dodge",
+  "escape from",
+  "run away from",
+  "balk at",
+  "flinch from",
+  "wuss out",
 ];

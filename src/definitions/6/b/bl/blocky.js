@@ -1,5 +1,2 @@
-export const definitions = [
-  '"blocky granite"',
-];
-export const synonyms = [
-];
+export const definitions = ['"blocky granite"'];
+export const synonyms = [];

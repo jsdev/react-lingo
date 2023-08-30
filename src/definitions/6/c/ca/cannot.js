@@ -3,7 +3,4 @@ export const definitions = [
   '"the possibility cannot be excluded"',
   '"she cannot walk unaided"',
 ];
-export const synonyms = [
-  'impeded',
-  'undoable',
-];
+export const synonyms = ["impeded", "undoable"];

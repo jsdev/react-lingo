@@ -3,5 +3,4 @@ export const definitions = [
   '"choral singing"',
   '"a choral scholar"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -1,9 +1,8 @@
-import { fail } from 'assert';
+import { VALID_GUESSES } from "./validGuesses";
+import { fail } from "assert";
 
-import { VALID_GUESSES } from './validGuesses';
-
-describe('valid guesses', () => {
-  test('words are unique', () => {
+describe("valid guesses", () => {
+  test("words are unique", () => {
     const uniqueWords = Array.from(new Set(VALID_GUESSES));
 
     expect(VALID_GUESSES.length).toEqual(uniqueWords.length);

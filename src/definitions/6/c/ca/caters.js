@@ -4,13 +4,13 @@ export const definitions = [
   '"my mother helped to cater for the party"',
 ];
 export const synonyms = [
-  'feed',
-  'serve',
-  'regale',
-  'provision',
-  'victual',
-  'provide food for',
-  'cook for',
-  'wine and dine',
-  'provide for',
+  "feed",
+  "serve",
+  "regale",
+  "provision",
+  "victual",
+  "provide food for",
+  "cook for",
+  "wine and dine",
+  "provide for",
 ];

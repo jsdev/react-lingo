@@ -1,5 +1,2 @@
-export const definitions = [
-  '"a bitmapped background"',
-];
-export const synonyms = [
-];
+export const definitions = ['"a bitmapped background"'];
+export const synonyms = [];

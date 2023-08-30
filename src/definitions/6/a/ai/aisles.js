@@ -4,12 +4,12 @@ export const definitions = [
   '"the tiled roof over the south aisle"',
 ];
 export const synonyms = [
-  'passage',
-  'passageway',
-  'corridor',
-  'gangway',
-  'walkway',
-  'path',
-  'lane',
-  'alley',
+  "passage",
+  "passageway",
+  "corridor",
+  "gangway",
+  "walkway",
+  "path",
+  "lane",
+  "alley",
 ];

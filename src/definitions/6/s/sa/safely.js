@@ -10,5 +10,4 @@ export const definitions = [
   '"all crews have returned safely from their missions"',
   '"we are relieved to have arrived safely"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

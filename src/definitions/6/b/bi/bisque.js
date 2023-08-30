@@ -3,5 +3,4 @@ export const definitions = [
   '"bisque figurines"',
   '"shades of bisque, taupe, and chocolate brown"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

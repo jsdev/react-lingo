@@ -3,5 +3,4 @@ export const definitions = [
   '"flensing knives"',
   '"the skin had been flensed off"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

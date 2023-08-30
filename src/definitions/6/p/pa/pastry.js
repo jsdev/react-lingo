@@ -3,11 +3,11 @@ export const definitions = [
   '"brightly colored cakes and pastries"',
 ];
 export const synonyms = [
-  'tart',
-  'tartlet',
-  'pie',
-  'pasty',
-  'patty',
-  'turnover',
-  'slice',
+  "tart",
+  "tartlet",
+  "pie",
+  "pasty",
+  "patty",
+  "turnover",
+  "slice",
 ];

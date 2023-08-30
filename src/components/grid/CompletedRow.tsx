@@ -1,12 +1,12 @@
-import { VALID_GUESSES6 } from '../../constants/validGuesses';
-import { getGuessStatuses } from '../../lib/statuses';
-import { unicodeSplit } from '../../lib/words';
-import { Cell } from './Cell';
+import { VALID_GUESSES6 } from "../../constants/validGuesses";
+import { getGuessStatuses } from "../../lib/statuses";
+import { unicodeSplit } from "../../lib/words";
+import { Cell } from "./Cell";
 
 type Props = {
-  solution: string
-  guess: string
-  isRevealing?: boolean
+  solution: string;
+  guess: string;
+  isRevealing?: boolean;
 };
 
 export const CompletedRow = ({ solution, guess, isRevealing }: Props) => {

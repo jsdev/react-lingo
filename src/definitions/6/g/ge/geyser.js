@@ -3,13 +3,13 @@ export const definitions = [
   '"yellow smoke geysered upward"',
 ];
 export const synonyms = [
-  'well head',
-  'source',
-  'spa',
-  'hot spring',
-  'thermal spring',
-  'sulfur spring',
-  'well',
-  'wellspring',
-  'fount',
+  "well head",
+  "source",
+  "spa",
+  "hot spring",
+  "thermal spring",
+  "sulfur spring",
+  "well",
+  "wellspring",
+  "fount",
 ];

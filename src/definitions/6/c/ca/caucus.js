@@ -11,5 +11,4 @@ export const definitions = [
   '"there is one Independent who caucuses with the Democrats"',
   '"more than half of those young people that caucused yesterday caucused for Barack Obama"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

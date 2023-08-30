@@ -1,5 +1,2 @@
-export const definitions = [
-  '"a phasor diagram"',
-];
-export const synonyms = [
-];
+export const definitions = ['"a phasor diagram"'];
+export const synonyms = [];

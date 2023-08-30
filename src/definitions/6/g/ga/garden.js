@@ -6,12 +6,12 @@ export const definitions = [
   '"she wrote books, kept journals, and gardened"',
 ];
 export const synonyms = [
-  'plot',
-  'lawn',
-  'park',
-  'estate',
-  'grounds',
-  'yard',
-  'garth',
-  'piece of land',
+  "plot",
+  "lawn",
+  "park",
+  "estate",
+  "grounds",
+  "yard",
+  "garth",
+  "piece of land",
 ];

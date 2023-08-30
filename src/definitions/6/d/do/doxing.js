@@ -4,5 +4,4 @@ export const definitions = [
   '"she repeatedly leaked private data of individuals in doxxing groups on social media"',
   '"hackers and online vigilantes routinely dox both public and private figures"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

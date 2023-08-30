@@ -1,5 +1,2 @@
-export const definitions = [
-  '"damson jam"',
-];
-export const synonyms = [
-];
+export const definitions = ['"damson jam"'];
+export const synonyms = [];

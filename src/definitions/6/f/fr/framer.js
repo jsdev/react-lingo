@@ -3,5 +3,4 @@ export const definitions = [
   '"the Framers would have a hard time recognizing the modern presidency"',
   '"in a frame shop or gallery framers work normal shop hours"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

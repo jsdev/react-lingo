@@ -5,9 +5,9 @@ export const definitions = [
   '"he bussed her on the cheek"',
 ];
 export const synonyms = [
-  'air-kiss',
-  'osculate',
-  'plant a kiss on',
-  'brush one\'s lips against',
-  'blow a kiss to',
+  "air-kiss",
+  "osculate",
+  "plant a kiss on",
+  "brush one's lips against",
+  "blow a kiss to",
 ];

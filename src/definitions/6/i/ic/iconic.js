@@ -3,5 +3,4 @@ export const definitions = [
   '"he wasn\'t the first actor to play the iconic character"',
   '"a respected photographer known for capturing iconic images of reggae legends"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

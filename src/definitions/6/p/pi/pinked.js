@@ -5,5 +5,4 @@ export const definitions = [
   '"April pinked the earth with flowers"',
   '"the car was inclined to pink slightly in accelerating from a low engine speed"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

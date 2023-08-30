@@ -3,9 +3,9 @@ export const definitions = [
   '"he was ladling out his personal philosophy of life"',
 ];
 export const synonyms = [
-  'serve',
-  'bail out',
-  'spoon out',
-  'scoop out',
-  'dish up/out',
+  "serve",
+  "bail out",
+  "spoon out",
+  "scoop out",
+  "dish up/out",
 ];

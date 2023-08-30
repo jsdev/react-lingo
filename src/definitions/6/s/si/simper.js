@@ -4,10 +4,10 @@ export const definitions = [
   '"an exaggerated simper"',
 ];
 export const synonyms = [
-  'giggle',
-  'titter',
-  'smirk',
-  'smile affectedly',
-  'smile coquettishly',
-  'look coy',
+  "giggle",
+  "titter",
+  "smirk",
+  "smile affectedly",
+  "smile coquettishly",
+  "look coy",
 ];

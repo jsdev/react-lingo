@@ -5,5 +5,4 @@ export const definitions = [
   '"a winter apple"',
   '"birds wintering in the Caribbean"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

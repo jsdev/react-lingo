@@ -4,13 +4,13 @@ export const definitions = [
   '"you can apply your lipstick straight from the bullet but I like to use a brush"',
 ];
 export const synonyms = [
-  'ball',
-  'shot',
-  'lead',
-  'ball',
-  'shot',
-  'lead',
-  'ball',
-  'shot',
-  'lead',
+  "ball",
+  "shot",
+  "lead",
+  "ball",
+  "shot",
+  "lead",
+  "ball",
+  "shot",
+  "lead",
 ];

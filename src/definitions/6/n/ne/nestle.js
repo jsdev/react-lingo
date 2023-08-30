@@ -5,13 +5,13 @@ export const definitions = [
   '"the hotel is nestled between two headlands"',
 ];
 export const synonyms = [
-  'snuggle',
-  'huddle',
-  'nuzzle',
-  'settle',
-  'burrow',
-  'cuddle (up)',
-  'curl up',
-  'lie close',
-  'snug down',
+  "snuggle",
+  "huddle",
+  "nuzzle",
+  "settle",
+  "burrow",
+  "cuddle (up)",
+  "curl up",
+  "lie close",
+  "snug down",
 ];

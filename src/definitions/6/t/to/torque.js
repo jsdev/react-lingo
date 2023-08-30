@@ -3,5 +3,4 @@ export const definitions = [
   '"during the excitation of each phase the motor produces equal positive and negative torques"',
   '"he gently torqued the hip joint"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

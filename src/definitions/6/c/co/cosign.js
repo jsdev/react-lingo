@@ -4,5 +4,4 @@ export const definitions = [
   '"he is joined by a host of musical artists who co-signed an open letter to the US Congress"',
   '"I co-sign all the advice on this thread"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

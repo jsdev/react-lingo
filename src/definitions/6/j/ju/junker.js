@@ -5,11 +5,11 @@ export const definitions = [
   '"Junker resistance to the abolition of serfdom"',
 ];
 export const synonyms = [
-  'abuser',
-  'user',
-  'viper',
-  'narcotist',
-  'morphinist',
-  'morphiomaniac',
-  'etheromaniac',
+  "abuser",
+  "user",
+  "viper",
+  "narcotist",
+  "morphinist",
+  "morphiomaniac",
+  "etheromaniac",
 ];

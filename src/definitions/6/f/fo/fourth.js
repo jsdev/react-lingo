@@ -6,5 +6,4 @@ export const definitions = [
   '"he took the corner at the end of the road in fourth"',
   '"third, visit popular attractions during lunch; fourth, stay late"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -1,14 +1,12 @@
-import { UAParser } from 'ua-parser-js';
+import { MAX_CHALLENGES } from "../constants/settings";
+import { GAME_TITLE } from "../constants/strings";
+import { VALID_GUESSES6 } from "../constants/validGuesses";
+import { CharStatus } from "./enums/status";
+import { getGuessStatuses } from "./statuses";
+import { solutionIndex, unicodeSplit } from "./words";
+import { UAParser } from "ua-parser-js";
 
-import { MAX_CHALLENGES } from '../constants/settings';
-import { GAME_TITLE } from '../constants/strings';
-import { getGuessStatuses } from './statuses';
-
-import { solutionIndex, unicodeSplit } from './words';
-import { VALID_GUESSES6 } from '../constants/validGuesses';
-import { CharStatus } from './enums/status';
-
-const webShareApiDeviceTypes: string[] = ['mobile', 'smarttv', 'wearable'];
+const webShareApiDeviceTypes: string[] = ["mobile", "smarttv", "wearable"];
 const parser = new UAParser();
 const browser = parser.getBrowser();
 const device = parser.getDevice();
@@ -16,7 +14,7 @@ const device = parser.getDevice();
 export const generateEmojiGrid = (
   solution: string,
   guesses: string[],
-  tiles: string[],
+  tiles: string[]
 ) => {
   return guesses
     .map((guess) => {
@@ -34,28 +32,31 @@ export const generateEmojiGrid = (
               return tiles[2];
           }
         })
-        .join('');
+        .join("");
     })
-    .join('\n');
+    .join("\n");
 };
 
 const attemptShare = (shareData: object) => {
   return (
     // Deliberately exclude Firefox Mobile, because its Web Share API isn't working correctly
-    browser.name?.toUpperCase().indexOf('FIREFOX') === -1 &&
-    webShareApiDeviceTypes.indexOf(device.type ?? '') !== -1 &&
+    browser.name?.toUpperCase().indexOf("FIREFOX") === -1 &&
+    webShareApiDeviceTypes.indexOf(device.type ?? "") !== -1 &&
     navigator.canShare &&
     navigator.canShare(shareData) &&
     navigator.share
   );
 };
 
-const getEmojiTiles = (isDarkMode: boolean, isHighContrastMode: boolean): string[] => {
+const getEmojiTiles = (
+  isDarkMode: boolean,
+  isHighContrastMode: boolean
+): string[] => {
   const tiles: string[] = [];
 
-  tiles.push(isHighContrastMode ? '🟧' : '🟩');
-  tiles.push(isHighContrastMode ? '🟦' : '🟨');
-  tiles.push(isDarkMode ? '⬛' : '⬜');
+  tiles.push(isHighContrastMode ? "🟧" : "🟩");
+  tiles.push(isHighContrastMode ? "🟦" : "🟨");
+  tiles.push(isDarkMode ? "⬛" : "⬜");
 
   return tiles;
 };
@@ -68,15 +69,16 @@ export const shareStatus = (
   isDarkMode: boolean,
   isHighContrastMode: boolean,
   handleShareToClipboard: () => void,
-  handleShareFailure: () => void,
+  handleShareFailure: () => void
 ) => {
   const textToShare =
-    `${GAME_TITLE} ${solutionIndex} ${lost ? 'X' : guesses.length
-    }/${MAX_CHALLENGES}${isHardMode ? ' ' : ''}\n\n` +
+    `${GAME_TITLE} ${solutionIndex} ${
+      lost ? "X" : guesses.length
+    }/${MAX_CHALLENGES}${isHardMode ? " " : ""}\n\n` +
     generateEmojiGrid(
       solution,
       guesses,
-      getEmojiTiles(isDarkMode, isHighContrastMode),
+      getEmojiTiles(isDarkMode, isHighContrastMode)
     );
 
   const shareData = { text: textToShare };

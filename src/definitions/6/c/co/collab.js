@@ -3,5 +3,4 @@ export const definitions = [
   '"the ad is a nice little collab between Hollywood studios and Apple"',
   '"Adam also wants to collab with Ed Sheeran who is his labelmate"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

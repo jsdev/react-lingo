@@ -3,5 +3,4 @@ export const definitions = [
   '"laxity of discipline"',
   '"over-stretching can result in joint laxity"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

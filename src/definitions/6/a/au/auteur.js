@@ -1,9 +1,8 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'supervisor',
-  'controller',
-  'regisseur',
-  'producer',
-  'choreographer',
+  "supervisor",
+  "controller",
+  "regisseur",
+  "producer",
+  "choreographer",
 ];

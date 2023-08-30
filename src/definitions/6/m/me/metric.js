@@ -8,5 +8,4 @@ export const definitions = [
   '"it\'s easier to work in metric"',
   '"the public recitation of metric, rhyming verse"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

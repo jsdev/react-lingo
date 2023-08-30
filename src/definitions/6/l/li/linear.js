@@ -9,12 +9,12 @@ export const definitions = [
   '"a linear narrative"',
 ];
 export const synonyms = [
-  'unswerving',
-  'undeviating',
-  'direct',
-  'as straight as an arrow',
-  'unbending',
-  'uncurving',
-  'winding',
-  'zigzag',
+  "unswerving",
+  "undeviating",
+  "direct",
+  "as straight as an arrow",
+  "unbending",
+  "uncurving",
+  "winding",
+  "zigzag",
 ];

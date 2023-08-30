@@ -1,11 +1,10 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'container',
-  'flask',
-  'carafe',
-  'decanter',
-  'pitcher',
-  'flagon',
-  'demijohn',
+  "container",
+  "flask",
+  "carafe",
+  "decanter",
+  "pitcher",
+  "flagon",
+  "demijohn",
 ];

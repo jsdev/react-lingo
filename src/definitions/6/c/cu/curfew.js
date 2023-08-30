@@ -4,5 +4,4 @@ export const definitions = [
   '"to be out after curfew without permission was to risk punishment"',
   '"they had to return before the curfew sounded"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

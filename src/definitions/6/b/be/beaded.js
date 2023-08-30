@@ -5,5 +5,4 @@ export const definitions = [
   '"seashells beaded into belts"',
   '"his face was beaded with perspiration"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -3,5 +3,4 @@ export const definitions = [
   '"she balled her fist so that the nails dug into her palms"',
   '"the fishing nets eventually ball up and sink"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

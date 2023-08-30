@@ -3,11 +3,11 @@ export const definitions = [
   '"the first sip gives a malty taste that never cloys"',
 ];
 export const synonyms = [
-  'pall',
-  'become sickening',
-  'become nauseating',
-  'become distasteful',
-  'become tedious',
-  'become tiresome',
-  'be excessive',
+  "pall",
+  "become sickening",
+  "become nauseating",
+  "become distasteful",
+  "become tedious",
+  "become tiresome",
+  "be excessive",
 ];

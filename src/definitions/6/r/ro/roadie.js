@@ -3,5 +3,4 @@ export const definitions = [
   '"Peter\'s a roadie making his first foray into mountain biking"',
   '"Norm used to roadie for Ten Years After"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

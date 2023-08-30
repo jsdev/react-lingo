@@ -3,11 +3,11 @@ export const definitions = [
   '"the text was interspersed with doodles"',
 ];
 export const synonyms = [
-  'scratch',
-  'scrawl',
-  'dash off',
-  'write hurriedly',
-  'write untidily',
-  'write illegibly',
-  'jot (down)',
+  "scratch",
+  "scrawl",
+  "dash off",
+  "write hurriedly",
+  "write untidily",
+  "write illegibly",
+  "jot (down)",
 ];

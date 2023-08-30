@@ -3,5 +3,4 @@ export const definitions = [
   '"axons distal to the injury will degenerate"',
   '"the distal zone"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

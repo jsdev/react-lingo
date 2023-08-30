@@ -3,12 +3,12 @@ export const definitions = [
   '"why are we perpetually trying to revive the corpse of cursive, anyway?"',
 ];
 export const synonyms = [
-  'body',
-  'cadaver',
-  'carcass',
-  'skeleton',
-  'remains',
-  'relics',
-  'corse',
-  'dead body',
+  "body",
+  "cadaver",
+  "carcass",
+  "skeleton",
+  "remains",
+  "relics",
+  "corse",
+  "dead body",
 ];

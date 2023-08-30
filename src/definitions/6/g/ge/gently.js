@@ -6,5 +6,4 @@ export const definitions = [
   '"a gently undulating landscape"',
   '"the lawn slopes gently to the river"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

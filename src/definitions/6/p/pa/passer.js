@@ -4,5 +4,4 @@ export const definitions = [
   '"one of the league\'s most accurate passers"',
   '"a passer of legislation"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

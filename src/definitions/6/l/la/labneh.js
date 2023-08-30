@@ -1,5 +1,2 @@
-export const definitions = [
-  '"fried cauliflower with labneh"',
-];
-export const synonyms = [
-];
+export const definitions = ['"fried cauliflower with labneh"'];
+export const synonyms = [];

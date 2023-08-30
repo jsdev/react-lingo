@@ -9,5 +9,4 @@ export const definitions = [
   '"softly undulating hills"',
   '"her softly rounded belly"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

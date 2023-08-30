@@ -3,5 +3,4 @@ export const definitions = [
   '"a carny atmosphere"',
   '"Finley\'s carny approach to baseball"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

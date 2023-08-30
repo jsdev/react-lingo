@@ -4,5 +4,4 @@ export const definitions = [
   '"the roots are several inches long, though the plant itself is only a foot tall"',
   '"Mrs. Vincent was kindness itself"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

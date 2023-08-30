@@ -4,8 +4,8 @@ export const definitions = [
   '"they arrive each day to sell mealies"',
 ];
 export const synonyms = [
-  'sweetcorn',
-  'maize',
-  'corn on the cob',
-  'Indian corn',
+  "sweetcorn",
+  "maize",
+  "corn on the cob",
+  "Indian corn",
 ];

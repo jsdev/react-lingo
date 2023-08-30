@@ -5,11 +5,11 @@ export const definitions = [
   '"the shares bucked the market trend"',
 ];
 export const synonyms = [
-  'resist',
-  'oppose',
-  'contradict',
-  'defy',
-  'go against',
-  'kick against',
-  'fight (against)',
+  "resist",
+  "oppose",
+  "contradict",
+  "defy",
+  "go against",
+  "kick against",
+  "fight (against)",
 ];

@@ -5,5 +5,4 @@ export const definitions = [
   '"Jim competes as a veteran in Nordic events in Scotland"',
   '"the Nordics might share a common history, speak similar languages, enjoy the same culture"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

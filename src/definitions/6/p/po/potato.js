@@ -3,5 +3,4 @@ export const definitions = [
   '"the meal comes with rice or potato"',
   '"leek and potato soup"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

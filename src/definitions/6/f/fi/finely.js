@@ -14,5 +14,4 @@ export const definitions = [
   '"the contest for the presidency is finely balanced"',
   '"they both turn in finely nuanced performances"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

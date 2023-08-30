@@ -1,10 +1,9 @@
-import { fail } from 'assert';
-
-import { WORDS } from './wordlist';
+import { WORDS } from "./wordlist";
+import { fail } from "assert";
 
 // You may not want the list of solutions to be unique. In that case, disable this test
-describe('wordlist', () => {
-  test('words are unique', () => {
+describe("wordlist", () => {
+  test("words are unique", () => {
     const uniqueWords = Array.from(new Set(WORDS));
 
     expect(WORDS.length).toEqual(uniqueWords.length);

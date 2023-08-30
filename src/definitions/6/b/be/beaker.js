@@ -4,10 +4,10 @@ export const definitions = [
   '"the distinctive funnel-neck beaker is the calling card of the first Neolithic farmers along the Baltic"',
 ];
 export const synonyms = [
-  'cup',
-  'tumbler',
-  'glass',
-  'mug',
-  'jug',
-  'drinking vessel',
+  "cup",
+  "tumbler",
+  "glass",
+  "mug",
+  "jug",
+  "drinking vessel",
 ];

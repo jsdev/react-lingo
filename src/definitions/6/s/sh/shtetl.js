@@ -3,5 +3,4 @@ export const definitions = [
   '"childhood was shtetl life transplanted, Brooklyn colored by Old World reverberations"',
   '"the transformation of gay literature, its emergence from the shtetl, continues apace"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

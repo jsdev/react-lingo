@@ -5,5 +5,4 @@ export const definitions = [
   '"crypto markets"',
   '"cryptogram"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

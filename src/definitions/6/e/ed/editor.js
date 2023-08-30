@@ -3,5 +3,4 @@ export const definitions = [
   '"a sports editor"',
   '"you will be able to use the editor to make any changes you want"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -1,5 +1,2 @@
-export const definitions = [
-  '"her elaborately coiffed hair"',
-];
-export const synonyms = [
-];
+export const definitions = ['"her elaborately coiffed hair"'];
+export const synonyms = [];

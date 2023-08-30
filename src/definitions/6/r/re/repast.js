@@ -1,11 +1,9 @@
-export const definitions = [
-  '"a sumptuous repast"',
-];
+export const definitions = ['"a sumptuous repast"'];
 export const synonyms = [
-  'meal',
-  'feast',
-  'banquet',
-  'snack',
-  'collation',
-  'refection',
+  "meal",
+  "feast",
+  "banquet",
+  "snack",
+  "collation",
+  "refection",
 ];

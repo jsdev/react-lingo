@@ -3,5 +3,4 @@ export const definitions = [
   '"nudist beaches"',
   '"a nudist camp"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

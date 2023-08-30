@@ -3,5 +3,4 @@ export const definitions = [
   '"a title based on an older seisin"',
   '"Richard Fitzhugh did not take seisin of his lands until 1480"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

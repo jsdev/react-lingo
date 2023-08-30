@@ -5,9 +5,9 @@ export const definitions = [
   '"he checked into a London clinic to dry out"',
 ];
 export const synonyms = [
-  'give up drinking',
-  'give up alcohol',
-  'become teetotal',
-  'overcome alcoholism',
-  'take the pledge',
+  "give up drinking",
+  "give up alcohol",
+  "become teetotal",
+  "overcome alcoholism",
+  "take the pledge",
 ];

@@ -1,12 +1,11 @@
-import { ArrowRightOnRectangleIcon } from '@heroicons/react/24/outline';
-
 import {
   MIGRATE_BUTTON_TEXT,
   MIGRATE_DESCRIPTION_TEXT,
-} from '../../constants/strings';
+} from "../../constants/strings";
+import { ArrowRightOnRectangleIcon } from "@heroicons/react/24/outline";
 
 type Props = {
-  handleMigrateStatsButton: () => void
+  handleMigrateStatsButton: () => void;
 };
 
 export const MigrationIntro = ({ handleMigrateStatsButton }: Props) => {

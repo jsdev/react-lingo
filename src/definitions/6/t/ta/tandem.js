@@ -3,5 +3,4 @@ export const definitions = [
   '"I rode tandem to Paris"',
   '"a tandem trailer"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

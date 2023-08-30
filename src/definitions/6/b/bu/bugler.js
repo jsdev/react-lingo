@@ -4,5 +4,4 @@ export const definitions = [
   '"the piercing bugle of adult bulls"',
   '"he bugled a warning"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

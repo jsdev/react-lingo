@@ -3,10 +3,10 @@ export const definitions = [
   '"they have themselves beeped in restaurants"',
 ];
 export const synonyms = [
-  'purr',
-  'sound',
-  'reverberate',
-  'ring',
-  'bleep',
-  'warble',
+  "purr",
+  "sound",
+  "reverberate",
+  "ring",
+  "bleep",
+  "warble",
 ];

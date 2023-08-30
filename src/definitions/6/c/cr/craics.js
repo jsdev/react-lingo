@@ -3,9 +3,4 @@ export const definitions = [
   '"sculpting, drawing, ceramics, and fiber art"',
   '"tableware in ceramic"',
 ];
-export const synonyms = [
-  'pottery',
-  'pots',
-  'china',
-  'terracotta',
-];
+export const synonyms = ["pottery", "pots", "china", "terracotta"];

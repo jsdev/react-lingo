@@ -5,8 +5,4 @@ export const definitions = [
   '"She smiled ______ and said nothing."',
   '"He stared ______ at the mess."',
 ];
-export const synonyms = [
-  'ghastly',
-  'repellent',
-  'sinister',
-];
+export const synonyms = ["ghastly", "repellent", "sinister"];

@@ -1,15 +1,14 @@
-export const definitions = [
-];
+export const definitions = [];
 export const synonyms = [
-  'pill',
-  'capsule',
-  'lozenge',
-  'caplet',
-  'pastille',
-  'pellet',
-  'drop',
-  'ball',
-  'jujube',
-  'bolus',
-  'troche',
+  "pill",
+  "capsule",
+  "lozenge",
+  "caplet",
+  "pastille",
+  "pellet",
+  "drop",
+  "ball",
+  "jujube",
+  "bolus",
+  "troche",
 ];

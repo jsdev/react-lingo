@@ -6,5 +6,4 @@ export const definitions = [
   '"you will need to cord the blind"',
   '"a corded curtain track"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

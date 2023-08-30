@@ -3,6 +3,6 @@ export const definitions = [
   '"a sofa upholstered in chintz"',
 ];
 export const synonyms = [
-  'printed material/cloth/fabric',
-  'patterned material/cloth/fabric',
+  "printed material/cloth/fabric",
+  "patterned material/cloth/fabric",
 ];

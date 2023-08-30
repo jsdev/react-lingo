@@ -3,5 +3,4 @@ export const definitions = [
   '"ballet-themed footie pajamas"',
   '"I buy a ton of footies to try to prevent blisters"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

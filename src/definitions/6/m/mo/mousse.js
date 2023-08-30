@@ -8,5 +8,4 @@ export const definitions = [
   '"mousse each section before winding on rollers"',
   '"his blow-dried and moussed hair"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

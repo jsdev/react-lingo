@@ -3,5 +3,4 @@ export const definitions = [
   '"they were sitting around the hearth"',
   '"he left hearth and home to train in Denmark"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -1,5 +1,2 @@
-export const definitions = [
-  '"bifold doors open onto the garden patio"',
-];
-export const synonyms = [
-];
+export const definitions = ['"bifold doors open onto the garden patio"'];
+export const synonyms = [];

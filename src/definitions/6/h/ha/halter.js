@@ -4,9 +4,9 @@ export const definitions = [
   '"the Chicago bomb-throwers who were haltered for practicing their principles"',
 ];
 export const synonyms = [
-  'harness',
-  'bridle',
-  'headstall',
-  'head collar',
-  'chase-halter',
+  "harness",
+  "bridle",
+  "headstall",
+  "head collar",
+  "chase-halter",
 ];

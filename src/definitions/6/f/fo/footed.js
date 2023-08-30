@@ -4,5 +4,4 @@ export const definitions = [
   '"the rider was left to foot it ten or twelve miles back to camp"',
   '"the dance of fairies, footing it to the cricket\'s song"',
 ];
-export const synonyms = [
-];
+export const synonyms = [];

@@ -4,11 +4,11 @@ export const definitions = [
   '"the moonlit visage of the port\'s whitewashed buildings"',
 ];
 export const synonyms = [
-  'face',
-  'countenance',
-  'physiognomy',
-  'profile',
-  'lineaments',
-  'front',
-  'boat race',
+  "face",
+  "countenance",
+  "physiognomy",
+  "profile",
+  "lineaments",
+  "front",
+  "boat race",
 ];
