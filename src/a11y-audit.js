@@ -21,6 +21,18 @@ const rules = [
   ".minor { border-color: yellow }"
 ];
 
+const htmlTableViolations = (obj) => {
+  const table = document.createElement('TABLE');
+  table.innerHTML = '<thead><tr><th>HTML</th><th>IMPACT</th><th>RULE</th><th>DESC</th></thead><tbody>';
+  Object.values(obj).forEach(
+	  v => table.innerHTML = table.innerHTML + '<tr><td><code></code></td><td>${}</td><td>${}</td>${}</td></tr>'
+  )
+  table.innerHTML = table.innerHTML + '</tbody';
+  return table;
+}
+
+const violationsReport = {};
+
 // Loop through the rules and insert them at the end of the style sheet
 for (let rule of rules) {
   sheet.insertRule(rule, sheet.cssRules.length);
@@ -39,28 +51,29 @@ const debounce = (func, delay) => {
 };
 
 const debouncedAudit = debounce(() => {
-    axe.configure({experimental: true})
-    axe.run(document.body).then((result) => {
-     const violations = result.violations;
-
-     if (violations.length > 0) {
+  axe.configure({experimental: true});
+  axe.run(document.body).then((result) => {
+    const violations = result.violations;
+    if (violations.length > 0) {
           const timestamp = new Date().toISOString();
           const fileName = 'violations';
           const html = document.querySelector("html").outerHTML;
           const css = document.querySelector("head").innerHTML;
           const obj = {};
           for (const v of violations) {
-			      [...v.nodes].forEach(node => {
-							const el = document.querySelector(node.target);
-							const title = v.description;
-							el.classList.add('a11y-violation');
-							el.classList.add(v.impact);
-							el.title = title;
-              obj[`${node.target}\n${node.html}`] = (obj[node.html] || '') + `${v.impact}\n${v.id}\n${ title}`;
-						});
+	    [...v.nodes].forEach(node => {
+		const el = document.querySelector(node.target);
+		const title = v.description;
+		el.classList.add('a11y-violation');
+		el.classList.add(v.impact);
+		el.title = title;
+                obj[`${node.target}\n${node.html}`] = (obj[node.html] || '') + `${v.impact}\n${v.id}\n${ title}`;
+	        violationsReport[node.html] = {impact: v.impact, html: node.html, id: v.id, title }
+	    });
           }
-
-         console.table(obj);
+	  console.table(violationsReport);
+	  console.log(htmlTableViolations(violationsReport);
+          console.table(obj);
      }
     });
 
