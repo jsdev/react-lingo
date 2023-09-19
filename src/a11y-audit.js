@@ -32,9 +32,9 @@ const htmlTableViolations = (obj) => {
   const table = document.createElement('TABLE');
   table.innerHTML = '<caption>Accessibility Violations</caption><thead><tr><th>HTML</th><th>IMPACT</th><th>RULE</th><th>DESC</th></thead><tbody>';
   Object.values(obj).forEach(
-	  ({id, title, html, impact}) => {
+	  ({id, title, target, impact}) => {
 		  if (id) {
-			  table.innerHTML = table.innerHTML + `<tr><td><code>${escapeHTML(html)}</code></td><td>${impact}</td><td>${id}</td><td>${title}</td></tr>`
+			  table.innerHTML = table.innerHTML + `<tr><td>${target}</td><td>${impact}</td><td>${id}</td><td>${title}</td></tr>`
 		  }
     }
   )
@@ -91,7 +91,7 @@ const debouncedAudit = debounce(() => {
               el.classList.add(v.impact);
               el.title = title;
               obj[`${node.target}\n${node.html}`] = (obj[node.html] || '') + `${v.impact}\n${v.id}\n${ title}`;
-              violationsReport[node.html] = {impact: v.impact, html: node.html, id: v.id, title }
+              violationsReport[node.html] = {target: node.target, impact: v.impact, html: node.html, id: v.id, title }
             });
           }
           const HTML = `<html lang="en">
