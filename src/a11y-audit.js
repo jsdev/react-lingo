@@ -94,15 +94,20 @@ const debouncedAudit = debounce(() => {
               violationsReport[node.html] = {target: node.target, impact: v.impact, html: node.html, id: v.id, title }
             });
           }
-          const HTML = `<html lang="en">
-            <head>
-              <title>Live Auditor Findings</title>
-              <style>table { width: 100% } td:first-child {width: 50% } </style>
-            </head>
-            <body>${htmlTableViolations(violationsReport)}</body>
-            </html>`;
-            console.log(HTML);
-          window.open(HTML,"liveAuditor");
+          const htmlCode = `
+            <!DOCTYPE html>
+            <html lang="en">
+              <head>
+                <title>Live Auditor Findings</title>
+                <style>table { width: 100% } td:first-child {width: 50% } </style>
+              </head>
+              <body>${htmlTableViolations(violationsReport)}</body>
+            </html>
+          `;
+          const blob = new Blob([htmlCode], {type: 'text/html'});
+          const url = URL.createObjectURL(blob);
+
+          window.open(url, 'liveAuditor');
     }
   });
 
