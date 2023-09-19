@@ -10,7 +10,7 @@ const rules = [
   ".minor { border-color: yellow }"
 ];
 
-	function escapeHTML(html) {
+function escapeHTML(html) {
   return html.replace(/[&<>"']/g, function(match) {
     switch (match) {
       case '&':
@@ -36,10 +36,11 @@ const htmlTableViolations = (obj) => {
 		  if (id) {
 			  table.innerHTML = table.innerHTML + '<tr><td><code>${escapteHTML(html)}</code></td><td>${impact}</td><td>${id}</td><td>${title}</td></tr>'
 		  }
+    }
   )
   table.innerHTML = table.innerHTML + '</tbody';
   return '<h1>Live Auditor Report</h1>' + table.outerHTML;
-})
+}
 
 
 // const dialog = document.createElement('dialog');
@@ -50,8 +51,9 @@ const htmlTableViolations = (obj) => {
 //   dialog.innerHTML = html;
 //   dialog.showModal();
 // }
-	
-let violationsWindow; // = window.open('', 'accessibility-violations');
+
+let violationsWindow;
+let popupSettings = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=200,top=" + (window.screen.height-400) + ",left=" + (window.screen.width-840);
 	
 const violationsReport = {};
 
@@ -94,9 +96,11 @@ const debouncedAudit = debounce(() => {
 	    });
           }
 	    if (violationsWindow === 'undefined') {
-		violationsWindow = window.open('Live Auditor Findings', 'accessibility-violations');
-	    }
-	  violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
+    		violationsWindow = window.open("","Live Auditor Findings",popupSettings);
+    	  violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
+	    } else {
+    	  violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
+      }
      }
     });
 
