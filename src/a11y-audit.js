@@ -52,7 +52,6 @@ const htmlTableViolations = (obj) => {
 //   dialog.showModal();
 // }
 
-let violationsWindow;
 let popupSettings = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=200,top=" + (window.screen.height-400) + ",left=" + (window.screen.width-840);
 	
 const violationsReport = {};
@@ -85,21 +84,27 @@ const debouncedAudit = debounce(() => {
           const css = document.querySelector("head").innerHTML;
           const obj = {};
           for (const v of violations) {
-	    [...v.nodes].forEach(node => {
-		const el = document.querySelector(node.target);
-		const title = v.description;
-		el.classList.add('a11y-violation');
-		el.classList.add(v.impact);
-		el.title = title;
-                obj[`${node.target}\n${node.html}`] = (obj[node.html] || '') + `${v.impact}\n${v.id}\n${ title}`;
-	        violationsReport[node.html] = {impact: v.impact, html: node.html, id: v.id, title }
-	    });
+            [...v.nodes].forEach(node => {
+              const el = document.querySelector(node.target);
+              const title = v.description;
+              el.classList.add('a11y-violation');
+              el.classList.add(v.impact);
+              el.title = title;
+              obj[`${node.target}\n${node.html}`] = (obj[node.html] || '') + `${v.impact}\n${v.id}\n${ title}`;
+              violationsReport[node.html] = {impact: v.impact, html: node.html, id: v.id, title }
+            });
           }
-    		violationsWindow = window.open("","Live Auditor Findings",popupSettings
-		violationsWindow.document.head.innerHTML= '<style>table { width: 100% } td:first-child {width: 50% } </style>'
-    	  	violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
-     }
-    });
+          const HTML = `<html lang="en">
+            <head>
+              <title>Live Auditor Findings</title>
+              <style>table { width: 100% } td:first-child {width: 50% } </style>
+            </head>
+            <body>${htmlTableViolations(violationsReport)}</body>
+            </html>`;
+            console.log(HTML);
+          window.open(HTML,"liveAuditor");
+    }
+  });
 
 }, 500);
 
