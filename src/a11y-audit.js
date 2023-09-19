@@ -49,7 +49,7 @@ const htmlTableViolations = (obj) => {
     }
   )
   table.innerHTML = table.innerHTML + '</tbody';
-  return '<h1>Live Auditor Report</h1>' + table.outerHTML;
+  return table.outerHTML;
 }
 
 
@@ -109,9 +109,66 @@ const debouncedAudit = debounce(() => {
             <html lang="en">
               <head>
                 <title>Live Auditor Findings</title>
-                <style>table { width: 100% } td:first-child {width: 50% } </style>
+                <style>
+		  table { width: 100% }
+.download-csv-button {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.download-csv-button:hover {
+  background-color: #333;
+}
+		</style>
               </head>
-              <body>${htmlTableViolations(violationsReport)}</body>
+              <body>
+	      <h1>Live Auditor Report</h1>
+       <button class="download-csv-button">Download CSV</button>
+
+       		${htmlTableViolations(violationsReport)}
+	 	<script>
+const downloadCSVButton = document.querySelector('.download-csv-button');
+
+downloadCSVButton.addEventListener('click', () => {
+  const table = document.querySelector('table');
+  const csvData = tableToCSV(table);
+
+  const blob = new Blob([csvData], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+
+  const anchor = document.createElement('a');
+  anchor.href = url;
+  anchor.download = 'table.csv';
+  anchor.click();
+
+  URL.revokeObjectURL(url);
+});
+
+function tableToCSV(table) {
+  const rows = table.querySelectorAll('tr');
+  const csvData = [];
+
+  for (const row of rows) {
+    const cells = row.querySelectorAll('td');
+    const csvRow = [];
+
+    for (const cell of cells) {
+      csvRow.push(cell.textContent);
+    }
+
+    csvData.push(csvRow.join(','));
+  }
+
+  return csvData.join('\n');
+}
+
+   		</script>
+	 	</body>
             </html>
           `;
           const blob = new Blob([htmlCode], {type: 'text/html'});
