@@ -30,11 +30,11 @@ function escapeHTML(html) {
 
 const htmlTableViolations = (obj) => {
   const table = document.createElement('TABLE');
-  table.innerHTML = '<caption>Accessibility Violations><thead><tr><th>HTML</th><th>IMPACT</th><th>RULE</th><th>DESC</th></thead><tbody>';
+  table.innerHTML = '<caption>Accessibility Violations</caption><thead><tr><th>HTML</th><th>IMPACT</th><th>RULE</th><th>DESC</th></thead><tbody>';
   Object.values(obj).forEach(
 	  ({id, title, html, impact}) => {
 		  if (id) {
-			  table.innerHTML = table.innerHTML + '<tr><td><code>${escapteHTML(html)}</code></td><td>${impact}</td><td>${id}</td><td>${title}</td></tr>'
+			  table.innerHTML = table.innerHTML + `<tr><td><code>${escapeHTML(html)}</code></td><td>${impact}</td><td>${id}</td><td>${title}</td></tr>`
 		  }
     }
   )
@@ -95,12 +95,8 @@ const debouncedAudit = debounce(() => {
 	        violationsReport[node.html] = {impact: v.impact, html: node.html, id: v.id, title }
 	    });
           }
-	    if (violationsWindow === 'undefined') {
     		violationsWindow = window.open("","Live Auditor Findings",popupSettings);
     	  violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
-	    } else {
-    	  violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
-      }
      }
     });
 
