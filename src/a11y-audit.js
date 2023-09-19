@@ -95,8 +95,9 @@ const debouncedAudit = debounce(() => {
 	        violationsReport[node.html] = {impact: v.impact, html: node.html, id: v.id, title }
 	    });
           }
-    		violationsWindow = window.open("","Live Auditor Findings",popupSettings);
-    	  violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
+    		violationsWindow = window.open("","Live Auditor Findings",popupSettings
+		violationsWindow.document.head.innerHTML= '<style>table { width: 100% } td:first-child {width: 50% } </style>'
+    	  	violationsWindow.document.body.innerHTML = htmlTableViolations(violationsReport);
      }
     });
 
