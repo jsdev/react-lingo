@@ -16,11 +16,9 @@ const rules = [
   ".a11y-violation { border: 4px solid red }",
   ".critical { border-color: darkred }",
   ".serious { border-color: red }",
-  ".moderate { border-color: orange }",
-  ".minor { border-color: yellow }"
+  ".moderate { border-color: rgba(255, 69, 0, 0.7) }",
+  ".minor { border-color: orange }"
 ];
-
-
 
 function escapeHTML(html) {
   return html.replace(/[&<>"']/g, function(match) {
@@ -39,33 +37,23 @@ function escapeHTML(html) {
   });
 }
 
-
-
-
-
 const htmlTableViolations = (obj) => {
   const table = document.createElement('TABLE');
-  table.innerHTML = '<caption>Accessibility Violations</caption><thead><tr><th>TARGET</th><th>IMPACT</th><th>RULE</th><th>DESC</th></thead><tbody>';
+  table.innerHTML = '<caption>Accessibility Violations</caption><thead><tr><th>IMPACT</th><th>TARGET</th><th>RULE</th><th>DESC</th></thead><tbody>';
   Object.values(obj).forEach(
-    ({id, title, target, impact}) => {
-      if (id) {
-        table.innerHTML = table.innerHTML + `<tr><td>${target}</td><td>${impact}</td><td>${id}</td><td>${title}</td></tr>`
-      }
+    ({id, title, target, impact}) => {
+      if (id) {
+        table.innerHTML = table.innerHTML + `<tr><td data-severity="${impact}">${impact}</td><td>${target}</td><td>${id}</td><td>${title}</td></tr>`
+      }
     }
   )
   table.innerHTML = table.innerHTML + '</tbody';
   return table.outerHTML;
 }
 
-
-
-
-
 // const dialog = document.createElement('dialog');
 // dialog.id = 'dialog-viloations';
 // document.body.appendChild(dialog);
-
-
 
 // const launchUpdatedDialog = (dialog,html) => {
 //   dialog.innerHTML = html;
@@ -73,17 +61,13 @@ const htmlTableViolations = (obj) => {
 // }
 let audited = false;
 let popupSettings = "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=200,top=" + (window.screen.height-400) + ",left=" + (window.screen.width-840);
-  
+
 const violationsReport = {};
-
-
 
 // Loop through the rules and insert them at the end of the style sheet
 for (let rule of rules) {
   sheet.insertRule(rule, sheet.cssRules.length);
 }
-
-
 
 const config = { attributes: true, childList: true, subtree: true };
 const debounce = (func, delay) => {
@@ -91,9 +75,6 @@ const debounce = (func, delay) => {
   return function() {
     const context = this;
     const args = arguments;
-
-
-
     clearTimeout(timer);
     timer = setTimeout(() => func.apply(context, args), delay);
   };
@@ -124,10 +105,10 @@ const debouncedAudit = debounce(() => {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Live Auditor Findings</title>
+<title>${document.location}</title>
 <style>
   table { width: 100% }
-  td:first-child {width: 50% }
+  td:nth-child(2) {width: 50% }
   .download-csv-button {
     position: fixed;
     bottom: 10px;
@@ -138,10 +119,32 @@ const debouncedAudit = debounce(() => {
     border-radius: 5px;
     cursor: pointer;
   }
- .download-csv-button:hover { background-color: #333; }
+ .download-csv-button:hover {
+   background-color: #333
+ }
+ tbody td[data-severity] {
+  text-align: center;
+  color: #FFF;
+  text-shadow:
+    1px -1px 1px black,
+    1px 0 1px black,
+        1px 1px 1px black,
+  0 -1px 1px black,
+    0 1px 1px black,
+    -1px -1px 1px black,
+    -1px 0 1px black,
+    -1px 1px 1px black;
+    }
+    thead { text-align: left }
+ tbody td[data-severity="critical"] { background-color: darkred }
+ tbody td[data-severity="serious"] { background-color: red }
+ tbody td[data-severity="moderate"] { background-color: rgba(255, 69, 0, 0.7) }
+ tbody td[data-severity="minor"] { background-color: orange }
 </style>
 </head>
 <body>
+<h1>Live Auditor Findings</h1>
+<h2>URL: ${document.location}</h2>
 <fieldset id="filter-fieldset">
 <label>Critical <input type="checkbox" value="Critical" /></label>
 <label>Serious <input type="checkbox" value="Serious" /></label>
