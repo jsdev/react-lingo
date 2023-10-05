@@ -1,0 +1,56 @@
+body {
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+  word-spacing: 0.1em;
+}
+
+/* Increase text spacing for headings */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 2;
+}
+
+/* Increase padding for form elements */
+input, select, textarea {
+  padding: 0.5em;
+}
+
+/* Increase font size for buttons */
+button {
+  font-size: 1.2em;
+}
+
+/* IF NEEDED */
+body {
+  line-height: 1.5 !important;
+  letter-spacing: 0.05em !important;
+  word-spacing: 0.1em !important;
+}
+
+/* Increase text spacing for headings */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 2 !important;
+}
+
+/* Increase padding for form elements */
+input, select, textarea {
+  padding: 0.5em !important;
+}
+
+/* Increase font size for buttons */
+button {
+  font-size: 1.2em !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
