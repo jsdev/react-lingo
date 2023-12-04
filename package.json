@@ -28,7 +28,9 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@types/ua-parser-js": "latest",
+    "accname": "^1.1.0",
     "classnames": "latest",
+    "css-selector-generator": "^3.6.6",
     "date-fns": "latest",
     "egoroof-blowfish": "latest",
     "grapheme-splitter": "latest",
@@ -58,6 +60,7 @@
   },
   "devDependencies": {
     "@axe-core/react": "latest",
+    "@playwright/test": "^1.40.0",
     "@trivago/prettier-plugin-sort-imports": "latest",
     "@types/assert": "^1.5.6",
     "@types/loadable__component": "latest",

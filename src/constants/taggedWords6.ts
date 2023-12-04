@@ -17334,12 +17334,6 @@ export const alphabet6 = {
       complexity: "High School",
     },
     {
-      word: "ingate",
-      isCapitalized: false,
-      isRoot: true,
-      complexity: "Middle School",
-    },
-    {
       word: "ingest",
       isCapitalized: false,
       isRoot: true,
@@ -17434,12 +17428,6 @@ export const alphabet6 = {
       isCapitalized: false,
       isRoot: true,
       complexity: "College",
-    },
-    {
-      word: "instal",
-      isCapitalized: false,
-      isRoot: true,
-      complexity: "Elementary",
     },
     {
       word: "insula",

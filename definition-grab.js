@@ -11816,10 +11816,6 @@ let missed = [
         complexity: "High School"
     },
     {
-        word: "ingate",
-        complexity: "Middle School"
-    },
-    {
         word: "ingest",
         complexity: "Middle School"
     },
@@ -11882,10 +11878,6 @@ let missed = [
     {
         word: "inspan",
         complexity: "College"
-    },
-    {
-        word: "instal",
-        complexity: "Elementary"
     },
     {
         word: "insula",
