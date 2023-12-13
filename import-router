@@ -1,4 +1,733 @@
+## testcafe/checkForViolations.js
 
+import { axeCheck, createReport } from "axe-testcafe"
+import includeAll from "../axe-config/experimental-rules"
+
+const checkForViolations = async t => {
+    const context = { exclude: [[]] };
+    const options = {
+        rules: includeAll
+    }
+
+    const results = await axeCheck(t, context, options);
+    const { violations } = await results;
+    await t.expect(violations.length === 0).ok(
+        createReport(violations)
+    );
+    return results
+};
+
+export default checkForViolations;
+
+## testcafe/compileHref.js
+
+import { Selector } from 'testcafe'
+import utils from './extract.utils'
+
+const { record, selector } = utils;
+
+const compileHrefs = async route => {
+  let tagName = 'a';
+  let linksAndSources = Selector(selector.get(tagName));
+  let itemsCount = await linksAndSources.count;
+  let items = await linksAndSources;
+
+  let element, i, attr;
+  let links = [];
+
+  console.log('itemsCount', itemsCount);
+
+  for (i = 0; i < itemsCount; i++) {
+    element = await items.nth(i);
+    attr = await element.getAttribute(record.get(tagName));
+
+    links.push(attr);
+  }
+
+  return ({
+    route,
+    links,
+  })
+};
+
+export default compileHrefs
+
+## testcafe/compileImage.js
+
+import { Selector } from 'testcafe'
+import utils from './extract.utils'
+
+const { record, selector } = utils;
+
+const compileImages = async route => {
+  let tagName = 'img';
+  let linksAndSources = Selector(selector.get(tagName));
+  let itemsCount = await linksAndSources.count;
+  let items = await linksAndSources;
+
+  let element, i, attr;
+  let images = [];
+
+  console.log('itemsCount', itemsCount);
+
+  for (i = 0; i < itemsCount; i++) {
+    element = await items.nth(i);
+    attr = await element.getAttribute(record.get(tagName));
+
+    images.push(attr);
+  }
+
+  return ({
+    route,
+    images,
+  })
+};
+
+export default compileImages
+
+## /testcafe/compileLinks.js
+
+import { Selector } from 'testcafe'
+
+const record = new Map();
+record.set('a', 'href');
+record.set('img', 'src');
+record.set('source', 'src');
+
+const compileInternalLinks = async route => {
+  let linksAndSources = Selector('main img, main video source, main a[href^="/"]');
+  let itemsCount = await linksAndSources.count;
+  let items = await linksAndSources;
+
+  let element, i, attr, tagName;
+  let types = {
+    img: [],
+    source: [],
+    a: []
+  };
+
+  console.log('itemsCount', itemsCount);
+
+  for (i = 0; i < itemsCount; i++) {
+    element = await items.nth(i);
+    tagName = await element.tagName;
+    attr = await element.getAttribute(record.get(tagName));
+
+    types[tagName].push(attr);
+  }
+
+  return ({
+    route,
+    links: types.a,
+    images: types.img,
+    videos: types.source
+  })
+};
+
+export default compileInternalLinks;
+
+## testcafe/compileVideo.js
+
+import { Selector } from 'testcafe'
+import utils from './extract.utils'
+
+const { record, selector } = utils;
+
+const compileVideos = async route => {
+  let tagName = 'source';
+  let linksAndSources = Selector(selector.get(tagName));
+  let itemsCount = await linksAndSources.count;
+  let items = await linksAndSources;
+
+  let element, i, attr;
+  let videos = [];
+
+  console.log('itemsCount', itemsCount);
+
+  for (i = 0; i < itemsCount; i++) {
+    element = await items.nth(i);
+    attr = await element.getAttribute(record.get(tagName));
+
+    videos.push(attr);
+  }
+
+  return ({
+    route,
+    videos,
+  })
+};
+
+export default compileVideos 
+
+
+## testcafe/extract.utils.js
+
+const record = new Map();
+record.set('a', 'href');
+record.set('img', 'src');
+record.set('source', 'src');
+record.set('video', 'src');
+
+const selector = new Map();
+selector.set('a', 'main a[href^="/"]');
+selector.set('img', 'main img');
+selector.set('source', 'main video source');
+selector.set('video', 'main video source');
+
+export default ({
+  record,
+  selector
+})
+
+
+## testcafe/indexMainForSearch.js
+
+import { Selector } from 'testcafe'
+
+const indexMainForSearch = async route => {
+    let selector = 'main > *:nth-child(2)'; //nth child 2 because first child is <router-outlet></router-outlet>
+    let main = Selector(selector);
+    let childrenCount = await main.childElementCount;
+    let i, child, tagName, innerText, childrenContent, tagNames, caption;
+    let content = '';
+    let currentHeading = '';
+    let currentCaption = '';
+
+    const headings = new Set();
+
+    if (!childrenCount) { // SPLASH PAGE
+        selector = 'main';
+        main = Selector(selector)
+        childrenCount = await main.childElementCount;
+    }
+
+    childrenContent = [];
+    tagNames = [];
+    for (i = 1; i <= childrenCount; i++) {
+        child = Selector(`${selector} > *:nth-child(${i})`);
+        tagName = await child.tagName;
+        innerText = await child.innerText;
+
+        if (tagName !== "hr") {
+            // @ts-ignore
+            content = (await innerText).replace(/\"/g, '').replace(/^(\n|\t)/g, ' ');
+            // this assumes all our headings are at root level of main.... which we don't enforce.. but is good practice.
+            // h5 and h6 intentionally left off, because we don't scroll to them.
+            if (['h1', 'h2', 'h3', 'h4'].includes(tagName)) {
+                currentHeading = content;
+                childrenContent.push(`\t\t{ \"tagName\": \"${tagName}\", \"content\": \`${content}\`, \"heading\": \"${currentHeading}\" }`);
+                headings.add(currentHeading);
+            } else if (['table'].includes(tagName)) {
+                caption = Selector(`${selector} > *:nth-child(${i}) caption`);
+                currentCaption = await caption.textContent;
+                childrenContent.push(`\t\t{ \"tagName\": \"${tagName}\", \"content\": \`${content}\`, \"caption\": \"${currentCaption}\" }`);
+                headings.add(currentCaption);
+            } else {
+                childrenContent.push(`\t\t{ \"tagName\": \"${tagName}\", \"content\": \`${content}\`, \"heading\": \"${currentHeading}\" }`);
+            }
+            tagNames.push(tagName);
+        }
+    }
+
+    return ({
+        headings: [...headings],
+        route: `\t\"${route}\": [\n${childrenContent.join(',\n')}\n\t],\n`
+    })
+};
+
+export default indexMainForSearch;
+
+## testcafe/tests/testing/test.js
+
+import { SECTIONS } from '../../../src/app/route-paths'
+import checkForViolations from '../../checkForViolations'
+
+const ENV = 'http://localhost:4200';
+const { A11Y_TESTING } = SECTIONS;
+const { url } = A11Y_TESTING;
+
+const routes = A11Y_TESTING.sections ?
+    A11Y_TESTING.routes.concat(...A11Y_TESTING.sections.map(section => section.routes)) :
+    A11Y_TESTING.routes;
+
+routes.forEach(route => {
+    if (route.parent || route.ignore) return;
+    const path = `/${url}/${route.url}`;
+    const page = `${ENV}${path}`;
+
+    fixture(`AppName ${path}`).page(page);
+
+    test('Accessibility testing', async t => {
+        await checkForViolations(t);
+    });
+})
+
+These are additional I'd like DTOed as could benefit a team down the road
+as it shows how to check dead-links, and grammar
+
+## testcafe/index-search/all-internal-hrefs
+
+import fs from 'fs'
+import { SECTIONS } from '../../src/app/route-paths'
+import compileInternalLinks from '../compileHref'
+
+const linksFile = 'links.js';
+const utf8 = 'utf8';
+const beginWriteFile = (file) => (err) => {
+  if (err) { throw err; }
+  console.log(`writing ${file} ... written`)
+};
+
+Object.keys(SECTIONS).forEach(section => {
+  const { url, routes, sections } = SECTIONS[section];
+  const allRoutes = [];
+  const searchTextFile = `${section}.txt`;
+
+  // reasons to ignore can vary, but ignore prevents running tests against routes not ready for primetime, or being refactored
+  // for instant there is a time (of this comment) Icon showcase wrongly loading 2000+ icons rather than load on demand via search by name or category.
+  // so when refactored can remove ignore on Icon showcase
+
+  if (routes) {
+    routes
+      .filter(
+        route => !route.ignore || !route.ignoreSpell
+      )
+      .forEach(({ url }) =>
+        allRoutes.push(`/${url}`)
+      )
+
+  }
+  if (sections) {
+    sections.forEach(
+      subsection => subsection.routes
+        .filter(
+          route => !route.ignore || !route.ignoreSpell
+        )
+        .forEach(
+          route => allRoutes.push(`/${url}/${route.url}`
+          )
+        )
+    )
+  }
+
+  try {
+    let i;
+    const len = allRoutes.length, linkArray = [], imageArray = [], videoArray = [];
+
+    for (i = 0; i < len; i++) {
+      let route = allRoutes[i]
+
+      if (route !== "") {
+        fixture(`AppName: ${route}`).page(`http://localhost:4200${route}`);
+        test('Search testing', async t => {
+          let captured = await compileInternalLinks(route);
+          console.log(route, captured);
+          if (captured.links.length) {
+            linkArray.push(captured.links);
+          }
+          if (captured.route === allRoutes[len - 1]) {
+            const linkSet = new Set(linkArray.flat());
+            fs.writeFile(linksFile, `export default ${JSON.stringify([...linkSet])}`, utf8, beginWriteFile(linksFile));
+          }
+        });
+      }
+    }
+  } catch (error) {
+    console.log(error);
+  }
+});
+
+## testcafe/index-search/all-internal-images.js
+
+import fs from 'fs'
+import { SECTIONS } from '../../src/app/route-paths'
+import compileInternal from '../compileImage'
+
+const imagesFile = 'images.js';
+const utf8 = 'utf8';
+const beginWriteFile = (file) => (err) => {
+  if (err) { throw err; }
+  console.log(`writing ${file} ... written`)
+};
+
+Object.keys(SECTIONS).forEach(section => {
+  const { url, routes, sections } = SECTIONS[section];
+  const allRoutes = [];
+  const searchTextFile = `${section}.txt`;
+
+  // reasons to ignore can vary, but ignore prevents running tests against routes not ready for primetime, or being refactored
+  // for instant there is a time (of this comment) Icon showcase wrongly loading 2000+ icons rather than load on demand via search by name or category.
+  // so when refactored can remove ignore on Icon showcase
+
+  if (routes) {
+    routes
+      .filter(
+        route => !route.ignore || !route.ignoreSpell
+      )
+      .forEach(({ url }) =>
+        allRoutes.push(`/${url}`)
+      )
+
+  }
+  if (sections) {
+    sections.forEach(
+      subsection => subsection.routes
+        .filter(
+          route => !route.ignore || !route.ignoreSpell
+        )
+        .forEach(
+          route => allRoutes.push(`/${url}/${route.url}`
+          )
+        )
+    )
+  }
+
+  try {
+    let i;
+    const len = allRoutes.length, imageArray = [];
+
+    for (i = 0; i < len; i++) {
+      let route = allRoutes[i]
+
+      if (route !== "") {
+        fixture(`AppName: ${route}`).page(`http://localhost:4200${route}`);
+        test('Search testing', async t => {
+          let captured = await compileInternal(route);
+          console.log(route, captured);
+          if (captured.images.length) {
+            imageArray.push(captured.images);
+          }
+          if (captured.route === allRoutes[len - 1]) {
+            const imageSet = new Set(imageArray.flat());
+            fs.writeFile(imagesFile, `export default ${JSON.stringify([...imageSet])}`, utf8, beginWriteFile(imagesFile));
+          }
+        });
+      }
+    }
+  } catch (error) {
+    console.log(error);
+  }
+});
+
+## testcafe/index-search/all-internal-references.js
+
+import fs from 'fs'
+import { SECTIONS } from '../../src/app/route-paths'
+import compileInternalLinks from '../compileLinks'
+
+const linksFile = 'links.js';
+const imagesFile = 'images.js';
+const videosFile = 'videos.js';
+const utf8 = 'utf8';
+const beginWriteFile = (file) => (err) => {
+  if (err) { throw err; }
+  console.log(`writing ${file} ... written`)
+};
+
+Object.keys(SECTIONS).forEach(section => {
+  const { url, routes, sections } = SECTIONS[section];
+  const allRoutes = [];
+  const searchTextFile = `${section}.txt`;
+
+  // reasons to ignore can vary, but ignore prevents running tests against routes not ready for primetime, or being refactored
+  // for instant there is a time (of this comment) Icon showcase wrongly loading 2000+ icons rather than load on demand via search by name or category.
+  // so when refactored can remove ignore on Icon showcase
+
+  if (routes) {
+    routes
+      .filter(
+        route => !route.ignore || !route.ignoreSpell
+      )
+      .forEach(({ url }) =>
+        allRoutes.push(`/${url}`)
+      )
+
+  }
+  if (sections) {
+    sections.forEach(
+      subsection => subsection.routes
+        .filter(
+          route => !route.ignore || !route.ignoreSpell
+        )
+        .forEach(
+          route => allRoutes.push(`/${url}/${route.url}`
+          )
+        )
+    )
+  }
+
+  try {
+    let i;
+    const len = allRoutes.length, linkArray = [], imageArray = [], videoArray = [];
+
+    for (i = 0; i < len; i++) {
+      let route = allRoutes[i]
+
+      if (route !== "") {
+        fixture(`AppName: ${route}`).page(`http://localhost:4200${route}`);
+        test('Search testing', async t => {
+          let captured = await compileInternalLinks(route);
+          console.log(route, captured);
+          if (captured.links.length) {
+            linkArray.push(captured.links);
+          }
+          if (captured.images.length) {
+            imageArray.push(captured.images);
+          }
+          if (captured.videos.length) {
+            videoArray.push(captured.videos);
+          }
+          if (captured.route !== allRoutes[len - 1]) {
+            linkArray.push(captured.links);
+            const linkSet = new Set(linkArray.flat());
+            fs.writeFile(linksFile, `export default ${JSON.stringify([...linkSet])}`, utf8, beginWriteFile(linksFile));
+            imageArray.push(captured.images);
+            const imageSet = new Set(imageArray.flat());
+            fs.writeFile(imagesFile, `export default ${JSON.stringify([...imageSet])}`, utf8, beginWriteFile(imagesFile));
+            videoArray.push(captured.videos);
+            const videoSet = new Set(videoArray.flat());
+            fs.writeFile(videosFile, `export default ${JSON.stringify([...videoSet])}`, utf8, beginWriteFile(videosFile));
+          }
+        });
+      }
+    }
+  } catch (error) {
+    console.log(error);
+  }
+});
+
+## testcafe/index-search/all-internal-videos.js
+
+import fs from 'fs'
+import { SECTIONS } from '../../src/app/route-paths'
+import compileInternal from '../compileVideo'
+
+const videosFile = 'videos.js';
+const utf8 = 'utf8';
+const beginWriteFile = (file) => (err) => {
+  if (err) { throw err; }
+  console.log(`writing ${file} ... written`)
+};
+
+Object.keys(SECTIONS).forEach(section => {
+  const { url, routes, sections } = SECTIONS[section];
+  const allRoutes = [];
+  const searchTextFile = `${section}.txt`;
+
+  // reasons to ignore can vary, but ignore prevents running tests against routes not ready for primetime, or being refactored
+  // for instant there is a time (of this comment) Icon showcase wrongly loading 2000+ icons rather than load on demand via search by name or category.
+  // so when refactored can remove ignore on Icon showcase
+
+  if (routes) {
+    routes
+      .filter(
+        route => !route.ignore || !route.ignoreSpell
+      )
+      .forEach(({ url }) =>
+        allRoutes.push(`/${url}`)
+      )
+
+  }
+  if (sections) {
+    sections.forEach(
+      subsection => subsection.routes
+        .filter(
+          route => !route.ignore || !route.ignoreSpell
+        )
+        .forEach(
+          route => allRoutes.push(`/${url}/${route.url}`
+          )
+        )
+    )
+  }
+
+  try {
+    let i;
+    const len = allRoutes.length, videoArray = [];
+
+    for (i = 0; i < len; i++) {
+      let route = allRoutes[i]
+
+      if (route !== "") {
+        fixture(`AppName: ${route}`).page(`http://localhost:4200${route}`);
+        test('Search testing', async t => {
+          let captured = await compileInternal(route);
+          console.log(route, captured);
+          if (captured.videos.length) {
+            videoArray.push(captured.videos);
+          }
+          if (captured.route === allRoutes[len - 1]) {
+            const videoSet = new Set(videoArray.flat());
+            fs.writeFile(videosFile, `export default ${JSON.stringify([...videoSet])}`, utf8, beginWriteFile(videosFile));
+          }
+        });
+      }
+    }
+  } catch (error) {
+    console.log(error);
+  }
+});
+
+## testcafe/index-search/all-routes.js
+
+import fs from 'fs'
+import checkForViolations from '../checkForViolations'
+import indexMainForSearch from '../indexMainForSearch'
+import { SECTIONS } from '../../src/app/route-paths'
+
+const endOfAllRoutes = '\t"eof": true\n}';
+const headingsTextFile = 'headings.txt';
+const auditFile = 'audit.txt';
+const utf8 = 'utf8';
+const handleError = (err) => {
+    if (err) { throw err; }
+};
+
+const logSuccess = (err) => {
+    if (err) { throw err; }
+    console.log('Accessible and indexed for search')
+};
+
+const logBeginning = (fileName) => (err) => {
+    if (err) { throw err; }
+    console.log(`begin log: ${fileName}`)
+};
+
+fs.writeFile(headingsTextFile, '', utf8, logBeginning(headingsTextFile));
+
+Object.keys(SECTIONS).forEach(section => {
+    const { url, routes, sections } = SECTIONS[section];
+    const allRoutes = [];
+    const searchTextFile = `${section}.txt`;
+
+    // reasons to ignore can vary, but ignore prevents running tests against routes not ready for primetime, or being refactored
+    // for instant there is a time (of this comment) Icon showcase wrongly loading 2000+ icons rather than load on demand via search by name or category.
+    // so when refactored can remove ignore on Icon showcase
+
+    if (routes) {
+        routes
+            .filter(
+                route => !route.ignore || !route.ignoreSpell
+            )
+            .forEach(({ url }) =>
+                allRoutes.push(`/${url}`)
+            )
+
+    }
+    if (sections) {
+        sections.forEach(
+            subsection => subsection.routes
+                .filter(
+                    route => !route.ignore || !route.ignoreSpell
+                )
+                .forEach(
+                    route => allRoutes.push(`/${url}/${route.url}`
+                    )
+                )
+        )
+    }
+
+    try {
+        fs.writeFile(searchTextFile, `{\n`, utf8, logBeginning(searchTextFile));
+
+        let captured, capturedRoute = '', capturedHeadings = [''];
+
+        for (let i = 0, len = allRoutes.length; i < len; i++) {
+            let route = allRoutes[i]
+
+            if (route !== "") {
+                fixture(`AppName: ${route}`).page(`http://localhost:4200${route}`);
+                test('Search testing', async t => {
+                    captured = await indexMainForSearch(route);
+                    console.log(await checkForViolations(t));
+                    capturedRoute = captured.route;
+                    capturedHeadings = captured.headings;
+                    fs.appendFile(headingsTextFile, `${capturedHeadings.join('\n')}\n`, utf8, handleError);
+                    fs.appendFile(searchTextFile, `${capturedRoute}${i + 1 === len ? endOfAllRoutes : ''}`, utf8, logSuccess);
+                });
+            }
+        }
+    } catch (error) {
+        console.log(error);
+    }
+});
+
+
+## src/app/route-paths.js
+
+// any fragment #hash you want linked to directly via side navigation, should be in here
+export const FRAGMENT = {
+    TYPES_OF_IMAGE_LISTS: {
+        MASONRY: 'masonry',
+        QUILTED: 'quilted',
+        STANDARD: 'standard',
+        WOVEN: 'woven',
+    }
+};
+
+//every route, parent and children should be in here
+export const URL = {
+    
+    // sections
+    A11Y_TESTING: 'a11y-testing',
+  
+    // pages
+    AXE: 'axe',
+    BROWSER_EXTENSION_AUDIT_TOOLS: 'browser-extension-audit-tools',
+    
+    SCREEN_READERS: 'screen-readers',
+    CAPTIONING_SERVICES: 'captioning-services',
+    VISUAL_SIMULATION: 'visual-simulation',
+    
+    //Axe-core API Documentation Sections
+    AXE_CORE_API_DOCUMENTATION: 'axe-core-api-documentation',
+    AXE_CORE_API_REF: 'axe-core-api-ref',
+    AXE_CORE_EXREF_PERFORMANCE: 'axe-core-exref-performance',
+
+    CYPRESS: 'cypress',
+    TESTCAFE: 'testcafe',
+    GOOGLE_LIGHTHOUSE: 'google-lighthouse',
+    MANUAL_TESTING_MUSTS: 'manual-testing-musts',
+
+    COLOR_AND_CONTRAST: 'color-and-contrast',
+    
+    VALIDATE_DESIGNS_AND_THEMING: 'color-contrast',
+
+
+
+   
+}
+
+
+export const SECTIONS = {
+    A11Y_TESTING: {
+        url: URL.A11Y_TESTING,
+        routes: [],
+        sections: [
+            {
+                name: 'ACCESSIBILITY AUDITS',
+                routes: [
+                    {
+                        url: URL.BROWSER_EXTENSION_AUDIT_TOOLS,
+                        name: 'Browser Extension Audit Tools'
+                    },
+                ]
+            },
+            {
+                name: 'ASSISTIVE TECHNOLOGIES',
+                routes: [
+                    {
+                        url: URL.CAPTIONING_SERVICES,
+                        name: 'Captioning and Transcription Services'
+                    },
+                    {
+                        url: URL.SCREEN_READERS,
+                        name: 'Screen Readers'
+                    },
+                    {
+                        url: URL.VISUAL_SIMULATION,
+                        name: 'Visual Simulation'
+                    }
                 ]
             },
             {
