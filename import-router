@@ -1,0 +1,193 @@
+
+                ]
+            },
+            {
+                name: 'axe-core API Documentation',
+                routes: [
+                    {
+                        url: URL.AXE_CORE_API_DOCUMENTATION,
+                        name: 'Introduction'
+                    },
+                    {
+                        url: URL.AXE_CORE_API_REF,
+                        name: 'API References'
+                    },
+                    {
+                        url: URL.AXE_CORE_EXREF_PERFORMANCE,
+                        name: 'Examples and Performance'
+                    }
+                ]
+            },
+            {
+                name: 'Axe with Test Runners',
+                routes: [
+                    {
+                        url: URL.CYPRESS,
+                        name: 'axe-core + Cypress.io'
+                    },
+                    {
+                        url: URL.TESTCAFE,
+                        name: 'axe-core + TestCafe'
+                    },
+                ]
+            },
+            {
+                name: 'THEMING',
+                routes: [
+                    {
+                        url: URL.VALIDATE_DESIGNS_AND_THEMING,
+                        name: 'Color Contrast'
+                    }
+                ]
+            }
+        ]
+    }
+};
+
+## axe-config/dimensions.js
+
+export const zoom100 = { zoom: 'zoom 100%', viewportWidth: 1899, viewportHeight: 1057 }
+// export const zoom110 = { zoom: 'zoom 110%', viewportWidth: 1720, viewportHeight: 960 } 110%
+export const zoom125 = { zoom: 'zoom 125%', viewportWidth: 1510, viewportHeight: 840 }
+export const zoom150 = { zoom: 'zoom 150%', viewportWidth: 1260, viewportHeight: 705 }
+export const zoom175 = { zoom: 'zoom 175%', viewportWidth: 1077, viewportHeight: 604 }
+export const zoom200 = { zoom: 'zoom 200%', viewportWidth: 924, viewportHeight: 529 }
+export const zoom250 = { zoom: 'zoom 250%', viewportWidth: 752, viewportHeight: 423 }
+export const zoom300 = { zoom: 'zoom 300%', viewportWidth: 625, viewportHeight: 352 }
+export const zoom400 = { zoom: 'zoom 400%', viewportWidth: 467, viewportHeight: 264 }
+export const zoom500 = { zoom: 'zoom 500%', viewportWidth: 372, viewportHeight: 211 }
+
+export default [
+  zoom100,
+  zoom125,
+  zoom150,
+  zoom175,
+  zoom200,
+  zoom250,
+  zoom300,
+  zoom400,
+  zoom500
+]
+
+## axe-config/experimental-rules.js
+
+export default {
+  'css-orientation-lock': { enabled: true },
+  'focus-order-semantics': { enabled: true },
+  'hidden-content': { enabled: true },
+  'label-content-name-mismatch': { enabled: true },
+  'link-in-text-block': { enabled: true },
+  'no-autoplay-audio': { enabled: true },
+  'p-as-heading': { enabled: true },
+  'table-fake-caption': { enabled: true },
+  'td-has-header': { enabled: true }
+};
+
+## axe-config/only-color-contrast-rules.js
+
+export default {
+  'color-contrast': { enabled: true },
+  'color-contrast-enhanced': { enabled: true },
+  'link-in-text-block': { enabled: true },
+  'aria-allowed-attr': { enabled: false },
+  'aria-command-name': { enabled: false },
+  'aria-hidden-body': { enabled: false },
+  'aria-input-field-name': { enabled: false },
+  'aria-meter-name': { enabled: false },
+  'aria-progressbar-name': { enabled: false },
+  'aria-required-attr': { enabled: false },
+  'aria-required-children': { enabled: false },
+  'aria-required-parent': { enabled: false },
+  'aria-roledescription': { enabled: false },
+  'aria-roles': { enabled: false },
+  'aria-toggle-field-name': { enabled: false },
+  'aria-tooltip-name': { enabled: false },
+  'aria-valid-attr-value': { enabled: false },
+  'aria-valid-attr': { enabled: false },
+  'aria-allowed-role': { enabled: false },
+  'aria-dialog-name': { enabled: false },
+  'aria-text': { enabled: false },
+  'aria-treeitem-name': { enabled: false },
+  'presentation-role-conflict': { enabled: false },
+  'form-field-multiple-labels': { enabled: false },
+  'label': { enabled: false },
+  'select-name': { enabled: false },
+  'autocomplete-valid': { enabled: false },
+  'label-title-only': { enabled: false },
+  'accesskeys': { enabled: false },
+  'bypass': { enabled: false },
+  'frame-focusable-content': { enabled: false },
+  'nested-interactive': { enabled: false },
+  'scrollable-region-focusable': { enabled: false },
+  'region': { enabled: false },
+  'skip-link': { enabled: false },
+  'tabindex': { enabled: false },
+  'focus-order-semantics': { enabled: false },
+  'html-has-lang': { enabled: false },
+  'html-lang-valid': { enabled: false },
+  'html-xml-lang-mismatch': { enabled: false },
+  'valid-lang': { enabled: false },
+  'aria-hidden-focus': { enabled: false },
+  'button-name': { enabled: false },
+  'input-button-name': { enabled: false },
+  'link-name': { enabled: false },
+  'empty-heading': { enabled: false },
+  'empty-table-header': { enabled: false },
+  'duplicate-id-active': { enabled: false },
+  'duplicate-id-aria': { enabled: false },
+  'duplicate-id': { enabled: false },
+  'marquee': { enabled: false },
+  'heading-order': { enabled: false },
+  'landmark-banner-is-top-level': { enabled: false },
+  'landmark-complementary-is-top-level': { enabled: false },
+  'landmark-contentinfo-is-top-level': { enabled: false },
+  'landmark-main-is-top-level': { enabled: false },
+  'landmark-no-duplicate-banner': { enabled: false },
+  'landmark-no-duplicate-contentinfo': { enabled: false },
+  'landmark-no-duplicate-main': { enabled: false },
+  'landmark-one-main': { enabled: false },
+  'landmark-unique': { enabled: false },
+  'page-has-heading-one': { enabled: false },
+  'identical-links-same-purpose': { enabled: false },
+  'label-content-name-mismatch': { enabled: false },
+  'p-as-heading': { enabled: false },
+  'meta-viewport-large': { enabled: false },
+  'meta-viewport': { enabled: false },
+  'avoid-inline-spacing': { enabled: false },
+  'definition-list': { enabled: false },
+  'dlitem': { enabled: false },
+  'frame-tested': { enabled: false },
+  'list': { enabled: false },
+  'listitem': { enabled: false },
+  'css-orientation-lock': { enabled: false },
+  'hidden-content': { enabled: false },
+  'scope-attr-valid': { enabled: false },
+  'table-duplicate-name': { enabled: false },
+  'table-fake-caption': { enabled: false },
+  'td-has-header': { enabled: false },
+  'td-headers-attr': { enabled: false },
+  'th-has-data-cells': { enabled: false },
+  'area-alt': { enabled: false },
+  'document-title': { enabled: false },
+  'frame-title': { enabled: false },
+  'image-alt': { enabled: false },
+  'input-image-alt': { enabled: false },
+  'object-alt': { enabled: false },
+  'role-img-alt': { enabled: false },
+  'server-side-image-map': { enabled: false },
+  'svg-img-alt': { enabled: false },
+  'video-caption': { enabled: false },
+  'frame-title-unique': { enabled: false },
+  'image-redundant-alt': { enabled: false },
+  'audio-caption': { enabled: false },
+  'blink': { enabled: false },
+  'meta-refresh': { enabled: false },
+  'no-autoplay-audio': { enabled: false }
+};
+
+## axe-config/theme-selector.js
+
+export const themeButtonDark = 'button[title="Change theme to dark"]'
+export const themeButtonLight = 'button[title="Change theme to light"]'
+export const contextMenu = 'button[title="App Context Menu"]'
+export const themeButton = '.mat-menu-content button[title]'
