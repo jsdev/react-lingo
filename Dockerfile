@@ -8,7 +8,7 @@ WORKDIR /tests
 COPY . /tests
 
 # Install dependencies (if needed)
-RUN npm install
+RUN npm install @axe-core/playwright
 
 # Run your Playwright tests
 CMD ["npx", "playwright", "test", "--reporter=list"]
