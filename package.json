@@ -11,6 +11,7 @@
     "lint": "prettier --check src",
     "eslint:fix": "eslint --fix src",
     "eslint": "eslint src",
+    "audit": "playwright test",
     "test": "react-scripts test",
     "prepare": "husky install",
     "predeploy": "npm run build",
