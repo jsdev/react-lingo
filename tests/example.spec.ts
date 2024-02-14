@@ -6,6 +6,7 @@ test('example using custom fixture', async ({ page, makeAxeBuilder }) => {
   const accessibilityScanResults = await makeAxeBuilder()
       // Automatically uses the shared AxeBuilder configuration,
       // but supports additional test-specific configuration too
+      .withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa'])
       .include('body')
       .analyze();
 
