@@ -1,7 +1,7 @@
 import { test, expect } from './axe-test';
 
 test('example using custom fixture', async ({ page, makeAxeBuilder }) => {
-  await page.goto('https://playwright.dev');
+  await page.goto('https://react-bootstrap.netlify.app/docs/components/progress/');
 
   const accessibilityScanResults = await makeAxeBuilder()
       // Automatically uses the shared AxeBuilder configuration,
