@@ -13,10 +13,10 @@ RUN mkdir -p /reports
 RUN chmod 777 /reports
 
 # Install dependencies (if needed)
-RUN npm install @axe-core/playwright axe-html-reporter
+RUN npm install -g playwright @playwright/test @axe-core/playwright axe-html-reporter
 
 # Run your Playwright tests
-CMD ["npx", "playwright", "test", "--reporter=list"]
+CMD ["npx", "playwright", "test", "--reporter=list", "--output=/reports"]
 
 # use the official Cypress image as base
 # FROM cypress/browsers:node13.6.0-chrome80-ff72
